@@ -1,5 +1,4 @@
 import requests
-from yt_dlp import YoutubeDL
 import json
 from datetime import datetime
 import yaml
