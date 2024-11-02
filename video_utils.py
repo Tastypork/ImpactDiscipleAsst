@@ -65,7 +65,7 @@ def get_video_details(video_id):
         title = snippet['title']
         date = snippet['publishedAt']
         description = snippet['description']
-        duration = isodate.parse_duration(content_details['duration'])
+        duration = str(isodate.parse_duration(content_details['duration']))
         
         # Split the title based on '|' delimiters
         title_parts = title.split('|')
