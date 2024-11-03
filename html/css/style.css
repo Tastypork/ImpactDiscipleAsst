@@ -1,6 +1,10 @@
 /**********************************/
 /********** General CSS ***********/
 /**********************************/
+.container {
+    max-width: 80%;
+}
+
 body {
     color: #000000;
     font-family: 'Montserrat', sans-serif;
@@ -496,6 +500,10 @@ button.btn:hover {
     margin-bottom: 30px;
 }
 
+.cat-news .col-md-12 {
+    margin-bottom: 30px;
+}
+
 .cat-news h2 {
     color: #000000;
     margin-bottom: 30px;
@@ -656,7 +664,7 @@ button.btn:hover {
     margin-bottom: 30px;
 }
 
-.main-news .col-md-4 {
+.main-news .col-md-3 {
     margin-bottom: 30px;
 }
 
@@ -696,50 +704,6 @@ button.btn:hover {
 }
 
 .main-news .mn-title a:hover {
-    color: #C0B0A0;
-}
-
-.main-news .mn-list {
-    margin-bottom: 30px;
-}
-
-.main-news .mn-list h2 {
-    color: #000000;
-    margin-bottom: 30px;
-    padding-bottom: 15px;
-    border-bottom: 3px double #000000;
-}
-
-.main-news .mn-list ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-
-.main-news .mn-list ul li {
-    margin: 0 0 12px 22px; 
-}
-
-.main-news .mn-list ul li:last-child {
-    margin-bottom: 0; 
-}
-
-.main-news .mn-list ul li a {
-    color: #000000;
-    display: block;
-    line-height: 23px;
-}
-
-.main-news .mn-list ul li::before {
-    position: absolute;
-    content: '\f061';
-    font-family: 'Font Awesome 5 Free';
-    font-weight: 900;
-    color: #000000;
-    left: 1px;
-}
-
-.main-news .mn-list ul li a:hover {
     color: #C0B0A0;
 }
 
@@ -1359,4 +1323,27 @@ button.btn:hover {
     .footer-bottom .template-by {
         text-align: center; 
     } 
+}
+
+/**********************************/
+/******** Extra CSS *********/
+/**********************************/
+
+/* Customize Slick Arrows */
+.slick-prev, .slick-next {
+    color: #000000; /* Replace with your preferred color */
+    z-index: 1;
+}
+
+/* Optional: Add background color for better visibility */
+.slick-prev:before, .slick-next:before {
+    color: #000000; /* Replace with your preferred color */
+}
+
+/* Position arrows outside the content */
+.slick-prev {
+    left: -40px;
+}
+.slick-next {
+    right: -40px;
 }

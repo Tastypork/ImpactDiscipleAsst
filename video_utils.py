@@ -10,7 +10,7 @@ CONFIG_FILE = 'data/config.yml'
 
 with open(CONFIG_FILE) as config_file:
             config = yaml.safe_load(config_file)
-API_KEY = config['token'] # API Key
+API_KEY = config['yt_token'] # API Key
 CHANNEL_ID = 'UCuKhKyFSA0esUpF09nM9OSA'  # Impact Church Channel ID
 PLAYLIST_ID = 'UUuKhKyFSA0esUpF09nM9OSA'  # Impact Church Videos ID
 
@@ -78,7 +78,7 @@ def get_video_details(video_id):
         transcript = get_transcript(video_id)
 
         # Construct the YouTube link from the video ID
-        video_link = f'https://www.youtube.com/watch?v={video_id}'
+        video_link = f'https://www.youtube.com/embed/{video_id}'
 
         return {
             'video_id': video_id,

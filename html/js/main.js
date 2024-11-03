@@ -56,9 +56,9 @@
     // Category News Slider
     $('.cn-slider').slick({
         autoplay: false,
-        infinite: true,
+        infinite: false,
         dots: false,
-        slidesToShow: 2,
+        slidesToShow: 4,
         slidesToScroll: 1,
         responsive: [
             {
