@@ -13,7 +13,7 @@ with open(CONFIG_FILE) as config_file:
 # Database and directory paths
 DATABASE_PATH = 'video_data.db'
 SERMONS_DIR = '../html/sermons'
-TEMPLATE_DIR = '../html/sermons/_video_id'
+TEMPLATE_DIR = '../html/template'
 
 # Connect to the SQLite database
 def connect_db():
@@ -100,11 +100,10 @@ def process_videos():
         video_speaker= video['speaker']
         video_transcript = video['transcription']
         api_response = send_to_claude(video_title, video_speaker, video_transcript)
+
         
-        if api_response:
-            print(f"Claude AI Response for video {video_id}:", api_response)
-        else:
-            print(f"Failed to get a response for video {video_id}.")
+        
+        
 
     conn.close()
 

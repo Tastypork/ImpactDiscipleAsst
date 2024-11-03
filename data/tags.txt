@@ -1,0 +1,5 @@
+"Faith", "Hope", "Love", "Forgiveness", "Salvation", "Prayer", 
+    "Wisdom", "Peace", "Obedience", "Patience", "Identity", "Purpose", 
+    "Healing", "Tithing", "Anger", "Relationships", "Suffering", "Joy", 
+    "Temptation", "Sin", "Empathy", "Miracles", "Rest", "Sanctification", 
+    "Leadership", "Blessings", "Gratitude"

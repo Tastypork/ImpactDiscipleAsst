@@ -43,7 +43,7 @@ function injectData(config) {
     versesContainer.innerHTML = ''; // Clear any existing verses
     config.versesMentioned.forEach(verse => {
         const li = document.createElement("li");
-        li.innerHTML = `<strong>${verse.verse}</strong> - "${verse.text}"`;
+        li.innerHTML = `<strong>${verse.verse}</strong> - "${verse.text} (${verse.version})"`;
         versesContainer.appendChild(li);
     });
 
