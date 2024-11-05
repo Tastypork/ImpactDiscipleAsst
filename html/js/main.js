@@ -127,7 +127,7 @@
     async function loadSermonSlides() {
         try {
             // Fetch the latest sermons data from the JSON file
-            const response = await fetch('../data/latest_sermons.json');
+            const response = await fetch('latest_sermons.json');
             const sermons = await response.json();
 
             // Select the containers where content will be inserted
@@ -197,7 +197,7 @@
     async function loadCategoryNews() {
         try {
             // Fetch the JSON data
-            const response = await fetch('../data/latest_sermons.json');
+            const response = await fetch('latest_sermons.json');
             const sermons = await response.json();
     
             // Select the .cn-slider container in .cat-news
@@ -280,7 +280,7 @@
     async function loadMainNews() {
         try {
             // Fetch the JSON data
-            const response = await fetch('../data/latest_sermons.json');
+            const response = await fetch('latest_sermons.json');
             const sermons = await response.json();
     
             // Select the main-news container where content will be inserted
