@@ -1,0 +1,84 @@
+{
+    "summaryText": "Wow, what an incredible message from Pastor Montell Jordan about faith and future! In this powerful sermon, Pastor Jordan breaks down five transformative steps to increase our faith and overcome the limitations we place on ourselves. Drawing from personal experiences and biblical wisdom, he challenges us to stop letting our past, pain, people's opinions, financial circumstances, or positions define our future. Can you imagine how liberating it is to realize that God has plans for you that are bigger than your current circumstances? Pastor Jordan shares his own remarkable journey from being an R&B artist and unfaithful husband to a pastor serving marriages, proving that God can completely transform our lives! The most powerful moment was when he emphasized that 'what you do doesn't define who you are, but who you are defines what you do.' His message powerfully reminds us that our identity is not found in our failures, traumas, or titles, but in who God says we are. The sermon culminates in an incredible altar call, highlighting that knowing where you'll spend eternity is more important than anything else in life. Pastor Jordan's authentic, transparent, and humorous approach makes this message not just a sermon, but a life-changing experience.",
+    "tags": ["Faith", "Identity", "Purpose"],
+    "mainPoints": [
+        "Don't allow your past to define your future",
+        "Your identity is not determined by your circumstances",
+        "Obedience to God matters more than external success"
+    ],
+    "versesMentioned": [
+        {
+            "verse": "2 Corinthians 5:17",
+            "text": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+            "version": "NIV"
+        },
+        {
+            "verse": "Jeremiah 29:11", 
+            "text": "For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, plans to give you hope and a future.",
+            "version": "NIV"
+        },
+        {
+            "verse": "Psalm 34:18",
+            "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+            "version": "NIV"
+        },
+        {
+            "verse": "Proverbs 19:21",
+            "text": "Many are the plans in a person's heart, but it is the Lord's purpose that prevails.",
+            "version": "NIV"
+        },
+        {
+            "verse": "Matthew 6:21",
+            "text": "For where your treasure is, there your heart will be also.",
+            "version": "NIV"
+        },
+        {
+            "verse": "Romans 13:1",
+            "text": "Let everyone be subject to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God.",
+            "version": "NIV"
+        },
+        {
+            "verse": "Romans 10:9",
+            "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved.",
+            "version": "NIV"
+        }
+    ],
+    "dailyActionPlan": {
+        "Monday": {
+            "scripture": "Ephesians 1:3-4: 'Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ. For he chose us in him before the creation of the world to be holy and blameless in his sight.'",
+            "focus": "Recognizing your identity in Christ",
+            "action": "Write down 3-5 negative labels you've placed on yourself. Beside each one, write the truth of who God says you are. Meditate on these truths throughout the day.",
+            "prayer": "Lord, help me see myself through Your eyes. Strip away the labels I've placed on myself and help me embrace my true identity in You. Reveal Your purpose for my life. Amen."
+        },
+        "Tuesday": {
+            "scripture": "Philippians 3:13-14: 'Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.'",
+            "focus": "Moving forward from past mistakes",
+            "action": "Identify one area of your past that you've allowed to define you. Create a symbolic act of releasing this (writing it down and destroying the paper, etc.).",
+            "prayer": "God, I surrender my past to You. Help me not be defined by my mistakes, but by Your grace. Give me courage to press forward into the future You've planned. Amen."
+        },
+        "Wednesday": {
+            "scripture": "Proverbs 3:5-6: 'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'",
+            "focus": "Trusting God's plan over human opinions",
+            "action": "Make a list of dreams or goals you've abandoned due to others' opinions. Pray over each one, asking God for His perspective.",
+            "prayer": "Father, help me silence the voices of doubt and fear. Give me courage to pursue the path You've designed for me, regardless of what others might say. Amen."
+        },
+        "Thursday": {
+            "scripture": "Matthew 6:33: 'But seek first his kingdom and his righteousness, and all these things will be given to you as well.'",
+            "focus": "Prioritizing spiritual wealth over financial gain",
+            "action": "Review your monthly expenses. Identify one area where you can redirect funds to support God's kingdom work.",
+            "prayer": "Lord, help me view my resources through Your lens. Show me how to be a faithful steward of what You've entrusted to me. Align my heart with Your priorities. Amen."
+        },
+        "Friday": {
+            "scripture": "1 Samuel 16:7: 'The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.'",
+            "focus": "Understanding true value beyond titles",
+            "action": "Write a personal mission statement that defines who you are, independent of your job or current life circumstances.",
+            "prayer": "God, help me find my worth in You alone. Remove my dependency on titles and external validation. Reveal the unique purpose You've created me for. Amen."
+        },
+        "Saturday": {
+            "scripture": "Jeremiah 1:5: 'Before I formed you in the womb I knew you, before you were born I set you apart; I appointed you as a prophet to the nations.'",
+            "focus": "Embracing God's specific calling",
+            "action": "Spend time in quiet reflection. Ask God to reveal any areas where you've been limiting yourself or your potential.",
+            "prayer": "Heavenly Father, open my eyes to the unique calling You've placed on my life. Give me courage to step into the fullness of Your purpose. Remove all self-imposed limitations. Amen."
+        }
+    }
+}

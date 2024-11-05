@@ -1,0 +1,94 @@
+{
+    "summaryText": "Wow, what an incredible and challenging message from Pastor Travis Hearn about doing something radical for Jesus! In this powerful sermon, PT calls us out of our comfortable, mediocre Christian lifestyle and challenges us to truly follow Christ in a radical way. He breaks down four key actions: follow Jesus completely, seek God first, become a 'fisher of people', and be bold and unashamed about our faith. Pastor Travis doesn't just preach theory - he gets practical, challenging us to see every aspect of our lives as a mission field. Can you imagine transforming your workplace into a place of worship? Or seeing every interaction as an opportunity to share Christ's love? The most powerful moment was when he highlighted that Christianity is rapidly diminishing in the US, and it's not the pastors' job to fix it - it's OURS. We are all ministers, all missionaries, right where we are. The sermon isn't just a call to action; it's a wake-up call for Christians to stop blending into the darkness and start being the light. Pastor Travis reminds us that following Jesus isn't about convenience, it's about commitment - a radical, all-in, life-changing commitment that transforms how we think, live, and love.",
+    "tags": ["Obedience", "Purpose", "Faith"],
+    "mainPoints": [
+        "Follow Jesus completely, denying yourself",
+        "Seek God first in every area of life",
+        "Become a 'fisher of people' in your daily life"
+    ],
+    "versesMentioned": [
+        {
+            "verse": "Luke 24:46-47",
+            "text": "He told them, 'This is what is written: The Messiah will suffer and rise from the dead on the third day, and repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem.'",
+            "version": "NIV"
+        },
+        {
+            "verse": "Ephesians 5:1",
+            "text": "Follow God's example, therefore, as dearly loved children.",
+            "version": "NIV"
+        },
+        {
+            "verse": "Luke 9:23-24",
+            "text": "Then he said to them all: 'Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me. For whoever wants to save their life will lose it, but whoever loses their life for me will save it.'",
+            "version": "NIV"
+        },
+        {
+            "verse": "Matthew 6:33",
+            "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
+            "version": "NIV"
+        },
+        {
+            "verse": "Malachi 3:10",
+            "text": "'Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,' says the Lord Almighty, 'and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.'",
+            "version": "NIV"
+        },
+        {
+            "verse": "Romans 10:14-15",
+            "text": "How, then, can they call on the one they have not believed in? And how can they believe in the one of whom they have not heard? And how can they hear without someone preaching to them? And how can anyone preach unless they are sent? As it is written: 'How beautiful are the feet of those who bring good news!'",
+            "version": "NIV"
+        },
+        {
+            "verse": "Matthew 28:19-20",
+            "text": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.",
+            "version": "NIV"
+        },
+        {
+            "verse": "Romans 1:16",
+            "text": "For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile.",
+            "version": "NIV"
+        },
+        {
+            "verse": "John 3:16",
+            "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+            "version": "NIV"
+        }
+    ],
+    "dailyActionPlan": {
+        "Monday": {
+            "scripture": "Matthew 16:24: 'Then Jesus said to his disciples, "Whoever wants to be my disciple must deny themselves and take up their cross and follow me."'",
+            "focus": "Understanding true discipleship requires complete surrender",
+            "action": "Make a list of areas in your life where you're holding back from fully surrendering to God. Spend time in prayer asking God to reveal any idols or distractions.",
+            "prayer": "Lord, reveal the areas where I'm not fully surrendering to You. Give me the courage to lay down my own desires and follow Your path completely. Amen."
+        },
+        "Tuesday": {
+            "scripture": "Philippians 3:13-14: 'Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.'",
+            "focus": "Pressing forward in radical faith",
+            "action": "Identify one area of your life where you've become complacent. Create a specific plan to challenge yourself spiritually this week.",
+            "prayer": "God, break me out of my comfort zone. Show me where I've settled for mediocrity and give me the courage to live radically for You. Amen."
+        },
+        "Wednesday": {
+            "scripture": "Matthew 5:16: 'In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.'",
+            "focus": "Being intentional about sharing your faith",
+            "action": "Look for one opportunity today to share your faith or demonstrate God's love practically to someone around you.",
+            "prayer": "Holy Spirit, give me boldness and wisdom. Help me see the opportunities You've prepared for me to share Your love today. Amen."
+        },
+        "Thursday": {
+            "scripture": "Colossians 3:17: 'And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.'",
+            "focus": "Making every moment a mission field",
+            "action": "Approach your workplace or daily responsibilities as a mission field. Pray for your colleagues and look for ways to demonstrate Christ's love.",
+            "prayer": "Lord, transform my perspective. Help me see my daily work as a platform for Your ministry. Give me eyes to see the people around me as You see them. Amen."
+        },
+        "Friday": {
+            "scripture": "Romans 12:2: 'Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is—his good, pleasing and perfect will.'",
+            "focus": "Rejecting worldly patterns and embracing God's transformative power",
+            "action": "Audit your media consumption and social interactions. Identify areas where you might be conforming to worldly standards instead of God's.",
+            "prayer": "Father, renew my mind. Help me recognize and reject worldly influences. Give me the strength to stand firm in Your truth. Amen."
+        },
+        "Saturday": {
+            "scripture": "Isaiah 6:8: 'Then I heard the voice of the Lord saying, "Whom shall I send? And who will go for us?" And I said, "Here am I. Send me!"'",
+            "focus": "Volunteering for God's mission",
+            "action": "Research local ministry opportunities or mission projects. Commit to taking a concrete step towards serving in your community.",
+            "prayer": "Lord, here I am. Use me for Your purposes. Give me a heart of service and a willingness to go wherever You call me. Amen."
+        }
+    }
+}

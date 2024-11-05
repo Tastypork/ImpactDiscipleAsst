@@ -1,0 +1,89 @@
+{
+    "summaryText": "Wow, what a powerful message about radical generosity delivered by Pastor Travis Hearn! In this sermon, PT challenges Impact Church to understand generosity not just as a financial transaction, but as an act of love and worship. He reveals that generosity is about the heart behind the giving, not just the amount. Pastor Travis unpacks three key insights: generosity is love in action, generosity understands true value, and the generous are blessed. He uses powerful biblical examples like Mary's extravagant worship and the Macedonian church to illustrate radical giving. The most striking moment? When PT shares how he and his wife were challenged to give $100,000 - a sacrifice that could seem 'stupid' to some, but radical for Jesus! The sermon isn't just about money, it's about surrendering everything to God and understanding that true wealth isn't measured in dollars, but in Kingdom impact. Pastor Travis boldly declares that your bank statement is a 'theological statement' revealing what you truly love. The challenge? Move from lip service to life service, and be radically generous in every aspect of life.",
+    "tags": ["Tithing", "Generosity", "Sacrifice"],
+    "mainPoints": [
+        "Generosity is Love in Action",
+        "Generosity Understands True Value",
+        "The Generous Are Blessed"
+    ],
+    "versesMentioned": [
+        {
+            "verse": "2 Corinthians 8:1-5",
+            "text": "And now, brothers and sisters, we want you to know about the grace that God has given the Macedonian churches. In the midst of a very severe trial, their overflowing joy and their extreme poverty welled up in rich generosity. For I testify that they gave as much as they were able, and even beyond their ability. Entirely on their own, they urgently pleaded with us for the privilege of sharing in this service to the Lord's people. And they exceeded our expectations: They gave themselves first of all to the Lord, and then by the will of God also to us.",
+            "version": "NIV"
+        },
+        {
+            "verse": "John 3:16",
+            "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+            "version": "NIV"
+        },
+        {
+            "verse": "Malachi 3:8-10",
+            "text": "Will a man rob God? Yet you rob me. But you ask, 'How are we robbing you?' In tithes and offerings. You are under a curse—your whole nation—because you are robbing me. Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this," says the Lord Almighty, "and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.",
+            "version": "NIV"
+        },
+        {
+            "verse": "Leviticus 27:30",
+            "text": "A tithe of everything from the land, whether grain from the soil or fruit from the trees, belongs to the Lord; it is holy to the Lord.",
+            "version": "NIV"
+        },
+        {
+            "verse": "Deuteronomy 14:23",
+            "text": "And the purpose of tithing is to teach you always to put God first in your lives.",
+            "version": "TLB"
+        },
+        {
+            "verse": "Matthew 6:24",
+            "text": "No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.",
+            "version": "NIV"
+        },
+        {
+            "verse": "1 Timothy 6:10",
+            "text": "For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs.",
+            "version": "NIV"
+        },
+        {
+            "verse": "2 Corinthians 9:6-7",
+            "text": "Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.",
+            "version": "NIV"
+        }
+    ],
+    "dailyActionPlan": {
+        "Monday": {
+            "scripture": "Proverbs 3:9-10: 'Honor the Lord with your wealth, with the firstfruits of all your crops; then your barns will be filled to overflowing, and your vats will brim over with new wine.'",
+            "focus": "Recognizing God as the source of all resources",
+            "action": "Review your monthly budget. Mark or highlight any expenses that do not honor God. Pray about redirecting those resources towards kingdom purposes.",
+            "prayer": "Lord, help me see my finances through Your eyes. Show me where I can be more intentional about honoring You with my resources. Guide me to be a faithful steward. Amen."
+        },
+        "Tuesday": {
+            "scripture": "Luke 6:38: 'Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap. For with the measure you use, it will be measured to you.'",
+            "focus": "Understanding the principle of generosity",
+            "action": "Look for an opportunity to give unexpectedly today - whether it's money, time, or resources. Practice giving without expectation of return.",
+            "prayer": "Father, teach me the joy of generous giving. Help me to give freely and cheerfully, trusting in Your provision. Open my eyes to opportunities to bless others. Amen."
+        },
+        "Wednesday": {
+            "scripture": "Malachi 3:10: 'Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,' says the Lord Almighty, 'and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.'",
+            "focus": "Trusting God's promise in giving",
+            "action": "Calculate your tithe. If you haven't been consistently tithing, commit to giving 10% of your income to your local church this week.",
+            "prayer": "Lord, I want to be obedient in my giving. Help me trust You with my finances. Forgive me for any past reluctance, and give me a cheerful heart of generosity. Amen."
+        },
+        "Thursday": {
+            "scripture": "2 Corinthians 9:10: 'Now he who supplies seed to the sower and bread for food will also supply and increase your store of seed and will enlarge the harvest of your righteousness.'",
+            "focus": "Understanding spiritual multiplication",
+            "action": "Reflect on non-monetary ways you can be generous today. Look for opportunities to invest in someone else's growth or success.",
+            "prayer": "God, show me how to be generous beyond just money. Help me sow seeds of kindness, encouragement, and support in the lives of others. Amen."
+        },
+        "Friday": {
+            "scripture": "Proverbs 11:25: 'A generous person will prosper; whoever refreshes others will themselves be refreshed.'",
+            "focus": "The reciprocal nature of generosity",
+            "action": "Create a list of people or ministries you can support. Pray about how you might contribute, whether through finances, prayer, or practical help.",
+            "prayer": "Father, make me a conduit of Your blessing. Help me see beyond my own needs and become a channel of Your generosity. Guide my giving. Amen."
+        },
+        "Saturday": {
+            "scripture": "Acts 20:35: 'In everything I did, I showed you that by this kind of hard work we must help the weak, remembering the words the Lord Jesus himself said: "It is more blessed to give than to receive."'",
+            "focus": "Living a lifestyle of generosity",
+            "action": "Reflect on the past week. Journal about moments of generosity you experienced or witnessed. Ask God to continue developing a generous heart in you.",
+            "prayer": "Lord, transform my heart to be more like Yours - consistently giving, loving, and serving. Help me understand the true joy of generosity. Amen."
+        }
+    }
+}

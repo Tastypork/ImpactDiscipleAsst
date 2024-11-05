@@ -1,0 +1,75 @@
+{
+    "summaryText": "Wow, what a powerful exploration of the names of God! Pastor Montell Jordan delivered an incredible message about how names aren't just labels, but powerful revelations of identity and relationship. Using relatable examples from his own life, like his encounter with Larry Fishburne (who actually prefers Lawrence), he brilliantly illustrated how God wants an intimate, personal relationship with us. Isn't it amazing that the Creator of the universe wants to be more than just a distant, generic 'God'? Pastor Montell breaks down how God has many names - Yahweh, Elohim, Jehovah - each revealing a different aspect of His character. The most mind-blowing part? Every breath we take is dependent on His name! He emphasized that while other religions have people trying to reach God, Christianity is unique because God reaches out to us through Jesus. The sermon challenged us to move beyond generic prayers of 'Father God' and truly understand the personal, powerful nature of God's names. His closing point was profound: God knows our sins but calls us by our names - He sees us as holy, righteous, His sons and daughters. What a powerful reminder of God's incredible love!",
+    "tags": ["Identity", "Faith", "Relationship"],
+    "mainPoints": [
+        "Names are extremely important",
+        "There's a difference between knowing God and being known by God",
+        "Names reveal proximity to God",
+        "The names of God describe His character"
+    ],
+    "versesMentioned": [
+        {
+            "verse": "Exodus 3:13-15",
+            "version": "God's Word Translation",
+            "text": "Then Moses replied to God, 'I will go to the people of Israel and say to them, 'The God of your ancestors has sent me to you.' And they will ask me, 'What is his name?' What should I tell them?' God answered Moses, 'I am who I am. This is what you must say to the people of Israel: I am has sent me to you.' Again God said to Moses, 'This is what you must say to the people of Israel: The Lord God of your ancestors—the God of Abraham, Isaac, and Jacob—has sent me to you. This is my name forever. I am this is my title throughout every generation.'"
+        },
+        {
+            "verse": "Genesis 1:1",
+            "version": "NIV",
+            "text": "In the beginning God created the heavens and the earth."
+        },
+        {
+            "verse": "Revelation 1:8",
+            "version": "NIV",
+            "text": "I am the Alpha and the Omega," says the Lord God, "who is, and who was, and who is to come, the Almighty.""
+        },
+        {
+            "verse": "John 14:6",
+            "version": "NIV",
+            "text": "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'"
+        },
+        {
+            "verse": "Romans 10:9",
+            "version": "NIV",
+            "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved."
+        }
+    ],
+    "dailyActionPlan": {
+        "Monday": {
+            "scripture": "Psalm 91:14: 'Because he loves me,' says the Lord, 'I will rescue him; I will protect him, for he acknowledges my name.'",
+            "focus": "Understanding God's personal relationship with us",
+            "action": "Write down the different ways you currently refer to God in prayer. Reflect on whether these names reflect a truly personal relationship or are more generic.",
+            "prayer": "Lord, help me move beyond generic prayers and truly understand Your personal nature. Show me how to draw closer to You by understanding Your names and character. Amen."
+        },
+        "Tuesday": {
+            "scripture": "Proverbs 18:10: 'The name of the Lord is a fortified tower; the righteous run to it and are safe.'",
+            "focus": "Finding strength in God's names",
+            "action": "Learn and meditate on one of God's biblical names (like Jehovah Rapha - God who heals) and how it applies to your current life situation.",
+            "prayer": "Heavenly Father, reveal Yourself to me through Your names. Help me understand the depth of Your character and find strength in Your identity. Amen."
+        },
+        "Wednesday": {
+            "scripture": "Philippians 2:9-11: 'Therefore God exalted him to the highest place and gave him the name that is above every name, that at the name of Jesus every knee should bow, in heaven and on earth and under the earth.'",
+            "focus": "Recognizing the power of Jesus' name",
+            "action": "When facing challenges today, intentionally invoke the name of Jesus. Pause and reflect on the authority and power in His name.",
+            "prayer": "Jesus, I acknowledge Your power and authority. Help me to walk in the understanding of Your mighty name today. Guide my steps and protect me. Amen."
+        },
+        "Thursday": {
+            "scripture": "Jeremiah 29:12-13: 'Then you will call on me and come and pray to me, and I will listen to you. You will seek me and find me when you seek me with all your heart.'",
+            "focus": "Seeking intimacy with God",
+            "action": "Spend extended time in prayer, focusing not on asking for things, but on knowing God personally. Journal about what you feel God is revealing to you.",
+            "prayer": "Lord, I want to know You more deeply. Strip away my preconceived notions and help me understand Your true character. Draw me closer to You. Amen."
+        },
+        "Friday": {
+            "scripture": "Zephaniah 3:17: 'The Lord your God is with you, the Mighty Warrior who saves. He will take great delight in you; in his love he will no longer rebuke you, but will rejoice over you with singing.'",
+            "focus": "Understanding God's personal love",
+            "action": "Reflect on how God sees you. Write down the words God would use to describe you, based on His character of love and grace.",
+            "prayer": "Father, help me see myself through Your eyes. Remove lies and negative self-talk, and help me embrace Your loving perspective. Amen."
+        },
+        "Saturday": {
+            "scripture": "Isaiah 43:1: 'But now, this is what the Lord says—he who created you, Jacob, he who formed you, Israel: 'Do not fear, for I have redeemed you; I have summoned you by name; you are mine.'",
+            "focus": "Embracing your identity in Christ",
+            "action": "Create a personal declaration of faith, incorporating what you've learned about God's names and your identity in Him. Read it aloud to yourself.",
+            "prayer": "Lord, I am Yours. Help me walk in the identity You've given me, confident in Your love and purpose for my life. Amen."
+        }
+    }
+}
