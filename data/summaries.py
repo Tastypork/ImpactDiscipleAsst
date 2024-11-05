@@ -5,7 +5,6 @@ import yaml
 from datetime import datetime
 import anthropic
 import json
-from string import Template
 import re
 import time
 
@@ -138,7 +137,6 @@ def process_videos():
     # Query videos with an speaker
     cursor.execute("SELECT video_id, date, transcript, speaker FROM videos WHERE speaker IS NOT NULL AND summary_link IS NULL AND transcript IS NOT NULL")
     videos = cursor.fetchall()
-    number_of_videos = len(videos)
 
     for video in videos:
         video_id = video['video_id']

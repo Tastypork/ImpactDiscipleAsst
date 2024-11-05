@@ -4,7 +4,7 @@ from datetime import datetime
 
 # Database and output file paths
 DB_PATH = 'video_data.db'
-OUTPUT_JSON_PATH = 'latest_sermons.json'
+OUTPUT_JSON_PATH = '../html/latest_sermons.json'
 
 def get_latest_sermons():
     # Connect to the SQLite database
