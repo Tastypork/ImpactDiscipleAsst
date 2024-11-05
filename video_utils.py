@@ -3,6 +3,7 @@ import requests
 import yaml
 import isodate
 import time
+from datetime import datetime
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import TranscriptsDisabled, NoTranscriptFound, VideoUnavailable
 
@@ -63,7 +64,7 @@ def get_video_details(video_id):
         content_details = video_data['contentDetails']
         
         title = snippet['title']
-        date = snippet['publishedAt']
+        date = datetime.fromisoformat(snippet['publishedAt'][:-1]).strftime('%Y-%m-%d')
         description = snippet['description']
         duration = str(isodate.parse_duration(content_details['duration']))
         

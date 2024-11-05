@@ -1,5 +1,6 @@
 __pycache__/
 sermons/
+/venv
 config.yml
 data.json
 video_data.db

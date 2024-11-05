@@ -389,13 +389,14 @@ button.btn:hover {
 .top-news .tn-img {
     position: relative;
     overflow: hidden;
+    padding: 5px 5px 0 0;
 }
 
 .top-news .tn-img img {
     width: 100%;
 }
 
-.top-news .tn-img:hover img {
+.top-news .tn-img:not(.tn-slider .tn-img):hover img {
     filter: blur(3px);
     -webkit-filter: blur(3px);
 }
@@ -416,7 +417,7 @@ button.btn:hover {
     display: block;
     width: 100%;
     color: #ffffff;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 400;
     transition: .3s;
 }
@@ -1346,4 +1347,14 @@ button.btn:hover {
 }
 .slick-next {
     right: -40px;
+}
+
+.daily-action-plan-slider .slick-slide {
+    padding: 0 10px; /* Adds padding on the left and right */
+    box-sizing: border-box; /* Ensures padding is included in the width */
+}
+
+.content {
+    min-height: 80vh;
+    flex: 1; /* This makes the content take up the available space */
 }
