@@ -32,6 +32,7 @@ def log_new_video(video_id):
 
     # Get video details from YT API
     details = get_video_details(video_id)
+    details = {key: value.replace('"', "'") if isinstance(value, str) else value for key, value in details.items()}
 
     if not details:
         print(f"Failed to retrieve details for video: {video_id}")
@@ -81,7 +82,7 @@ def log_new_video(video_id):
                 
                 print(f"JSON data has been written to config.json for {video_id}")
             except json.JSONDecodeError:
-                print(f"Invalid JSON format for {video_id}")
+                print(f"Invalid JSON format for {video_id}. Written to {error_dst}")
                 with open(error_dst, "w") as file:
                     file.write(api_response[0].text)
                 cursor.execute("UPDATE videos SET summary_link = NULL WHERE video_id = ?", (video_id,))
@@ -98,6 +99,7 @@ def log_new_video(video_id):
     update_json(video_id, details['date'], details['summary_link'], details['thumbnail_url'], details['name'], tags)
 
     conn.close()
+    return 1
 
 def get_video_details(video_id):
     """Fetch video details from YouTube API."""
@@ -206,18 +208,21 @@ def setup_video_directory(video_id, date):
     new_dir_name = f"{date_prefix}_{video_id}"
     new_dir = os.path.join(SERMONS_DIR, new_dir_name)
     
-    summary_link = f"../html/sermons/{new_dir_name}"
-    with conn:
-        conn.execute(
+    summary_link = f"sermons/{new_dir_name}"
+    conn = sqlite3.connect(DATABASE_PATH)
+    cursor = conn.cursor()
+    cursor.execute(
             "UPDATE videos SET summary_link = ? WHERE video_id = ?",
             (summary_link, video_id)
         )
-    
+    conn.close()
+        
     # Create the directory if it doesn't exist
     if not os.path.exists(new_dir):
         os.makedirs(new_dir)
     else:
-        return
+        print('Folder exists, skipping initial directory setup')
+        return new_dir
     
     # Copy files from the template directory
     for filename in ['video.html', 'video.js']:
@@ -256,7 +261,7 @@ def send_to_claude(video_speaker, video_transcript, error_dst):
         # Convert back to dictionary
         message_data = json.loads(message_data_str)
     except json.JSONDecodeError:
-        print(f"Invalid JSON format after variable substition")
+        print(f"Invalid JSON format after variable substition. Written to {error_dst}")
         with open(error_dst, "w") as file:
             file.write(message_data_str)
         return None
@@ -295,10 +300,17 @@ def insert_video_tags(config_path, video_id):
 
     # Insert each tag into the database
     for tag in tags:
-        cursor.execute("""
-        INSERT INTO video_tags (video_id, tag)
-        VALUES (?, ?)
-        """, (video_id, tag))
+        try:
+            cursor.execute("""
+            INSERT INTO video_tags (video_id, tag)
+            VALUES (?, ?)
+            """, (video_id, tag))
+        except sqlite3.IntegrityError as e:
+                if "UNIQUE constraint failed" in str(e):
+                    print(f"Skipped duplicate entry: video_id={video_id}, tag={tag}")
+                else:
+                    print(f"An unexpected error occurred: {e}")
+                    raise  # Re-raise any other exceptions
     
     conn.commit()
     conn.close()

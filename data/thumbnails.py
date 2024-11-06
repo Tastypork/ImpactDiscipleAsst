@@ -53,7 +53,7 @@ if 'thumbnail_url' not in columns:
     cursor.execute("ALTER TABLE videos ADD COLUMN thumbnail_url TEXT")
 
 # Fetch all video IDs from the database
-cursor.execute("SELECT video_id FROM videos")
+cursor.execute("SELECT video_id FROM videos WHERE thumbnail_url IS NULL")
 video_ids = cursor.fetchall()
 
 # Update each video with its thumbnail URL

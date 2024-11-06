@@ -1,5 +1,5 @@
 __pycache__/
 /venv
 config.yml
-data.json
+error.txt
 video_data.db

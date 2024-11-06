@@ -5,6 +5,7 @@ import subprocess
 import time
 import xml.etree.ElementTree as ET
 from video_utils import log_new_video  # Import log_new_video function
+from update import git_push # Import automatic pushing function
 
 app = Flask(__name__)
 
@@ -66,9 +67,11 @@ def youtube_webhook():
         video_id = root.find('.//{http://www.youtube.com/xml/schemas/2015}videoId').text
 
         # Save the video to your database
-        log_new_video(video_id)
-        
-        return "Success", 200
+        if log_new_video(video_id):
+            git_push()
+            return "Success", 200
+        else:
+            return "Failed, see log", 400
     else:
         abort(400)
 

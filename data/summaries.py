@@ -25,7 +25,7 @@ def connect_db():
     return conn
 
 # Function to create a new directory and copy template files
-def setup_video_directory(video_id, date):
+def setup_video_directory(conn, video_id, date):
     # Format date as YYYY-MM-DD for folder naming
     date_prefix = datetime.strptime(date, "%Y-%m-%d").strftime("%Y-%m-%d")
     new_dir_name = f"{date_prefix}_{video_id}"
@@ -42,7 +42,8 @@ def setup_video_directory(video_id, date):
     if not os.path.exists(new_dir):
         os.makedirs(new_dir)
     else:
-        return
+        print('Folder exists, skipping initial directory setup')
+        return new_dir
     
     # Copy files from the template directory
     for filename in ['video.html', 'video.js']:
@@ -54,15 +55,14 @@ def setup_video_directory(video_id, date):
     
 
 # Prepare and send an API call to Claude AI
-def send_to_claude(video_speaker, video_transcript, error_dst):
+def send_to_claude(conn, video_speaker, video_transcript, error_dst):
     # Define your API endpoint and headers here
     client = anthropic.Anthropic(api_key=config['claude_token'])
 
-    conn = sqlite3.connect(DATABASE_PATH)
-    cursor = conn.cursor()
-    cursor.execute("SELECT tag FROM tags")
-    tags = cursor.fetchall()
-    conn.close()
+    with conn:
+        cursor = conn.cursor()
+        cursor.execute("SELECT tag FROM tags")
+        tags = cursor.fetchall()
 
     # Load the JSON data
     with open('message_data_haiku.json', 'r') as f:
@@ -93,6 +93,8 @@ def send_to_claude(video_speaker, video_transcript, error_dst):
     except Exception as e:
         # Catch any error that occurs and print a message
         print("An error occurred while creating the message:", str(e))
+        with open(error_dst, "w") as file:
+            file.write(message_data_str)
         if 'Error code: 429' in str(e):
             exit()
         return None
@@ -101,13 +103,9 @@ def send_to_claude(video_speaker, video_transcript, error_dst):
 
     return message.content
 
-def insert_video_tags(config_path, video_id, db_path='video_data.db'):
+def insert_video_tags(conn, config_path, video_id):
     # Extract video_id from folder name (assuming folder name format: date_video_id)
     folder_name = os.path.basename(os.path.dirname(config_path))
-
-    # Connect to the database
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
 
     # Load tags from config.json
     try:
@@ -116,18 +114,22 @@ def insert_video_tags(config_path, video_id, db_path='video_data.db'):
         tags = config_data['tags']  # Direct access if 'tags' always exists
     except (json.JSONDecodeError, KeyError) as e:
         print(f"Error reading tags from {config_path}: {e}")
-        conn.close()
         return
 
     # Insert each tag into the database
-    for tag in tags:
-        cursor.execute("""
-        INSERT INTO video_tags (video_id, tag)
-        VALUES (?, ?)
-        """, (video_id, tag))
-    
-    conn.commit()
-    conn.close()
+    with conn:
+        for tag in tags:
+            try:
+                conn.execute("""
+                INSERT INTO video_tags (video_id, tag)
+                VALUES (?, ?)
+                """, (video_id, tag))
+            except sqlite3.IntegrityError as e:
+                if "UNIQUE constraint failed" in str(e):
+                    print(f"Skipped duplicate entry: video_id={video_id}, tag={tag}")
+                else:
+                    print(f"An unexpected error occurred: {e}")
+                    raise  # Re-raise any other exceptions
 
 # Main function to process videos
 def process_videos():
@@ -142,19 +144,19 @@ def process_videos():
         video_id = video['video_id']
         video_date = video['date']
         
+        print(f"Setting up environment for {video_id}")
+        
         # Create directory and copy files
-        new_dir = setup_video_directory(video_id, video_date)
+        new_dir = setup_video_directory(conn, video_id, video_date)
         config_dst = os.path.join(new_dir, 'config.json')
         error_dst = os.path.join(new_dir, 'error.txt')
         
         # Make API call to Claude for additional processing
         video_speaker= video['speaker']
         video_transcript = video['transcript']
-
-        print(f"Requesting data for {video_id}")
         time.sleep(30) # Optional sleep for rate limiting
-        api_response = send_to_claude(video_speaker, video_transcript, error_dst)
-        insert_video_tags(config_dst, video_id)
+        print(f"Requesting data...")
+        api_response = send_to_claude(conn, video_speaker, video_transcript, error_dst)
 
         if api_response:
             json_data_match = re.search(r'\{.*\}', api_response[0].text, re.DOTALL)
@@ -175,13 +177,18 @@ def process_videos():
                     with open(error_dst, "w") as file:
                         file.write(api_response[0].text)
                     cursor.execute("UPDATE videos SET summary_link = NULL WHERE video_id = ?", (video_id,))
+                    continue
             else:
                 print(f"Failed to match JSON data for video_id {video_id}")
                 cursor.execute("UPDATE videos SET summary_link = NULL WHERE video_id = ?", (video_id,))
+                continue
         else:
             print(f"Claude content was not created sucessfully for video_id {video_id}")
             cursor.execute("UPDATE videos SET summary_link = NULL WHERE video_id = ?", (video_id,))
+            continue
         
+        
+        insert_video_tags(conn, config_dst, video_id)
     conn.close()
 
 # Run the process
