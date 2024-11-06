@@ -430,7 +430,7 @@ button.btn:hover {
 }
 
 /* Medium screens (e.g., tablets) */
-@media (max-width: 1300px) {
+@media (max-width: 1400px) {
     .top-news .tn-title a {
         font-size: 10px;
     }
