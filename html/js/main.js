@@ -388,6 +388,9 @@
     $(document).ready(function () {
         loadMainNews();
     });
+
+    //footer
+    document.getElementById("currentYear").textContent = new Date().getFullYear();
     
 
 })(jQuery);
