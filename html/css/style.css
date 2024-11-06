@@ -389,7 +389,6 @@ button.btn:hover {
 .top-news .tn-img {
     position: relative;
     overflow: hidden;
-    padding: 5px 5px 0 0;
 }
 
 .top-news .tn-img img {
@@ -469,7 +468,7 @@ button.btn:hover {
 }
 
 .top-news .tn-right .col-md-6 {
-    padding: 0;
+    padding: 5px 5px 0 0;
 }
 
 .top-news .slick-prev,
