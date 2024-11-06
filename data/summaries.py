@@ -31,7 +31,7 @@ def setup_video_directory(video_id, date):
     new_dir_name = f"{date_prefix}_{video_id}"
     new_dir = os.path.join(SERMONS_DIR, new_dir_name)
     
-    summary_link = f"../html/sermons/{new_dir_name}"
+    summary_link = f"sermons/{new_dir_name}"
     with conn:
         conn.execute(
             "UPDATE videos SET summary_link = ? WHERE video_id = ?",
