@@ -55,7 +55,7 @@ def setup_video_directory(conn, video_id, date):
     
 
 # Prepare and send an API call to Claude AI
-def send_to_claude(conn, video_speaker, video_transcript, error_dst):
+def send_to_claude(conn, video_speaker, video_transcript, error_dst, prompt='message_data_haiku.json'):
     # Define your API endpoint and headers here
     client = anthropic.Anthropic(api_key=config['claude_token'])
 
@@ -65,7 +65,7 @@ def send_to_claude(conn, video_speaker, video_transcript, error_dst):
         tags = cursor.fetchall()
 
     # Load the JSON data
-    with open('message_data_haiku.json', 'r') as f:
+    with open(prompt, 'r') as f:
         message_data = json.load(f)
 
     SERMON_TRANSCRIPT = video_transcript
@@ -78,9 +78,12 @@ def send_to_claude(conn, video_speaker, video_transcript, error_dst):
     message_data_str = message_data_str.replace("{{SPEAKER}}", SPEAKER)
     message_data_str = message_data_str.replace("{{TAGS_LIST}}", TAGS_LIST)
 
+    # This regex targets double quotes not preceded by a backslash and not at the start/end of the field
+
     try:
         # Convert back to dictionary
         message_data = json.loads(message_data_str)
+        
     except json.JSONDecodeError:
         print(f"Invalid JSON format after variable substition")
         with open(error_dst, "w") as file:
@@ -97,7 +100,7 @@ def send_to_claude(conn, video_speaker, video_transcript, error_dst):
             file.write(message_data_str)
         if 'Error code: 429' in str(e):
             exit()
-        return None
+        return str(e)
 
     print(message.usage)
 
@@ -157,8 +160,15 @@ def process_videos():
         time.sleep(30) # Optional sleep for rate limiting
         print(f"Requesting data...")
         api_response = send_to_claude(conn, video_speaker, video_transcript, error_dst)
+        for i in range(2):
+            if api_response and 'Output blocked by content filtering policy' in api_response:
+                print(f"Output blocked, retrying...")
+                time.sleep(30) # Optional sleep for rate limiting
+                api_response = send_to_claude(conn, video_speaker, video_transcript, error_dst)
+            else:
+                break
 
-        if api_response:
+        if api_response and type(api_response) is not str:
             json_data_match = re.search(r'\{.*\}', api_response[0].text, re.DOTALL)
             if json_data_match:
                 json_data = json_data_match.group()  # Get the JSON data as a string

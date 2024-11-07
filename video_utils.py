@@ -64,8 +64,7 @@ def log_new_video(video_id):
     error_dst = os.path.join(new_dir, 'error.txt')
 
     print(f"Requesting data for {video_id}")
-    api_response = send_to_claude(details['speaker'], details[video_transcript], error_dst)
-    tags = insert_video_tags(config_dst, video_id)
+    api_response = send_to_claude(details['speaker'], details['transcript'], error_dst)
 
     if api_response:
         json_data_match = re.search(r'\{.*\}', api_response[0].text, re.DOTALL)
@@ -95,6 +94,8 @@ def log_new_video(video_id):
         print(f"Claude content was not created sucessfully for video_id {video_id}")
         cursor.execute("UPDATE videos SET summary_link = NULL WHERE video_id = ?", (video_id,))
         return None
+    
+    tags = insert_video_tags(config_dst, video_id)
 
     update_json(video_id, details['date'], details['summary_link'], details['thumbnail_url'], details['name'], tags)
 
