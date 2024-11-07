@@ -124,7 +124,7 @@ def get_video_details(video_id):
         duration = str(isodate.parse_duration(content_details['duration']))
         date_prefix = datetime.strptime(date, "%Y-%m-%d").strftime("%Y-%m-%d")
         new_dir_name = f"{date_prefix}_{video_id}"
-        summary_link = f"../html/sermons/{new_dir_name}
+        summary_link = f"../html/sermons/{new_dir_name}"
         
         # Try to get the highest resolution thumbnail available
         thumbnails = snippet['thumbnails']
