@@ -1,93 +1,143 @@
 {
-    "summaryText": "Wow, what an incredible message about thriving relationships from Pastor Travis Hearn! In this powerful sermon, PT walks us through the three stages of relationships: the honeymoon stage, the 'party's over' stage, and mature love. Using wisdom from Scripture and personal experiences, he breaks down five key principles for building strong, God-centered relationships. Pastor Travis humorously shares that relationships are like learning a foreign language - we're constantly trying to understand each other! The key? Making God the centerpiece, honoring one another, protecting each other's hearts, communicating lovingly, and being willing to compromise. Can you imagine how different our relationships would be if we truly applied these Biblical principles? PT reminds us that love isn't just a feeling, but a choice we make daily to put the other person first. Whether you're single, dating, or married, this sermon offers practical wisdom for creating thriving, Christ-centered relationships.",
+    "summaryText": "Pastor Travis Hearn continued the series 'Keys to a Thriving Relationship' by examining the nature of mature, godly love as described in 1 Corinthians 13. He contrasted the fleeting 'honeymoon' or infatuation stage of relationships, illustrated by the Song of Solomon, with the more challenging 'party's over' stage, where differences become apparent. The core of the message was moving into the third stage of 'mature love,' which requires intentional, Christ-centered effort. Pastor Travis provided five practical keys for building relationships that last. First, he emphasized that God must be the centerpiece of any relationship, warning against being 'unequally yoked' with unbelievers. Second, he taught that love honors one another, which involves showing high respect and giving undivided attention. Third, he explained that love always protects the other person spiritually, emotionally, and physically. Fourth, he addressed the critical need for godly communication, which is slow to speak, quick to listen, and builds others up. Finally, he concluded that love requires compromise and a shift from a 'me' to a 'we' mentality, mirroring Christ's sacrificial love. The sermon closed with an invitation to accept or rededicate one's life to Jesus Christ, the source of all unconditional love.",
     "tags": [
         "Relationships",
         "Love",
-        "Communication"
+        "Obedience"
     ],
     "mainPoints": [
-        "God must be the centerpiece of your relationship",
-        "Honor and protect your partner's heart",
-        "Learn to communicate lovingly and listen effectively"
+        "For a thriving relationship, God must be the centerpiece, requiring believers to be equally yoked in faith.",
+        "Mature love actively honors, protects, and communicates with one's partner in a godly manner.",
+        "Biblical love requires selfless compromise, shifting the focus from 'me' to 'we'."
     ],
     "versesMentioned": [
         {
+            "verse": "Song of Solomon 4:1-5",
+            "version": "NLT",
+            "text": "You are beautiful, my darling, beautiful beyond words. Your eyes are like doves behind your veil. Your hair falls in waves, like a flock of goats winding down the slopes of Gilead. Your teeth are as white as sheep, recently shorn and freshly washed. Your smile is flawless, each tooth matched with its twin. Your lips are like scarlet ribbon; your mouth is inviting. Your cheeks are like rosy pomegranates behind your veil. Your neck is as beautiful as the tower of David, jeweled with the shields of a thousand heroes. Your breasts are like two fawns, twin fawns of a gazelle grazing among the lilies."
+        },
+        {
+            "verse": "Proverbs 27:15",
+            "version": "NLT",
+            "text": "A quarrelsome wife is as annoying as constant dripping on a rainy day."
+        },
+        {
+            "verse": "Proverbs 21:9",
+            "version": "NLT",
+            "text": "It\u2019s better to live on the corner of a roof than share a house with a nagging wife."
+        },
+        {
             "verse": "1 Corinthians 13:4-8",
-            "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails."
         },
         {
             "verse": "2 Corinthians 6:14",
-            "text": "Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common? Or what fellowship can light have with darkness?",
-            "version": "NIV"
-        },
-        {
-            "verse": "1 John 4:8",
-            "text": "Whoever does not love does not know God, because God is love.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common? Or what fellowship can light have with darkness?"
         },
         {
             "verse": "Psalm 127:1",
-            "text": "Unless the Lord builds the house, its builders labor in vain.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Unless the LORD builds the house, the builders labor in vain. Unless the LORD watches over the city, the guards stand watch in vain."
+        },
+        {
+            "verse": "1 John 4:8",
+            "version": "NIV",
+            "text": "Whoever does not love does not know God, because God is love."
         },
         {
             "verse": "Ephesians 5:33",
-            "text": "However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "However, each one of you also must love his wife as he loves himself, and the wife must respect her husband."
+        },
+        {
+            "verse": "Proverbs 31:10-12",
+            "version": "NLT",
+            "text": "Who can find a virtuous and capable wife? She is more precious than rubies. Her husband can trust her, and she will greatly enrich his life. She brings him good, not harm, all the days of her life."
+        },
+        {
+            "verse": "1 Peter 3:7",
+            "version": "NLT",
+            "text": "In the same way, you husbands must give honor to your wives. Treat your wife with understanding as you live together. She may be weaker than you are, but she is your equal partner in God\u2019s gift of new life. Treat her as you should so your prayers will not be hindered."
+        },
+        {
+            "verse": "Genesis 2:24",
+            "version": "NIV",
+            "text": "That is why a man leaves his father and mother and is united to his wife, and they become one flesh."
+        },
+        {
+            "verse": "Psalm 91:14",
+            "version": "NIV",
+            "text": "\u201cBecause he loves me,\u201d says the LORD, \u201cI will rescue him; I will protect him, for he acknowledges my name.\u201d"
+        },
+        {
+            "verse": "Matthew 1:19",
+            "version": "ESV",
+            "text": "And her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly."
+        },
+        {
+            "verse": "Ephesians 4:29",
+            "version": "NIV",
+            "text": "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen."
         },
         {
             "verse": "James 1:19",
-            "text": "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry."
         },
         {
             "verse": "Proverbs 16:24",
-            "text": "Gracious words are a honeycomb, sweet to the soul and healing to the bones.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Gracious words are a honeycomb, sweet to the soul and healing to the bones."
         },
         {
             "verse": "John 15:13",
-            "text": "Greater love has no one than this: to lay down one's life for one's friends.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Greater love has no one than this: to lay down one\u2019s life for one\u2019s friends."
+        },
+        {
+            "verse": "John 3:16",
+            "version": "NIV",
+            "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Ephesians 4:2-3: 'Be completely humble and gentle; be patient, bearing with one another in love. Make every effort to keep the unity of the Spirit through the bond of peace.'",
-            "focus": "Practicing humility in relationships",
-            "action": "Identify one relationship where you struggle with patience. Write down three specific ways you can show more grace and understanding this week.",
-            "prayer": "Lord, help me to see others through Your eyes of love. Give me patience, humility, and the ability to extend grace, just as You have graciously loved me. Amen."
+            "scripture": "2 Corinthians 6:14 (NIV) - Do not be yoked together with unbelievers.",
+            "focus": "Foundation",
+            "action": "Evaluate the spiritual foundation of your closest relationships. If you are single, commit to seeking a partner who shares your faith.",
+            "prayer": "Lord, help me build all my relationships on the solid foundation of Your truth and love."
         },
         "Tuesday": {
-            "scripture": "Proverbs 31:10-11: 'A wife of noble character who can find? She is worth far more than rubies. Her husband has full confidence in her and lacks nothing of value.'",
-            "focus": "Building mutual trust and respect",
-            "action": "Make a list of your partner's (or potential partner's) strengths. Commit to verbally affirming these qualities to them or to yourself this week.",
-            "prayer": "God, teach me to honor and respect those closest to me. Help me see the value in my relationships and appreciate the unique qualities of those around me. Amen."
+            "scripture": "1 Peter 3:7 (NLT) - ...Treat your wife with understanding... so your prayers will not be hindered.",
+            "focus": "Honor",
+            "action": "Intentionally do one thing today to make your spouse, family member, or close friend feel honored and respected.",
+            "prayer": "God, show me how to honor others today, especially those I love the most."
         },
         "Wednesday": {
-            "scripture": "1 Peter 4:8: 'Above all, love each other deeply, because love covers over a multitude of sins.'",
-            "focus": "Practicing forgiveness and deep love",
-            "action": "Identify a past hurt in a relationship. Spend time praying about it and ask God to help you truly forgive and move forward.",
-            "prayer": "Heavenly Father, give me a heart of forgiveness. Help me to love deeply and let go of past hurts, just as You have forgiven me. Amen."
+            "scripture": "Psalm 91:14 (NIV) - \u201cBecause he loves me,\u201d says the LORD, \u201cI will rescue him; I will protect him...\u201d",
+            "focus": "Protection",
+            "action": "Identify one area where your loved one feels vulnerable (e.g., a fear, insecurity) and take a step to encourage or safeguard them.",
+            "prayer": "Father, give me wisdom to protect the hearts and dignity of those You have entrusted to me."
         },
         "Thursday": {
-            "scripture": "Colossians 3:13: 'Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.'",
-            "focus": "Learning to communicate with grace",
-            "action": "Practice active listening in one conversation today. Focus on understanding the other person completely before responding.",
-            "prayer": "Lord, help me to listen more and speak less. Give me wisdom to communicate with love, patience, and understanding. Amen."
+            "scripture": "James 1:19 (NIV) - Everyone should be quick to listen, slow to speak and slow to become angry.",
+            "focus": "Communication",
+            "action": "In your next important conversation, focus entirely on listening without interrupting or planning your response.",
+            "prayer": "Holy Spirit, make me a godly listener today, full of grace and patience."
         },
         "Friday": {
-            "scripture": "Philippians 2:3-4: 'Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, not looking to your own interests but each of you to the interests of the others.'",
-            "focus": "Selflessness in relationships",
-            "action": "Do something unexpected and sacrificial for someone in your life. Put their needs ahead of your own, without expecting anything in return.",
-            "prayer": "God, teach me the true meaning of love - selfless, sacrificial, and unconditional. Help me to serve others as Jesus would. Amen."
+            "scripture": "John 15:13 (NIV) - Greater love has no one than this: to lay down one\u2019s life for one\u2019s friends.",
+            "focus": "Compromise",
+            "action": "Choose one personal preference or desire to set aside today for the benefit of your spouse or family.",
+            "prayer": "Jesus, thank You for Your sacrifice. Help me to love others selflessly, putting 'we' before 'me.'"
         },
         "Saturday": {
-            "scripture": "Ecclesiastes 4:9-10: 'Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up.'",
-            "focus": "Building supportive relationships",
-            "action": "Reach out to a friend or family member who might be struggling. Offer genuine support, prayer, or practical help.",
-            "prayer": "Lord, show me how to be a supportive and encouraging presence in the lives of those around me. Help me to be a vessel of Your love and compassion. Amen."
+            "scripture": "1 Corinthians 13:4-5 (NIV) - Love is patient, love is kind... it is not self-seeking...",
+            "focus": "Reflection",
+            "action": "Review the past week. Which key (honor, protection, communication, compromise) needs the most growth in your primary relationship? Plan one step for improvement.",
+            "prayer": "God, You are love. Examine my heart and show me how to better reflect Your perfect love in my relationships."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/Yga9vwhlcis"

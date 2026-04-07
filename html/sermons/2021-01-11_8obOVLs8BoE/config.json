@@ -1,113 +1,128 @@
 {
-    "summaryText": "Wow, what an incredible message about unlocking God's favor from Pastor Travis Hearn! In this powerful sermon, PT breaks down five biblical keys to experiencing God's supernatural blessing in our lives. He reminds us that favor isn't just something we passively receive, but something we actively pursue through our actions and heart posture. Pastor Travis teaches that God's favor can take us further than money, education, or personal connections ever could. By asking God for blessing, staying humble, pursuing righteousness, remaining faithful, and practicing generosity, we position ourselves to receive incredible divine opportunities. Isn't it amazing how God wants to pour out His favor on us? The most mind-blowing part is that one moment of God's favor can accomplish more than a lifetime of human effort! Travis shares personal stories and biblical examples that make this message come alive, challenging us to see favor not as a distant concept, but as an accessible reality for every believer who is willing to align their life with God's principles.",
+    "summaryText": "Pastor Travis Hearn opened the service with worship and prayer, focusing on the theme of God's favor. He defined favor as God's blessing on our lives, emphasizing that it can take us further than a lifetime of labor and open doors we never knew existed. The message centered on five biblical keys to unlocking this divine favor. First, we must ask for it, as illustrated by the prayers of Jabez and Nehemiah. Second, we must pursue a life of humility, as God gives grace to the humble. Third, we must walk in righteousness, which means being clothed in Christ's righteousness and obeying God's commands, leading to a blessed life. Fourth, we must be faithful, staying committed to God and our responsibilities even in difficult times, as faithfulness finds favor. Finally, we must live generously, both toward God and others, understanding that we are stewards of all God has given us. Pastor Travis concluded by connecting God's ultimate generosity in giving His Son to the call for us to generously give our lives back to Him in surrender. The sermon was a practical and encouraging guide on how to position our lives to receive and walk in God's abundant favor.",
     "tags": [
-        "Blessings",
-        "Faith",
-        "Generosity"
+        "Prayer",
+        "Obedience",
+        "Blessings"
     ],
     "mainPoints": [
-        "Ask God for His blessing",
-        "Pursue a life of humility and righteousness",
-        "Remain faithful even in challenging times"
+        "We must ask for God's favor, following the examples of biblical figures who prayed specifically for God's blessing and guidance.",
+        "Walking in humility, righteousness, and faithfulness positions us to receive God's favor, as He blesses those who are obedient and committed.",
+        "Living a life of generosity, recognizing we are stewards of God's gifts, unlocks further blessing because God is generous to the generous."
     ],
     "versesMentioned": [
         {
-            "verse": "Psalm 119",
-            "text": "With all my heart I seek your favor",
-            "version": "NIV"
+            "verse": "Psalm 119:58",
+            "version": "NIV",
+            "text": "I have sought your face with all my heart; be gracious to me according to your promise."
         },
         {
             "verse": "Luke 2:52",
-            "text": "And Jesus grew in wisdom and stature, and in favor with God and man.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "And Jesus grew in wisdom and stature, and in favor with God and man."
         },
         {
-            "verse": "1 Chronicles",
-            "text": "Jabez called on the God of Israel and said, 'Oh, that you would bless me and enlarge my territory! Let your hand be with me, and keep me from harm so that I will be free from pain.'",
-            "version": "NIV"
+            "verse": "1 Chronicles 4:10",
+            "version": "NIV",
+            "text": "Jabez cried out to the God of Israel, 'Oh, that you would bless me and enlarge my territory! Let your hand be with me, and keep me from harm so that I will be free from pain.' And God granted his request."
         },
         {
-            "verse": "Proverbs 12:2",
-            "text": "A good man obtains favor from the Lord, but the Lord condemns a crafty man.",
-            "version": "NIV"
-        },
-        {
-            "verse": "Luke 16:10",
-            "text": "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.",
-            "version": "NIV"
+            "verse": "Nehemiah 1:11",
+            "version": "NIV",
+            "text": "Lord, let your ear be attentive to the prayer of this your servant and to the prayer of your servants who delight in revering your name. Give your servant success today by granting him favor in the presence of this man.'"
         },
         {
             "verse": "Isaiah 66:2",
-            "text": "These are the ones I look on with favor: those who are humble and contrite in spirit, and who tremble at my word.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Has not my hand made all these things, and so they came into being? declares the LORD. 'These are the ones I look on with favor: those who are humble and contrite in spirit, and who tremble at my word.'"
         },
         {
-            "verse": "Deuteronomy 26:13",
-            "text": "The Lord will make you the head, not the tail. If you pay attention to the commands of the Lord your God that I give you this day and carefully follow them, you will always be at the top, never at the bottom.",
-            "version": "NIV"
+            "verse": "Deuteronomy 28:13",
+            "version": "NIV",
+            "text": "The LORD will make you the head, not the tail. If you pay attention to the commands of the LORD your God that I give you this day and carefully follow them, you will always be at the top, never at the bottom."
         },
         {
-            "verse": "Psalm 128",
-            "text": "Blessed are all who fear the Lord, who walk in obedience to him.",
-            "version": "NIV"
+            "verse": "Psalm 128:1",
+            "version": "NIV",
+            "text": "Blessed are all who fear the LORD, who walk in obedience to him."
+        },
+        {
+            "verse": "Psalm 5:12",
+            "version": "NIV",
+            "text": "Surely, LORD, you bless the righteous; you surround them with your favor as a shield."
+        },
+        {
+            "verse": "Proverbs 12:2",
+            "version": "NIV",
+            "text": "Good people obtain favor from the LORD, but he condemns those who devise wicked schemes."
+        },
+        {
+            "verse": "Luke 16:10",
+            "version": "NIV",
+            "text": "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much."
+        },
+        {
+            "verse": "Mark 4:19",
+            "version": "NIV",
+            "text": "but the worries of this life, the deceitfulness of wealth and the desires for other things come in and choke the word, making it unfruitful."
         },
         {
             "verse": "Proverbs 3:3-4",
-            "text": "Let love and faithfulness never leave you; bind them around your neck, write them on the tablet of your heart. Then you will win favor and a good name in the sight of God and man.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Let love and faithfulness never leave you; bind them around your neck, write them on the tablet of your heart. Then you will win favor and a good name in the sight of God and man."
         },
         {
             "verse": "Acts 20:35",
-            "text": "In everything I did, I showed you that by this kind of hard work we must help the weak, remembering the words the Lord Jesus himself said: 'It is more blessed to give than to receive.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "In everything I did, I showed you that by this kind of hard work we must help the weak, remembering the words the Lord Jesus himself said: 'It is more blessed to give than to receive.'"
         },
         {
-            "verse": "2 Corinthians 9:6-7",
-            "text": "Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.",
-            "version": "NIV"
+            "verse": "2 Corinthians 9:6",
+            "version": "NIV",
+            "text": "Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously."
         },
         {
             "verse": "John 3:16",
-            "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Psalm 5:12: 'Surely, Lord, you bless the righteous; you surround them with your favor as with a shield.'",
-            "focus": "Understanding God's desire to bless His children",
-            "action": "Make a list of three areas in your life where you want to see God's favor. Spend time in prayer specifically asking God to bless those areas.",
-            "prayer": "Heavenly Father, I open my heart to Your favor. Show me how I can align my life with Your principles and receive Your supernatural blessing. Guide me and transform me from the inside out. Amen."
+            "scripture": "1 Chronicles 4:10 (NIV) - 'Jabez cried out to the God of Israel, \"Oh, that you would bless me...\"'",
+            "focus": "The Power of Asking",
+            "action": "Write down one specific area where you need God's favor and pray the prayer of Jabez over it today.",
+            "prayer": "Lord, I ask for Your blessing and favor in my life today. Enlarge my influence for Your glory and keep me from harm."
         },
         "Tuesday": {
-            "scripture": "Proverbs 22:9: 'The generous will themselves be blessed, for they share their food with the poor.'",
-            "focus": "Practicing generosity as a pathway to blessing",
-            "action": "Look for an opportunity to be unexpectedly generous today - whether through finances, time, or resources. Do something that costs you something.",
-            "prayer": "Lord, teach me to be a cheerful and strategic giver. Help me see opportunities to bless others and demonstrate Your love through my generosity. Open my eyes to needs around me. Amen."
+            "scripture": "Isaiah 66:2 (NIV) - 'These are the ones I look on with favor: those who are humble...'",
+            "focus": "Cultivating Humility",
+            "action": "Intentionally put someone else's needs or interests ahead of your own in a conversation or decision.",
+            "prayer": "God, help me to walk in humility today. Let my words and actions reflect a heart that puts others first and stands in awe of You."
         },
         "Wednesday": {
-            "scripture": "James 4:10: 'Humble yourselves before the Lord, and he will lift you up.'",
-            "focus": "Cultivating humility in daily life",
-            "action": "Intentionally put someone else's needs or recognition before your own today. Practice active listening and genuine encouragement.",
-            "prayer": "God, remove pride from my heart. Help me see others as more important than myself. Give me a humble spirit that honors You in every interaction. Amen."
+            "scripture": "Psalm 5:12 (NIV) - 'Surely, LORD, you bless the righteous; you surround them with your favor as a shield.'",
+            "focus": "Walking in Righteousness",
+            "action": "Read one chapter in Proverbs and identify one command you can obey in your relationships or work today.",
+            "prayer": "Father, clothe me in the righteousness of Christ. Help me to obey Your Word so that I may walk in Your blessing and protection."
         },
         "Thursday": {
-            "scripture": "1 Peter 5:6: 'Humble yourselves, therefore, under God's mighty hand, that he may lift you up in due time.'",
-            "focus": "Trusting God's timing in blessing",
-            "action": "Reflect on areas where you've been trying to force outcomes. Surrender these to God and ask Him to work in His perfect timing.",
-            "prayer": "Father, I release my timeline and trust Yours. Help me be patient and faithful while waiting for Your favor and guidance. Teach me to rest in Your promises. Amen."
+            "scripture": "Proverbs 3:3-4 (NIV) - 'Let love and faithfulness never leave you...'",
+            "focus": "Demonstrating Faithfulness",
+            "action": "Faithfully complete a task or responsibility you've been putting off, doing it as unto the Lord.",
+            "prayer": "Jesus, strengthen my commitment. Help me to be faithful in the small things, trusting that You will entrust me with more."
         },
         "Friday": {
-            "scripture": "Proverbs 11:25: 'A generous person will prosper; whoever refreshes others will themselves be refreshed.'",
-            "focus": "Understanding spiritual multiplication through generosity",
-            "action": "Identify a ministry or cause you can support financially or through volunteer work. Take the first step in supporting them.",
-            "prayer": "Lord, show me how I can be a channel of Your blessing. Help me use the resources You've given me to advance Your kingdom and refresh others. Amen."
+            "scripture": "2 Corinthians 9:6 (NIV) - 'Whoever sows generously will also reap generously.'",
+            "focus": "Living Generously",
+            "action": "Give something away today\u2014your time, a gift, or an encouraging word\u2014without expecting anything in return.",
+            "prayer": "Generous God, thank You for giving Your Son for me. Help me to be a cheerful giver, stewarding all I have for Your kingdom."
         },
         "Saturday": {
-            "scripture": "Matthew 6:33: 'But seek first his kingdom and his righteousness, and all these things will be given to you as well.'",
-            "focus": "Prioritizing God's kingdom above personal desires",
-            "action": "Spend extended time in prayer and reflection. Ask God to align your heart's priorities with His purposes.",
-            "prayer": "Heavenly Father, realign my heart. Help me seek Your kingdom first in every area of my life. I want Your favor and Your purpose more than anything else. Transform me. Amen."
+            "scripture": "Luke 2:52 (NIV) - 'And Jesus grew in wisdom and stature, and in favor with God and man.'",
+            "focus": "Growing in Favor",
+            "action": "Reflect on your week. Which key to favor (ask, humility, righteousness, faithfulness, generosity) did you grow in? Which needs more focus?",
+            "prayer": "Lord, like Jesus, I want to grow in favor with You and others. Examine my heart and show me how to better position my life for Your blessing."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/8obOVLs8BoE"

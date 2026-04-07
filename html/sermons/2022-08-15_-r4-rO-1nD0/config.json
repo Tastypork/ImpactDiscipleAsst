@@ -1,98 +1,113 @@
 {
-    "summaryText": "What an incredible message from Pastor Travis Hearn about feeling overlooked and unseen! Pastor Travis dives deep into the biblical narrative of David, showing us that even when people dismiss us, God sees our true potential. He powerfully reminds us that God specializes in using the least likely people to accomplish extraordinary things. Sometimes we feel forgotten, passed over, or undervalued, but PT wants us to know that God's perspective is completely different from the world's. He sees your heart, your potential, and your purpose - even when no one else does! Drawing from stories like David and Gideon, Pastor Travis emphasizes that God looks beyond external appearances and sees the inner potential waiting to be unleashed. The most powerful moment? When he declares that what the enemy meant for evil, God will use for good. If you've ever felt like you're not enough, this sermon is a reminder that you are God's first pick, not the world's last choice. God is strategically positioning you, protecting you, and preparing you for something greater than you can imagine!",
+    "summaryText": "Pastor Travis Hearn opened by encouraging the congregation to follow the church's new Instagram account, then launched into a passionate message for those who have felt overlooked or unseen. He began with the foundational truth from Romans 8:28 that God works all things for the good of those who love Him, emphasizing that God's most beautiful gifts often come in difficult packages. The sermon centered on the story of David's anointing from 1 Samuel 16, where David was overlooked by his own father, Jesse, yet chosen by God. Pastor Travis declared that being 'the world's last pick' means being 'God's first pick,' and that seasons of feeling hidden are often God's protection and preparation for His perfect timing. He provided three key takeaways for those wrestling with these feelings. First, to remember that God sees you intimately, as described in Psalm 139. Second, to guard your heart against bitterness and offense, as God looks at the heart, not outward appearances. Third, to keep working diligently for the Lord, not for human approval, as instructed in Colossians 3:23. The message wove in other examples like Gideon, who felt weak and insignificant but was called a 'mighty warrior' by God. Pastor Travis challenged the congregation to shift from people-pleasing to God-pleasing, to allow God to build character in unseen seasons, and to trust that He sees their sacrifice, tears, and dreams. He closed with an altar call for salvation and a prayer for those feeling undervalued, declaring that God is about to open new doors for them.",
     "tags": [
         "Identity",
         "Purpose",
-        "Faith"
+        "Hope"
     ],
     "mainPoints": [
-        "God sees me, even when others overlook me",
-        "Keep my heart right during seasons of feeling unseen",
-        "Keep doing what I'm doing for God, not for human approval"
+        "When you feel overlooked or unseen, remember that God sees you intimately and has chosen you for His purpose.",
+        "Guard your heart against bitterness and offense, because God values the condition of your heart above outward appearances.",
+        "Continue working faithfully for God's approval, not man's, trusting that He rewards diligence done for Him."
     ],
     "versesMentioned": [
         {
-            "verse": "Genesis 50:20",
-            "text": "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives.",
-            "version": "NIV"
-        },
-        {
             "verse": "Romans 8:28",
-            "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
         },
         {
             "verse": "1 Samuel 16:7",
-            "text": "The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But the Lord said to Samuel, 'Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.'"
         },
         {
             "verse": "Psalm 139:1-8",
-            "text": "O Lord, you have searched me and known me. You know when I sit down and when I rise up; you discern my thoughts from far away. You search out my path and my lying down, and are acquainted with all my ways. Even before a word is on my tongue, O Lord, you know it completely.",
-            "version": "NRSV"
+            "version": "NIV",
+            "text": "You have searched me, Lord, and you know me. You know when I sit and when I rise; you perceive my thoughts from afar. You discern my going out and my lying down; you are familiar with all my ways. Before a word is on my tongue you, Lord, know it completely. You hem me in behind and before, and you lay your hand upon me. Such knowledge is too wonderful for me, too lofty for me to attain. Where can I go from your Spirit? Where can I flee from your presence? If I go up to the heavens, you are there; if I make my bed in the depths, you are there."
         },
         {
             "verse": "Deuteronomy 28:13",
-            "text": "The Lord will make you the head, not the tail. If you pay attention to the commands of the Lord your God that I give you this day and carefully follow them, you will always be at the top, never at the bottom.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The Lord will make you the head, not the tail. If you pay attention to the commands of the Lord your God that I give you this day and carefully follow them, you will always be at the top, never at the bottom."
+        },
+        {
+            "verse": "Proverbs 4:23",
+            "version": "NIV",
+            "text": "Above all else, guard your heart, for everything you do flows from it."
         },
         {
             "verse": "Jeremiah 17:9",
-            "text": "The heart is deceitful above all things and beyond cure. Who can understand it?",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The heart is deceitful above all things and beyond cure. Who can understand it?"
         },
         {
-            "verse": "Proverbs 3:5",
-            "text": "Trust in the Lord with all your heart and lean not on your own understanding.",
-            "version": "NIV"
+            "verse": "Psalm 51:10",
+            "version": "NIV",
+            "text": "Create in me a pure heart, O God, and renew a steadfast spirit within me."
+        },
+        {
+            "verse": "Matthew 15:8",
+            "version": "NIV",
+            "text": "'These people honor me with their lips, but their hearts are far from me.'"
+        },
+        {
+            "verse": "Ezekiel 36:26",
+            "version": "NIV",
+            "text": "I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh."
+        },
+        {
+            "verse": "Acts 13:22",
+            "version": "NIV",
+            "text": "After removing Saul, he made David their king. God testified concerning him: 'I have found David son of Jesse, a man after my own heart; he will do everything I want him to do.'"
         },
         {
             "verse": "Colossians 3:23",
-            "text": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."
         },
         {
             "verse": "Galatians 1:10",
-            "text": "Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "1 Samuel 16:7: 'The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.'",
-            "focus": "Remembering God's perspective is different from human perspective",
-            "action": "Write down three things about yourself that you feel are undervalued, and pray over each one, asking God to reveal His perspective.",
-            "prayer": "Lord, help me see myself through Your eyes. Reveal the potential and purpose You've placed inside me that I might not yet recognize. Give me clarity and confidence in Your vision for my life. Amen."
+            "scripture": "1 Samuel 16:7 - 'People look at the outward appearance, but the Lord looks at the heart.'",
+            "focus": "God's Perspective",
+            "action": "Write down one area where you feel overlooked. Pray and ask God to show you how He sees you in that situation.",
+            "prayer": "Lord, help me to see myself through Your eyes today, not through the eyes of others or my own insecurities."
         },
         "Tuesday": {
-            "scripture": "Psalm 139:14: 'I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.'",
-            "focus": "Recognizing personal worth and God-given uniqueness",
-            "action": "Make a list of 5 unique qualities or skills you possess. Reflect on how these could be used to honor God.",
-            "prayer": "Father, thank You for creating me with intention and purpose. Help me embrace the unique way You've designed me and use my gifts to glorify You. Amen."
+            "scripture": "Psalm 139:1-4 - 'You have searched me, Lord, and you know me.'",
+            "focus": "God's Intimate Knowledge",
+            "action": "Spend 5 minutes in quiet reflection, acknowledging that God sees and knows every part of your life\u2014your work, your rest, and your thoughts.",
+            "prayer": "God, thank You for seeing me completely. Help me to find comfort and confidence in Your perfect knowledge of my life."
         },
         "Wednesday": {
-            "scripture": "Proverbs 4:23: 'Above all else, guard your heart, for everything you do flows from it.'",
-            "focus": "Protecting emotional and spiritual health",
-            "action": "Identify one negative thought pattern or emotional trigger. Journal about how it impacts your perspective and pray for healing.",
-            "prayer": "God, guard my heart against bitterness, comparison, and discouragement. Fill me with Your peace and help me maintain a pure heart focused on You. Amen."
+            "scripture": "Proverbs 4:23 - 'Above all else, guard your heart, for everything you do flows from it.'",
+            "focus": "Heart Health",
+            "action": "Identify one 'heart clutter' like bitterness or jealousy. Take a practical step to let it go, such as writing it down and praying for release.",
+            "prayer": "Create in me a clean heart, O God. Remove any resentment or offense and renew a right spirit within me."
         },
         "Thursday": {
-            "scripture": "Colossians 3:23-24: 'Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.'",
-            "focus": "Cultivating excellence for God's glory, not human recognition",
-            "action": "Choose one area of your work or daily responsibilities. Approach it with excellence and intentionality, doing it as if directly serving God.",
-            "prayer": "Lord, help me shift my perspective from seeking human approval to serving You wholeheartedly in every task. Give me motivation that comes from pleasing You. Amen."
+            "scripture": "Colossians 3:23 - 'Whatever you do, work at it with all your heart, as working for the Lord.'",
+            "focus": "Working for God",
+            "action": "Choose one routine task today (at work, home, or church) and consciously do it as an act of service to God, not for human recognition.",
+            "prayer": "Jesus, I offer my work to You today. Let my efforts be a faithful offering that pleases You above all."
         },
         "Friday": {
-            "scripture": "Romans 8:28: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'",
-            "focus": "Trusting God's transformative power in challenging seasons",
-            "action": "Reflect on a past challenge. Journal how God might have used that experience for growth or preparation.",
-            "prayer": "Heavenly Father, help me trust Your process. Even when I can't see the full picture, I believe You are working all things together for my good and Your glory. Amen."
+            "scripture": "Galatians 1:10 - 'If I were still trying to please people, I would not be a servant of Christ.'",
+            "focus": "Pleasing God, Not People",
+            "action": "In a situation where you're tempted to seek approval, pause and ask yourself: 'Am I doing this to please God or to please someone else?'",
+            "prayer": "Holy Spirit, give me the courage to live for God's approval alone. Free me from the need to people-please."
         },
         "Saturday": {
-            "scripture": "1 Samuel 16:13: 'So Samuel took the horn of oil and anointed him in the presence of his brothers, and from that day on the Spirit of the Lord came powerfully upon David.'",
-            "focus": "Embracing God's unique calling and timing",
-            "action": "Spend time in quiet reflection. Ask God to reveal any areas where you might be rushing ahead of His timing or feeling impatient.",
-            "prayer": "Lord, help me be patient and faithful in the waiting. Teach me to trust Your timing and preparation. Reveal Your plans and help me align my heart with Your purpose. Amen."
+            "scripture": "Romans 8:28 - 'In all things God works for the good of those who love him.'",
+            "focus": "Trusting God's Plan",
+            "action": "Reflect on a past difficulty. Write down one way you can now see God's hand at work in it, or choose to trust He is working even if you can't see it yet.",
+            "prayer": "Father, I trust that You are working all things together for my good. Help me to rest in Your faithful plan for my life."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/-r4-rO-1nD0"

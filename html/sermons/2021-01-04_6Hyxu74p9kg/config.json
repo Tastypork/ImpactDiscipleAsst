@@ -1,94 +1,138 @@
 {
-    "summaryText": "Wow, what a powerful New Year's sermon from Pastor Travis Hearn about throwing away things that hinder our spiritual growth! In this transformative message, PT breaks down four key areas we need to 'throw away' in 2021: insecurities, critical spirits, temper/anger, and toxic relationships. It's like a spiritual cleaning out of our emotional and relational closets! Pastor Travis reminds us that we are 'good enough' just as God created us, and challenges us to stop being our own worst critics. One of the most powerful moments was when he emphasized that insecurity is actually selfish - life isn't about us, it's about what God wants to do through us. He brilliantly unpacks how our critical spirits, anger, and toxic relationships can sabotage our spiritual journey, using humor and real-life examples that make the message both convicting and accessible. The overarching theme? Growth isn't about getting older, it's about becoming more like Christ. Pastor Travis invites us to start 2021 with a fresh perspective: throw away what's holding you back and embrace who God says you are!",
+    "summaryText": "Pastor Travis Hearn continued the 'Throw It Away' series, focusing on spiritual housecleaning for the new year. Building on Hebrews 12:1-2, he challenged the congregation to identify and discard attitudes and relationships that hinder spiritual growth and maturity. The message emphasized that the goal of the Christian life is to become more like Christ, which requires throwing away insecurities rooted in people-pleasing, a critical spirit that leads to judgment and gossip, and uncontrolled anger that damages relationships. Pastor Travis taught that true confidence comes from God's approval alone, not from others, and that a critical, complaining heart is often a self-defense mechanism for insecurity. He warned that toxic relationships corrupt good character and urged believers to choose close friends wisely. The sermon concluded with an invitation to surrender to Christ for a fresh start in the new year and a call to spiritual maturity.",
     "tags": [
         "Identity",
         "Relationships",
-        "Spiritual Growth"
+        "Sanctification"
     ],
     "mainPoints": [
-        "Throw away your insecurities",
-        "Stop harboring a critical spirit",
-        "Release anger and toxic relationships",
-        "Focus on becoming more like Christ"
+        "Throw away insecurities by finding your worth and approval in God alone, not in other people's opinions.",
+        "Throw away a critical spirit, which leads to judgment, complaining, and gossip, and instead focus on your own spiritual growth.",
+        "Throw away toxic relationships and uncontrolled anger, which poison your character and destroy the people you love most."
     ],
     "versesMentioned": [
         {
             "verse": "Hebrews 12:1-2",
-            "text": "Let us throw off everything that hinders and the sin that so easily entangles, and let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith."
         },
         {
             "verse": "Ephesians 4:22-24",
-            "text": "You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires; to be made new in the attitude of your minds; and to put on the new self, created to be like God in true righteousness and holiness.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires; to be made new in the attitude of your minds; and to put on the new self, created to be like God in true righteousness and holiness."
+        },
+        {
+            "verse": "Ephesians 4:14",
+            "version": "NIV",
+            "text": "Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming."
         },
         {
             "verse": "Psalm 139:13-14",
-            "text": "For you created my inmost being; you knit me together in my mother's womb. I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "For you created my inmost being; you knit me together in my mother\u2019s womb. I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well."
         },
         {
             "verse": "Proverbs 29:25",
-            "text": "Fear of man will prove to be a snare, but whoever trusts in the Lord is kept safe.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Fear of man will prove to be a snare, but whoever trusts in the Lord is kept safe."
         },
         {
-            "verse": "First Corinthians 13:4-8",
-            "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails.",
-            "version": "NIV"
+            "verse": "Galatians 1:10",
+            "version": "NIV",
+            "text": "Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ."
+        },
+        {
+            "verse": "Philippians 2:3",
+            "version": "NIV",
+            "text": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves."
+        },
+        {
+            "verse": "Matthew 7:1-5",
+            "version": "NIV",
+            "text": "Do not judge, or you too will be judged. For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you. Why do you look at the speck of sawdust in your brother\u2019s eye and pay no attention to the plank in your own eye? How can you say to your brother, \u2018Let me take the speck out of your eye,\u2019 when all the time there is a plank in your own eye? You hypocrite, first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother\u2019s eye."
+        },
+        {
+            "verse": "Proverbs 11:9",
+            "version": "NIV",
+            "text": "With their mouths the godless destroy their neighbors, but through knowledge the righteous escape."
+        },
+        {
+            "verse": "Proverbs 16:28",
+            "version": "NIV",
+            "text": "A perverse person stirs up conflict, and a gossip separates close friends."
+        },
+        {
+            "verse": "Proverbs 14:17",
+            "version": "NIV",
+            "text": "A quick-tempered person does foolish things, and the one who devises evil schemes is hated."
+        },
+        {
+            "verse": "Proverbs 29:11",
+            "version": "NIV",
+            "text": "Fools give full vent to their rage, but the wise bring calm in the end."
+        },
+        {
+            "verse": "Proverbs 18:21",
+            "version": "NIV",
+            "text": "The tongue has the power of life and death, and those who love it will eat its fruit."
+        },
+        {
+            "verse": "1 Corinthians 13:4-8",
+            "version": "NIV",
+            "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails."
         },
         {
             "verse": "Proverbs 27:19",
-            "text": "As water reflects the face, so one's life reflects the heart.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "As water reflects the face, so one\u2019s life reflects the heart."
         },
         {
-            "verse": "First Corinthians 15:33",
-            "text": "Do not be misled: 'Bad company corrupts good character.'",
-            "version": "NIV"
+            "verse": "1 Corinthians 15:33",
+            "version": "NIV",
+            "text": "Do not be misled: 'Bad company corrupts good character.'"
         },
         {
-            "verse": "Second Corinthians 6:14-15",
-            "text": "Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common? Or what fellowship can light have with darkness? What harmony is there between Christ and Belial?",
-            "version": "NIV"
+            "verse": "2 Corinthians 6:14-15",
+            "version": "NIV",
+            "text": "Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common? Or what fellowship can light have with darkness? What harmony is there between Christ and Belial? Or what does a believer have in common with an unbeliever?"
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Jeremiah 29:11: 'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
-            "focus": "Recognizing God's design for your life",
-            "action": "List three areas where you struggle with insecurity. Pray over each, asking God to help you see yourself through His eyes.",
-            "prayer": "Heavenly Father, help me see myself as You see me. Remove the lies of insecurity and replace them with Your truth. Teach me to embrace who You've created me to be. Amen."
+            "scripture": "Psalm 139:13-14 - \"For you created my inmost being; you knit me together in my mother\u2019s womb. I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.\"",
+            "focus": "God's Design",
+            "action": "Write down one thing you appreciate about how God made you\u2014physically, emotionally, or in your personality.",
+            "prayer": "Lord, thank you for creating me uniquely. Help me to see myself through Your eyes of love and approval today."
         },
         "Tuesday": {
-            "scripture": "Philippians 4:8: 'Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable\u2014if anything is excellent or praiseworthy\u2014think about such things.'",
-            "focus": "Transforming critical thinking",
-            "action": "For one full day, challenge yourself to not speak negatively about anyone. When tempted to criticize, pray for that person instead.",
-            "prayer": "Lord, guard my tongue and my heart. Help me see people through Your lens of love and grace. Transform my critical spirit into one of compassion. Amen."
+            "scripture": "Galatians 1:10 - \"Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ.\"",
+            "focus": "God's Approval",
+            "action": "Identify one situation today where you might be tempted to seek people's approval. Choose to act based on what honors God instead.",
+            "prayer": "Father, free me from the need for others' approval. Let my primary desire be to serve and please You alone."
         },
         "Wednesday": {
-            "scripture": "Proverbs 15:1: 'A gentle answer turns away wrath, but a harsh word stirs up anger.'",
-            "focus": "Managing emotional responses",
-            "action": "Identify one relationship where you struggle with anger. Write a letter (that you may or may not send) expressing your feelings constructively and asking God for wisdom.",
-            "prayer": "God, reveal the root of my anger. Help me respond with wisdom, patience, and love. Give me self-control in moments of emotional intensity. Amen."
+            "scripture": "Matthew 7:1-5 - \"Do not judge, or you too will be judged... first take the plank out of your own eye...\"",
+            "focus": "Self-Reflection",
+            "action": "When you feel critical of someone today, pause and ask God to show you an area in your own life that needs attention.",
+            "prayer": "Jesus, give me humility. Help me to see my own faults clearly before I am tempted to judge others."
         },
         "Thursday": {
-            "scripture": "Proverbs 13:20: 'Walk with the wise and become wise, for a companion of fools suffers harm.'",
-            "focus": "Evaluating relationships",
-            "action": "Make a list of your closest friends. Honestly assess how each relationship either builds you up or pulls you down spiritually.",
-            "prayer": "Lord, give me wisdom in my relationships. Help me surround myself with people who draw me closer to You and challenge me to grow. Amen."
+            "scripture": "Proverbs 18:21 - \"The tongue has the power of life and death, and those who love it will eat its fruit.\"",
+            "focus": "Life-Giving Words",
+            "action": "Intentionally speak a word of encouragement or life to at least one person today.",
+            "prayer": "Holy Spirit, guard my mouth. Let my words build others up and reflect Your love and grace."
         },
         "Friday": {
-            "scripture": "Galatians 5:22-23: 'But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law.'",
-            "focus": "Developing spiritual character",
-            "action": "Choose one 'fruit of the Spirit' to intentionally practice today. Look for specific opportunities to demonstrate that characteristic.",
-            "prayer": "Holy Spirit, work in me and through me. Help me reflect Your character in my actions, words, and attitudes today. Amen."
+            "scripture": "1 Corinthians 15:33 - \"Do not be misled: 'Bad company corrupts good character.'\"",
+            "focus": "Healthy Relationships",
+            "action": "Evaluate your closest relationships. Pray for wisdom about any that may be hindering your spiritual growth.",
+            "prayer": "God, give me discernment in my friendships. Surround me with people who encourage my faith and draw me closer to You."
         },
         "Saturday": {
-            "scripture": "Romans 12:2: 'Do not conform to the pattern of this world, but be transformed by the renewing of your mind.'",
-            "focus": "Spiritual transformation",
-            "action": "Spend time in reflection. Journal about how God has been working in your life and areas where you want to grow this year.",
-            "prayer": "Father, continue Your transformative work in me. I surrender my old patterns and invite Your renewal. Make me more like Jesus. Amen."
+            "scripture": "Hebrews 12:1-2 - \"...let us throw off everything that hinders... and let us run with perseverance the race marked out for us, fixing our eyes on Jesus...\"",
+            "focus": "Spiritual Endurance",
+            "action": "Identify one specific 'hindrance' from the sermon (insecurity, a critical spirit, anger, a toxic tie) and prayerfully commit to laying it down.",
+            "prayer": "Lord, I want to run my race well. Show me what is holding me back and give me the strength to throw it away, so I can follow You more freely."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/6Hyxu74p9kg"

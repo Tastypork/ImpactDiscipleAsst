@@ -1,88 +1,108 @@
 {
-    "summaryText": "Wow, what an incredible message from Pastor Travis Hearn about the power of 'little by little'! PT delivers a powerful sermon reminding us that life's most significant achievements aren't achieved overnight, but through consistent, faithful steps. Using the biblical principle from Exodus 32, he challenges us to embrace progress through small, intentional actions. Imagine building your dreams not through massive leaps, but through tiny, consistent victories! Pastor Travis shares a beautiful story about his daughter Kylie shooting 1,000 basketball shots at 12 years old, illustrating how small, persistent efforts compound into extraordinary results. The sermon's core message? God isn't looking for perfection, but faithfulness. He wants us to celebrate small wins, be trustworthy with little things, and understand that every tiny seed has massive potential. PT's personal testimony about his wife Natalie's transformation from addiction to pastor's wife through a simple 'God help' prayer is a testament to the power of little prayers and little faith. This message isn't just inspiring - it's a roadmap for spiritual and personal growth that shows us how mustard seed faith can move mountains!",
+    "summaryText": "Pastor Travis Hearn preached a sermon titled 'Little by Little,' based on Exodus 32:20-29. He explained that God's promises and blessings often unfold gradually, not all at once, to protect us from spiritual desolation and to allow us to grow into the responsibility. The message emphasized that the secret to a successful life is found in faithful, incremental progress. Pastor Travis outlined three key principles for living a 'little by little' life: first, learning to celebrate the small wins and beginnings, as seen when the Israelites celebrated laying the foundation of the Temple. Second, we must learn to be faithful stewards with the little things God entrusts to us, proving ourselves trustworthy for greater responsibility, as illustrated in the Parable of the Talents. Third, we must understand the spiritual power of planting little seeds, whether through prayer, generosity, or kindness, knowing we will reap a harvest in due time. The sermon concluded with a call to exercise mustard-seed faith and to trust God's timing in every area of life, from personal growth to financial stewardship.",
     "tags": [
         "Faith",
         "Obedience",
-        "Purpose"
+        "Blessings"
     ],
     "mainPoints": [
-        "Celebrate the little wins",
-        "Be faithful with small things",
-        "Understand the power of little seeds"
+        "Learn to celebrate the little wins and small beginnings, giving praise for progress.",
+        "Learn to be faithful with the little things God entrusts to you, as stewardship proves readiness for more.",
+        "Learn the power of little seeds, understanding that you reap what you sow in prayer, generosity, and character."
     ],
     "versesMentioned": [
         {
-            "verse": "Exodus 32:20-29",
-            "text": "See, I am sending an angel ahead of you to guard you along the way and to bring you to the place I have prepared.",
-            "version": "NIV"
+            "verse": "Exodus 32:20",
+            "version": "NIV",
+            "text": "See, I am sending an angel ahead of you to guard you along the way and to bring you to the place I have prepared."
         },
         {
-            "verse": "Psalm 24:1",
-            "text": "The earth is the Lord's, and everything in it, the world, and all who live in it.",
-            "version": "NIV"
+            "verse": "Exodus 32:27",
+            "version": "NIV",
+            "text": "I will make all your enemies turn their backs and run. I will send the hornet ahead of you to drive out the Hivites, Canaanites and Hittites from before you."
+        },
+        {
+            "verse": "Exodus 32:29",
+            "version": "NIV",
+            "text": "But I will not drive them out in a single year, because the land would become desolate and the wild animals too numerous for you. Little by little I will drive them out before you, until you have increased enough to take possession of the land."
         },
         {
             "verse": "Zechariah 4:10",
-            "text": "Do not despise these small beginnings, for the Lord rejoices to see the work begin.",
-            "version": "NLT"
+            "version": "NIV",
+            "text": "Who dares despise the day of small things, since the seven eyes of the LORD that range throughout the earth will rejoice when they see the chosen capstone in the hand of Zerubbabel?"
         },
         {
             "verse": "Philippians 1:6",
-            "text": "Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus."
+        },
+        {
+            "verse": "Ezra 3:10",
+            "version": "NIV",
+            "text": "When the builders laid the foundation of the temple of the LORD, the priests in their vestments and with trumpets, and the Levites (the sons of Asaph) with cymbals, took their places to praise the LORD, as prescribed by David king of Israel."
+        },
+        {
+            "verse": "Matthew 25:14-30",
+            "version": "NIV",
+            "text": "For it will be like a man going on a journey, who called his servants and entrusted to them his property. To one he gave five talents, to another two, to another one, to each according to his ability. Then he went away. He who had received the five talents went at once and traded with them, and he made five talents more. So also he who had the two talents made two talents more. But he who had received the one talent went and dug in the ground and hid his master's money. Now after a long time the master of those servants came and settled accounts with them. And he who had received the five talents came forward, bringing five talents more, saying, 'Master, you delivered to me five talents; here, I have made five talents more.' His master said to him, 'Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master.' And he also who had the two talents came forward, saying, 'Master, you delivered to me two talents; here, I have made two talents more.' His master said to him, 'Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master.' He also who had received the one talent came forward, saying, 'Master, I knew you to be a hard man, reaping where you did not sow, and gathering where you scattered no seed, so I was afraid, and I went and hid your talent in the ground. Here, you have what is yours.' But his master answered him, 'You wicked and slothful servant! You knew that I reap where I have not sown and gather where I scattered no seed? Then you ought to have invested my money with the bankers, and at my coming I should have received what was my own with interest. So take the talent from him and give it to him who has the ten talents. For to everyone who has will more be given, and he will have an abundance. But from the one who has not, even what he has will be taken away.'"
+        },
+        {
+            "verse": "Psalm 24:1",
+            "version": "NIV",
+            "text": "The earth is the LORD's, and everything in it, the world, and all who live in it."
         },
         {
             "verse": "Galatians 6:7-9",
-            "text": "Do not be deceived: God cannot be mocked. A man reaps what he sows. Whoever sows to please the flesh, from the flesh will reap destruction; whoever sows to please the Spirit, from the Spirit will reap eternal life. Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Do not be deceived: God cannot be mocked. A man reaps what he sows. Whoever sows to please their flesh, from the flesh will reap destruction; whoever sows to please the Spirit, from the Spirit will reap eternal life. Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."
         },
         {
-            "verse": "Proverbs 11:25",
-            "text": "A generous person will prosper; whoever refreshes others will be refreshed.",
-            "version": "NIV"
+            "verse": "Proverbs 11:24-25",
+            "version": "NIV",
+            "text": "One person gives freely, yet gains even more; another withholds unduly, but comes to poverty. A generous person will prosper; whoever refreshes others will be refreshed."
         },
         {
             "verse": "Matthew 17:20",
-            "text": "Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, 'Move from here to there,' and it will move. Nothing will be impossible for you.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "He replied, 'Because you have so little faith. Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, \"Move from here to there,\" and it will move. Nothing will be impossible for you.'"
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Zechariah 4:10: 'Do not despise these small beginnings, for the Lord rejoices to see the work begin.'",
-            "focus": "Recognizing the value of small starts",
-            "action": "Identify one small goal you've been putting off and take the first tiny step today. Write down this goal and the smallest possible action you can take right now.",
-            "prayer": "Lord, help me appreciate small beginnings. Give me the courage to start, even if it seems insignificant. Remind me that You delight in my first steps. Amen."
+            "scripture": "Exodus 32:29 - \"Little by little I will drive them out before you, until you have increased enough to take possession of the land.\"",
+            "focus": "God's Gradual Process",
+            "action": "Identify one area where you are impatient for a big change. Write down one small, faithful step you can take in that area today.",
+            "prayer": "Lord, help me trust Your timing today. Give me patience to appreciate the 'little by little' process in my life."
         },
         "Tuesday": {
-            "scripture": "Philippians 1:6: 'Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.'",
-            "focus": "Trusting God's ongoing work in your life",
-            "action": "Make a list of areas where you've seen personal growth, no matter how small. Reflect on how God has been working in you over time.",
-            "prayer": "Heavenly Father, thank You for not giving up on me. Help me trust Your process and see the progress You're making in my life, even when it's not obvious. Amen."
+            "scripture": "Zechariah 4:10 - \"Who dares despise the day of small things...\"",
+            "focus": "Celebrating Small Beginnings",
+            "action": "Intentionally celebrate a small win or progress you made recently, no matter how minor. Share it with someone or thank God specifically for it.",
+            "prayer": "God, thank You for the progress I often overlook. Help me rejoice in small beginnings and see Your hand at work in them."
         },
         "Wednesday": {
-            "scripture": "Galatians 6:9: 'Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.'",
-            "focus": "Perseverance in small acts of faithfulness",
-            "action": "Choose one area of your life where you've been inconsistent and commit to taking one small, consistent action every day this week.",
-            "prayer": "God, give me strength to be faithful in the small things. Help me persist even when results aren't immediately visible. Renew my hope and determination. Amen."
+            "scripture": "Matthew 25:21 - \"Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things.\"",
+            "focus": "Faithfulness in Small Things",
+            "action": "Choose one 'small thing' you are responsible for (a task, a relationship, your time) and commit to managing it with excellence today as an act of stewardship to God.",
+            "prayer": "Father, everything I have is Yours. Help me be a faithful and responsible steward of the 'little' You've entrusted to me today."
         },
         "Thursday": {
-            "scripture": "Proverbs 11:25: 'A generous person will prosper; whoever refreshes others will be refreshed.'",
-            "focus": "The power of small acts of generosity",
-            "action": "Look for an opportunity to do a small, unexpected act of kindness for someone today. It could be as simple as a genuine compliment or helping someone with a minor task.",
-            "prayer": "Lord, make me an instrument of Your generosity. Help me see opportunities to bless others, even in small ways. Open my eyes to those around me. Amen."
+            "scripture": "Galatians 6:9 - \"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\"",
+            "focus": "The Power of Consistent Seeds",
+            "action": "Plant a 'little seed' of encouragement. Send a short, sincere text or note to someone to build them up.",
+            "prayer": "Lord, show me how to sow good seeds consistently. Protect me from weariness and keep me faithful in doing good."
         },
         "Friday": {
-            "scripture": "Matthew 17:20: 'Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, 'Move from here to there,' and it will move.'",
-            "focus": "Embracing mustard seed faith",
-            "action": "Identify a 'mountain' (challenge) in your life. Write a simple prayer about it, focusing on having faith even if it's small.",
-            "prayer": "Jesus, I believe. Help my unbelief. Give me faith, even if it's as small as a mustard seed. I trust You with my challenges. Amen."
+            "scripture": "Proverbs 11:25 - \"A generous person will prosper; whoever refreshes others will be refreshed.\"",
+            "focus": "The Seed of Generosity",
+            "action": "Perform one act of generosity. It could be with your time, a kind word, or a financial gift, no matter the size.",
+            "prayer": "God, You are the source of all I have. Give me a generous heart today, that I might refresh others and trust You with the harvest."
         },
         "Saturday": {
-            "scripture": "Psalm 24:1: 'The earth is the Lord's, and everything in it, the world, and all who live in it.'",
-            "focus": "Stewardship of life's resources",
-            "action": "Review your week and identify one area where you can be a better steward - whether it's time, money, talents, or relationships. Make a specific plan for improvement.",
-            "prayer": "God, everything I have is Yours. Show me how to be a faithful steward of the gifts You've entrusted to me. Help me manage what You've given me with wisdom and gratitude. Amen."
+            "scripture": "Matthew 17:20 - \"...if you have faith as small as a mustard seed... Nothing will be impossible for you.\"",
+            "focus": "Mustard Seed Faith",
+            "action": "Bring a specific concern or 'mountain' in your life to God in prayer. Exercise simple, childlike faith, trusting Him for the outcome.",
+            "prayer": "Jesus, I believe. Help my unbelief. I place my trust in You today, even if my faith feels small. Move the mountains in my life according to Your will."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/zUVLMfj5lNE"

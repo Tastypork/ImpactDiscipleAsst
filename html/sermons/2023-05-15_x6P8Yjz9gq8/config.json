@@ -1,88 +1,93 @@
 {
-    "summaryText": "Wow, what a powerful Mother's Day message from Pastor Travis Hearn! Today's sermon dove deep into understanding God's comfort during life's most challenging moments. Can you imagine finding peace in the midst of life's storms? PT brilliantly unpacked how God isn't just a distant deity, but a loving Father who provides comfort in our deepest troubles. He shared his own incredibly powerful testimony about experiencing a stroke six months ago and how he chose to 'count it all joy' - what an incredible example of faith! The sermon highlighted four key ways God comforts us: He is the ultimate source of comfort, He provides supernatural peace, He extends unmerited grace and mercy, and He uses our pain to minister to others. Pastor Travis reminded us that God's love is wide, long, high, and deep - capable of reaching every person, every nation, and every situation. His personal story of recovery is a testament to God's miraculous healing power. The most profound takeaway? Your greatest ministry often emerges from your greatest misery. God doesn't waste our pain - He wants to use it for His glory!",
+    "summaryText": "Pastor Travis Hearn opened the Mother's Day service with a warm greeting and a reading from 2 Corinthians 1:2-4, establishing the theme of divine comfort in trouble. He acknowledged that life is full of troubles and that people often turn to temporary, worldly comforts like substances, food, or relationships, which ultimately fail to solve the underlying problems. The core message was that God is the true and only source of all comfort. Pastor Travis, or PT, outlined four key truths from Scripture. First, God is the merciful Father and source of all comfort, as illustrated by Jesus's mission statement in Luke 4 and His invitation in Matthew 11. The Holy Spirit is our Comforter. Second, God comforts us with His peace, which the world cannot give, as demonstrated when Jesus calmed the storm in Mark 4 and as promised in Philippians 4. Third, God comforts us with His grace and mercy\u2014unmerited favor and unconditional love\u2014as described in Ephesians 2:8 and Ephesians 3:18, which speaks to the vast dimensions of God's love. Finally, God comforts us so that we can comfort others, turning our pain into purpose and ministry. PT powerfully illustrated this final point by sharing his personal testimony of suffering a hemorrhagic stroke six months prior, emphasizing how God can use our greatest hurts for His glory and to help others, referencing James 1:2-4. The call was to find true, lasting comfort in Jesus Christ and to extend the comfort we receive to those around us.",
     "tags": [
         "Comfort",
-        "Healing",
-        "Grace"
+        "Peace",
+        "Love"
     ],
     "mainPoints": [
-        "God is the ultimate source of comfort",
-        "God's comfort transcends human understanding",
-        "Our pain can be transformed into purpose"
+        "God is the merciful Father and the only true source of all comfort, not the temporary resources of this world.",
+        "God comforts us with His supernatural peace and grace, calming our storms and offering unmerited favor and unconditional love.",
+        "God comforts us in our troubles so that we can comfort others, using our pain and weaknesses to birth ministry and help others."
     ],
     "versesMentioned": [
         {
-            "verse": "2 Corinthians 1:3-4",
-            "text": "Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort, who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God.",
-            "version": "NIV"
+            "verse": "2 Corinthians 1:2-4",
+            "version": "NIV",
+            "text": "Grace and peace to you from God our Father and the Lord Jesus Christ. Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort, who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God."
         },
         {
-            "verse": "Isaiah 61:1-2",
-            "text": "The Spirit of the Sovereign Lord is on me, because the Lord has anointed me to proclaim good news to the poor. He has sent me to bind up the brokenhearted, to proclaim freedom for the captives and release from darkness for the prisoners, to proclaim the year of the Lord's favor and the day of vengeance of our God, to comfort all who mourn.",
-            "version": "NIV"
+            "verse": "Luke 4:18-19",
+            "version": "NIV",
+            "text": "The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set the oppressed free, to proclaim the year of the Lord\u2019s favor."
         },
         {
             "verse": "Matthew 11:28-30",
-            "text": "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light."
         },
         {
-            "verse": "John 14:27",
-            "text": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
-            "version": "NIV"
+            "verse": "Mark 4:37-39",
+            "version": "NIV",
+            "text": "A furious squall came up, and the waves broke over the boat, so that it was nearly swamped. Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, 'Teacher, don\u2019t you care if we drown?' He got up, rebuked the wind and said to the waves, 'Quiet! Be still!' Then the wind died down and it was completely calm."
         },
         {
             "verse": "Philippians 4:6-7",
-            "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
         },
         {
-            "verse": "Ephesians 2:8-9",
-            "text": "For it is by grace you have been saved, through faith\u2014and this is not from yourselves, it is the gift of God\u2014not by works, so that no one can boast.",
-            "version": "NIV"
+            "verse": "Ephesians 2:8",
+            "version": "NIV",
+            "text": "For it is by grace you have been saved, through faith\u2014and this is not from yourselves, it is the gift of God."
         },
         {
             "verse": "Ephesians 3:18",
-            "text": "May have power, together with all the Lord's holy people, to grasp how wide and long and high and deep is the love of Christ.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "may have power, together with all the Lord\u2019s holy people, to grasp how wide and long and high and deep is the love of Christ."
+        },
+        {
+            "verse": "James 1:2-4",
+            "version": "NIV",
+            "text": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Psalm 34:18: 'The Lord is close to the brokenhearted and saves those who are crushed in spirit.'",
-            "focus": "Recognizing God's nearness in pain",
-            "action": "Write down a current struggle and specifically identify where you see God's comfort in that situation. Reflect on how your pain might be preparing you for future ministry.",
-            "prayer": "Lord, help me see Your comfort in my current struggles. Teach me to trust that You are near, even when I cannot feel Your presence. Transform my pain into purpose. Amen."
+            "scripture": "2 Corinthians 1:3-4 (NIV) - 'Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort, who comforts us in all our troubles...'",
+            "focus": "God as Your Source",
+            "action": "Identify one 'resource' (like work, a relationship, or a habit) you sometimes turn to for comfort instead of God. Intentionally pause and pray before engaging with it today.",
+            "prayer": "Father, thank you for being my true source of comfort. Help me to turn to you first in every trouble today."
         },
         "Tuesday": {
-            "scripture": "James 1:2-4: 'Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.'",
-            "focus": "Finding joy in challenging seasons",
-            "action": "Identify one current challenge and list three potential ways God might be growing your faith through this experience. Share your insights with a trusted friend or mentor.",
-            "prayer": "God, give me a perspective of joy during trials. Help me see beyond my current circumstances and trust in Your transformative power. Teach me to count it all joy. Amen."
+            "scripture": "Matthew 11:28 (NIV) - 'Come to me, all you who are weary and burdened, and I will give you rest.'",
+            "focus": "Soul Rest",
+            "action": "Find 10 minutes of quiet today. Don't scroll, watch, or eat. Simply sit in silence and consciously bring your weariness to Jesus.",
+            "prayer": "Jesus, I come to you with my burdens. I receive the rest only you can give for my soul."
         },
         "Wednesday": {
-            "scripture": "Romans 8:28: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'",
-            "focus": "Trusting God's redemptive plan",
-            "action": "Create a 'testimony journal' where you record current struggles alongside prayers, believing God will work them out for good. Review past entries to see His faithfulness.",
-            "prayer": "Heavenly Father, I trust that You are working, even when I cannot see. Help me surrender my understanding and believe in Your perfect plan. Give me faith to see beyond my current circumstances. Amen."
+            "scripture": "Mark 4:39 (NIV) - 'He got up, rebuked the wind and said to the waves, 'Quiet! Be still!' Then the wind died down and it was completely calm.'",
+            "focus": "Peace in the Storm",
+            "action": "Name one 'storm' (a worry, fear, or conflict) you are facing. Write it down, then write 'Peace, be still' next to it as a declaration of faith.",
+            "prayer": "Lord, you have power over every storm. I speak your peace over [name your storm]. I trust you to bring calm."
         },
         "Thursday": {
-            "scripture": "2 Corinthians 1:4: 'Who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves have received from God.'",
-            "focus": "Turning personal pain into ministry",
-            "action": "Reach out to someone you know who is experiencing a similar struggle to one you've overcome. Offer genuine encouragement and share how God brought you through.",
-            "prayer": "Lord, use my experiences to bring hope to others. Help me see my past struggles as opportunities to minister Your comfort. Make me a vessel of Your healing love. Amen."
+            "scripture": "Ephesians 3:18 (NIV) - '...to grasp how wide and long and high and deep is the love of Christ.'",
+            "focus": "Unconditional Love",
+            "action": "Reflect on a past mistake or failure. Remind yourself, out loud, 'God's love for me is unconditional and reaches even here.'",
+            "prayer": "God, thank you for your limitless, unconditional love. Help me to receive it fully, especially where I feel unworthy."
         },
         "Friday": {
-            "scripture": "Philippians 4:13: 'I can do all this through him who gives me strength.'",
-            "focus": "Finding strength in God's comfort",
-            "action": "Make a list of your current challenges. Beside each one, write a declaration of faith about God's ability to provide comfort and strength.",
-            "prayer": "God, I am weak, but You are strong. Fill me with Your supernatural comfort and peace. Help me to rely not on my own strength, but on Your unlimited power. Amen."
+            "scripture": "Philippians 4:6-7 (NIV) - 'Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.'",
+            "focus": "Guarded Heart",
+            "action": "Practice the Philippians 4 method with one specific anxiety today: pray about it, ask God for help, and thank Him for His faithfulness.",
+            "prayer": "God, I present my request about [mention it] to you with thanksgiving. I receive your peace to guard my heart and mind."
         },
         "Saturday": {
-            "scripture": "Isaiah 41:10: 'So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.'",
-            "focus": "Embracing God's promises of comfort",
-            "action": "Spend time in quiet reflection. Ask God to reveal areas where you need His comfort. Journal your thoughts and listen for His gentle voice.",
-            "prayer": "Loving Father, I surrender my fears and anxieties to You. Comfort my heart, calm my mind, and fill me with Your unexplainable peace. Teach me to rest in Your unfailing love. Amen."
+            "scripture": "2 Corinthians 1:4 (NIV) - '...so that we can comfort those in any trouble with the comfort we ourselves receive from God.'",
+            "focus": "Comfort to Share",
+            "action": "Think of one person who might be struggling. Send them a simple, encouraging text or note, sharing a word of comfort or hope.",
+            "prayer": "Holy Spirit, use the comfort you've given me to be a comfort to someone else today. Guide my words and actions."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/x6P8Yjz9gq8"

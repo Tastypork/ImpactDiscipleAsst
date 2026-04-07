@@ -1,93 +1,88 @@
 {
-    "summaryText": "Wow, what a powerful message from Pastor Travis Hearn today! In this incredible sermon on Psalm 23, PT breaks down three profound truths: 'The Lord is my shepherd, my supplier, and my savior.' Can you imagine having a God who not only provides for you but walks with you through every single valley of life? Pastor Travis shares deeply personal insights about how God meets our needs beyond just material things - He supplies supernatural peace, the ability to forgive, courage, and most importantly, His very presence. The most striking part? When he explains that valleys aren't punishments, but purposeful places where God strips away distractions to be intimately close to us. Using the powerful metaphor of sheep and their shepherd, PT reminds us that we're weak, prone to wandering, but God is always pursuing, protecting, and restoring us. His illustration about shadows being bigger than reality and that where there's a shadow, there's always light, is absolutely transformative. The sermon culminates with a powerful call to 'prophesy' - to speak life over our dead situations, recognizing that our words have incredible power to either kill or resurrect. Pastor Travis challenges us to stop complaining and start declaring God's promises over our lives. This message isn't just a sermon; it's a roadmap to understanding God's incredible, intimate care for each of us.",
+    "summaryText": "Pastor Travis Hearn opened the service with prayer and praise, focusing on the theme of God as our provider and protector. He began by sharing his personal connection to Psalm 91, a prayer of protection his mother prayed over him, before turning to his favorite chapter, Psalm 23. The central message was that because the Lord is our shepherd, we lack nothing. Pastor Travis broke this down into three key roles of God: our Shepherd, our Supplier, and our Savior. He used the analogy of sheep\u2014weak, defenseless, and prone to wander\u2014to illustrate our need for a shepherd who picks us up, carries our burdens, and cleans us up. He emphasized that Jesus is the Good Shepherd who actively protects and pursues our enemies. The sermon then explored God as our supplier, referencing Philippians 4:19 to declare that God 'shall supply all your need' from His limitless riches. This provision is not merely material but includes peace, courage, wisdom, grace, and, most importantly, His abiding presence, especially in life's valleys. Pastor Travis encouraged the congregation that even in the 'valley of the shadow of death,' we are not alone; God is with us, and we are merely passing 'through' the difficulty. He connected this to the church's original song 'Yahweh,' written from a place of desperate need. Finally, he presented God as our Savior who 'restores my soul.' He contrasted the soul's thirst with worldly solutions that leave us emptier, pointing to Jesus as the only one who can satisfy and bring dead things back to life, as illustrated by the vision of dry bones in Ezekiel 37. The call to action was to stop 'killing' things with negative words and instead prophesy life through God's truth, concluding with an invitation to accept Jesus as Savior and a prayer for those in a valley.",
     "tags": [
         "Faith",
-        "Hope",
-        "Restoration"
+        "Salvation",
+        "Peace"
     ],
     "mainPoints": [
-        "The Lord is my shepherd who provides complete protection",
-        "God is my supplier of both material and spiritual needs",
-        "Jesus is the savior who restores and revives my soul"
+        "The Lord is our Shepherd: We are like sheep who are weak and prone to wander, but Jesus, the Good Shepherd, protects, guides, and cares for us, ensuring we lack nothing.",
+        "The Lord is our Supplier: God promises to supply all our needs according to His riches, which includes not just material things but His presence, peace, courage, and grace, especially when we walk through difficult valleys.",
+        "The Lord is our Savior: He alone can restore our thirsty and starving souls, bringing dead things back to life, and we must speak life (prophesy) through His Word instead of complaining and speaking death."
     ],
     "versesMentioned": [
         {
             "verse": "Psalm 23:1-6",
-            "text": "The Lord is my shepherd, I shall not want. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name's sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows. Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever.",
-            "version": "NIV"
-        },
-        {
-            "verse": "John 10:10",
-            "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.",
-            "version": "NIV"
-        },
-        {
-            "verse": "Psalm 91",
-            "text": "Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty. I will say of the Lord, 'He is my refuge and my fortress, my God, in whom I trust.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name\u2019s sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows. Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever."
         },
         {
             "verse": "Philippians 4:19",
-            "text": "And my God will meet all your needs according to the riches of his glory in Christ Jesus.",
-            "version": "NIV"
-        },
-        {
-            "verse": "Isaiah 43",
-            "text": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze.",
-            "version": "NIV"
-        },
-        {
-            "verse": "Psalm 42:1",
-            "text": "As the deer pants for streams of water, so my soul pants for you, my God.",
-            "version": "NIV"
-        },
-        {
-            "verse": "Proverbs 18:21",
-            "text": "The tongue has the power of life and death, and those who love it will eat its fruit.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "And my God will meet all your needs according to the riches of his glory in Christ Jesus."
         },
         {
             "verse": "John 8:12",
-            "text": "When Jesus spoke again to the people, he said, 'I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "When Jesus spoke again to the people, he said, 'I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.'"
+        },
+        {
+            "verse": "Psalm 42:1",
+            "version": "NIV",
+            "text": "As the deer pants for streams of water, so my soul pants for you, my God."
+        },
+        {
+            "verse": "Psalm 119:20",
+            "version": "NIV",
+            "text": "My soul is consumed with longing for your laws at all times."
+        },
+        {
+            "verse": "Proverbs 18:21",
+            "version": "NIV",
+            "text": "The tongue has the power of life and death, and those who love it will eat its fruit."
+        },
+        {
+            "verse": "Ezekiel 37:1-10",
+            "version": "NIV",
+            "text": "The hand of the Lord was on me, and he brought me out by the Spirit of the Lord and set me in the middle of a valley; it was full of bones. He asked me, 'Son of man, can these bones live?' I said, 'Sovereign Lord, you alone know.' Then he said to me, 'Prophesy to these bones and say to them, \"Dry bones, hear the word of the Lord! This is what the Sovereign Lord says to these bones: I will make breath enter you, and you will come to life.\"' So I prophesied as I was commanded. And as I was prophesying, there was a noise, a rattling sound, and the bones came together, bone to bone. I looked, and tendons and flesh appeared on them and skin covered them, but there was no breath in them. Then he said to me, 'Prophesy to the breath; prophesy, son of man, and say to it, \"This is what the Sovereign Lord says: Come, breath, from the four winds and breathe into these slain, that they may live.\"' So I prophesied as he commanded me, and breath entered them; they came to life and stood up on their feet\u2014a vast army."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Psalm 34:18: 'The Lord is close to the brokenhearted and saves those who are crushed in spirit.'",
-            "focus": "Recognizing God's presence in my current challenges",
-            "action": "Take time to list out current life challenges. Next to each challenge, write how God might be present or working in that situation, even if you can't see it yet.",
-            "prayer": "Lord, help me see Your presence in my challenges. Give me eyes to recognize Your work, even when circumstances feel overwhelming. Teach me to trust Your process. Amen."
+            "scripture": "Psalm 23:1 (NIV) - 'The Lord is my shepherd, I lack nothing.'",
+            "focus": "God as your Shepherd.",
+            "action": "Identify one area where you feel weak or are wandering. Consciously choose to trust your Shepherd's guidance in that area today.",
+            "prayer": "Lord, thank you for being my Shepherd. Help me to trust that with you, I truly lack nothing. Guide my steps today."
         },
         "Tuesday": {
-            "scripture": "Isaiah 43:2: 'When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you.'",
-            "focus": "Understanding that valleys are temporary passages, not permanent residences",
-            "action": "Identify one area of your life where you feel stuck. Journal about how this might be a 'valley passage' and what lessons you can learn during this season.",
-            "prayer": "God, help me see my current challenges as passages, not permanent destinations. Give me Your perspective and wisdom to grow through this season. Amen."
+            "scripture": "Philippians 4:19 (NIV) - 'And my God will meet all your needs according to the riches of his glory in Christ Jesus.'",
+            "focus": "God as your Supplier.",
+            "action": "Write down one specific need (not a want) you have right now. Pray over it, trusting God to supply it in His way and timing.",
+            "prayer": "Father, I declare that you are my supplier. I trust you to meet my needs today, not just materially but with your peace and presence."
         },
         "Wednesday": {
-            "scripture": "Proverbs 18:21: 'The tongue has the power of life and death, and those who love it will eat its fruit.'",
-            "focus": "Speaking life over my challenges",
-            "action": "For every negative thought or complaint, immediately replace it with a positive declaration or prayer. Practice intentional, life-giving speech.",
-            "prayer": "Father, help me guard my mouth and speak words of life. Let my words align with Your promises and bring hope, not destruction. Amen."
+            "scripture": "Psalm 23:4 (NIV) - 'Even though I walk through the darkest valley, I will fear no evil, for you are with me.'",
+            "focus": "God's presence in the valley.",
+            "action": "If you are in a difficult season, speak this verse out loud. If not, pray it for someone you know who is walking through a valley.",
+            "prayer": "God, thank you that you are with me. In any valley I face, I choose not to fear because your presence is my comfort and strength."
         },
         "Thursday": {
-            "scripture": "Philippians 4:19: 'And my God will meet all your needs according to the riches of his glory in Christ Jesus.'",
-            "focus": "Recognizing God as my ultimate provider",
-            "action": "Make a gratitude list of ways God has already provided for you, both materially and spiritually. Reflect on His faithfulness.",
-            "prayer": "Lord, thank You for being my perfect provider. Help me trust You completely and recognize Your provision in every area of my life. Amen."
+            "scripture": "John 8:12 (NIV) - 'I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.'",
+            "focus": "Turning toward the Light.",
+            "action": "Identify a 'shadow' (a fear or worry) in your life. Consciously turn your focus to Jesus, the light, and speak His truth over that shadow.",
+            "prayer": "Jesus, you are my light. Help me to turn away from the shadows of fear and fix my eyes on you, the source of all life."
         },
         "Friday": {
-            "scripture": "Psalm 23:4: 'Even though I walk through the darkest valley, I will fear no evil, for you are with me.'",
-            "focus": "Embracing God's presence in difficult seasons",
-            "action": "Reach out to someone you know who is going through a difficult time. Offer genuine encouragement and prayer support.",
-            "prayer": "God, use me as an instrument of Your comfort. Help me reflect Your presence to others who are walking through dark valleys. Amen."
+            "scripture": "Psalm 42:1 (NIV) - 'As the deer pants for streams of water, so my soul pants for you, my God.'",
+            "focus": "The soul's thirst for God.",
+            "action": "Spend 5 minutes in quiet, without distractions. Acknowledge your soul's thirst and simply sit in God's presence.",
+            "prayer": "God, my soul thirsts for you alone. Forgive me for trying to satisfy it elsewhere. I come to you, the living water."
         },
         "Saturday": {
-            "scripture": "Romans 8:28: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'",
-            "focus": "Trusting God's transformative power in every situation",
-            "action": "Spend time in quiet reflection. Ask God to reveal how He might be working in your current challenges for your ultimate good.",
-            "prayer": "Lord, I trust Your process. Help me see beyond my current circumstances and believe in Your greater plan. Reveal Your purpose in my life. Amen."
+            "scripture": "Proverbs 18:21 (NIV) - 'The tongue has the power of life and death, and those who love it will eat its fruit.'",
+            "focus": "Prophesying life.",
+            "action": "Intentionally speak words of life, hope, and blessing over one situation or person today. Refrain from complaining.",
+            "prayer": "Holy Spirit, guard my mouth today. Help me to use my words to prophesy life, hope, and your truth, building up and not tearing down."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/5iul920biNQ"

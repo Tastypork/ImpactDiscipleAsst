@@ -1,93 +1,128 @@
 {
-    "summaryText": "What an incredible message from Pastor Travis Hearn about temptation! In this powerful sermon, PT breaks down the reality of temptation that we all face, reminding us that being tempted isn't a sin - giving in is. Drawing from Genesis 3, he illustrates how the devil uses the same tactics today that he used with Adam and Eve: dangling bait and minimizing the destructive consequences of sin. Pastor Travis doesn't just leave us feeling condemned, but empowers us with four spiritual 'superpowers' to overcome temptation: prayer, God's Word, accountability, and the Holy Spirit. Can you imagine how different our lives would be if we truly utilized these tools? The most striking point was how the devil tries to isolate us - because if he can isolate you, he can annihilate you. The sermon is a raw, honest look at our human struggles, but ultimately points to the incredible victory we have in Jesus Christ. Pastor Travis shares his own powerful testimony of transformation, proving that no temptation is too strong when we rely on God's strength. This message isn't just a warning about sin, it's an invitation to experience true freedom in Christ!",
+    "summaryText": "Pastor Travis Hearn opened his Mother's Day message by acknowledging the mothers and grandmothers in the congregation. He then transitioned to a teaching on the universal human struggle with temptation, using the imagery of a fishing pole and bait to illustrate how the devil targets individual weaknesses. The sermon was grounded in the story of Adam and Eve's temptation in Genesis 3, highlighting the devil's timeless strategy of minimizing sin's destruction and maximizing its apparent delight. Pastor Travis emphasized that while temptation is not a sin, yielding to it is, and that all sin falls into the categories of the lust of the flesh, the lust of the eyes, and the pride of life. The message provided a balanced view, first examining human weaknesses\u2014our own desires, bad influences, vulnerable surroundings, and the enemy, the devil\u2014and then turning to the strengths God provides to overcome. These 'superpowers' include prayer, the Word of God, accountability within Christian community, and the power of the Holy Spirit. Pastor Travis concluded with a call to salvation and a prayer for God's strength and the baptism of the Holy Spirit, encouraging the church to live in the victory and abundant life Christ offers.",
     "tags": [
         "Temptation",
         "Sin",
-        "Salvation"
+        "Prayer"
     ],
     "mainPoints": [
-        "Understanding our weaknesses",
-        "Recognizing the devil's tactics",
-        "Utilizing spiritual strengths to overcome temptation"
+        "Temptation is a universal battle where the devil baits us by targeting our unique weaknesses, but yielding to it, not the temptation itself, is sin.",
+        "To overcome temptation, we must understand our weaknesses: our own desires, bad influences, vulnerable surroundings, and our enemy, the devil.",
+        "God provides spiritual strengths to win over temptation: the power of prayer, the truth of His Word, accountability in community, and the indwelling power of the Holy Spirit."
     ],
     "versesMentioned": [
         {
             "verse": "Genesis 3:4-6",
-            "text": "But the serpent said to the woman, 'You will not surely die. For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.' So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "\u2018You will not certainly die,\u2019 the serpent said to the woman. \u2018For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil.\u2019 When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it."
         },
         {
-            "verse": "Romans 6:23",
-            "text": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
-            "version": "ESV"
+            "verse": "Romans 3:23",
+            "version": "NIV",
+            "text": "for all have sinned and fall short of the glory of God,"
+        },
+        {
+            "verse": "1 Timothy 1:15",
+            "version": "NIV",
+            "text": "Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save sinners\u2014of whom I am the worst."
         },
         {
             "verse": "1 John 2:16",
-            "text": "For all that is in the world\u2014the desires of the flesh and the desires of the eyes and pride of life\u2014is not from the Father but is from the world.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "For everything in the world\u2014the lust of the flesh, the lust of the eyes, and the pride of life\u2014comes not from the Father but from the world."
         },
         {
-            "verse": "James 1:14-15",
-            "text": "But each person is tempted when he is lured and enticed by his own desire. Then desire when it has conceived gives birth to sin, and sin when it is fully grown brings forth death.",
-            "version": "ESV"
+            "verse": "James 1:13-15",
+            "version": "NIV",
+            "text": "When tempted, no one should say, \u2018God is tempting me.\u2019 For God cannot be tempted by evil, nor does he tempt anyone; but each person is tempted when they are dragged away by their own evil desire and enticed. Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death."
         },
         {
-            "verse": "1 Corinthians 10:13",
-            "text": "No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape, that you may be able to endure it.",
-            "version": "ESV"
+            "verse": "1 Corinthians 15:33",
+            "version": "NIV",
+            "text": "Do not be misled: \u2018Bad company corrupts good character.\u2019"
+        },
+        {
+            "verse": "1 Thessalonians 5:22",
+            "version": "NIV",
+            "text": "reject every kind of evil."
+        },
+        {
+            "verse": "Proverbs 4:15",
+            "version": "NIV",
+            "text": "Avoid it, do not travel on it; turn from it and go on your way."
+        },
+        {
+            "verse": "Romans 7:21-25",
+            "version": "NIV",
+            "text": "So I find this law at work: Although I want to do good, evil is right there with me. For in my inner being I delight in God\u2019s law; but I see another law at work in me, waging war against the law of my mind and making me a prisoner of the law of sin at work within me. What a wretched man I am! Who will rescue me from this body that is subject to death? Thanks be to God, who delivers me through Jesus Christ our Lord!"
         },
         {
             "verse": "John 10:10",
-            "text": "The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full."
         },
         {
             "verse": "1 Peter 5:8",
-            "text": "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour."
         },
         {
             "verse": "Psalm 119:11",
-            "text": "I have stored up your word in my heart, that I might not sin against you.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "I have hidden your word in my heart that I might not sin against you."
+        },
+        {
+            "verse": "Ecclesiastes 4:9-12",
+            "version": "NIV",
+            "text": "Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up. Also, if two lie down together, they will keep warm. But how can one keep warm alone? Though one may be overpowered, two can defend themselves. A cord of three strands is not quickly broken."
+        },
+        {
+            "verse": "James 5:16",
+            "version": "NIV",
+            "text": "Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective."
+        },
+        {
+            "verse": "2 Corinthians 3:17",
+            "version": "NIV",
+            "text": "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "1 Corinthians 10:13: 'No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape, that you may be able to endure it.'",
-            "focus": "Identifying personal temptation patterns",
-            "action": "Create a personal 'temptation journal'. Write down your specific areas of vulnerability and pray over each one, asking God for wisdom and strength.",
-            "prayer": "Lord, reveal to me the areas where I am most vulnerable to temptation. Give me eyes to see the enemy's tactics and the strength to resist. Help me recognize the way of escape You always provide. Amen."
+            "scripture": "James 1:13-15 - 'When tempted, no one should say, \u2018God is tempting me.\u2019...'",
+            "focus": "Recognizing the source of temptation.",
+            "action": "Identify one recurring temptation in your life and write it down. Acknowledge it as a personal battle, not God's fault.",
+            "prayer": "Lord, help me to see temptation clearly today. Give me the honesty to name my struggle and the strength to turn from it."
         },
         "Tuesday": {
-            "scripture": "James 4:7: 'Submit yourselves therefore to God. Resist the devil, and he will flee from you.'",
-            "focus": "Learning to resist temptation",
-            "action": "Memorize a scripture that speaks to your specific area of temptation. Practice reciting it when you feel vulnerable.",
-            "prayer": "Heavenly Father, give me the courage to submit to You and resist the enemy's schemes. Fill me with Your power and help me stand firm. Amen."
+            "scripture": "1 Corinthians 15:33 - 'Do not be misled: \u2018Bad company corrupts good character.\u2019'",
+            "focus": "Evaluating influences.",
+            "action": "Consider the people you spend the most time with. Are they pulling you toward Christ or away? Make one positive adjustment to your social environment.",
+            "prayer": "God, give me wisdom in my relationships. Surround me with people who encourage my faith and help me be a positive influence on others."
         },
         "Wednesday": {
-            "scripture": "Galatians 5:16: 'But I say, walk by the Spirit, and you will not gratify the desires of the flesh.'",
-            "focus": "Walking in the Holy Spirit's power",
-            "action": "Spend extra time in prayer and worship. Ask the Holy Spirit to guide your thoughts and actions throughout the day.",
-            "prayer": "Holy Spirit, fill me and lead me today. Help me to be sensitive to Your voice and to walk in Your power, resisting any temptation that comes my way. Amen."
+            "scripture": "Proverbs 4:15 - 'Avoid it, do not travel on it; turn from it and go on your way.'",
+            "focus": "Creating distance from temptation.",
+            "action": "For the temptation you identified Monday, plan one practical step to avoid the situation or trigger that leads to it.",
+            "prayer": "Father, show me the 'coats' I need to leave behind. Give me the courage to run from situations that compromise my walk with You."
         },
         "Thursday": {
-            "scripture": "Proverbs 3:5-6: 'Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.'",
-            "focus": "Trusting God in moments of weakness",
-            "action": "Identify a trusted Christian friend or mentor who can provide accountability in your area of struggle.",
-            "prayer": "Lord, help me to trust You completely. Show me the people You want to use in my life for support and accountability. Give me humility to be vulnerable. Amen."
+            "scripture": "Psalm 119:11 - 'I have hidden your word in my heart that I might not sin against you.'",
+            "focus": "Arming yourself with Scripture.",
+            "action": "Memorize one short verse that speaks directly to your area of temptation. Write it on a card and review it throughout the day.",
+            "prayer": "Holy Spirit, help me internalize Your Word. Let it be my first defense when temptation comes my way."
         },
         "Friday": {
-            "scripture": "2 Corinthians 10:5: 'We destroy arguments and every lofty opinion raised against the knowledge of God, and take every thought captive to obey Christ.'",
-            "focus": "Controlling thoughts before they become actions",
-            "action": "Practice immediate prayer when tempting thoughts enter your mind. Redirect your thoughts to scripture and worship.",
-            "prayer": "Jesus, help me take every thought captive. Give me the discipline to stop temptation at the thought level and redirect my mind to You. Amen."
+            "scripture": "James 5:16 - 'Therefore confess your sins to each other and pray for each other so that you may be healed.'",
+            "focus": "The power of accountability.",
+            "action": "Pray for the courage to be vulnerable. Consider reaching out to a trusted, mature believer this week to share your struggle and ask for prayer.",
+            "prayer": "Jesus, break my pride and isolation. Lead me to a safe person with whom I can be honest and find support in this battle."
         },
         "Saturday": {
-            "scripture": "Romans 8:37: 'No, in all these things we are more than conquerors through him who loved us.'",
-            "focus": "Celebrating victory in Christ",
-            "action": "Reflect on the areas where God has already given you victory. Write a letter of gratitude to God for His transforming power.",
-            "prayer": "Heavenly Father, thank You that in You, I am more than a conqueror. Remind me of Your faithfulness and the victories You've already won in my life. Strengthen my faith. Amen."
+            "scripture": "2 Corinthians 3:17 - 'Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.'",
+            "focus": "Relying on the Holy Spirit's power.",
+            "action": "Spend 5 minutes in quiet prayer, asking specifically for the Holy Spirit's strength and filling to overcome your temptation.",
+            "prayer": "God, I cannot do this on my own. I yield to Your Spirit today. Baptize me in Your power and give me victory and true freedom in Christ."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/yn618QekOhQ"

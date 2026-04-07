@@ -1,83 +1,98 @@
 {
-    "summaryText": "Wow, what a powerful sermon delivered by Pastor Travis Hearn! Today, he tackles the age-old question that haunts humanity: 'Why is this happening to me?' Pastor Travis breaks down five incredible reasons why God allows pain in our lives, and let me tell you, it's not what you might expect! He starts by revealing that pain isn't a punishment, but a powerful teaching tool. From a childhood lesson about touching a hot iron to understanding life's deeper spiritual lessons, Pastor Travis shows us that God uses our struggles to shape us. Can you imagine that the very thing hurting you right now might be God's way of getting your attention? He reminds us that God whispers in our pleasure but shouts in our pain. The most eye-opening point? God wants to transform our painful experiences into powerful ministries. Just like Joseph's story in the Bible, what the enemy meant for harm, God can use for good! Pastor Travis challenges us to never waste our pain, but to use it as a platform to help others who are going through similar struggles. His personal stories and scriptural insights make this message not just a sermon, but a lifeline for anyone wrestling with life's tough questions.",
+    "summaryText": "Pastor Travis Hearn addressed the universal and deeply personal question, 'Why is this happening to me?' He acknowledged the reality of pain\u2014physical, emotional, relational, and spiritual\u2014in a fallen world and affirmed that God is bigger than any valley, storm, or fire we face. The core of the message was that while we may not know the full 'why,' the Bible gives us purpose for our suffering. Pastor Travis outlined five biblical reasons God allows trials: to teach us life lessons, to get our attention, to teach us to depend on Him, to refine our character, and to give us a ministry to help others. He emphasized that God's grace is sufficient in our weakness and that our deepest hurts can become our greatest calling to comfort others. The sermon concluded with a powerful reminder of Christ's suffering on the cross for our salvation and an encouragement that God walks with us through our own fiery furnaces, preparing us for victory and purpose.",
     "tags": [
         "Suffering",
         "Purpose",
         "Healing"
     ],
     "mainPoints": [
-        "God uses pain to teach life lessons",
-        "Pain gets our attention and draws us closer to God",
-        "Our painful experiences can become powerful ministries"
+        "God allows pain to teach us vital life lessons and to redirect our attention to Him.",
+        "Trials are used by God to build our dependence on His sufficient grace and to refine our character to be more like Christ.",
+        "Our personal pain and healing equip us for a unique ministry of comfort and hope to others who are hurting."
     ],
     "versesMentioned": [
         {
             "verse": "Proverbs 20:30",
-            "text": "Blows and wounds cleanse away evil, and beatings purge the inmost being.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Blows and wounds scrub away evil, and beatings purge the inmost being."
         },
         {
-            "verse": "Psalm 119:71",
-            "text": "It was good for me to be afflicted so that I might learn your decrees.",
-            "version": "NIV"
+            "verse": "Psalm 119:71-72",
+            "version": "NIV",
+            "text": "It was good for me to be afflicted so that I might learn your decrees. The law from your mouth is more precious to me than thousands of pieces of silver and gold."
         },
         {
-            "verse": "2 Corinthians 1:4",
-            "text": "Who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God.",
-            "version": "NIV"
+            "verse": "2 Corinthians 1:8-9",
+            "version": "NIV",
+            "text": "We do not want you to be uninformed, brothers and sisters, about the troubles we experienced in the province of Asia. We were under great pressure, far beyond our ability to endure, so that we despaired of life itself. Indeed, we felt we had received the sentence of death. But this happened that we might not rely on ourselves but on God, who raises the dead."
+        },
+        {
+            "verse": "2 Corinthians 12:8-10",
+            "version": "NIV",
+            "text": "Three times I pleaded with the Lord to take it away from me. But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ\u2019s power may rest on me. That is why, for Christ\u2019s sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
+        },
+        {
+            "verse": "James 1:2-4",
+            "version": "NIV",
+            "text": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything."
+        },
+        {
+            "verse": "Isaiah 48:10",
+            "version": "NIV",
+            "text": "See, I have refined you, though not as silver; I have tested you in the furnace of affliction."
         },
         {
             "verse": "Genesis 50:20",
-            "text": "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives."
+        },
+        {
+            "verse": "2 Corinthians 1:4",
+            "version": "NIV",
+            "text": "who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God."
         },
         {
             "verse": "Isaiah 53:5",
-            "text": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed.",
-            "version": "NIV"
-        },
-        {
-            "verse": "Daniel 3:16-18",
-            "text": "Shadrach, Meshach and Abednego replied to him, 'King Nebuchadnezzar, we do not need to defend ourselves before you. If we are thrown into the blazing furnace, the God we serve is able to deliver us from it, and he will deliver us from Your Majesty's hand. But even if he does not, we want you to know, Your Majesty, that we will not serve your gods or worship the image of gold you have set up.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "James 1:2-4: 'Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.'",
-            "focus": "Understanding that trials are opportunities for growth",
-            "action": "Write down a current challenge you're facing. Reflect on how this might be an opportunity for spiritual growth and character development.",
-            "prayer": "Lord, help me see my current struggles through Your perspective. Give me wisdom to understand that these challenges are not punishments, but opportunities for transformation. Amen."
+            "scripture": "James 1:2-4 (NIV) - 'Consider it pure joy...whenever you face trials of many kinds...'",
+            "focus": "God's purpose in your current difficulty.",
+            "action": "Identify one trial you are facing and write down one way God might be using it to build your character.",
+            "prayer": "Lord, help me to see my struggles through Your eyes. Give me the faith to consider it joy, trusting that You are at work in me."
         },
         "Tuesday": {
-            "scripture": "Romans 8:28: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'",
-            "focus": "Trusting God's redemptive power in difficult situations",
-            "action": "Make a list of recent challenges. Next to each, write a potential positive outcome or lesson God might be teaching you.",
-            "prayer": "Heavenly Father, I trust that You are working even when I cannot see. Help me maintain faith in Your greater plan during uncertain times. Amen."
+            "scripture": "2 Corinthians 12:9 (NIV) - 'My grace is sufficient for you, for my power is made perfect in weakness.'",
+            "focus": "Depending on God's strength, not your own.",
+            "action": "In an area where you feel weak or overwhelmed, consciously pause and say a prayer asking for God's sufficient grace before you act.",
+            "prayer": "Father, I admit my weakness today. I stop relying on myself and choose to rely on You. Let Your power be perfect in my weakness."
         },
         "Wednesday": {
-            "scripture": "2 Corinthians 12:9: 'But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.''",
-            "focus": "Discovering strength in vulnerability and dependence on God",
-            "action": "Identify an area where you feel weak. Surrender this area to God and ask Him to work through your weakness.",
-            "prayer": "God, I am weak, but You are strong. Fill my weakness with Your power and grace. Use me despite my limitations. Amen."
+            "scripture": "2 Corinthians 1:4 (NIV) - '...so that we can comfort those in any trouble with the comfort we ourselves receive from God.'",
+            "focus": "Your pain has equipped you to minister.",
+            "action": "Think of someone who is going through a similar hardship to one you've experienced. Reach out with a text, call, or note to offer comfort.",
+            "prayer": "God, thank You for the comfort You've given me. Show me one person I can encourage today with the same comfort I've received from You."
         },
         "Thursday": {
-            "scripture": "Psalm 34:18: 'The Lord is close to the brokenhearted and saves those who are crushed in spirit.'",
-            "focus": "Finding comfort in God's nearness during pain",
-            "action": "Reach out to someone you know is going through a difficult time. Offer genuine support and prayer.",
-            "prayer": "Lord, teach me to be a vessel of Your comfort. Help me to minister to others in their pain with the same compassion You show me. Amen."
+            "scripture": "Psalm 119:71 (NIV) - 'It was good for me to be afflicted so that I might learn your decrees.'",
+            "focus": "The lessons learned in affliction.",
+            "action": "Reflect on a past painful experience. Write down one specific lesson about God, yourself, or life that you learned through it.",
+            "prayer": "Lord, open my eyes to the valuable lessons You taught me in my past pain. Help me not to waste those experiences but to grow from them."
         },
         "Friday": {
-            "scripture": "Isaiah 48:10: 'See, I have refined you, though not as silver; I have tested you in the furnace of affliction.'",
-            "focus": "Understanding that refinement comes through challenges",
-            "action": "Reflect on a past difficult experience. Journal how that experience shaped your character and brought you closer to God.",
-            "prayer": "Father, thank You for not leaving me as I am. Continue to refine me, burning away anything that doesn't reflect Your image. Amen."
+            "scripture": "Genesis 50:20 (NIV) - 'You intended to harm me, but God intended it for good...'",
+            "focus": "God's redemptive power over evil.",
+            "action": "Release any bitterness toward a person or situation that has hurt you. Verbally or in writing, acknowledge that God can bring good from it.",
+            "prayer": "Heavenly Father, I choose to trust that You can redeem what was meant for harm. I release my hurt to You and ask You to use it for Your good purpose."
         },
         "Saturday": {
-            "scripture": "1 Peter 4:12-13: 'Dear friends, do not be surprised at the fiery trial when it comes, testing you, as though something strange were happening to you. But rejoice inasmuch as you participate in the sufferings of Christ, so that you may be overjoyed when his glory is revealed.'",
-            "focus": "Maintaining hope and perspective during trials",
-            "action": "Create a personal 'testimony wall' - write down past challenges you've overcome, reminding yourself of God's faithfulness.",
-            "prayer": "Lord, help me see my trials as opportunities for growth and testimony. Give me strength to walk through fire with faith and hope. Amen."
+            "scripture": "Isaiah 53:5 (NIV) - '...by his wounds we are healed.'",
+            "focus": "The healing found in Christ's suffering.",
+            "action": "Spend time in quiet gratitude for Jesus' sacrifice. If you are carrying a specific wound, bring it to Him in prayer, asking for His healing touch.",
+            "prayer": "Jesus, thank You for being pierced and crushed for me. I bring my wounds to You today. By Your stripes, I ask for Your healing in my heart, mind, and body."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/UfF_xrwUMXw"

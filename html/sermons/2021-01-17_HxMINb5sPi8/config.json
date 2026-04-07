@@ -1,25 +1,30 @@
 {
-    "summaryText": "What a powerful message from Pastor Travis Hearn about walking through life's valleys! In this sermon, Pastor Travis broke down Psalm 23 with incredible depth, reminding us that God is not just present during our mountain-top moments, but He is especially close during our darkest valleys. PT unpacked five profound truths about God being our ultimate shepherd: He is our comfort, our provider, our strength, our restorer, and our constant companion. Sometimes we feel completely alone in our struggles, but Travis powerfully illustrated that God walks with us through every challenging season. He emphasized that our valleys are not our final destination, but merely a passage - and God is right there with us, guiding us through. What struck me most was his illustration about valleys being just 'shadows', meaning they're often larger and more intimidating in our minds than they are in reality. The key takeaway? Even when life feels overwhelming, God is still sovereignly in control, providing, protecting, and preparing us for something greater.",
+    "summaryText": "Pastor Travis Hearn opened the service with prayer, acknowledging that many in the congregation are navigating difficult seasons, or 'valleys,' in life. He introduced a two-week series titled 'God of the Valleys,' focusing on the timeless comfort of Psalm 23. The message centered on the truth that God is present and active with us in our lowest moments, not just on the mountaintops. Pastor Travis unpacked the metaphor of God as our Shepherd, explaining that like sheep, we are defenseless, prone to wander, and utterly dependent on His care and guidance. He emphasized that valleys are temporary passages we walk 'through,' not permanent destinations, and that God's presence is our ultimate comfort and protection. The sermon provided several key truths about God as our Shepherd: He is our provider who meets all our needs, our strength in times of weakness, and the one who restores our souls. Pastor Travis wove in personal testimony about stepping out in faith when God called him to leave a previous ministry, illustrating the principle of seeking God's kingdom first. He also addressed practical discipleship through the 'litmus tests' of time and tithe, challenging the congregation to examine their priorities. The message concluded with an invitation to trust in Jesus, the Good Shepherd, for salvation, restoration, and guidance through every valley of life.",
     "tags": [
         "Faith",
-        "Suffering",
-        "Hope"
+        "Hope",
+        "Restoration"
     ],
     "mainPoints": [
-        "God is present in our valleys",
-        "Valleys are temporary passages, not permanent destinations",
-        "Our weakness is an opportunity for God's strength to be revealed"
+        "God is our Shepherd; we are like dependent sheep who need His guidance, protection, and care in every season of life.",
+        "God is our comfort and provider in the valleys; He walks with us, defends us, and supplies all our needs according to His wisdom and timing.",
+        "God restores our souls and is our strength; our brokenness and weakness are opportunities for Him to display His power and bring healing and eternal life."
     ],
     "versesMentioned": [
         {
             "verse": "Psalm 23:1-6",
             "version": "NIV",
-            "text": "The Lord is my shepherd, I shall not want. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name's sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows. Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever."
+            "text": "The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name\u2019s sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows. Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever."
         },
         {
-            "verse": "John 10:10-11",
+            "verse": "John 10:14",
             "version": "NIV",
-            "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full. I am the good shepherd. The good shepherd lays down his life for the sheep."
+            "text": "I am the good shepherd; I know my sheep and my sheep know me\u2014"
+        },
+        {
+            "verse": "John 10:27",
+            "version": "NIV",
+            "text": "My sheep listen to my voice; I know them, and they follow me."
         },
         {
             "verse": "Philippians 4:19",
@@ -27,14 +32,19 @@
             "text": "And my God will meet all your needs according to the riches of his glory in Christ Jesus."
         },
         {
-            "verse": "2 Corinthians 12:9-10",
+            "verse": "Luke 12:22-31",
             "version": "NIV",
-            "text": "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me. That is why, for Christ's sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
+            "text": "Then Jesus said to his disciples: 'Therefore I tell you, do not worry about your life, what you will eat; or about your body, what you will wear. For life is more than food, and the body more than clothes. Consider the ravens: They do not sow or reap, they have no storeroom or barn; yet God feeds them. And how much more valuable you are than birds! Who of you by worrying can add a single hour to your life? Since you cannot do this very little thing, why do you worry about the rest? Consider how the wild flowers grow. They do not labor or spin. Yet I tell you, not even Solomon in all his splendor was dressed like one of these. If that is how God clothes the grass of the field, which is here today, and tomorrow is thrown into the fire, how much more will he clothe you\u2014you of little faith! And do not set your heart on what you will eat or drink; do not worry about it. For the pagan world runs after all such things, and your Father knows that you need them. But seek his kingdom, and these things will be given to you as well.'"
         },
         {
-            "verse": "Genesis 32:24-30",
+            "verse": "Malachi 3:10",
             "version": "NIV",
-            "text": "So Jacob was left alone, and a man wrestled with him till daybreak. When the man saw that he could not overpower him, he touched the socket of Jacob's hip so that his hip was wrenched as he wrestled with the man. Then the man said, 'Let me go, for it is daybreak.' But Jacob replied, 'I will not let you go unless you bless me.' The man asked him, 'What is your name?' 'Jacob,' he answered. Then the man said, 'Your name will no longer be Jacob, but Israel, because you have struggled with God and with humans and have overcome.'"
+            "text": "Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,' says the Lord Almighty, 'and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.'"
+        },
+        {
+            "verse": "2 Corinthians 12:9-10",
+            "version": "NIV",
+            "text": "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ\u2019s power may rest on me. That is why, for Christ\u2019s sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
         },
         {
             "verse": "Psalm 51:10",
@@ -49,46 +59,40 @@
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Isaiah 43:2",
-            "version": "NIV",
-            "focus": "Recognizing God's presence during challenging times",
-            "action": "Write down a current challenge you're facing. Spend time reflecting on how God might be walking with you through this difficulty, not just trying to deliver you from it.",
-            "prayer": "Lord, help me see Your presence in my current struggles. Give me eyes to recognize Your work in my life, even when circumstances feel overwhelming."
+            "scripture": "Psalm 23:1 (NIV) - 'The Lord is my shepherd, I lack nothing.'",
+            "focus": "Dependence on God",
+            "action": "Begin your day by consciously acknowledging God as your Shepherd. Write down one worry and consciously release it to His care.",
+            "prayer": "Lord, thank you for being my Shepherd. Help me to trust that with you, I truly lack nothing. Guide my steps today."
         },
         "Tuesday": {
-            "scripture": "James 1:2-4",
-            "version": "NIV",
-            "focus": "Understanding the purpose of life's challenges",
-            "action": "Identify one area of personal growth you've experienced through a past difficult season. Journal about how that challenge ultimately made you stronger.",
-            "prayer": "God, help me view my challenges as opportunities for growth. Transform my perspective from seeing trials as obstacles to seeing them as chances to develop spiritual strength."
+            "scripture": "Psalm 23:4 (NIV) - 'Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.'",
+            "focus": "God's Presence in Difficulty",
+            "action": "Identify a current 'valley' in your life. Spend 5 minutes in quiet reflection, reminding yourself that God is walking through it with you.",
+            "prayer": "God, thank you for your promise to be with me. In my fear or anxiety, remind me of your comforting presence and protection."
         },
         "Wednesday": {
-            "scripture": "Romans 8:28",
-            "version": "NIV",
-            "focus": "Trusting God's redemptive plan",
-            "action": "Make a list of current challenges. Beside each one, write a potential way God might be working for good, even if you can't see it yet.",
-            "prayer": "Heavenly Father, I trust that You are working, even when I cannot see. Help me surrender my understanding and trust Your greater plan."
+            "scripture": "Luke 12:31 (NIV) - 'But seek his kingdom, and these things will be given to you as well.'",
+            "focus": "Kingdom Priorities",
+            "action": "Evaluate your schedule today. Intentionally put the 'big rock' of time with God (prayer, Scripture) first, before other tasks.",
+            "prayer": "Father, forgive me for seeking other things first. Today, I choose to seek your kingdom. Align my desires and priorities with yours."
         },
         "Thursday": {
-            "scripture": "Psalm 34:18",
-            "version": "NIV",
-            "focus": "Finding comfort in God's nearness",
-            "action": "Reach out to someone you know who is going through a difficult season. Offer genuine encouragement and prayer support.",
-            "prayer": "Lord, make me an instrument of Your comfort. Help me see others' pain and respond with Your love and compassion."
+            "scripture": "Philippians 4:19 (NIV) - 'And my God will meet all your needs according to the riches of his glory in Christ Jesus.'",
+            "focus": "God as Provider",
+            "action": "Practice an act of trust in God's provision. This could be giving your tithe, helping someone in need, or simply choosing not to worry about a specific need.",
+            "prayer": "Provider God, I trust that you know my needs better than I do. I release my anxieties about provision to you and thank you for your faithfulness."
         },
         "Friday": {
-            "scripture": "2 Corinthians 4:8-9",
-            "version": "NIV",
-            "focus": "Maintaining hope through challenges",
-            "action": "Create a personal 'testimony wall' - write down past challenges you've overcome, reminding yourself of God's faithfulness.",
-            "prayer": "God, remind me of Your faithfulness. When I feel overwhelmed, help me remember how You've carried me through past trials."
+            "scripture": "2 Corinthians 12:9 (NIV) - 'My grace is sufficient for you, for my power is made perfect in weakness.'",
+            "focus": "Strength in Weakness",
+            "action": "Acknowledge an area where you feel weak, inadequate, or broken. Offer it to God in prayer, asking for His strength to be shown in that very place.",
+            "prayer": "Lord, I am weak in this area. I invite you into my brokenness. Let your power be made perfect here, and use my story for your glory."
         },
         "Saturday": {
-            "scripture": "Philippians 1:6",
-            "version": "NIV",
-            "focus": "Trusting God's ongoing work in our lives",
-            "action": "Spend time in quiet reflection. Ask God to show you areas where He is currently refining and developing you.",
-            "prayer": "Lord, I trust Your process. Continue Your work in me. Reveal the areas where I need growth, and give me the courage to surrender to Your transformative power."
+            "scripture": "Psalm 51:10 (NIV) - 'Create in me a pure heart, O God, and renew a steadfast spirit within me.'",
+            "focus": "Soul Restoration",
+            "action": "Take time for spiritual reflection and rest. Confess anything that hinders your relationship with God and receive His forgiveness and renewal.",
+            "prayer": "Restorer God, create in me a clean heart. Renew my spirit. Heal the broken places and restore to me the joy of your salvation."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/HxMINb5sPi8"

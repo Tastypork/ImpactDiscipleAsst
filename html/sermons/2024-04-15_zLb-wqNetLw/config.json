@@ -1,98 +1,128 @@
 {
-    "summaryText": "Wow, what an incredible message from Pastor Travis about breaking free from fear! In this powerful sermon, Pastor Travis dives deep into understanding how fear operates and how we can overcome it through faith. He reminds us that fear is like a trap that paralyzes, lies, and magnifies our problems, but God has given us a way out. Pastor Travis breaks down how fear works: it stops us in our tracks, tells us lies about our capabilities, and makes mountains out of molehills. But here's the good news - we don't have to live controlled by fear! By stopping feeding our fears and instead feeding our faith, we can experience true freedom. One of the most powerful moments was when he challenged us to take our thoughts captive and replace our worries with worship. Can you imagine how different our lives would look if we truly believed God is bigger than our problems? Pastor Travis reminds us that faith is like a muscle - the more you exercise it, the stronger it becomes. His message is a powerful reminder that we serve a God who is bigger than our fears, and He has already provided us with power, love, and a sound mind.",
+    "summaryText": "Pastor Travis Hearn opened the service by reading from Proverbs, highlighting its purpose to teach wisdom and discipline. He focused on Proverbs 29:25, which teaches that fear and intimidation are a trap, but confidence in the Lord brings safety and elevation. Pastor Travis defined the core problem not as the natural emotion of fear, but as a controlling 'spirit of fear' that paralyzes, lies, and magnifies problems beyond reality. He contrasted this with God's gift of power, love, and a sound mind from 2 Timothy 1:7. Using biblical examples like Joshua, David, Peter, and Elijah, he illustrated how fear can stop God's people in their tracks, make them believe lies, and blow circumstances out of proportion. The sermon offered a two-part prescription from God's word: first, to stop feeding fears by controlling what we consume through media, conversations, and our own thoughts, taking every thought captive to Christ. Second, to actively feed our faith by immersing ourselves in God's word, which grows faith and shrinks fear. He encouraged replacing worry with worship and panic with prayer, setting our minds on things above. Pastor Travis concluded with a pastoral prayer, inviting those struggling with fear to cast their burdens on Jesus and those seeking salvation to make Him first in their lives.",
     "tags": [
+        "Wisdom",
         "Faith",
-        "Fear",
-        "Hope"
+        "Peace"
     ],
     "mainPoints": [
-        "Fear paralyzes and prevents you from walking in God's purpose",
-        "Fear is a liar that magnifies problems beyond reality",
-        "Stop feeding your fears and start feeding your faith"
+        "Fear, when it becomes controlling, is a trap that paralyzes us, lies to us, and magnifies our problems.",
+        "The prescription for fear is to stop feeding it by controlling our thought life and what we allow to influence us.",
+        "We overcome fear by actively feeding our faith through God's Word, replacing worry with worship and setting our minds on Christ."
     ],
     "versesMentioned": [
         {
+            "verse": "Proverbs 1:1-7",
+            "version": "NIV",
+            "text": "The proverbs of Solomon son of David, king of Israel: for gaining wisdom and instruction; for understanding words of insight; for receiving instruction in prudent behavior, doing what is right and just and fair; for giving prudence to those who are simple, knowledge and discretion to the young\u2014 let the wise listen and add to their learning, and let the discerning get guidance\u2014 for understanding proverbs and parables, the sayings and riddles of the wise. The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction."
+        },
+        {
             "verse": "Proverbs 29:25",
-            "text": "Fear of man will prove to be a snare, but whoever trusts in the Lord is kept safe.",
-            "version": "NIV"
+            "version": "TPT",
+            "text": "Fear and intimidation is a trap that holds you back, but when you place your confidence in the Lord, you will be seated in the high place."
         },
         {
-            "verse": "2 Timothy 1:7",
-            "text": "For God has not given us a spirit of fear, but of power and of love and of a sound mind.",
-            "version": "NKJV"
-        },
-        {
-            "verse": "Joshua 1:9",
-            "text": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
-            "version": "NIV"
+            "verse": "Proverbs 29:25",
+            "version": "NIV",
+            "text": "Fear of man will prove to be a snare, but whoever trusts in the Lord is kept safe."
         },
         {
             "verse": "Psalm 34:4",
-            "text": "I sought the Lord, and he answered me; he delivered me from all my fears.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "I sought the Lord, and he answered me; he delivered me from all my fears."
         },
         {
-            "verse": "Proverbs 4:23",
-            "text": "Above all else, guard your heart, for everything you do flows from it.",
-            "version": "NIV"
+            "verse": "2 Timothy 1:7",
+            "version": "NIV",
+            "text": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline."
         },
         {
-            "verse": "Romans 10:17",
-            "text": "Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.",
-            "version": "NIV"
+            "verse": "Joshua 1:6-9",
+            "version": "NIV",
+            "text": "Be strong and courageous, because you will lead these people to inherit the land I swore to their ancestors to give them. Be strong and very courageous. Be careful to obey all the law my servant Moses gave you; do not turn from it to the right or to the left, that you may be successful wherever you go. Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."
         },
         {
-            "verse": "Philippians 4:6-7",
-            "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
-            "version": "NIV"
-        },
-        {
-            "verse": "Matthew 6:33-34",
-            "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well. Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
-            "version": "NIV"
+            "verse": "Lamentations 1:9",
+            "version": "NIV",
+            "text": "Her filthiness clung to her skirts; she did not consider her future. Her fall was astounding; there was none to comfort her. \"Look, Lord, on my affliction, for the enemy has triumphed.\""
         },
         {
             "verse": "2 Corinthians 10:5",
-            "text": "We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ."
+        },
+        {
+            "verse": "Romans 10:17",
+            "version": "NIV",
+            "text": "Consequently, faith comes from hearing the message, and the message is heard through the word about Christ."
+        },
+        {
+            "verse": "Proverbs 4:23",
+            "version": "NIV",
+            "text": "Above all else, guard your heart, for everything you do flows from it."
+        },
+        {
+            "verse": "2 Corinthians 5:7",
+            "version": "NIV",
+            "text": "For we live by faith, not by sight."
+        },
+        {
+            "verse": "Colossians 3:2",
+            "version": "NIV",
+            "text": "Set your minds on things above, not on earthly things."
+        },
+        {
+            "verse": "Philippians 4:6-8",
+            "version": "NIV",
+            "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus. Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable\u2014if anything is excellent or praiseworthy\u2014think about such things."
+        },
+        {
+            "verse": "Matthew 6:33-34",
+            "version": "NIV",
+            "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well. Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
+        },
+        {
+            "verse": "1 Peter 5:7",
+            "version": "NIV",
+            "text": "Cast all your anxiety on him because he cares for you."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Isaiah 41:10: 'So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.'",
-            "focus": "Recognizing God's presence in moments of fear",
-            "action": "Identify one area of your life where fear currently has a stronghold. Write it down and consciously hand it over to God in prayer. Ask Him to replace your fear with His peace.",
-            "prayer": "Heavenly Father, I surrender my fears to You. Replace my anxiety with Your perfect peace and help me trust in Your plan. Give me the courage to walk forward in faith, knowing You are with me. Amen."
+            "scripture": "Proverbs 29:25 (NIV): \"Fear of man will prove to be a snare, but whoever trusts in the Lord is kept safe.\"",
+            "focus": "Identify one area where fear feels like a trap.",
+            "action": "Write down that specific fear and consciously choose to place your trust in the Lord regarding it.",
+            "prayer": "Lord, I name my fear of __________. I choose to trust in You for my safety and peace today."
         },
         "Tuesday": {
-            "scripture": "Psalm 56:3: 'When I am afraid, I put my trust in you.'",
-            "focus": "Transforming fear into trust",
-            "action": "Create a 'faith journal' where you document times God has been faithful in your past. Refer to this when fear tries to overwhelm you.",
-            "prayer": "Lord, help me remember Your faithfulness. When fear rises, remind me of the times You've carried me through. Strengthen my trust in You. Amen."
+            "scripture": "2 Timothy 1:7 (NIV): \"For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.\"",
+            "focus": "Receive God's spirit of power, not fear.",
+            "action": "Memorize this verse. When a fearful thought arises, declare out loud: \"God has given me power, love, and a sound mind.\"",
+            "prayer": "Holy Spirit, fill me afresh with Your power and love. Replace any timidity with Your sound mind."
         },
         "Wednesday": {
-            "scripture": "Joshua 1:9: 'Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.'",
-            "focus": "Developing spiritual courage",
-            "action": "Do one thing today that takes you out of your comfort zone. Approach it with prayer and confidence in God's presence.",
-            "prayer": "God, give me courage today. Help me step forward in faith, knowing You are with me. Replace my fear with Your strength. Amen."
+            "scripture": "2 Corinthians 10:5 (NIV): \"...we take captive every thought to make it obedient to Christ.\"",
+            "focus": "Practice taking thoughts captive.",
+            "action": "Pay attention to your thought patterns. When a worry or fear-based thought enters, consciously stop it and replace it with a truth from God's Word.",
+            "prayer": "Jesus, help me recognize fearful thoughts today. I submit my mind to You and ask for Your truth to reign."
         },
         "Thursday": {
-            "scripture": "1 John 4:18: 'There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love.'",
-            "focus": "Understanding God's perfect love",
-            "action": "Spend time reflecting on God's love. Write down 5 ways you've experienced His love in your life.",
-            "prayer": "Loving Father, help me understand and experience Your perfect love. Teach me to rest in Your love and let it cast out all fear. Amen."
+            "scripture": "Romans 10:17 (NIV): \"Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.\"",
+            "focus": "Feed your faith with God's Word.",
+            "action": "Spend extra time in Scripture today. Read a Psalm or a chapter of Proverbs. Listen to a worship song or sermon.",
+            "prayer": "God, grow my faith as I feed on Your Word. Let it strengthen me and push out fear."
         },
         "Friday": {
-            "scripture": "Philippians 4:13: 'I can do all this through him who gives me strength.'",
-            "focus": "Accessing God's strength over fear",
-            "action": "Make a list of fears that have been holding you back. Next to each, write a corresponding faith declaration.",
-            "prayer": "Lord, I declare Your strength over my weaknesses. Where I am afraid, fill me with Your courage and power. Help me walk in victory. Amen."
+            "scripture": "Philippians 4:6-7 (NIV): \"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.\"",
+            "focus": "Replace anxiety with prayer and thanksgiving.",
+            "action": "Instead of worrying about a situation, stop and pray about it. Include specific thanks for God's past faithfulness.",
+            "prayer": "Father, I bring my request for __________ to You right now. Thank You for hearing me and for Your peace that guards my heart."
         },
         "Saturday": {
-            "scripture": "2 Timothy 1:7: 'For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.'",
-            "focus": "Embracing God's Spirit of power",
-            "action": "Practice a spiritual discipline that challenges you - extended prayer, fasting, or studying Scripture. Focus on receiving God's empowering spirit.",
-            "prayer": "Holy Spirit, fill me with Your power. Replace my spirit of fear with Your spirit of power, love, and sound mind. Guide me today. Amen."
+            "scripture": "Psalm 34:4 (NIV): \"I sought the Lord, and he answered me; he delivered me from all my fears.\"",
+            "focus": "Seek the Lord for deliverance.",
+            "action": "Spend quiet time seeking God's presence. Envision yourself casting your burdens at His feet, as Pastor Travis described.",
+            "prayer": "Lord, I seek You first today. I cast my burdens at Your feet. I trust You to deliver me and answer me. Thank You for Your faithfulness."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/zLb-wqNetLw"

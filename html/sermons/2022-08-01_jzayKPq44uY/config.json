@@ -1,59 +1,113 @@
 {
-    "summaryText": "Wow, what an incredible message about stepping out in faith! Pastor Scott Williams delivered a powerful sermon on 'Walking on Water' that challenges believers to take risks and trust God in every area of life. Using the Biblical narrative of Peter walking on water, Scott breaks down how we can become 'water walkers' through a strategic approach he calls STEP: Seek God's voice, Trust God's voice, Exit the boat, and Pay close attention to Jesus. He vulnerably shares personal stories, like his childhood swimming mishap and his journey of starting a consulting company, to illustrate how stepping out in faith requires courage. The message isn't just about grand gestures, but about daily surrendering our fears and focusing on Jesus instead of our circumstances. Scott reminds us that sometimes we're not dying, we're just drowning - and God is waiting for us to trust Him and step out of our comfort zones. The sermon culminates in a powerful altar call where multiple people surrender their lives to Christ, proving that when we're willing to take risks, God shows up in miraculous ways!",
+    "summaryText": "Guest Speaker Scott Williams opened with a joyful welcome and celebration of Impact Church's unique, diverse worship and upcoming live album recording. He framed the message around the second half of the year as a time for new steps of faith. The sermon centered on the miracle of Jesus walking on water from Matthew 14:22-33, using it as a metaphor for stepping out in faith. Pastor Scott taught that to be a 'water walker,' one must follow a four-step process: first, seek God's voice through prayer and solitude, as Jesus did; second, trust God's voice even when it's difficult, taking courage from His presence; third, exit the boat of comfort and fear to take the risky step of obedience; and fourth, pay close attention to Jesus, keeping our focus on Him and not on the surrounding storms. He emphasized that delayed obedience is disobedience and encouraged the congregation to identify areas where they feel they are 'drowning'\u2014such as debt, insecurity, or unhealthy relationships\u2014and to step out in faith to find God's provision. The message concluded with a powerful call to salvation and a reminder that our worship should not change with our circumstances, as we keep our eyes fixed on Jesus, our destination.",
     "tags": [
         "Faith",
-        "Obedience",
-        "Purpose"
+        "Miracles",
+        "Obedience"
     ],
     "mainPoints": [
-        "Seek God's voice through prayer and listening",
-        "Trust God's voice even when it's uncomfortable",
-        "Exit your comfort zone and take courageous steps of faith",
-        "Keep your eyes focused on Jesus, not your circumstances"
+        "To walk on water in faith, you must first seek God's voice through intentional prayer and solitude.",
+        "Trusting God's voice requires taking courage and stepping out from fear, understanding that delayed obedience is disobedience.",
+        "Keeping your focus on Jesus, not your circumstances, is essential to staying above the storms and walking in faith."
     ],
     "versesMentioned": [
         {
-            "verse": "Matthew 14:22-33",
-            "text": "Immediately Jesus made the disciples get into the boat and go ahead of him to the other side, while he dismissed the crowd. After he dismissed them, he went up on a mountainside by himself to pray. Later that night, he was there alone, and the boat was already a considerable distance from land, buffeted by the waves because the wind was against it. Shortly before dawn, Jesus went out to them, walking on the lake. When the disciples saw him walking on the lake, they were terrified. 'It's a ghost,' they said, and cried out in fear. But Jesus immediately said to them: 'Take courage! It is I. Don't be afraid.' 'Lord, if it's you,' Peter replied, 'tell me to come to you on the water.' 'Come,' he said. Then Peter got down out of the boat, walked on the water and came toward Jesus. But when he saw the wind, he was afraid and, beginning to sink, cried out, 'Lord, save me!' Immediately Jesus reached out his hand and caught him. 'You of little faith,' he said, 'why did you doubt?' And when they climbed into the boat, the wind died down. Then those who were in the boat worshiped him, saying, 'Truly you are the Son of God.'",
-            "version": "NIV"
+            "verse": "Matthew 14:22",
+            "version": "NIV",
+            "text": "Immediately Jesus made the disciples get into the boat and go on ahead of him to the other side, while he dismissed the crowd."
+        },
+        {
+            "verse": "Matthew 14:23",
+            "version": "NIV",
+            "text": "After he had dismissed them, he went up on a mountainside by himself to pray. Later that night, he was there alone,"
+        },
+        {
+            "verse": "Matthew 14:24",
+            "version": "NIV",
+            "text": "and the boat was already a considerable distance from land, buffeted by the waves because the wind was against it."
+        },
+        {
+            "verse": "Matthew 14:25",
+            "version": "NIV",
+            "text": "Shortly before dawn Jesus went out to them, walking on the lake."
+        },
+        {
+            "verse": "Matthew 14:26",
+            "version": "NIV",
+            "text": "When the disciples saw him walking on the lake, they were terrified. \u201cIt\u2019s a ghost,\u201d they said, and cried out in fear."
+        },
+        {
+            "verse": "Matthew 14:27",
+            "version": "NIV",
+            "text": "But Jesus immediately said to them: \u201cTake courage! It is I. Don\u2019t be afraid.\u201d"
+        },
+        {
+            "verse": "Matthew 14:28",
+            "version": "NIV",
+            "text": "\u201cLord, if it\u2019s you,\u201d Peter replied, \u201ctell me to come to you on the water.\u201d"
+        },
+        {
+            "verse": "Matthew 14:29",
+            "version": "NIV",
+            "text": "\u201cCome,\u201d he said. Then Peter got down out of the boat, walked on the water and came toward Jesus."
+        },
+        {
+            "verse": "Matthew 14:30",
+            "version": "NIV",
+            "text": "But when he saw the wind, he was afraid and, beginning to sink, cried out, \u201cLord, save me!\u201d"
+        },
+        {
+            "verse": "Matthew 14:31",
+            "version": "NIV",
+            "text": "Immediately Jesus reached out his hand and caught him. \u201cYou of little faith,\u201d he said, \u201cwhy did you doubt?\u201d"
+        },
+        {
+            "verse": "Matthew 14:32",
+            "version": "NIV",
+            "text": "And when they climbed into the boat, the wind died down."
+        },
+        {
+            "verse": "Matthew 14:33",
+            "version": "NIV",
+            "text": "Then those who were in the boat worshiped him, saying, \u201cTruly you are the Son of God.\u201d"
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Philippians 4:13: 'I can do all this through him who gives me strength.'",
-            "focus": "Identifying areas where I need to step out in faith",
-            "action": "Make a list of 3 things you've been afraid to try. Pray over each one and ask God for courage to take the first step.",
-            "prayer": "Lord, give me the courage to step out of my comfort zone. Help me trust You more than I trust my own fears. Show me where You're calling me to take a risk. Amen."
+            "scripture": "Matthew 14:23 (NIV) - 'After he had dismissed them, he went up on a mountainside by himself to pray.'",
+            "focus": "Seeking God's Voice",
+            "action": "Find 10 minutes of solitude today to pray, asking God to speak to you about one area where He wants you to step out in faith.",
+            "prayer": "Lord, quiet my heart and help me to hear Your voice clearly today. Show me the first step You have for me."
         },
         "Tuesday": {
-            "scripture": "Proverbs 3:5-6: 'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'",
-            "focus": "Learning to trust God's guidance",
-            "action": "Spend time in prayer listening instead of talking. Journal any impressions or thoughts God might be speaking to you.",
-            "prayer": "Father, help me quiet my own thoughts and truly listen to Your voice. Give me wisdom to discern Your leading and the courage to follow. Amen."
+            "scripture": "Matthew 14:27 (NIV) - 'Take courage! It is I. Don\u2019t be afraid.'",
+            "focus": "Trusting God's Voice",
+            "action": "Identify one fear or past hurt that makes it hard for you to trust God. Write it down and consciously choose to release it to Him.",
+            "prayer": "Jesus, I choose to take courage in You. I release my fear of [name the fear] and ask You to replace it with trust in Your faithfulness."
         },
         "Wednesday": {
-            "scripture": "Joshua 1:9: 'Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.'",
-            "focus": "Developing spiritual courage",
-            "action": "Do one thing today that scares you, intentionally stepping out of your comfort zone with prayer and faith.",
-            "prayer": "God, I want to be brave for You. Give me the strength to face my fears and trust that You are with me in every moment. Amen."
+            "scripture": "Matthew 14:29 (NIV) - '\u201cCome,\u201d he said. Then Peter got down out of the boat...'",
+            "focus": "Exiting the Boat",
+            "action": "Take one concrete, practical step toward the 'boat' God is calling you to exit. This could be a difficult conversation, a first draft, or signing up to serve.",
+            "prayer": "God, give me the boldness to exit my comfort zone today. I say 'yes' to Your 'come' and take this first step in obedience."
         },
         "Thursday": {
-            "scripture": "2 Corinthians 5:7: 'For we live by faith, not by sight.'",
-            "focus": "Living beyond what I can physically see",
-            "action": "Make a decision based on faith today, not on what seems logical or comfortable.",
-            "prayer": "Lord, help me see beyond my current circumstances. Increase my faith and help me trust Your perspective over my own. Amen."
+            "scripture": "Matthew 14:30 (NIV) - 'But when he saw the wind, he was afraid and, beginning to sink...'",
+            "focus": "Focusing on Jesus, Not the Storm",
+            "action": "When you feel anxious today, pause and verbally declare: 'My eyes are on Jesus, not my situation.' Write this phrase somewhere you will see it.",
+            "prayer": "Holy Spirit, when the winds of my circumstances blow, redirect my gaze to Jesus. Help me to focus on my destination, not my distraction."
         },
         "Friday": {
-            "scripture": "Isaiah 41:13: 'For I am the Lord your God who takes hold of your right hand and says to you, Do not fear; I will help you.'",
-            "focus": "Recognizing God's constant support",
-            "action": "Write down 5 times God has been faithful to you in the past, then pray for courage for future challenges.",
-            "prayer": "Heavenly Father, thank You for always being with me. Remind me of Your faithfulness when I feel afraid. Give me courage to trust You completely. Amen."
+            "scripture": "Matthew 14:31 (NIV) - 'Immediately Jesus reached out his hand and caught him.'",
+            "focus": "God's Immediate Rescue",
+            "action": "Reflect on a past time when God rescued you. Share that story of His faithfulness with one person today, in person or online.",
+            "prayer": "Thank You, Jesus, for Your immediate, saving hand. I worship You for Your constant faithfulness in my life, past and present."
         },
         "Saturday": {
-            "scripture": "Romans 8:31: 'What, then, shall we say in response to these things? If God is for us, who can be against us?'",
-            "focus": "Celebrating God's power in our lives",
-            "action": "Reflect on the week and journal how you've seen God's hand guiding and protecting you.",
-            "prayer": "Lord, thank You for Your constant presence and love. Help me walk in confidence, knowing You are always with me. Give me boldness to step out in faith. Amen."
+            "scripture": "Matthew 14:33 (NIV) - 'Then those who were in the boat worshiped him, saying, \u201cTruly you are the Son of God.\u201d'",
+            "focus": "Worship in Every Season",
+            "action": "Spend time in worship today, whether through music, prayer, or nature. Make a list of reasons you know Jesus is the Son of God.",
+            "prayer": "God, my worship is not dependent on my circumstances. You are truly the Son of God, and I praise You for who You are."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/jzayKPq44uY"

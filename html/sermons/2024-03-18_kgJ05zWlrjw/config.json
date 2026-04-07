@@ -1,14 +1,14 @@
 {
-    "summaryText": "What an incredible sermon about the transformative power of being 'washed' by God's grace! Pastor Travis Hearn delivered a powerful message diving deep into the biblical understanding of sin, repentance, and baptism. Have you ever felt like your past mistakes are too big for God to forgive? This sermon is for you! PT breaks down the Hebrew words for sin - showing us that sin is essentially 'missing the mark' of God's perfection. But here's the beautiful part: God doesn't just leave us in our mess. Through Jesus' sacrifice, we can be completely washed clean! The sermon takes us through the profound meaning of baptism - not just a religious ritual, but a public declaration of dying to our old self and being raised into a new life in Christ. Pastor Travis reminds us that baptism is about going public with our faith, joining God's family, and celebrating the incredible transformation God does in our lives. The most powerful moment? Understanding that Jesus' blood washes us completely clean - no matter what we've done. This isn't just a message about religious practice; it's about radical redemption and a fresh start with God!",
+    "summaryText": "Pastor Travis Hearn opened by reading Psalm 51, David's prayer of repentance after his grave sins of adultery and murder. He used this passage to introduce the sermon's central theme: being washed clean by God. Pastor Travis explained that the church often avoids talking about sin, but understanding it is crucial because it is the very reason Jesus died. He taught on the three Hebrew words for sin found in Scripture: 'chata' (missing the mark), 'avon' (distorting what is good), and 'pesha' (betraying a relationship). He connected this to the good news of Romans 6:23, that while the wages of sin is death, the free gift of God is eternal life through Jesus. The core of the message was that we cannot cleanse ourselves from sin's guilt and shame through therapy or effort; only the blood of Jesus, shed on the cross, can wash us clean. This cleansing is symbolized through water baptism. Pastor Travis spent the latter part of the sermon explaining the biblical meaning of baptism. He clarified that it is an immersion, not a sprinkling, and outlined four key purposes: it is a symbol of our death to sin and resurrection to new life; a symbol of being washed clean; a public declaration of faith; and a celebration of joining God's family. He passionately invited believers who had not been baptized to take that step, especially during the upcoming Good Friday services, and led the congregation in a prayer of surrender for those ready to give their lives to Christ.",
     "tags": [
         "Salvation",
-        "Forgiveness",
-        "Baptism"
+        "Sin",
+        "Forgiveness"
     ],
     "mainPoints": [
-        "Understanding the different types of sin: missing the mark, distorting what was good, and betraying relationships",
-        "Baptism is a symbol of dying to our old self and being raised in new life",
-        "Being 'washed' by God means complete transformation and forgiveness"
+        "Sin is defined in Scripture as missing God's mark, distorting what is good, and betraying relationship, and its eternal consequence is separation from God.",
+        "Forgiveness and cleansing from sin are a free gift from God, made possible only through the sacrificial blood of Jesus Christ shed on the cross.",
+        "Water baptism is the biblical, public symbol for a believer, representing death to sin, cleansing, public faith, and initiation into God's family."
     ],
     "versesMentioned": [
         {
@@ -17,19 +17,69 @@
             "text": "Have mercy on me, O God, according to your unfailing love; according to your great compassion blot out my transgressions. Wash away all my iniquity and cleanse me from my sin."
         },
         {
+            "verse": "Psalm 51:3-4",
+            "version": "NIV",
+            "text": "For I know my transgressions, and my sin is always before me. Against you, you only, have I sinned and done what is evil in your sight; so you are right in your verdict and justified when you judge."
+        },
+        {
+            "verse": "Psalm 51:5",
+            "version": "NIV",
+            "text": "Surely I was sinful at birth, sinful from the time my mother conceived me."
+        },
+        {
+            "verse": "Psalm 51:7",
+            "version": "NIV",
+            "text": "Cleanse me with hyssop, and I will be clean; wash me, and I will be whiter than snow."
+        },
+        {
+            "verse": "Psalm 51:10",
+            "version": "NIV",
+            "text": "Create in me a pure heart, O God, and renew a steadfast spirit within me."
+        },
+        {
             "verse": "Romans 3:23",
             "version": "NIV",
             "text": "For all have sinned and fall short of the glory of God."
         },
         {
-            "verse": "Acts 2:38",
+            "verse": "Micah 7:19",
             "version": "NIV",
-            "text": "Peter replied, 'Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.'"
+            "text": "You will again have compassion on us; you will tread our sins underfoot and hurl all our iniquities into the depths of the sea."
         },
         {
-            "verse": "Matthew 28:19-20",
+            "verse": "Isaiah 53:5",
             "version": "NIV",
-            "text": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you."
+            "text": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed."
+        },
+        {
+            "verse": "Romans 6:23",
+            "version": "NIV",
+            "text": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
+        },
+        {
+            "verse": "Acts 2:38",
+            "version": "NIV",
+            "text": "Peter replied, \"Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.\""
+        },
+        {
+            "verse": "Acts 2:41",
+            "version": "NIV",
+            "text": "Those who accepted his message were baptized, and about three thousand were added to their number that day."
+        },
+        {
+            "verse": "Acts 22:16",
+            "version": "NIV",
+            "text": "And now what are you waiting for? Get up, be baptized and wash your sins away, calling on his name."
+        },
+        {
+            "verse": "Matthew 28:19",
+            "version": "NIV",
+            "text": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."
+        },
+        {
+            "verse": "1 Corinthians 12:13",
+            "version": "NIV",
+            "text": "For we were all baptized by one Spirit so as to form one body\u2014whether Jews or Gentiles, slave or free\u2014and we were all given the one Spirit to drink."
         },
         {
             "verse": "John 3:16",
@@ -39,40 +89,40 @@
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "2 Corinthians 5:17: 'Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!'",
-            "focus": "Embracing your new identity in Christ",
-            "action": "Write down three things from your 'old self' that you want to leave behind. Spend time in prayer surrendering these to God.",
-            "prayer": "Lord, help me fully embrace the new life You've given me. Show me the areas where I'm still holding onto my old self, and give me the strength to let go and walk in Your newness."
+            "scripture": "Psalm 51:1-2 (NIV) - \"Have mercy on me, O God, according to your unfailing love... Wash away all my iniquity and cleanse me from my sin.\"",
+            "focus": "Acknowledging our need for cleansing.",
+            "action": "Take a moment in prayer to honestly acknowledge one area where you have 'missed the mark' this week.",
+            "prayer": "Lord, thank you for your unfailing love. I confess my need for your cleansing. Have mercy on me and wash me clean."
         },
         "Tuesday": {
-            "scripture": "Romans 6:4: 'We were therefore buried with him through baptism into death in order that, just as Christ was raised from the dead through the glory of the Father, we too may live a new life.'",
-            "focus": "Understanding the symbolism of baptism",
-            "action": "Research the biblical meaning of baptism. If you haven't been baptized, consider speaking with a church leader about taking this step.",
-            "prayer": "God, help me understand the deeper meaning of baptism. Show me what it means to truly die to my old self and live a new life in You."
+            "scripture": "Romans 3:23 (NIV) - \"For all have sinned and fall short of the glory of God.\"",
+            "focus": "Understanding the universality of sin.",
+            "action": "Reflect on the truth that no one is perfect. Release any judgmental thoughts toward others today.",
+            "prayer": "God, help me to see myself and others through your eyes of grace, remembering we all fall short and need your salvation."
         },
         "Wednesday": {
-            "scripture": "Ephesians 1:7: 'In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God's grace.'",
-            "focus": "Receiving God's complete forgiveness",
-            "action": "Make a list of past mistakes or sins you struggle to forgive yourself for. Symbolically 'release' these to God, acknowledging His complete forgiveness.",
-            "prayer": "Heavenly Father, thank You for Your limitless grace. Help me truly accept Your forgiveness and stop carrying the weight of past mistakes."
+            "scripture": "Romans 6:23 (NIV) - \"For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.\"",
+            "focus": "Receiving God's free gift.",
+            "action": "Write down or say out loud: \"My salvation is a free gift from God, paid for by Jesus.\" Thank Him for this gift.",
+            "prayer": "Jesus, thank you for paying the price for my sin. I receive your free gift of eternal life and forgiveness today."
         },
         "Thursday": {
-            "scripture": "1 John 1:9: 'If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.'",
-            "focus": "The power of confession and repentance",
-            "action": "Spend time in honest reflection. Confess any areas where you've been holding back from fully surrendering to God.",
-            "prayer": "Lord, reveal any hidden areas of my heart that need Your cleansing. Give me the courage to be completely honest with You and receive Your healing."
+            "scripture": "Acts 2:38 (NIV) - \"Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins.\"",
+            "focus": "The call to repentance and baptism.",
+            "action": "If you are a believer but have never been baptized, pray about taking that step. If you have been baptized, thank God for that public declaration.",
+            "prayer": "Holy Spirit, if you are prompting me to be baptized, give me courage to obey. Thank you for the symbol of my new life in Christ."
         },
         "Friday": {
-            "scripture": "Colossians 2:12: 'Having been buried with him in baptism, in which you were also raised with him through your faith in the working of God, who raised him from the dead.'",
-            "focus": "Living out your new identity",
-            "action": "Identify one area of your life where you can demonstrate your new identity in Christ. Look for an opportunity to show God's love practically.",
-            "prayer": "God, show me how to live out my new life in Christ today. Give me opportunities to reflect Your love and grace to others."
+            "scripture": "1 Corinthians 12:13 (NIV) - \"For we were all baptized by one Spirit so as to form one body...\"",
+            "focus": "Our unity in God's family.",
+            "action": "Intentionally connect with another believer today\u2014send an encouraging text, make a call, or attend a church gathering.",
+            "prayer": "Father, thank you for making me part of your family. Help me to actively love and build up my brothers and sisters in Christ."
         },
         "Saturday": {
-            "scripture": "Galatians 3:27: 'For all of you who were baptized into Christ have clothed yourselves with Christ.'",
-            "focus": "Being clothed in Christ's identity",
-            "action": "Reflect on how your identity has changed since accepting Christ. Journal about the transformation you've experienced.",
-            "prayer": "Lord, help me fully embrace my identity in You. Continue to transform me and make me more like Jesus each day."
+            "scripture": "Psalm 51:10 (NIV) - \"Create in me a pure heart, O God, and renew a steadfast spirit within me.\"",
+            "focus": "Praying for a renewed heart.",
+            "action": "Prepare your heart for worship. Spend a few quiet minutes asking God to renew your spirit and give you a clean heart.",
+            "prayer": "God, create in me a clean heart. Renew a right and steadfast spirit within me as I prepare to worship you."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/kgJ05zWlrjw"

@@ -1,88 +1,118 @@
 {
-    "summaryText": "Today, Pastor Travis Hearn delivered an incredible message about relationships, specifically focusing on being 'Spiritually Single' and understanding that marriage is truly a ministry! Can you imagine how transformative our relationships could be if we approached them with a servant's heart? Pastor Travis breaks down the journey of relationships, whether you're single or married, with profound wisdom. He emphasizes that contentment isn't found in another person, but in a deep relationship with Jesus Christ. I love how he challenges singles to use this season to grow spiritually and develop character, reminding us that 'the healthier you become while single, the healthier your marriage will be.' For married couples, he provides a powerful blueprint: serve one another, be selfless, and be willing to sacrifice. The most remarkable part? He reveals that true love isn't about getting, but giving - just like Christ gave Himself for the church. Pastor Travis's message isn't just about relationships; it's about becoming more like Jesus in every season of life.",
+    "summaryText": "Pastor Travis Hearn delivered a message titled 'Spiritually Single and Marriage is Ministry,' addressing the entire congregation regardless of relationship status. He began by acknowledging the common 'greener grass syndrome,' where singles may wish to be married and married people may wish to be single, and countered that true fulfillment comes from cultivating one's own life through a relationship with Jesus Christ, not from a change in circumstances. The pastor emphasized that great marriages are built on choice and commitment, not chance, and that the foundational need for everyone is the gift of contentment, as described by the Apostle Paul in Philippians. He taught that God ordained marriage from the beginning, creating man and woman to become 'one flesh,' which calls for a life of selfless service rather than self-centeredness. For singles, he highlighted the unique opportunity to be 'spiritually single'\u2014dedicating undivided time to serving God and growing in character before marriage. For married couples, he outlined three critical characteristics: Service, Selflessness, and Sacrifice, modeled after Christ's humility and love for the church. The message concluded with a call for all to find their ultimate contentment and purpose in Christ, to serve others, and to build relationships on a foundation of biblical love and mutual sacrifice.",
     "tags": [
         "Relationships",
-        "Marriage",
-        "Service"
+        "Love",
+        "Purpose"
     ],
     "mainPoints": [
-        "Develop the gift of service in relationships",
-        "Be selfless and put your partner's needs before your own",
-        "Marriage requires continuous sacrifice and commitment"
+        "Cultivate contentment in Christ rather than comparing your relationship status to others; true peace comes from your relationship with God, not from another person.",
+        "Whether single or married, develop the characteristic of Service\u2014singles have a unique opportunity to serve God with undivided time, and marriage is a call to mutual, selfless service.",
+        "Build relationships on the biblical foundations of Selflessness and Sacrifice, following Christ's model of humility and putting others' interests above your own."
     ],
     "versesMentioned": [
         {
-            "verse": "Genesis 2:18",
-            "text": "The Lord God said, 'It is not good for the man to be alone. I will make a helper suitable for him.'",
-            "version": "NIV"
+            "verse": "Philippians 4:11-13",
+            "version": "NIV",
+            "text": "I am not saying this because I am in need, for I have learned to be content whatever the circumstances. I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want. I can do all this through him who gives me strength."
         },
         {
-            "verse": "Matthew 6:33",
-            "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
-            "version": "NIV"
+            "verse": "Exodus 20:17",
+            "version": "NIV",
+            "text": "You shall not covet your neighbor\u2019s house. You shall not covet your neighbor\u2019s wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbor."
+        },
+        {
+            "verse": "Genesis 2:18",
+            "version": "NIV",
+            "text": "The LORD God said, \u201cIt is not good for the man to be alone. I will make a helper suitable for him.\u201d"
+        },
+        {
+            "verse": "Genesis 2:21-24",
+            "version": "NIV",
+            "text": "So the LORD God caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man\u2019s ribs and then closed up the place with flesh. Then the LORD God made a woman from the rib he had taken out of the man, and he brought her to the man. The man said, \u201cThis is now bone of my bones and flesh of my flesh; she shall be called \u2018woman,\u2019 for she was taken out of man.\u201d That is why a man leaves his father and mother and is united to his wife, and they become one flesh."
+        },
+        {
+            "verse": "Matthew 20:28",
+            "version": "NIV",
+            "text": "just as the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.\u201d"
         },
         {
             "verse": "1 Corinthians 7:32-34",
-            "text": "I want you to be free from concerns. An unmarried man is concerned about the Lord's affairs\u2014how he can please the Lord. But a married man is concerned about the affairs of this world\u2014how he can please his wife\u2014 and his interests are divided.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "I would like you to be free from concern. An unmarried man is concerned about the Lord\u2019s affairs\u2014how he can please the Lord. But a married man is concerned about the affairs of this world\u2014how he can please his wife\u2014 and his interests are divided. An unmarried woman or virgin is concerned about the Lord\u2019s affairs: Her aim is to be devoted to the Lord in both body and spirit. But a married woman is concerned about the affairs of this world\u2014how she can please her husband."
+        },
+        {
+            "verse": "Matthew 6:33",
+            "version": "NIV",
+            "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well."
         },
         {
             "verse": "1 Corinthians 13:4-8",
-            "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails."
         },
         {
-            "verse": "Ephesians 5:21-25",
-            "text": "Submit to one another out of reverence for Christ. Wives, submit yourselves to your own husbands as you do to the Lord. For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior. Now as the church submits to Christ, so also wives should submit to their husbands in everything. Husbands, love your wives, just as Christ loved the church and gave himself up for her.",
-            "version": "NIV"
+            "verse": "1 Corinthians 13:11",
+            "version": "NIV",
+            "text": "When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put the ways of childhood behind me."
         },
         {
-            "verse": "Philippians 4:11-13",
-            "text": "I am not saying this because I am in need, for I have learned to be content whatever the circumstances. I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want. I can do all this through him who gives me strength.",
-            "version": "NIV"
+            "verse": "Philippians 2:3-8",
+            "version": "NIV",
+            "text": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, not looking to your own interests but each of you to the interests of the others. In your relationships with one another, have the same mindset as Christ Jesus: Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing by taking the very nature of a servant, being made in human likeness. And being found in appearance as a man, he humbled himself by becoming obedient to death\u2014 even death on a cross!"
+        },
+        {
+            "verse": "Ephesians 5:21-33",
+            "version": "NIV",
+            "text": "Submit to one another out of reverence for Christ. Wives, submit yourselves to your own husbands as you do to the Lord. For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior. Now as the church submits to Christ, so also wives should submit to their husbands in everything. Husbands, love your wives, just as Christ loved the church and gave himself up for her to make her holy, cleansing her by the washing with water through the word, and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church\u2014 for we are members of his body. \u201cFor this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.\u201d This is a profound mystery\u2014but I am talking about Christ and the church. However, each one of you also must love his wife as he loves himself, and the wife must respect her husband."
+        },
+        {
+            "verse": "Proverbs 19:11",
+            "version": "NIV",
+            "text": "A person\u2019s wisdom yields patience; it is to one\u2019s glory to overlook an offense."
         },
         {
             "verse": "John 3:16",
-            "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "1 Corinthians 10:31: 'So whether you eat or drink or whatever you do, do it all for the glory of God.'",
-            "focus": "Understanding service as a lifestyle, not just an action",
-            "action": "Intentionally look for one opportunity to serve someone without expecting anything in return. This could be helping a coworker, doing an unexpected chore at home, or volunteering.",
-            "prayer": "Lord, help me see opportunities to serve others today. Transform my heart to find joy in serving, just as You served us through Your ultimate sacrifice. Amen."
+            "scripture": "Philippians 4:11-13 - \"I have learned to be content whatever the circumstances.\"",
+            "focus": "Cultivating Contentment",
+            "action": "Identify one area where you tend to compare your life to others. Write down one truth from Philippians 4 to meditate on instead.",
+            "prayer": "Lord, help me find my true contentment in You today, not in my circumstances or relationship status."
         },
         "Tuesday": {
-            "scripture": "Philippians 2:3-4: 'Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.'",
-            "focus": "Practicing selflessness in relationships",
-            "action": "Make a list of your typical reactions in conflict. Identify one area where you can choose humility and understanding over being right.",
-            "prayer": "God, reveal the areas of pride in my heart. Help me to value others above myself and to approach relationships with genuine humility and love. Amen."
+            "scripture": "Matthew 20:28 - \"The Son of Man did not come to be served, but to serve.\"",
+            "focus": "The Heart of a Servant",
+            "action": "Perform one act of service for someone today without expecting anything in return.",
+            "prayer": "Jesus, give me Your heart to serve others selflessly, whether in my family, church, or community."
         },
         "Wednesday": {
-            "scripture": "1 Peter 4:10: 'Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace in its various forms.'",
-            "focus": "Discovering and using your spiritual gifts",
-            "action": "Take a spiritual gifts assessment or reflect on how you can use your unique talents to serve your family, church, or community.",
-            "prayer": "Heavenly Father, show me the gifts You've placed in my life. Help me use them not for my glory, but to build up Your kingdom and serve others. Amen."
+            "scripture": "1 Corinthians 13:4-5 - \"Love is patient, love is kind... it is not self-seeking.\"",
+            "focus": "Love is Selfless",
+            "action": "In a key relationship, consciously choose to put the other person's interest ahead of your own in one decision or conversation.",
+            "prayer": "God, teach me what true, selfless love looks like. Help me to be patient and kind, putting others first."
         },
         "Thursday": {
-            "scripture": "Galatians 5:13: 'You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love.'",
-            "focus": "Understanding freedom through service",
-            "action": "Reach out to someone who might be struggling and offer genuine support, without expecting anything in return.",
-            "prayer": "Lord, teach me what true freedom looks like. Help me serve others with a pure heart, not out of obligation, but out of love. Amen."
+            "scripture": "Philippians 2:3-4 - \"In humility value others above yourselves.\"",
+            "focus": "The Humility of Christ",
+            "action": "Practice active listening. In a conversation today, focus entirely on understanding the other person without formulating your response.",
+            "prayer": "Father, clothe me with the humility of Christ. Help me to genuinely value others above myself."
         },
         "Friday": {
-            "scripture": "Romans 12:10: 'Be devoted to one another in love. Honor one another above yourselves.'",
-            "focus": "Cultivating genuine care and respect",
-            "action": "Practice active listening in your conversations. Focus on understanding others' perspectives without immediately preparing your response.",
-            "prayer": "God, soften my heart. Help me to truly listen and honor others, seeing them through Your eyes of compassion and love. Amen."
+            "scripture": "Ephesians 5:21 - \"Submit to one another out of reverence for Christ.\"",
+            "focus": "Mutual Submission",
+            "action": "If married, find a practical way to serve your spouse today. If single, honor and defer to a leader or friend in a godly way.",
+            "prayer": "Holy Spirit, show me how to live in mutual submission, honoring others as an act of worship to Christ."
         },
         "Saturday": {
-            "scripture": "Colossians 3:23-24: 'Whatever you do, work at it with all your heart, as working for the Lord, not for human masters, since you know that you will receive an inheritance from the Lord as a reward.'",
-            "focus": "Developing a service-oriented mindset",
-            "action": "Reflect on your relationships. Write down three ways you can intentionally serve your family, friends, or community in the coming week.",
-            "prayer": "Lord, renew my perspective on service. Help me see every interaction as an opportunity to reflect Your love and grace. Guide my heart to serve wholeheartedly. Amen."
+            "scripture": "John 3:16 - \"For God so loved the world that he gave...\"",
+            "focus": "The Foundation of Sacrifice",
+            "action": "Reflect on a sacrifice you need to make for the health of a relationship\u2014perhaps forgiving an offense or giving up your time. Take one step toward that sacrifice.",
+            "prayer": "Thank You, God, for Your ultimate sacrifice. Give me the strength to make necessary sacrifices in my relationships, following Your example."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/cApNig0CMpo"

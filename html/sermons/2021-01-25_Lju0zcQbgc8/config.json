@@ -1,88 +1,103 @@
 {
-    "summaryText": "What a powerful message about God's presence in our valleys! Pastor Travis Hearn delivers an incredibly encouraging sermon about navigating life's challenging seasons. Sometimes we think God only shows up on the mountaintops, but PT reminds us that He is just as present - and powerful - in our deepest valleys. Drawing from Psalm 23, he reveals four incredible insights about God's work during our most difficult times: God is growing us, defending us, anointing us, and setting us up for blessing. Can you imagine that the very challenges trying to break you are actually God's method of preparing you for something amazing? PT shares that our greatest ministries are often birthed from our greatest miseries. The sermon powerfully reminds us that no matter what valley you're walking through right now, God is not just with you, but He is actively working on your behalf. What the enemy means for destruction, God will use for your development and destiny!",
+    "summaryText": "Pastor Travis Hearn continued the series 'God of the Valleys' with Part Two, focusing on how God works in our difficult seasons. He began by acknowledging that life is full of valleys\u2014times of loss, sickness, loneliness, and failure\u2014and that Jesus never promised a valley-free life. However, God remains faithful and is still God in the valleys. Pastor Travis used Psalm 23 as the foundation, explaining that valleys have a purpose in God's plan. He offered four key takeaways for when we are in the valley: God is growing us, God is defending us, God is anointing us, and God is setting us up for a blessing. He emphasized that trials produce perseverance and maturity, and that we can trust God to fight our battles for us, as illustrated by David and Goliath and the parting of the Red Sea. The message concluded with a call to trust God's process, even in crushing circumstances, believing that He will turn our shortages into a surplus of blessing. An invitation was given for those in need of prayer or wanting to surrender their lives to Jesus.",
     "tags": [
-        "Suffering",
         "Faith",
-        "Purpose"
+        "Suffering",
+        "Blessings"
     ],
     "mainPoints": [
-        "God is present and purposeful in our life's valleys",
-        "Valleys are opportunities for spiritual growth and transformation",
-        "Trust God's process even when you can't see the outcome"
+        "When we are in the valleys, God is growing us, using trials to produce perseverance and spiritual maturity.",
+        "God is our defender; we do not need to fight our own battles but can trust Him to protect and vindicate us.",
+        "God is anointing and blessing us through our valleys, using the crushing experiences to set us apart for His purpose and future abundance."
     ],
     "versesMentioned": [
         {
             "verse": "Psalm 23:1-6",
-            "text": "The Lord is my shepherd; I shall not want. He makes me lie down in green pastures. He leads me beside still waters. He restores my soul. He leads me in paths of righteousness for his name's sake. Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows. Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the Lord forever.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name\u2019s sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows. Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever."
         },
         {
             "verse": "1 Peter 4:12-13",
-            "text": "Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. But rejoice insofar as you are sharing Christ's sufferings, that you may also be glad when his glory is revealed.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "Dear friends, do not be surprised at the fiery ordeal that has come on you to test you, as though something strange were happening to you. But rejoice inasmuch as you participate in the sufferings of Christ, so that you may be overjoyed when his glory is revealed."
         },
         {
             "verse": "1 Kings 20:28",
-            "text": "And a man of God came near and said to the king of Israel, 'Thus says the Lord, 'Because the Syrians have said, 'The Lord is a god of the hills but he is not a god of the valleys,' therefore I will give all this great multitude into your hand, and you shall know that I am the Lord.'",
-            "version": "ESV"
-        },
-        {
-            "verse": "Isaiah 61:1",
-            "text": "The Spirit of the Lord God is upon me, because the Lord has anointed me to bring good news to the poor; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound.",
-            "version": "ESV"
-        },
-        {
-            "verse": "Isaiah 53:5",
-            "text": "But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "The man of God came up and told the king of Israel, 'This is what the Lord says: \"Because the Arameans think the Lord is a god of the hills and not a god of the valleys, I will deliver this vast army into your hands, and you will know that I am the Lord.\"'"
         },
         {
             "verse": "James 1:2-4",
-            "text": "Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything."
+        },
+        {
+            "verse": "1 Peter 1:7",
+            "version": "NIV",
+            "text": "These have come so that the proven genuineness of your faith\u2014of greater worth than gold, which perishes even though refined by fire\u2014may result in praise, glory and honor when Jesus Christ is revealed."
+        },
+        {
+            "verse": "Isaiah 61:1",
+            "version": "NIV",
+            "text": "The Spirit of the Sovereign Lord is on me, because the Lord has anointed me to proclaim good news to the poor. He has sent me to bind up the brokenhearted, to proclaim freedom for the captives and release from darkness for the prisoners."
+        },
+        {
+            "verse": "Luke 4:18",
+            "version": "NIV",
+            "text": "The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set the oppressed free."
+        },
+        {
+            "verse": "Isaiah 53:5",
+            "version": "NIV",
+            "text": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed."
+        },
+        {
+            "verse": "Genesis 50:20",
+            "version": "NIV",
+            "text": "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives."
         },
         {
             "verse": "Romans 8:28",
-            "text": "And we know that for those who love God all things work together for good, for those who are called according to his purpose.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Psalm 34:18: 'The Lord is close to the brokenhearted and saves those who are crushed in spirit.'",
-            "focus": "Recognizing God's presence in our most difficult moments",
-            "action": "Identify a current valley in your life. Write down three specific ways you've seen God's hand, even subtly, during this challenging season.",
-            "prayer": "Lord, open my eyes to Your presence. Help me trust that You are working, even when I cannot see or understand Your plan. Give me faith to believe in Your goodness. Amen."
+            "scripture": "Psalm 23:1-3 - 'The Lord is my shepherd, I lack nothing... he refreshes my soul.'",
+            "focus": "God's Provision in the Valley",
+            "action": "Identify one area of need or anxiety today and consciously choose to trust God as your provider.",
+            "prayer": "Lord, thank you for being my shepherd. I trust you to lead and provide for me today, especially in [mention your need]. Refresh my soul with your peace."
         },
         "Tuesday": {
-            "scripture": "Isaiah 43:2: 'When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you; when you walk through fire you shall not be burned, and the flame shall not consume you.'",
-            "focus": "Understanding that valleys are opportunities for growth",
-            "action": "Reflect on a past difficult season. Journal how that experience made you stronger and more dependent on God.",
-            "prayer": "Heavenly Father, thank You for never leaving me alone in my struggles. Help me view my challenges as opportunities for spiritual development. Give me wisdom to learn and grow. Amen."
+            "scripture": "James 1:2-4 - 'Consider it pure joy... whenever you face trials of many kinds...'",
+            "focus": "Finding Purpose in Trials",
+            "action": "Reflect on a current difficulty. Write down one way God might be using it to grow your character or faith.",
+            "prayer": "God, help me see my trials through your eyes. Give me the grace to find joy in the process of becoming more like you."
         },
         "Wednesday": {
-            "scripture": "Philippians 4:13: 'I can do all things through him who strengthens me.'",
-            "focus": "Finding strength in God during challenging times",
-            "action": "Make a list of your current challenges. Beside each one, write a prayer of surrender and trust in God's plan.",
-            "prayer": "God, I surrender my fears and challenges to You. Fill me with Your supernatural strength and peace. Help me trust Your process, even when I can't see the full picture. Amen."
+            "scripture": "Psalm 23:5 - 'You prepare a table before me in the presence of my enemies.'",
+            "focus": "Letting God Defend You",
+            "action": "Choose not to engage in an argument or defend yourself in a conflict today. Instead, pray and trust God with the outcome.",
+            "prayer": "Father, I choose to sit at your table of peace. I release my need to defend myself and trust you to fight for me."
         },
         "Thursday": {
-            "scripture": "Jeremiah 29:11: 'For I know the plans I have for you, declares the Lord, plans for welfare and not for evil, to give you a future and a hope.'",
-            "focus": "Believing in God's purposeful plan",
-            "action": "Identify an area where you're struggling to trust God's plan. Spend time in prayer, intentionally releasing control.",
-            "prayer": "Lord, help me trust Your plans are better than my own. Give me patience and peace to wait on Your timing. Strengthen my faith in Your goodness. Amen."
+            "scripture": "Isaiah 61:1 - 'The Spirit of the Sovereign Lord is on me, because the Lord has anointed me...'",
+            "focus": "God's Anointing in Crushing",
+            "action": "Think of a past painful experience. Ask God to show you how He can use that 'crushing' to help or encourage someone else.",
+            "prayer": "Holy Spirit, anoint me today. Take the difficult parts of my story and use them for good, to bring your hope to others."
         },
         "Friday": {
-            "scripture": "2 Corinthians 4:17: 'For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison.'",
-            "focus": "Maintaining perspective during trials",
-            "action": "Practice gratitude. Write down three blessings that have emerged from challenging seasons in your past.",
-            "prayer": "Heavenly Father, help me see my challenges through Your eternal perspective. Transform my view of difficulties into opportunities for growth and glory. Amen."
+            "scripture": "Romans 8:28 - 'And we know that in all things God works for the good of those who love him...'",
+            "focus": "Trusting God's Good Plan",
+            "action": "Declare out loud, 'God is working this for my good,' over a situation that currently feels like a loss or failure.",
+            "prayer": "Lord, I choose to believe your promise. Even when I can't see it, I trust that you are working all things together for my good because I love you."
         },
         "Saturday": {
-            "scripture": "James 1:12: 'Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which God has promised to those who love him.'",
-            "focus": "Developing spiritual resilience",
-            "action": "Create a personal 'faith milestone' journal. Record moments where God has been faithful during past challenges.",
-            "prayer": "God, build my faith. Help me remember Your faithfulness and develop spiritual resilience. Use my trials to draw me closer to You. Amen."
+            "scripture": "Psalm 23:6 - 'Surely your goodness and love will follow me all the days of my life...'",
+            "focus": "Expecting God's Blessing",
+            "action": "Look ahead to the coming week. Write down one specific way you are expecting God's goodness and mercy to show up.",
+            "prayer": "God, I thank you that your goodness and mercy chase me down, even in the valleys. I open my heart to receive the blessings you have for me."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/Lju0zcQbgc8"

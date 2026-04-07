@@ -1,83 +1,118 @@
 {
-    "summaryText": "Wow, what an incredible sermon by Pastor Travis Hearn about second chances and God's limitless potential! Pastor Travis dives deep into the story of Jonah, revealing how God gives us multiple opportunities to get things right. The powerful message reminds us that even when we've messed up, run away, or feel like we've come up short, God is still ready to use us. PT highlights that God's provision isn't always comfortable, but it's always about spiritual growth. Sometimes our 'belly of the fish' moments are actually God's way of redirecting and preparing us for something greater! The sermon beautifully illustrates how when God is in our boat, there are absolutely no limits to what He can do. Whether it's relationships, finances, or personal struggles, Pastor Travis encourages us that this time can be different because God is with us. His passionate teaching about the anointing - how oil comes from crushing olives - is a powerful metaphor that sometimes our most challenging moments are actually God's process of preparing us for an incredible purpose. This sermon is a life-changing reminder that God is not done with us, and He's always ready to give us another chance!",
+    "summaryText": "Pastor Travis Hearn opened by acknowledging the common experience of giving everything in a situation\u2014a relationship, a dream, a battle with depression or addiction\u2014and still coming up short. He invited the congregation into Luke 5, where Jesus tells Peter, a professional fisherman who had caught nothing all night, to let down his nets again. Despite Peter's initial doubt, the result was an overwhelming catch that nearly sank the boats. Pastor Travis declared that the message of the day was 'This Time,' emphasizing that when God is in our situation, the outcome is radically different. He illustrated this point with the story of Jonah, who initially ran from God's command but was given a second chance. The sermon highlighted that God is a God of second chances and that His provision, though sometimes uncomfortable like Jonah's time in the fish, is always for our maturity and His purpose. Pastor Travis taught that when God is involved, there is no limit to what He can do, as seen in biblical miracles like feeding the 5,000 and turning water into wine. He concluded by exploring the meaning of being anointed, connecting it to the crushing process required to produce oil, and ultimately pointing to Jesus as the ultimate Anointed One who sets us free. The call was to stop trying in our own strength and to invite God into our boat, trusting that 'this time' will be different because He is with us.",
     "tags": [
         "Faith",
         "Hope",
-        "Redemption"
+        "Healing"
     ],
     "mainPoints": [
-        "God gives second chances",
-        "When God is in it, there are no limits",
-        "The anointing comes through crushing"
+        "God is a God of second chances, offering us new beginnings and do-overs when we have come up short.",
+        "When God is in our situation, there is no limit to what He can do; our own efforts are limited, but His power is not.",
+        "The anointing of God often comes through a process of crushing or difficulty, preparing and equipping us for His purpose, with Jesus Christ being the ultimate Anointed One."
     ],
     "versesMentioned": [
         {
+            "verse": "Luke 5:1-7",
+            "version": "NIV",
+            "text": "One day as Jesus was standing by the Lake of Gennesaret, the people were crowding around him and listening to the word of God. He saw at the water\u2019s edge two boats, left there by the fishermen, who were washing their nets. He got into one of the boats, the one belonging to Simon, and asked him to put out a little from shore. Then he sat down and taught the people from the boat. When he had finished speaking, he said to Simon, 'Put out into deep water, and let down the nets for a catch.' Simon answered, 'Master, we\u2019ve worked hard all night and haven\u2019t caught anything. But because you say so, I will let down the nets.' When they had done so, they caught such a large number of fish that their nets began to break. So they signaled their partners in the other boat to come and help them, and they came and filled both boats so full that they began to sink."
+        },
+        {
             "verse": "2 Corinthians 5:17",
-            "text": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!"
         },
         {
             "verse": "Jonah 1:1-3",
-            "text": "The word of the Lord came to Jonah son of Amittai: 'Go to the great city of Nineveh and preach against it, because its wickedness has come up before me.' But Jonah ran away from the Lord and headed for Tarshish. He went down to Joppa, where he found a ship bound for that port. After paying the fare, he went aboard and sailed for Tarshish to flee from the Lord.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The word of the Lord came to Jonah son of Amittai: 'Go to the great city of Nineveh and preach against it, because its wickedness has come up before me.' But Jonah ran away from the Lord and headed for Tarshish. He went down to Joppa, where he found a ship bound for that port. After paying the fare, he went aboard and sailed for Tarshish to flee from the Lord."
+        },
+        {
+            "verse": "Jonah 1:4",
+            "version": "NIV",
+            "text": "Then the Lord sent a great wind on the sea, and such a violent storm arose that the ship threatened to break up."
+        },
+        {
+            "verse": "Jonah 1:11-12",
+            "version": "NIV",
+            "text": "The sea was getting rougher and rougher. So they asked him, 'What should we do to you to make the sea calm down for us?' 'Pick me up and throw me into the sea,' he replied, 'and it will become calm. I know that it is my fault that this great storm has come upon you.'"
+        },
+        {
+            "verse": "Jonah 1:17",
+            "version": "NIV",
+            "text": "Now the Lord provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days and three nights."
+        },
+        {
+            "verse": "Jonah 2:10",
+            "version": "NIV",
+            "text": "And the Lord commanded the fish, and it vomited Jonah onto dry land."
+        },
+        {
+            "verse": "Jonah 3:1-3",
+            "version": "NIV",
+            "text": "Then the word of the Lord came to Jonah a second time: 'Go to the great city of Nineveh and proclaim to it the message I give you.' Jonah obeyed the word of the Lord and went to Nineveh. Now Nineveh was a very large city; it took three days to go through it."
+        },
+        {
+            "verse": "Zechariah 4:6",
+            "version": "NIV",
+            "text": "So he said to me, 'This is the word of the Lord to Zerubbabel: \u2018Not by might nor by power, but by my Spirit,\u2019 says the Lord Almighty."
         },
         {
             "verse": "Psalm 23:5",
-            "text": "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.",
-            "version": "NIV"
+            "version": "KJV",
+            "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
         },
         {
-            "verse": "Isaiah 61:1-2",
-            "text": "The Spirit of the Sovereign Lord is on me, because the Lord has anointed me to proclaim good news to the poor. He has sent me to bind up the brokenhearted, to proclaim freedom for the captives and release from darkness for the prisoners.",
-            "version": "NIV"
+            "verse": "Isaiah 61:1",
+            "version": "NIV",
+            "text": "The Spirit of the Sovereign Lord is on me, because the Lord has anointed me to proclaim good news to the poor. He has sent me to bind up the brokenhearted, to proclaim freedom for the captives and release from darkness for the prisoners."
         },
         {
             "verse": "Luke 4:18",
-            "text": "The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set the oppressed free.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set the oppressed free."
         },
         {
             "verse": "Isaiah 53:5",
-            "text": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Jeremiah 29:11: 'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
-            "focus": "Embracing God's second chances",
-            "action": "Reflect on an area of your life where you feel you've 'missed the mark'. Write down how you can surrender this area to God and be open to His redirection.",
-            "prayer": "Lord, I surrender my plans and choose Your direction. Help me trust that Your path is better than my own. Give me the courage to start over and follow Your lead. Amen."
+            "scripture": "Luke 5:4-5 - '...He said to Simon, \u2018Put out into deep water, and let down the nets for a catch.\u2019 Simon answered, \u2018Master, we\u2019ve worked hard all night and haven\u2019t caught anything. But because you say so, I will let down the nets.\u2019\"",
+            "focus": "Obedience in the face of past failure.",
+            "action": "Identify one area where you feel you've come up short. Pray and commit to taking the next step, not in your own strength, but simply because God says so.",
+            "prayer": "Lord, I choose to obey You today, even when my past efforts have failed. I trust that 'this time' is different because You are with me."
         },
         "Tuesday": {
-            "scripture": "Philippians 3:13-14: 'But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.'",
-            "focus": "Moving forward with God",
-            "action": "Identify one past mistake that you're still holding onto. Symbolically 'release' it by writing it down and then destroying the paper, symbolizing God's forgiveness and new beginnings.",
-            "prayer": "Father, I release my past failures to You. Thank You that Your mercies are new every morning. Help me press forward with hope and confidence in Your plan. Amen."
+            "scripture": "2 Corinthians 5:17 - \"Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!\"",
+            "focus": "Embracing your identity as a new creation.",
+            "action": "Write down one 'old' thought pattern or habit you are letting go of. Replace it by writing down the truth of who you are in Christ.",
+            "prayer": "Father, thank You for making me new. Help me to live today in the freedom and fresh start You have given me."
         },
         "Wednesday": {
-            "scripture": "Zechariah 4:6: 'Not by might, nor by power, but by my Spirit, says the Lord Almighty.'",
-            "focus": "Recognizing God's limitless power",
-            "action": "List three current challenges where you feel limited. Pray over each one, specifically asking God to show His power in these situations.",
-            "prayer": "Holy Spirit, I invite Your unlimited power into these areas of my life. Where I am weak, be strong. Where I see no way, make a way. Transform my limitations with Your supernatural ability. Amen."
+            "scripture": "Jonah 3:1-3 - \"Then the word of the Lord came to Jonah a second time... Jonah obeyed the word of the Lord and went...\"",
+            "focus": "Responding to God's second chance.",
+            "action": "Is there a directive from God you have been avoiding? Take one small, practical step today toward obedience.",
+            "prayer": "God of second chances, forgive me for running. Give me the courage, like Jonah, to obey You 'this time.'"
         },
         "Thursday": {
-            "scripture": "Ephesians 3:20: 'Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us.'",
-            "focus": "Expanding our expectation of God's work",
-            "action": "Dream big and write down a 'impossible' prayer request. Commit to praying about this daily, believing God can do more than you can imagine.",
-            "prayer": "Mighty God, expand my vision and my faith. Help me to believe that You are capable of doing the impossible. Increase my capacity to trust in Your unlimited power. Amen."
+            "scripture": "Zechariah 4:6 - \"\u2018Not by might nor by power, but by my Spirit,\u2019 says the Lord Almighty.\"",
+            "focus": "Relying on God's Spirit, not your own strength.",
+            "action": "In a challenging situation today, pause before acting. Consciously say, 'I rely on Your Spirit, Lord, not my own power.'",
+            "prayer": "Holy Spirit, I invite You into my boat today. I relinquish my own might and power, trusting in Yours alone."
         },
         "Friday": {
-            "scripture": "Isaiah 43:19: 'See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland.'",
-            "focus": "Recognizing God's new work",
-            "action": "Look for 'new things' God might be doing in your life. Journal about potential opportunities or shifts you're experiencing.",
-            "prayer": "Lord, open my spiritual eyes to see the new things You are doing. Give me wisdom to recognize and embrace the path You are creating. Make me sensitive to Your leading. Amen."
+            "scripture": "Psalm 23:5 (KJV) - \"...thou anointest my head with oil; my cup runneth over.\"",
+            "focus": "Recognizing God's anointing and abundant provision.",
+            "action": "Anoint your forehead with a drop of oil (like olive oil) as a symbol of dedicating your day to God and receiving His anointing.",
+            "prayer": "Lord, I receive Your anointing today. Let Your favor and blessing flow in and through me until my cup overflows."
         },
         "Saturday": {
-            "scripture": "Romans 8:28: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'",
-            "focus": "Trusting God's redemptive process",
-            "action": "Review your week. Identify moments where you saw God's hand, even in challenging circumstances. Spend time in gratitude and reflection.",
-            "prayer": "Gracious Father, thank You for Your constant work in my life. Help me trust that You are always working, even when I cannot see. Increase my faith and gratitude. Amen."
+            "scripture": "Isaiah 53:5 - \"But he was pierced for our transgressions, he was crushed for our iniquities...\"",
+            "focus": "Finding purpose in difficulty, knowing Christ was crushed for us.",
+            "action": "Reflect on a current difficulty. Instead of asking 'Why?', ask 'God, how are You using this to prepare or anoint me for what's next?'",
+            "prayer": "Jesus, thank You for enduring the cross for me. Help me to see my current challenges through the lens of Your anointing purpose for my life."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/MPM30gGG5Jc"

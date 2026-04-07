@@ -1,63 +1,88 @@
 {
-    "summaryText": "What an incredible message from Pastor Tommy 'Urban D' Kyllonen about loving our neighbors! Sometimes we get so caught up in our own lives that we forget Jesus calls us to love EVERYONE - not just people who look like us, think like us, or vote like us. Pastor Urban D powerfully broke down the parable of the Good Samaritan, challenging us to see beyond our differences and recognize the humanity in every person. Can you imagine stopping to help someone completely different from you, who might even be someone you typically disagree with? That's exactly what the Samaritan did! The key takeaway is that loving our neighbor isn't about convenience or comfort, but about showing Christ's compassion to everyone we encounter. Whether it's buying someone's laundry, paying for coffee, or simply offering a kind word, we can transform our communities by stepping out of our comfort zones. Pastor Urban D's 'Love Our City' initiative in Tampa proves that when we intentionally love our neighbors, miraculous things can happen - hundreds of people have come to know Jesus through simple acts of kindness!",
+    "summaryText": "Guest Speaker Tommy 'Urban D' Kyllonen opened by celebrating the diversity of his family and church, then addressed the rapid changes and increasing division in our cities. He emphasized that as believers, we have the answer to this division and are called to love our neighbors as ourselves, a command that includes everyone regardless of background. Pastor Tommy set up the message with a spoken word piece highlighting the conditional love often practiced today, contrasting it with Jesus's teaching. He then turned to Luke 10, where an expert in religious law asks Jesus how to inherit eternal life and, seeking a loophole, asks 'Who is my neighbor?' In response, Jesus tells the parable of the Good Samaritan. Pastor Tommy explained the historical tension between Jews and Samaritans, noting that Jesus made the 'despised' Samaritan the hero of the story to show that our neighbor is anyone in need, especially those different from us. He shared stories from his church's 'Love Our City' initiative in Tampa, where serving diverse communities through practical acts of kindness opened doors for ministry and changed negative perceptions of the church. The message concluded with a call to action: to pray for neighbors by name, to love people different from ourselves by getting over our own fears, and to find creative opportunities to serve others, letting the Holy Spirit guide us to shine Christ's light in our communities.",
     "tags": [
         "Love",
-        "Relationships",
-        "Compassion"
+        "Empathy",
+        "Purpose"
     ],
     "mainPoints": [
-        "Pray for your neighbors by name",
-        "Love people different from yourself",
-        "Find opportunities to serve your community"
+        "Jesus defines 'neighbor' without loopholes, commanding us to love all people, especially those who are different from us.",
+        "Loving our neighbor is an expression of God's love for us and a practical way to change negative narratives about the church.",
+        "We are called to active, creative outreach through prayer, overcoming personal fear, and finding daily opportunities to serve."
     ],
     "versesMentioned": [
         {
-            "verse": "Luke 10:25-37",
-            "text": "The Parable of the Good Samaritan, where Jesus teaches about loving one's neighbor regardless of ethnic, cultural, or social differences",
-            "version": "NIV"
+            "verse": "Luke 10:25",
+            "version": "NIV",
+            "text": "On one occasion an expert in the law stood up to test Jesus. 'Teacher,' he asked, 'what must I do to inherit eternal life?'"
         },
         {
-            "verse": "Matthew 22:39",
-            "text": "'Love your neighbor as yourself.'",
-            "version": "NIV"
+            "verse": "Luke 10:27",
+            "version": "NIV",
+            "text": "He answered, \"'Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind'; and, 'Love your neighbor as yourself.'\""
+        },
+        {
+            "verse": "Luke 10:29",
+            "version": "NIV",
+            "text": "But he wanted to justify himself, so he asked Jesus, 'And who is my neighbor?'"
+        },
+        {
+            "verse": "Luke 10:30",
+            "version": "NIV",
+            "text": "In reply Jesus said: 'A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead.'"
+        },
+        {
+            "verse": "Luke 10:31-32",
+            "version": "NIV",
+            "text": "A priest happened to be going down the same road, and when he saw the man, he passed by on the other side. So too, a Levite, when he came to the place and saw him, passed by on the other side."
+        },
+        {
+            "verse": "Luke 10:33",
+            "version": "NIV",
+            "text": "But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him."
+        },
+        {
+            "verse": "Luke 10:36-37",
+            "version": "NIV",
+            "text": "'Which of these three do you think was a neighbor to the man who fell into the hands of robbers?' The expert in the law replied, 'The one who had mercy on him.' Jesus told him, 'Go and do likewise.'"
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Galatians 5:14: 'For the entire law is fulfilled in keeping this one command: 'Love your neighbor as yourself.''",
-            "focus": "Understanding the comprehensive nature of neighborly love",
-            "action": "Make a list of 3-5 people in your community who are different from you. Pray specifically for each person and consider one way you could show them unexpected kindness this week.",
-            "prayer": "Lord, open my eyes to see people the way You see them. Help me to love beyond my comfort zone and show Your compassion to those around me. Give me Your heart for my neighbors. Amen."
+            "scripture": "Luke 10:27 - 'Love your neighbor as yourself.'",
+            "focus": "Understanding the Command",
+            "action": "Identify three people in your life who are different from you in some way (background, beliefs, etc.).",
+            "prayer": "Lord, open my eyes to see my neighbors as you see them. Help me understand what it means to love them as I love myself."
         },
         "Tuesday": {
-            "scripture": "Romans 13:10: 'Love does no harm to a neighbor. Therefore love is the fulfillment of the law.'",
-            "focus": "Practicing intentional kindness",
-            "action": "Perform a random act of kindness for someone in your neighborhood or workplace. This could be buying coffee, helping with a task, or simply offering a genuine compliment.",
-            "prayer": "God, make me an instrument of Your love. Help me to see opportunities to bless others and reflect Your character through simple acts of kindness. Guide my interactions today. Amen."
+            "scripture": "Luke 10:29 - 'But he wanted to justify himself, so he asked Jesus, \"And who is my neighbor?\"'",
+            "focus": "Eliminating Loopholes",
+            "action": "Write down the name of one person you have previously excluded from your 'neighbor' list. Commit to praying for them this week.",
+            "prayer": "God, reveal any loopholes I use to avoid loving certain people. Give me a heart that seeks to include, not exclude."
         },
         "Wednesday": {
-            "scripture": "Proverbs 3:27: 'Do not withhold good from those to whom it is due, when it is in your power to act.'",
-            "focus": "Recognizing opportunities to serve",
-            "action": "Research local community service opportunities. Sign up to volunteer or commit to a service project that helps those in need in your community.",
-            "prayer": "Heavenly Father, show me where I can make a difference. Give me a heart of service and the courage to step out of my comfort zone. Use me to bring hope to my community. Amen."
+            "scripture": "Luke 10:33 - 'But a Samaritan... when he saw him, he took pity on him.'",
+            "focus": "Cultivating Compassion",
+            "action": "Perform one small, anonymous act of kindness for a stranger or someone you find difficult.",
+            "prayer": "Holy Spirit, give me compassion that moves me to action. Let me see past differences to the human need in front of me."
         },
         "Thursday": {
-            "scripture": "1 John 3:18: 'Dear children, let us not love with words or speech but with actions and in truth.'",
-            "focus": "Demonstrating love through action",
-            "action": "Reach out to someone who might be struggling or feeling isolated. This could be a call, text, or visit to show you care.",
-            "prayer": "Lord, help me to be more than just a hearer of Your word, but a doer. Give me compassion and wisdom to love others practically and genuinely. Amen."
+            "scripture": "Luke 10:36-37 - 'Go and do likewise.'",
+            "focus": "Active Obedience",
+            "action": "Look for a practical need you can meet for a neighbor, coworker, or family member today.",
+            "prayer": "Jesus, you are my example. Give me the courage to 'go and do,' stepping out of my comfort zone to serve others."
         },
         "Friday": {
-            "scripture": "James 2:8: 'If you really keep the royal law found in Scripture, 'Love your neighbor as yourself,' you are doing right.'",
-            "focus": "Understanding neighborly love as a spiritual discipline",
-            "action": "Reflect on your current attitude towards people different from you. Journal about any prejudices or barriers you might need to overcome.",
-            "prayer": "God, reveal any areas of my heart that are not aligned with Your love. Help me to see people through Your eyes and love without condition or reservation. Amen."
+            "scripture": "Matthew 5:16 - 'Let your light shine before others, that they may see your good deeds and glorify your Father in heaven.'",
+            "focus": "Shining Your Light",
+            "action": "Intentionally start a friendly conversation with someone new, with no agenda other than to show Christ's love.",
+            "prayer": "Father, may my actions today point people to you. Use my words and deeds to shine your light in my city."
         },
         "Saturday": {
-            "scripture": "Matthew 5:44: 'But I tell you, love your enemies and pray for those who persecute you.'",
-            "focus": "Loving beyond boundaries",
-            "action": "Identify someone you find difficult to love. Commit to praying for them and asking God to help you see them with compassion.",
-            "prayer": "Heavenly Father, transform my heart. Help me love not just those who are easy to love, but those who challenge me. Give me Your supernatural ability to love unconditionally. Amen."
+            "scripture": "Philippians 2:3-4 - 'Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, not looking to your own interests but each of you to the interests of the others.'",
+            "focus": "Getting Over Yourself",
+            "action": "Reflect on a recent time fear of rejection held you back. Plan one step to overcome that fear in the coming week.",
+            "prayer": "God, help me to get over myself. Humble my heart and make me more concerned with the interests of others than my own."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/nUG6iGGRZDM"

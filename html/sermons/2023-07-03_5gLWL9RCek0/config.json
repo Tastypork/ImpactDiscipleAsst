@@ -1,93 +1,123 @@
 {
-    "summaryText": "What an incredible message about spiritual warfare from Pastor Travis Hearn! In this powerful sermon about the full armor of God, PT breaks down the critical pieces we need to defend ourselves against the enemy's attacks. Imagine walking through life knowing you're fully equipped to battle spiritual challenges! Pastor Travis unpacks the shield of faith, helmet of salvation, and sword of the spirit with such practical wisdom. He reminds us that the devil's primary target is our mind, and we must be intentional about protecting our thought life. The most striking point? Our greatest battles aren't physical, but spiritual - fought right here in our heads! PT shares personal stories and practical strategies for guarding our hearts, from being selective about what we watch and listen to, to surrounding ourselves with people who push us towards Jesus. The sermon is a powerful call to spiritual readiness, reminding us that we're not helpless victims, but warriors equipped by God Himself to stand firm against any attack.",
+    "summaryText": "Pastor Travis Hearn concluded the series on the armor of God from Ephesians 6, focusing on the spiritual battle believers face and the call to 'fight back' with God's provided protection. He emphasized that the war is not against people but against spiritual forces of darkness, and God equips us to stand. The message centered on three final pieces of armor: the shield of faith, the helmet of salvation, and the sword of the Spirit, concluding with the vital practice of prayer. Pastor Travis explained that faith is our confident hope in God's promises, which the enemy targets to destroy our future. The helmet of salvation protects our minds, which are the primary battlefield, and we must guard what we see and hear. The sword of the Spirit, God's Word, is our offensive weapon, requiring training and use. He illustrated these points with personal stories, object lessons involving church members, and a powerful call to connect with the church family for support. The sermon ended with an invitation to accept salvation through Jesus Christ and a commitment to daily put on the full armor of God.",
     "tags": [
-        "Spiritual Warfare",
         "Faith",
-        "Protection"
+        "Salvation",
+        "Prayer"
     ],
     "mainPoints": [
-        "The enemy targets your faith and mind",
-        "Protect your spiritual gates (eyes and ears)",
-        "Use God's word as both defensive and offensive weapon"
+        "Above all, take up the shield of faith, which is our confident hope in God that quenches the enemy's attacks on our future.",
+        "Put on the helmet of salvation to protect your mind by being selective about what you see and hear, as your greatest spiritual battles are fought there.",
+        "Wield the sword of the Spirit, which is the Word of God, as both an offensive and defensive weapon through study, memorization, and application."
     ],
     "versesMentioned": [
         {
-            "verse": "Ephesians 6:12",
-            "text": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
-            "version": "NIV"
+            "verse": "Ephesians 6:12-18",
+            "version": "NIV",
+            "text": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms. Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place, and with your feet fitted with the readiness that comes from the gospel of peace. In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. Take the helmet of salvation and the sword of the Spirit, which is the word of God. And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord\u2019s people."
         },
         {
             "verse": "Hebrews 11:1",
-            "text": "Now faith is confidence in what we hope for and assurance about what we do not see.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Now faith is confidence in what we hope for and assurance about what we do not see."
         },
         {
             "verse": "James 1:6",
-            "text": "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind."
         },
         {
             "verse": "Proverbs 3:5-6",
-            "text": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+        },
+        {
+            "verse": "Proverbs 4:23",
+            "version": "NIV",
+            "text": "Above all else, guard your heart, for everything you do flows from it."
         },
         {
             "verse": "Isaiah 54:17",
-            "text": "No weapon forged against you will prevail, and you will refute every tongue that accuses you. This is the heritage of the servants of the Lord, and this is their vindication from me, declares the Lord.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "no weapon forged against you will prevail, and you will refute every tongue that accuses you. This is the heritage of the servants of the LORD, and this is their vindication from me, declares the LORD."
         },
         {
-            "verse": "Matthew 4:4",
-            "text": "Jesus answered, 'It is written: Man shall not live on bread alone, but on every word that comes from the mouth of God.'",
-            "version": "NIV"
+            "verse": "Proverbs 4:20-22",
+            "version": "NIV",
+            "text": "My son, pay attention to what I say; turn your ear to my words. Do not let them out of your sight, keep them within your heart; for they are life to those who find them and health to one\u2019s whole body."
         },
         {
-            "verse": "2 Timothy 3:16-17",
-            "text": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work.",
-            "version": "NIV"
+            "verse": "Psalm 119:37",
+            "version": "NIV",
+            "text": "Turn my eyes away from worthless things; preserve my life according to your word."
+        },
+        {
+            "verse": "Luke 6:45",
+            "version": "NIV",
+            "text": "A good man brings good things out of the good stored up in his heart, and an evil man brings evil things out of the evil stored up in his heart. For the mouth speaks what the heart is full of."
+        },
+        {
+            "verse": "Matthew 4:1-11",
+            "version": "NIV",
+            "text": "Then Jesus was led by the Spirit into the wilderness to be tempted by the devil. After fasting forty days and forty nights, he was hungry. The tempter came to him and said, 'If you are the Son of God, tell these stones to become bread.' Jesus answered, 'It is written: \"Man shall not live on bread alone, but on every word that comes from the mouth of God.\"' Then the devil took him to the holy city and had him stand on the highest point of the temple. 'If you are the Son of God,' he said, 'throw yourself down. For it is written: \"He will command his angels concerning you, and they will lift you up in their hands, so that you will not strike your foot against a stone.\"' Jesus answered him, 'It is also written: \"Do not put the Lord your God to the test.\"' Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their splendor. 'All this I will give you,' he said, 'if you will bow down and worship me.' Jesus said to him, 'Away from me, Satan! For it is written: \"Worship the Lord your God, and serve him only.\"' Then the devil left him, and angels came and attended him."
+        },
+        {
+            "verse": "2 Timothy 3:16",
+            "version": "NIV",
+            "text": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness."
+        },
+        {
+            "verse": "Ephesians 3:20",
+            "version": "NIV",
+            "text": "Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us."
+        },
+        {
+            "verse": "Philippians 2:8-10",
+            "version": "NIV",
+            "text": "And being found in appearance as a man, he humbled himself by becoming obedient to death\u2014 even death on a cross! Therefore God exalted him to the highest place and gave him the name that is above every name, that at the name of Jesus every knee should bow, in heaven and on earth and under the earth."
         },
         {
             "verse": "Romans 10:9",
-            "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Ephesians 6:10: 'Finally, be strong in the Lord and in his mighty power.'",
-            "focus": "Recognizing spiritual battles",
-            "action": "Make a list of areas in your life where you feel spiritually attacked. Pray specifically over each area, declaring God's protection.",
-            "prayer": "Lord, reveal to me the spiritual battles I'm facing. Give me wisdom to recognize the enemy's tactics and courage to stand firm in Your strength. Amen."
+            "scripture": "Ephesians 6:16 - 'In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one.'",
+            "focus": "Shield of Faith",
+            "action": "Identify one area where you are doubting God's promise. Write down a scripture that speaks to that promise and declare your faith in it out loud.",
+            "prayer": "Lord, I take up the shield of faith today. Help me to trust You completely and extinguish every doubt the enemy sends my way."
         },
         "Tuesday": {
-            "scripture": "Psalm 101:3: 'I will not look with approval on anything that is vile. I hate what faithless people do; I will have no part in it.'",
-            "focus": "Guarding your spiritual gates",
-            "action": "Audit your media consumption. Delete apps or unfollow social media accounts that don't align with your spiritual growth.",
-            "prayer": "God, help me be intentional about what I allow into my mind. Give me discernment to choose content that honors You. Amen."
+            "scripture": "Proverbs 4:23 - 'Above all else, guard your heart, for everything you do flows from it.'",
+            "focus": "Helmet of Salvation - Guarding Your Mind",
+            "action": "Audit your media intake for one day. Unfollow one social media account or avoid one type of media that does not align with God's truth.",
+            "prayer": "God, help me guard my heart and mind today. Give me wisdom to choose what I see and hear, filling me with Your thoughts."
         },
         "Wednesday": {
-            "scripture": "Philippians 4:8: 'Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable\u2014if anything is excellent or praiseworthy\u2014think about such things.'",
-            "focus": "Cultivating a positive mindset",
-            "action": "Replace one negative thought pattern with a scripture-based affirmation. Write it down and repeat it throughout the day.",
-            "prayer": "Lord, transform my thought life. Help me take every thought captive and align it with Your truth. Amen."
+            "scripture": "Hebrews 4:12 - 'For the word of God is alive and active. Sharper than any double-edged sword...'",
+            "focus": "Sword of the Spirit",
+            "action": "Memorize one new verse of scripture. Write it on a card and carry it with you, reviewing it throughout the day.",
+            "prayer": "Holy Spirit, make Your Word alive in me today. Help me to hide it in my heart and use it as my weapon and defense."
         },
         "Thursday": {
-            "scripture": "1 Peter 5:8: 'Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.'",
-            "focus": "Spiritual awareness",
-            "action": "Practice daily prayer warfare. Spend 15 minutes praying specifically against spiritual attacks in your life and the lives of those around you.",
-            "prayer": "Father, make me alert to the enemy's schemes. Give me spiritual discernment and the courage to stand firm in Your power. Amen."
+            "scripture": "Ephesians 6:18 - 'And pray in the Spirit on all occasions with all kinds of prayers and requests.'",
+            "focus": "Praying Always",
+            "action": "Set a timer to pause and pray for 5 minutes at three different points in your day, not just for yourself but for other believers.",
+            "prayer": "Father, teach me to pray continually. I lift up my church family and my needs to You, trusting in Your power."
         },
         "Friday": {
-            "scripture": "2 Corinthians 10:4-5: 'The weapons we fight with are not the weapons of the world. On the contrary, they have divine power to demolish strongholds. We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ.'",
-            "focus": "Understanding spiritual weapons",
-            "action": "Memorize one scripture that directly counters a recurring negative thought or spiritual struggle.",
-            "prayer": "God, equip me with Your spiritual weapons. Help me recognize and tear down strongholds that keep me from Your purpose. Amen."
+            "scripture": "James 1:6 - 'But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind.'",
+            "focus": "Unwavering Belief",
+            "action": "Reflect on a past prayer God answered. Thank Him for it, and use that memory to strengthen your faith for a current need.",
+            "prayer": "Jesus, I choose to believe and not doubt. Stabilize my heart with Your faithfulness. I trust You with my future."
         },
         "Saturday": {
-            "scripture": "Romans 8:37: 'No, in all these things we are more than conquerors through him who loved us.'",
-            "focus": "Celebrating spiritual victory",
-            "action": "Journal about a recent spiritual victory. Reflect on how God has been faithful in your battles.",
-            "prayer": "Lord, thank You that You always lead me in triumph. Help me walk in the victory You've already won for me. Amen."
+            "scripture": "Psalm 119:37 - 'Turn my eyes away from worthless things; preserve my life according to your word.'",
+            "focus": "Connection and Purity",
+            "action": "Intentionally connect with another believer, either in person, by phone, or by attending a church gathering. Encourage one another.",
+            "prayer": "God, turn my eyes to what is eternal. Help me build life-giving connections with Your people and find my strength in community."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/5gLWL9RCek0"

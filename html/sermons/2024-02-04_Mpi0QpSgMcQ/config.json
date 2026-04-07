@@ -1,108 +1,113 @@
 {
-    "summaryText": "Today, Pastor Travis Hearn delivered an incredibly powerful and hope-filled message about overcoming life's giants! Drawing from Isaiah 43, PT shared his personal journey of surviving a brain bleed and stroke, transforming a potentially devastating medical diagnosis into a testimony of God's miraculous power. The sermon, titled 'This Is What the Lord Says', was a passionate reminder that no matter what voices of fear, doubt, or discouragement we hear, God's word and promise are ultimately supreme. Pastor Travis used the story of David and Goliath to illustrate how courage isn't the absence of fear, but our response to it. He brilliantly compared Christians to either eagles or chickens - those who soar above challenges versus those who remain ground-bound by fear. The most profound moment? When he declared that God doesn't just deliver us FROM fires, but walks WITH us THROUGH them. His personal testimony of medical professionals saying his condition was 'irreversible', contrasted with his declaration that 'God reverses the irreversible', was spine-tingling and faith-building. This sermon wasn't just a message - it was a powerful declaration of hope, resilience, and God's unbreakable promises!",
+    "summaryText": "Pastor Travis Hearn opened the service by reading Isaiah 43:1-2, declaring a message titled 'This Is What the Lord Says.' He began by acknowledging the 'giant voices' many face\u2014fear, discouragement, hopelessness\u2014shouting about failed marriages, addiction, anxiety, and illness. He then shared his personal testimony of suffering a severe hemorrhagic stroke 15 months prior, where doctors warned of irreversible damage, but he stood as a testament to God's power to 'reverse the irreversible.' The core message was that God's word is the ultimate authority over any other voice. Pastor Travis offered three pieces of encouragement from the Isaiah text. First, 'Do not fear,' because God gives a peace the world cannot offer. He illustrated this with the story of David and Goliath, emphasizing that David's courage came from focusing on God's size, not the giant's, and that enemy voices only come when you are a threat. Second, 'You are going to get through it.' He highlighted the word 'when' in Isaiah, indicating our trials are temporary. The 'pass through' stage, though difficult, is where faith is tested and power is developed, likening it to the waiting in Isaiah 40:31 that renews strength and allows us to 'soar like eagles' instead of acting in fear 'like chickens.' Third, 'God is going to go through it with you.' He paralleled Isaiah's promise with Psalm 23, reminding the church that Jesus is the Good Shepherd who is with us even in the 'valley of the shadow of death,' which is just a shadow because the light of Christ is present. He concluded with an altar call, inviting those who had not yet given their lives to Jesus to do so, and a prayer of gratitude for God's faithful word and presence in our passing through.",
     "tags": [
         "Faith",
-        "Healing",
-        "Courage"
+        "Hope",
+        "Miracles"
     ],
     "mainPoints": [
-        "Do not fear - God is with you",
-        "You are going to get through this challenge",
-        "God will go through the challenge with you"
+        "Do not fear the 'giant voices' of life, but listen to and trust in what the Lord says, finding peace in His authority.",
+        "You will get through your trial; the 'pass through' stage is temporary and is where your faith is tested and your spiritual power is developed.",
+        "God promises to go through the difficulty with you; as your Shepherd, He is present even in the darkest valleys, which are only shadows in His light."
     ],
     "versesMentioned": [
         {
             "verse": "Isaiah 43:1-2",
-            "text": "But now, this is what the Lord says\u2014he who created you, Jacob, he who formed you, Israel: 'Do not fear, for I have redeemed you; I have summoned you by name; you are mine. When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But now, this is what the Lord says\u2014 he who created you, Jacob, he who formed you, Israel: 'Do not fear, for I have redeemed you; I have summoned you by name; you are mine. When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze.'"
         },
         {
             "verse": "Isaiah 55:11",
-            "text": "So shall my word be that goes forth from my mouth; it shall not return to me empty, but it shall accomplish what I please, and it shall prosper in the thing for which I sent it.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "so is my word that goes out from my mouth: It will not return to me empty, but will accomplish what I desire and achieve the purpose for which I sent it."
         },
         {
             "verse": "John 14:27",
-            "text": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid."
         },
         {
             "verse": "1 Samuel 17:26",
-            "text": "David asked the men standing near him, 'What will be done for the man who kills this Philistine and removes this disgrace from Israel? Who is this uncircumcised Philistine that he should defy the armies of the living God?'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "David asked the men standing near him, 'What will be done for the man who kills this Philistine and removes this disgrace from Israel? Who is this uncircumcised Philistine that he should defy the armies of the living God?'"
+        },
+        {
+            "verse": "1 Samuel 17:32",
+            "version": "NIV",
+            "text": "David said to Saul, 'Let no one lose heart on account of this Philistine; your servant will go and fight him.'"
         },
         {
             "verse": "Psalm 103:2",
-            "text": "Praise the Lord, my soul, and forget not all his benefits\u2014",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Praise the Lord, my soul, and forget not all his benefits\u2014"
         },
         {
             "verse": "Psalm 77:11",
-            "text": "I will remember the deeds of the Lord; yes, I will remember your miracles of long ago.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "I will remember the deeds of the Lord; yes, I will remember your miracles of long ago."
         },
         {
             "verse": "Isaiah 40:31",
-            "text": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "but those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."
         },
         {
-            "verse": "Psalm 23:1-6",
-            "text": "The Lord is my shepherd, I shall not want. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name's sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows. Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever.",
-            "version": "NIV"
+            "verse": "Psalm 23:1-4",
+            "version": "NIV",
+            "text": "The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name\u2019s sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
         },
         {
             "verse": "John 10:14",
-            "text": "I am the good shepherd; I know my sheep and my sheep know me\u2014",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "I am the good shepherd; I know my sheep and my sheep know me\u2014"
         },
         {
             "verse": "John 10:27",
-            "text": "My sheep listen to my voice; I know them, and they follow me.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "My sheep listen to my voice; I know them, and they follow me."
         },
         {
             "verse": "John 8:12",
-            "text": "When Jesus spoke again to the people, he said, 'I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "When Jesus spoke again to the people, he said, 'I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.'"
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Isaiah 41:10: 'So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.'",
-            "focus": "Identifying current fears and surrendering them to God",
-            "action": "Make a list of your current fears. Next to each fear, write a declaration of faith and trust in God's ability to overcome that fear.",
-            "prayer": "Heavenly Father, I surrender my fears to You. Give me the courage to trust You completely, even when circumstances seem overwhelming. Help me to focus on Your promises instead of my fears. Amen."
+            "scripture": "Isaiah 43:1-2 (NIV) - 'Do not fear, for I have redeemed you...'",
+            "focus": "God's promise of presence in difficulty.",
+            "action": "Identify one 'giant voice' of fear or discouragement you are hearing today. Write it down, then write 'This is what the Lord says:' next to it, followed by a promise from Scripture.",
+            "prayer": "Lord, thank you that you are with me. Help me to silence the voice of fear by listening to your voice of truth today."
         },
         "Tuesday": {
-            "scripture": "Philippians 4:13: 'I can do all this through him who gives me strength.'",
-            "focus": "Recognizing God's strength in our weaknesses",
-            "action": "Identify one personal challenge you're currently facing. Journal about how God might be using this challenge to develop your spiritual strength.",
-            "prayer": "Lord, transform my perspective on my current challenges. Help me see them as opportunities for growth and spiritual development. Fill me with Your supernatural strength today. Amen."
+            "scripture": "1 Samuel 17:32 (NIV) - 'Let no one lose heart... your servant will go and fight him.'",
+            "focus": "Courage in the face of giants.",
+            "action": "Recall a past challenge where God gave you victory. Write it down as a reminder of His faithfulness for your current situation.",
+            "prayer": "God, give me the courage of David. Remind me of your past faithfulness so I can face today's challenge with confidence in you."
         },
         "Wednesday": {
-            "scripture": "Joshua 1:9: 'Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.'",
-            "focus": "Cultivating courage through faith",
-            "action": "Do one thing today that scares you, trusting God's presence and strength will carry you through.",
-            "prayer": "God, give me boldness and courage today. Help me step out in faith, knowing that You are always with me. Replace my fear with trust and confidence in Your plan. Amen."
+            "scripture": "Isaiah 40:31 (NIV) - '...those who hope in the Lord will renew their strength.'",
+            "focus": "Soaring in the 'pass through' stage.",
+            "action": "Evaluate your response to a current difficulty. Are you reacting in fear ('like a chicken') or in faith ('like an eagle')? Choose one practical step of faith to take today.",
+            "prayer": "Father, in this waiting period, renew my strength. Help me to wait on you with hope and to soar above my circumstances by faith."
         },
         "Thursday": {
-            "scripture": "2 Corinthians 4:16-18: 'Therefore we do not lose heart. Though outwardly we are wasting away, yet inwardly we are being renewed day by day.'",
-            "focus": "Maintaining hope during challenging seasons",
-            "action": "Create a 'miracle journal' documenting past ways God has been faithful in your life. Review this journal when facing current challenges.",
-            "prayer": "Father, remind me of Your faithfulness. Help me focus on Your promises instead of my problems. Renew my hope and strengthen my faith today. Amen."
+            "scripture": "Psalm 23:4 (NIV) - 'Even though I walk through the darkest valley, I will fear no evil, for you are with me.'",
+            "focus": "God's companionship in the valley.",
+            "action": "Memorize Psalm 23:4. Throughout the day, when you feel alone or afraid, quietly recite this verse to yourself.",
+            "prayer": "Shepherd, thank you for walking with me. When I am in the shadowy places, help me to remember that you are right beside me, guiding and comforting me."
         },
         "Friday": {
-            "scripture": "Psalm 34:18: 'The Lord is close to the brokenhearted and saves those who are crushed in spirit.'",
-            "focus": "Finding comfort in God's presence during difficult times",
-            "action": "Reach out to someone going through a challenging season. Offer genuine encouragement and prayer support.",
-            "prayer": "Lord, use me as an instrument of Your comfort and hope. Help me see others' pain and respond with Your love and compassion. Give me wisdom to support those around me. Amen."
+            "scripture": "John 10:27 (NIV) - 'My sheep listen to my voice; I know them, and they follow me.'",
+            "focus": "Discerning and following the Shepherd's voice.",
+            "action": "Spend 5 minutes in quiet prayer today, asking God to help you distinguish His voice from the many other voices. Journal any scripture or thought that comes to mind.",
+            "prayer": "Good Shepherd, train my ear to recognize your voice above all others. Help me to stop following the crowd and to follow you alone."
         },
         "Saturday": {
-            "scripture": "Romans 8:28: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'",
-            "focus": "Trusting God's redemptive plan",
-            "action": "Spend time in quiet reflection, asking God to reveal how He might be working in your current challenges. Write down potential ways God could be transforming your situation.",
-            "prayer": "Heavenly Father, I trust Your plan, even when I cannot see it. Help me believe that You are working all things together for my good. Give me patience and faith to wait on Your perfect timing. Amen."
+            "scripture": "Psalm 77:11 (NIV) - 'I will remember the deeds of the Lord; yes, I will remember your miracles of long ago.'",
+            "focus": "Remembering God's miracles.",
+            "action": "Create a 'Miracles of God' list on your phone or in a journal. Start by writing down at least three specific times God has helped, healed, or provided for you.",
+            "prayer": "God, I choose to remember your wonderful deeds. Let my list of your miracles build my faith for the future you have for me."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/Mpi0QpSgMcQ"

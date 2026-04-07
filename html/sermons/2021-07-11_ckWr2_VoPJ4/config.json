@@ -1,88 +1,108 @@
 {
-    "summaryText": "Wow, what an incredible message from Pastor Travis Hearn about feeling overlooked! Sometimes in life, we feel invisible, like God doesn't see us or our struggles. PT brilliantly breaks down what to do when you feel hidden or forgotten. He shares a powerful personal story about being the last picked at 'Chicken Park' and transforms that painful memory into a profound spiritual lesson. The sermon's core message? God isn't ignoring you - He's PREPARING you! Just like David was overlooked by his own family but hand-picked by God, you might be in a season of preparation, not punishment. Pastor Travis provides four incredible strategies for those feeling unseen: grow your character, sharpen your skills, develop a fruitful network, and most importantly, continue growing your relationship with God. The most transformative moment? When he reminds us that true living comes from GIVING, not getting. Whether you're feeling overlooked in your career, relationships, or spiritual journey, this sermon is a lifeline of hope and divine strategy!",
+    "summaryText": "Pastor Travis Hearn opened the service with prayer, thanking God for the freedom to worship and acknowledging believers around the world who face persecution. He then addressed the common feeling of being overlooked\u2014whether by people, in unanswered prayers, or in life's disappointments. Using personal stories from his youth and examples from the Bible like David, Pastor Travis emphasized that God sees us even when we feel hidden. The core message was that feeling overlooked is not a sign of God's absence, but often a season where God is preparing us for His perfect timing. He provided four practical steps to take during such seasons: continue growing in character, continue sharpening skills, continue developing a godly network, and continue growing in your relationship with God. The sermon concluded with a call to pursue a personal relationship with Jesus, illustrated by a story of leading a professional athlete to faith, and an invitation for anyone to surrender their life to Christ.",
     "tags": [
         "Purpose",
         "Identity",
-        "Growth"
+        "Faith"
     ],
     "mainPoints": [
-        "God sees you even when others overlook you",
-        "Use seasons of hiddenness to develop character and skills",
-        "Pursue a relationship with God, not just what He can do for you"
+        "When you feel overlooked, it may be that God is hiding you for His perfect timing and a greater purpose.",
+        "Use seasons of hiddenness to grow in character, skills, godly networks, and your relationship with God.",
+        "True fulfillment in life comes not from getting, but from giving your life away in relationship with Christ."
     ],
     "versesMentioned": [
         {
             "verse": "1 Samuel 16:7",
-            "text": "But the Lord said to Samuel, 'Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But the Lord said to Samuel, 'Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.'"
         },
         {
             "verse": "John 15:8",
-            "text": "This is to my Father's glory, that you bear much fruit, showing yourselves to be my disciples.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "This is to my Father\u2019s glory, that you bear much fruit, showing yourselves to be my disciples."
         },
         {
             "verse": "Galatians 5:22-23",
-            "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law."
+        },
+        {
+            "verse": "Ecclesiastes 10:10",
+            "version": "NIV",
+            "text": "If the ax is dull and its edge unsharpened, more strength is needed, but skill will bring success."
+        },
+        {
+            "verse": "Galatians 6:9",
+            "version": "NIV",
+            "text": "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."
+        },
+        {
+            "verse": "Psalm 139:7-8",
+            "version": "NIV",
+            "text": "Where can I go from your Spirit? Where can I flee from your presence? If I go up to the heavens, you are there; if I make my bed in the depths, you are there."
         },
         {
             "verse": "Jeremiah 17:7-8",
-            "text": "Blessed is the one who trusts in the Lord, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream. It does not fear when heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But blessed is the one who trusts in the Lord, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream. It does not fear when heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit."
+        },
+        {
+            "verse": "Matthew 13:22",
+            "version": "NIV",
+            "text": "The seed falling among the thorns refers to someone who hears the word, but the worries of this life and the deceitfulness of wealth choke the word, making it unfruitful."
         },
         {
             "verse": "John 15:2",
-            "text": "He cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "He cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful."
         },
         {
-            "verse": "1 Corinthians 16:11",
-            "text": "Be on your guard; stand firm in the faith; be courageous; be strong.",
-            "version": "NIV"
+            "verse": "1 Chronicles 16:11",
+            "version": "NIV",
+            "text": "Look to the Lord and his strength; seek his face always."
         },
         {
             "verse": "Romans 10:9",
-            "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Psalm 139:16: 'Your eyes saw my unformed body; all the days ordained for me were written in your book before one of them came to be.'",
-            "focus": "Recognizing God's intentional plan for your life",
-            "action": "Write down three areas where you currently feel overlooked. Pray and ask God to reveal His purpose in these seasons.",
-            "prayer": "Lord, help me trust Your timing and Your process. Reveal to me the areas where You are developing my character and preparing me for Your purpose. Amen."
+            "scripture": "1 Samuel 16:7 (NIV) - 'People look at the outward appearance, but the Lord looks at the heart.'",
+            "focus": "God's Perspective",
+            "action": "Identify one area of your character (e.g., patience, integrity) you can work on today, especially when no one is watching.",
+            "prayer": "Lord, help me to value what You value. Shape my heart to be more like Yours today."
         },
         "Tuesday": {
-            "scripture": "Proverbs 3:5-6: 'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'",
-            "focus": "Developing trust during seasons of waiting",
-            "action": "Identify one skill you can deliberately improve this week. Commit to practicing it daily.",
-            "prayer": "God, show me the skills You want me to develop. Give me patience and persistence to grow, even when no one is watching. Amen."
+            "scripture": "Ecclesiastes 10:10 (NIV) - 'If the ax is dull and its edge unsharpened, more strength is needed, but skill will bring success.'",
+            "focus": "Sharpening Your Skills",
+            "action": "Spend 30 minutes intentionally developing a skill or talent God has given you, whether for work, home, or ministry.",
+            "prayer": "God, thank You for the gifts You've given me. Help me to be a faithful steward and sharpen my abilities for Your glory."
         },
         "Wednesday": {
-            "scripture": "Philippians 1:6: 'Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.'",
-            "focus": "Understanding spiritual growth is a process",
-            "action": "Review your current relationships. Identify connections that are life-giving and those that might be draining your spiritual energy.",
-            "prayer": "Father, give me wisdom to nurture relationships that draw me closer to You and to prune those that hinder my spiritual growth. Amen."
+            "scripture": "John 15:2 (NIV) - 'He cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful.'",
+            "focus": "Pruning for Growth",
+            "action": "Prayerfully consider one relationship, habit, or commitment that may be hindering your spiritual growth and take a step to create healthy distance.",
+            "prayer": "Father, give me courage and wisdom to prune the things in my life that prevent me from bearing good fruit for You."
         },
         "Thursday": {
-            "scripture": "Ephesians 2:10: 'For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.'",
-            "focus": "Recognizing your unique value in God's plan",
-            "action": "Spend time journaling about your unique gifts. How can you use them to serve others this week?",
-            "prayer": "Lord, reveal my spiritual gifts and show me how to use them to glorify You and serve others. Help me see my worth through Your eyes. Amen."
+            "scripture": "Galatians 6:9 (NIV) - 'Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.'",
+            "focus": "Persistent Faithfulness",
+            "action": "Do one act of kindness or service for someone else without any expectation of recognition or reward.",
+            "prayer": "Lord, when I feel overlooked, remind me that You see me. Strengthen me to keep doing good and trusting Your timing."
         },
         "Friday": {
-            "scripture": "James 1:4: 'Let perseverance finish its work so that you may be mature and complete, not lacking anything.'",
-            "focus": "Embracing personal growth through challenges",
-            "action": "Choose one area of your character you want to improve. Create a specific, measurable goal for growth.",
-            "prayer": "God, refine my character. Help me see challenges as opportunities for spiritual development. Give me strength to persevere. Amen."
+            "scripture": "Jeremiah 17:7-8 (NIV) - 'Blessed is the one who trusts in the Lord... They will be like a tree planted by the water...'",
+            "focus": "Being Deeply Rooted",
+            "action": "Connect with another believer today\u2014send an encouraging text, make a call, or attend a small group\u2014to strengthen your spiritual roots.",
+            "prayer": "God, plant me firmly in You and in community. Help my roots to grow deep so I can withstand life's storms."
         },
         "Saturday": {
-            "scripture": "Matthew 6:33: 'But seek first his kingdom and his righteousness, and all these things will be given to you as well.'",
-            "focus": "Prioritizing relationship with God",
-            "action": "Spend extended time in prayer and worship. Ask God to reveal His specific vision for your life.",
-            "prayer": "Heavenly Father, I surrender my plans and desires to You. Align my heart with Your purpose. Show me how to seek You first in every area of my life. Amen."
+            "scripture": "1 Chronicles 16:11 (NIV) - 'Look to the Lord and his strength; seek his face always.'",
+            "focus": "Pursuing God",
+            "action": "Set aside dedicated time to seek God through prayer and Scripture, asking Him, 'What is the next step in my relationship with You?'",
+            "prayer": "Jesus, I want to pursue You as You pursue me. Reveal the next step in my walk with You and give me the grace to take it."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/ckWr2_VoPJ4"

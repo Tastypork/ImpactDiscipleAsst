@@ -1,98 +1,118 @@
 {
-    "summaryText": "Wow, what a powerful message about managing anxiety and worry! Pastor Travis Hearn dove deep into God's prescription for our everyday fears and anxieties. Can you imagine a life where worry doesn't control you? PT breaks down five incredible strategies for minimizing anxiety straight from God's word. He reveals that worry is literally rooted in an old English word meaning 'to strangle' - and isn't that exactly what anxiety does to our peace and joy? The most profound insight? Sometimes what we think is anxiety is actually conviction from the Holy Spirit! Pastor Travis reminds us that God loves us more than we love ourselves, He goes before us in every situation, and He's already worked out our tomorrow. One of the most touching moments was when he shared his own journey of trusting God when everything seemed uncertain. The sermon is a powerful reminder that we don't have to be enslaved by fear - we can cast our cares on a God who not only cares for us but is already preparing the way ahead.",
+    "summaryText": "Pastor Travis Hearn opened the service with prayer and addressed the topic of worry and anxiety, framing it as a common struggle that can strangle joy, peace, and faith. He explained that the English word 'worry' originates from an old word meaning 'to strangle or choke,' illustrating how chronic anxiety can control and damage our lives, health, and relationships. The core message was that God's Word provides practical solutions for our worries. Pastor Travis offered five key applications from Scripture: first, to remember that God deeply loves and cares for us, as illustrated in Matthew 6 where Jesus teaches us not to worry about daily needs because our Heavenly Father provides. Second, to remember that God is always with us, a truth highlighted in Psalm 23 and Deuteronomy 31:8, which promises God goes before us into our future. Third, to align our lives with God's Word, as walking in integrity and God's will minimizes self-inflicted anxiety. Fourth, instead of panicking, we are to pray, casting our cares on the Lord as instructed in Psalm 55:22 and Philippians 4:6-7. Fifth, we are to replace worrying with worship, refocusing our thoughts from our problems to God's power and presence. The sermon concluded with a call to surrender worries to God and an invitation to trust in Jesus.",
     "tags": [
         "Peace",
         "Faith",
-        "Fear"
+        "Prayer"
     ],
     "mainPoints": [
-        "God loves and cares for me",
-        "God is always with me",
-        "Align my life with God's word to minimize anxiety"
+        "Remember that God loves and cares for you, providing for your needs as a good Father.",
+        "Remember that God is always with you and has already gone before you into your future.",
+        "Instead of worrying, pray and worship, shifting your focus from your problems to God's power and presence."
     ],
     "versesMentioned": [
         {
             "verse": "Proverbs 12:25",
-            "text": "Anxiety weighs down the heart, but a kind word cheers it up.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Anxiety weighs down the heart, but a kind word cheers it up."
         },
         {
             "verse": "Matthew 6:25-34",
-            "text": "Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they? Can any one of you by worrying add a single hour to your life? And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin. Yet I tell you that not even Solomon in all his splendor was dressed like one of these. If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you\u2014you of little faith? So do not worry, saying, \u2018What shall we eat?\u2019 or \u2018What shall we drink?\u2019 or \u2018What shall we wear?\u2019 For the pagans run after all these things, and your heavenly Father knows that you need them. But seek first his kingdom and his righteousness, and all these things will be given to you as well. Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
         },
         {
             "verse": "Philippians 4:19",
-            "text": "And my God will meet all your needs according to the riches of his glory in Christ Jesus.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "And my God will meet all your needs according to the riches of his glory in Christ Jesus."
         },
         {
             "verse": "Psalm 23:1-4",
-            "text": "The Lord is my shepherd, I shall not want. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name's sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me;",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name\u2019s sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
         },
         {
             "verse": "Deuteronomy 31:8",
-            "text": "The Lord himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The Lord himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged."
+        },
+        {
+            "verse": "Proverbs 10:9",
+            "version": "NIV",
+            "text": "Whoever walks in integrity walks securely, but whoever takes crooked paths will be found out."
         },
         {
             "verse": "Proverbs 3:5-6",
-            "text": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+        },
+        {
+            "verse": "Genesis 2:25",
+            "version": "NIV",
+            "text": "Adam and his wife were both naked, and they felt no shame."
+        },
+        {
+            "verse": "Genesis 3:6-7",
+            "version": "NIV",
+            "text": "When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it. Then the eyes of both of them were opened, and they realized they were naked; so they sewed fig leaves together and made coverings for themselves."
         },
         {
             "verse": "Psalm 55:22",
-            "text": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken."
         },
         {
             "verse": "Philippians 4:6-7",
-            "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
+        },
+        {
+            "verse": "Romans 12:1",
+            "version": "NIV",
+            "text": "Therefore, I urge you, brothers and sisters, in view of God\u2019s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God\u2014this is your true and proper worship."
         },
         {
             "verse": "Psalm 56:3-5",
-            "text": "When I am afraid, I put my trust in you. In God, whose word I praise\u2014in God I trust and am not afraid. What can mere mortals do to me?",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "When I am afraid, I put my trust in you. In God, whose word I praise\u2014in God I trust and am not afraid. What can mere mortals do to me?"
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Isaiah 41:10: 'So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.'",
-            "focus": "Recognizing God's constant presence in our anxiety",
-            "action": "Create a 'worry journal'. Write down your current anxieties, then beside each one, write a corresponding promise from Scripture that counters that worry.",
-            "prayer": "Lord, help me surrender my fears to You. Replace my anxiety with Your perfect peace that surpasses all understanding. Remind me that You are always with me, guiding and protecting me."
+            "scripture": "Matthew 6:25-26 (NIV) - 'Therefore I tell you, do not worry about your life... Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?'",
+            "focus": "God's Provision",
+            "action": "Identify one practical need you are worried about today. Write it down and consciously choose to trust God with it.",
+            "prayer": "Father, thank you that you see my needs and value me. Help me to trust you as my provider today, especially with [mention the need]."
         },
         "Tuesday": {
-            "scripture": "1 Peter 5:7: 'Cast all your anxiety on him because he cares for you.'",
-            "focus": "Understanding God's genuine care for our concerns",
-            "action": "Practice a 'worry timer'. When anxious thoughts come, give yourself 2 minutes to think about it, then deliberately pray and release it to God.",
-            "prayer": "Heavenly Father, teach me to truly cast my cares upon You. Help me trust that You care more about my situation than I do. Give me the strength to let go and trust Your plan."
+            "scripture": "Deuteronomy 31:8 (NIV) - 'The Lord himself goes before you and will be with you; he will never leave you nor forsake you.'",
+            "focus": "God's Presence",
+            "action": "Before you start your day, take 2 minutes in silence to acknowledge God's presence with you. Remind yourself, 'God is with me.'",
+            "prayer": "Lord, thank you for your promise to never leave me. Help me to walk in the confidence of your presence today, knowing you have already gone before me."
         },
         "Wednesday": {
-            "scripture": "Philippians 4:8: 'Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable\u2014if anything is excellent or praiseworthy\u2014think about such things.'",
-            "focus": "Redirecting thought patterns from worry to hope",
-            "action": "Create a gratitude list. Write down 5 things you're thankful for, focusing on God's faithfulness in your life.",
-            "prayer": "God, help me shift my focus from my problems to Your promises. Fill my mind with Your truth and transform my thought life."
+            "scripture": "Proverbs 3:5-6 (NIV) - 'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him...'",
+            "focus": "Alignment with God",
+            "action": "Evaluate one area of your life (e.g., a relationship, a habit, a decision) where you are leaning on your own understanding. Take one step to submit it to God's wisdom.",
+            "prayer": "God, I submit my [mention the area] to you. Forgive me for leaning on my own understanding. Guide my steps and make my path straight as I trust in you."
         },
         "Thursday": {
-            "scripture": "John 14:27: 'Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.'",
-            "focus": "Experiencing God's supernatural peace",
-            "action": "Practice a 'peace meditation'. Spend 10 minutes in quiet prayer, consciously releasing each worry to God and receiving His peace.",
-            "prayer": "Lord Jesus, I receive Your peace that transcends human understanding. Guard my heart and mind, and help me rest in Your perfect love."
+            "scripture": "Philippians 4:6-7 (NIV) - 'Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.'",
+            "focus": "Prayer over Panic",
+            "action": "When you feel a wave of worry today, stop and immediately turn it into a short prayer of request and thanksgiving.",
+            "prayer": "Lord, instead of worrying about [mention the concern], I bring it to you right now. Thank you for hearing me. I receive your peace that guards my heart and mind."
         },
         "Friday": {
-            "scripture": "Psalm 46:1: 'God is our refuge and strength, an ever-present help in trouble.'",
-            "focus": "Finding strength in God during challenging times",
-            "action": "Identify one area of persistent worry. Create a specific prayer strategy for dealing with this concern, including Scripture promises.",
-            "prayer": "Mighty God, be my refuge and strength today. Where I feel weak, fill me with Your power. Transform my worry into worship."
+            "scripture": "Psalm 56:3-4 (NIV) - 'When I am afraid, I put my trust in you. In God, whose word I praise\u2014in God I trust and am not afraid.'",
+            "focus": "Worship over Worry",
+            "action": "Listen to a worship song on your way to work or during a break. Focus your thoughts on God's character, not your circumstances.",
+            "prayer": "God, I choose to worship you. My fears are loud, but your faithfulness is greater. I praise you for your power, love, and sovereignty over my life."
         },
         "Saturday": {
-            "scripture": "Psalm 94:19: 'When anxiety was great within me, your consolation brought me joy.'",
-            "focus": "Experiencing God's comfort in moments of anxiety",
-            "action": "Do something that brings you joy and peace. Connect this activity with thanksgiving to God for His constant care.",
-            "prayer": "Loving Father, thank You that You don't just tolerate my struggles, but You comfort me through them. Help me to find joy in Your presence today."
+            "scripture": "Psalm 55:22 (NIV) - 'Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken.'",
+            "focus": "Casting Cares",
+            "action": "Write down the main burdens from your week on a piece of paper. In a moment of prayer, symbolically 'cast' them to God (e.g., tear it up, place it in a box).",
+            "prayer": "Heavenly Father, I am done carrying these burdens. I cast [name the burdens] onto you right now. I trust you to sustain me. Thank you for carrying my load."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/cmBe-e76W6w"

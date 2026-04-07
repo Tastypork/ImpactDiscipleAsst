@@ -1,73 +1,88 @@
 {
-    "summaryText": "Wow, what an incredible message from Pastor Travis Hearn about conquering the giants in our lives! PT delivered a powerful sermon centered on the biblical story of David and Goliath, but with a modern twist that speaks directly to our daily struggles. Using the narrative of David facing the seemingly insurmountable giant, Pastor Travis breaks down how we can overcome our own life 'giants' through faith, perspective, and trust in God. He powerfully reminds us that our giants - whether they're relational, emotional, or medical - are no match for our mighty God. The most profound takeaway? Jesus is always bigger than our giants! Pastor Travis challenges us to walk by faith, not by sight, and to remember that God has brought us through challenges before and will continue to do so. His passionate delivery and personal stories make this message not just a sermon, but a battle cry for believers facing their own Goliaths. Can you imagine being so confident in God that even a 9-foot-tall giant doesn't intimidate you? That's the kind of radical faith PT is calling us to embrace!",
+    "summaryText": "Pastor Travis Hearn opened a new series titled 'Jesus Over Giants' by examining the story of David and Goliath from 1 Samuel 17. He explained that giants, like the one David faced, represent the overwhelming fears and challenges in our lives\u2014whether relational, emotional, medical, or financial. These giants try to intimidate, paralyze, and control us. The core message was that we must choose Jesus and faith over our giants and fears. Pastor Travis outlined four spiritual keys for facing giants: first, we must walk by faith and not by sight, shifting our focus from the problem to God's power. Second, we must learn to listen only to the voice of God amidst the many conflicting voices of fear, doubt, and discouragement. Third, we must remember the victories and miracles God has already brought us through in the past, as this builds faith for the current battle. Finally, we must trust God for the victory, understanding that He fights for us. The sermon concluded with a powerful call to step out in faith, just as Peter did on the water, trusting that on the other side of that step is where miracles happen. The overall tone was one of encouragement, reminding the congregation that as children of the living God, no giant is too big when faced with faith in Jesus.",
     "tags": [
         "Faith",
-        "Courage",
-        "Overcoming Challenges"
+        "Fear",
+        "Miracles"
     ],
     "mainPoints": [
-        "Walk by faith and not by sight",
-        "Only listen to the voice of God",
-        "Trust God for your victory"
+        "Walk by faith and not by sight, taking your eyes off the problem and focusing on God's power.",
+        "Only listen to the voice of God, silencing the conflicting voices of fear, doubt, and discouragement.",
+        "Remember what God has already brought you through and trust Him to fight for your victory."
     ],
     "versesMentioned": [
         {
-            "verse": "First Samuel 17:26",
-            "text": "David said, 'Who is this uncircumcised Philistine that he should defy the armies of the living God?'",
-            "version": "NIV"
+            "verse": "1 Samuel 17:11",
+            "version": "NIV",
+            "text": "On hearing the Philistine\u2019s words, Saul and all the Israelites were dismayed and terrified."
         },
         {
-            "verse": "Second Corinthians 5:7",
-            "text": "For we live by faith, not by sight.",
-            "version": "NIV"
+            "verse": "2 Corinthians 5:7",
+            "version": "NIV",
+            "text": "For we live by faith, not by sight."
+        },
+        {
+            "verse": "1 Samuel 17:26",
+            "version": "NIV",
+            "text": "David asked the men standing near him, 'What will be done for the man who kills this Philistine and removes this disgrace from Israel? Who is this uncircumcised Philistine that he should defy the armies of the living God?'"
+        },
+        {
+            "verse": "1 Samuel 17:32",
+            "version": "NIV",
+            "text": "David said to Saul, 'Let no one lose heart on account of this Philistine; your servant will go and fight him.'"
+        },
+        {
+            "verse": "1 Samuel 17:36",
+            "version": "NIV",
+            "text": "Your servant has killed both the lion and the bear; this uncircumcised Philistine will be like one of them, because he has defied the armies of the living God."
         },
         {
             "verse": "Exodus 14:14",
-            "text": "The Lord will fight for you; you need only to be still.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The LORD will fight for you; you need only to be still."
         },
         {
             "verse": "Deuteronomy 3:22",
-            "text": "Do not be afraid of them, for the Lord your God will fight for you.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Do not be afraid of them; the LORD your God himself will fight for you."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Psalm 46:1: 'God is our refuge and strength, an ever-present help in trouble.'",
-            "focus": "Identifying the 'giants' in your life",
-            "action": "Make a list of current challenges. Next to each challenge, write down a way God might be speaking to you through it.",
-            "prayer": "Lord, help me see my challenges through Your eyes. Give me the courage to face my giants with faith and not fear. Reveal Your strength in my weakness. Amen."
+            "scripture": "2 Corinthians 5:7 (NIV) - For we live by faith, not by sight.",
+            "focus": "Choosing faith over fear.",
+            "action": "Identify one 'giant' causing you fear. Write down one truth about God's character that is bigger than that fear.",
+            "prayer": "God, help me to see my situation today through the eyes of faith, not fear. Anchor my heart in Your power."
         },
         "Tuesday": {
-            "scripture": "Philippians 4:13: 'I can do all this through him who gives me strength.'",
-            "focus": "Developing a faith perspective",
-            "action": "Choose one challenge and intentionally reframe it from a perspective of faith. What would trusting God look like in this situation?",
-            "prayer": "Father, transform my thinking. Help me replace fear with faith. Show me how to view my challenges through Your lens of victory. Amen."
+            "scripture": "1 Samuel 17:26 (NIV) - ...Who is this uncircumcised Philistine that he should defy the armies of the living God?",
+            "focus": "God's perspective on your giant.",
+            "action": "Reframe your challenge. Instead of saying 'My giant is too big,' declare 'My God is bigger.' Speak this truth out loud.",
+            "prayer": "Lord, give me David's perspective. Remind me that any challenge defying Your purpose for me is defying You, the living God."
         },
         "Wednesday": {
-            "scripture": "Isaiah 41:10: 'So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.'",
-            "focus": "Understanding God's protection",
-            "action": "Write down three past challenges God has already helped you overcome. Reflect on His faithfulness.",
-            "prayer": "God, thank You for Your constant protection. Remind me of Your past faithfulness when I feel overwhelmed. Fill me with courage and trust. Amen."
+            "scripture": "1 Samuel 17:36 (NIV) - Your servant has killed both the lion and the bear...",
+            "focus": "Remembering past victories.",
+            "action": "Take 5 minutes to write down or recall 2-3 times God has helped you through a difficult situation in the past.",
+            "prayer": "Thank You, God, for bringing me through past battles. Let the memory of Your faithfulness build my faith for today's challenge."
         },
         "Thursday": {
-            "scripture": "Romans 8:31: 'If God is for us, who can be against us?'",
-            "focus": "Recognizing God's power over our giants",
-            "action": "Practice speaking scripture over your challenges. When fear rises, counter it with a faith-filled declaration.",
-            "prayer": "Lord, teach me to speak Your truth over my circumstances. Help me remember that You are always greater than any challenge I face. Amen."
+            "scripture": "Exodus 14:14 (NIV) - The LORD will fight for you; you need only to be still.",
+            "focus": "Trusting God to fight.",
+            "action": "Practice 'being still' for 2 minutes today. Consciously release the need to control or figure out the solution to your giant.",
+            "prayer": "Father, I choose to be still and trust that You are fighting for me. I lay down my weapons and my worry. The battle is Yours."
         },
         "Friday": {
-            "scripture": "2 Chronicles 20:15: 'Do not be afraid or discouraged because of this vast army. For the battle is not yours, but God's.'",
-            "focus": "Surrendering our battles to God",
-            "action": "Spend time in prayer, literally handing over each of your challenges to God. Visualize laying them at His feet.",
-            "prayer": "Heavenly Father, I surrender my giants to You. I trust that You are fighting on my behalf. Give me peace that surpasses understanding. Amen."
+            "scripture": "Deuteronomy 3:22 (NIV) - Do not be afraid of them; the LORD your God himself will fight for you.",
+            "focus": "Courage through God's presence.",
+            "action": "Listen to a worship song that declares God's strength and victory. Let it be the loudest voice you hear today.",
+            "prayer": "God, Your Word says You Yourself fight for me. Banish fear with Your presence. Fill me with Christ-fueled courage."
         },
         "Saturday": {
-            "scripture": "1 John 4:4: 'You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the world.'",
-            "focus": "Living in victory",
-            "action": "Do something bold that demonstrates faith over fear. Step out of your comfort zone, trusting God's guidance.",
-            "prayer": "God, fill me with Your courage. Help me live today not in fear, but in the confident assurance of Your power working through me. Amen."
+            "scripture": "Matthew 14:29 (Paraphrase) - 'Come,' he said. Then Peter got down out of the boat, walked on the water and came toward Jesus.",
+            "focus": "Taking a step of faith.",
+            "action": "Identify one small, practical 'step out of the boat' you can take this weekend regarding your giant, trusting God to meet you.",
+            "prayer": "Jesus, You say 'Come.' I choose to step out in faith today, believing that on the other side of this step is a miracle. Hold me up."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/qfG3rl4Nlb4"

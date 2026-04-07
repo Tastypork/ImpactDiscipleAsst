@@ -1,88 +1,108 @@
 {
-    "summaryText": "Wow, what an incredible message from Pastor Travis Hearn about the power of choosing your team! PT delivered a powerful sermon that challenges us to be intentional about the people we surround ourselves with. Isn't it amazing how our friendships can literally make or break our spiritual journey? Pastor Travis breaks down the concept of 'stacking your team' with three key insights that will transform how we view relationships. Drawing from personal experiences and biblical wisdom, he reminds us that we have the incredible freedom to choose who influences our lives. The most profound moment? When he shared how changing his circle completely transformed his life - from hanging out with athletes who partied to surrounding himself with 'Bible nerds' who helped him grow spiritually. This sermon is a wake-up call to evaluate our friendships, asking ourselves: Are these people pulling me closer to God or further away? PT's passionate delivery and personal stories make this message both convicting and inspiring, reminding us that our closest relationships are perhaps the most critical decision we'll ever make for our spiritual growth.",
+    "summaryText": "Pastor Travis Hearn preached a passionate message titled 'Stack Your Team,' emphasizing the critical importance of the people we choose to surround ourselves with. He opened by reading Proverbs 12:26 and 27:19, establishing that the righteous choose their friends carefully. Using vivid personal stories from his youth and his experience running a church basketball league, Pastor Travis illustrated that every success and failure in life is tied to the team we assemble. He stressed that we have the God-given freedom to choose who influences our lives, and this choice is one of the most important for our spiritual growth. The sermon provided three keys for building an 'All-Star' team: choose friends who are running after Jesus Christ, choose teammates running the same race at the same pace, and choose friends who will sharpen you. Pastor Travis warned that 'Bad Company corrupts good character' and urged the congregation to be both selective and protective, making the hard decisions to separate from relationships with bad character. He concluded with an altar call, inviting those without a relationship with Jesus to join God's team, and a prayer for discernment to build a life surrounded by godly influences.",
     "tags": [
+        "Wisdom",
         "Relationships",
-        "Leadership",
-        "Spiritual Growth"
+        "Obedience"
     ],
     "mainPoints": [
-        "Choose friends who are running after Jesus Christ",
-        "Select teammates who are running the same race at the same pace",
-        "Surround yourself with people who will sharpen your spiritual life"
+        "Your success and spiritual growth are directly tied to the people you choose to have on your team; the righteous choose their friends carefully.",
+        "Build an 'All-Star' team by choosing friends who are running after Jesus, who are running the same race at the same pace as you, and who will sharpen you.",
+        "Making hard choices to separate from 'bad company' is essential, as wrong influences will corrupt good character and hinder your life and faith."
     ],
     "versesMentioned": [
         {
             "verse": "Proverbs 12:26",
-            "text": "The righteous choose their friends carefully, but the way of the wicked leads them astray.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The righteous choose their friends carefully, but the way of the wicked leads them astray."
         },
         {
             "verse": "Proverbs 27:19",
-            "text": "As water reflects the face, so one's life reflects the company they keep.",
-            "version": "NIV"
-        },
-        {
-            "verse": "1 Corinthians 15:33",
-            "text": "Do not be misled: 'Bad company corrupts good character.'",
-            "version": "NIV"
-        },
-        {
-            "verse": "2 Corinthians 6:17",
-            "text": "Therefore, 'Come out from them and be separate, says the Lord. Touch no unclean thing, and I will receive you.'",
-            "version": "NIV"
-        },
-        {
-            "verse": "Jeremiah 1:5",
-            "text": "Before I formed you in the womb I knew you, before you were born I set you apart; I appointed you as a prophet to the nations.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "As water reflects the face, so one\u2019s life reflects the heart."
         },
         {
             "verse": "James 2:19",
-            "text": "You believe that there is one God. Good! Even the demons believe that\u2014and shudder.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "You believe that there is one God. Good! Even the demons believe that\u2014and shudder."
         },
         {
-            "verse": "Matthew 7:21-23",
-            "text": "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but only the one who does the will of my Father who is in heaven. Many will say to me on that day, 'Lord, Lord, did we not prophesy in your name and in your name drive out demons and in your name perform many miracles?' Then I will tell them plainly, 'I never knew you. Away from me, you evildoers!'",
-            "version": "NIV"
+            "verse": "Matthew 10:28",
+            "version": "NIV",
+            "text": "Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell."
+        },
+        {
+            "verse": "Proverbs 9:10",
+            "version": "NIV",
+            "text": "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding."
+        },
+        {
+            "verse": "Proverbs 8:13",
+            "version": "NIV",
+            "text": "To fear the Lord is to hate evil; I hate pride and arrogance, evil behavior and perverse speech."
+        },
+        {
+            "verse": "Matthew 7:21",
+            "version": "NIV",
+            "text": "Not everyone who says to me, \u2018Lord, Lord,\u2019 will enter the kingdom of heaven, but only the one who does the will of my Father who is in heaven."
+        },
+        {
+            "verse": "2 Corinthians 6:14",
+            "version": "NIV",
+            "text": "Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common? Or what fellowship can light have with darkness?"
+        },
+        {
+            "verse": "Proverbs 27:17",
+            "version": "NIV",
+            "text": "As iron sharpens iron, so one person sharpens another."
+        },
+        {
+            "verse": "1 Corinthians 15:33",
+            "version": "NIV",
+            "text": "Do not be misled: 'Bad company corrupts good character.'"
+        },
+        {
+            "verse": "2 Corinthians 6:17",
+            "version": "NIV",
+            "text": "Therefore, 'Come out from them and be separate, says the Lord. Touch no unclean thing, and I will receive you.'"
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Proverbs 13:20: 'Walk with the wise and become wise, for a companion of fools suffers harm.'",
-            "focus": "Evaluating current friendships and their spiritual impact",
-            "action": "Make a list of your five closest friends. Honestly assess how each relationship either draws you closer to or pulls you away from God. Pray for discernment about any relationships that might need boundaries or change.",
-            "prayer": "Lord, give me wisdom to choose friends who will challenge me to grow spiritually. Help me to be courageous in making tough friendship decisions that honor You. Amen."
+            "scripture": "Proverbs 12:26 (NIV) - 'The righteous choose their friends carefully, but the way of the wicked leads them astray.'",
+            "focus": "The Power of Choice",
+            "action": "Write down the names of the five people you spend the most time with. Prayerfully consider their influence on your faith.",
+            "prayer": "Lord, thank you for the freedom to choose. Give me wisdom today to see my relationships through Your eyes."
         },
         "Tuesday": {
-            "scripture": "Proverbs 27:17: 'As iron sharpens iron, so one person sharpens another.'",
-            "focus": "Understanding the transformative power of godly friendships",
-            "action": "Reach out to a spiritually mature friend and ask them to share how they've grown in their faith. Consider starting a Bible study or accountability group.",
-            "prayer": "God, help me to be a friend who sharpens others and seeks to be sharpened. Show me how to build relationships that glorify You. Amen."
+            "scripture": "Proverbs 27:17 (NIV) - 'As iron sharpens iron, so one person sharpens another.'",
+            "focus": "Choosing Sharpeners",
+            "action": "Identify one person in your life who consistently encourages your faith. Send them a text to thank them.",
+            "prayer": "God, thank you for the people who sharpen me. Help me to be that kind of friend to others."
         },
         "Wednesday": {
-            "scripture": "1 Thessalonians 5:11: 'Therefore encourage one another and build each other up, just as in fact you are doing.'",
-            "focus": "Being an intentional, encouraging friend",
-            "action": "Send an encouraging message to three people in your life. Make the message specific, highlighting their spiritual strengths or recent growth you've noticed.",
-            "prayer": "Father, teach me to be an encourager. Help me see the potential in others and speak life into their journeys. Use me to build up Your people. Amen."
+            "scripture": "1 Corinthians 15:33 (NIV) - 'Do not be misled: \"Bad company corrupts good character.\"'",
+            "focus": "Discerning Influence",
+            "action": "Reflect on one relationship that may be pulling you away from godly character. Commit to setting a healthy boundary this week.",
+            "prayer": "Father, give me discernment to see past a good heart to bad character. Grant me courage to make hard choices for my spiritual health."
         },
         "Thursday": {
-            "scripture": "Ecclesiastes 4:9-10: 'Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up.'",
-            "focus": "The importance of supportive, godly relationships",
-            "action": "Reflect on a time when a friend helped you spiritually. Write a gratitude letter to that person, expressing how their friendship impacted your walk with God.",
-            "prayer": "Lord, thank You for the gift of Christian friendships. Help me to be the kind of friend who supports, uplifts, and points others to You. Amen."
+            "scripture": "2 Corinthians 6:14 (NIV) - 'Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common?'",
+            "focus": "Running the Same Race",
+            "action": "Evaluate a key relationship (friendship, business, dating). Ask: Are we running the same spiritual race at the same pace?",
+            "prayer": "Jesus, align my closest relationships with Your purpose. Where I am unequally yoked, give me clarity and peace."
         },
         "Friday": {
-            "scripture": "Proverbs 22:24-25: 'Do not make friends with a hot-tempered person, do not associate with one easily angered, or you may learn their ways and get yourself ensnared.'",
-            "focus": "Recognizing toxic relationship patterns",
-            "action": "Identify one relationship that consistently drains your spiritual energy. Pray about setting healthy boundaries or seeking wise counsel about the relationship.",
-            "prayer": "God, give me discernment to recognize relationships that are harmful to my spiritual health. Grant me courage to make necessary changes. Amen."
+            "scripture": "Proverbs 8:13 (NIV) - 'To fear the Lord is to hate evil; I hate pride and arrogance, evil behavior and perverse speech.'",
+            "focus": "The Fear of the Lord",
+            "action": "Spend time in worship, focusing on the holiness and awe of God. Let a reverent fear of Him shape your desires.",
+            "prayer": "Holy God, instill in me a holy fear and reverence for You. Let my love for what You love and hatred for what You hate grow today."
         },
         "Saturday": {
-            "scripture": "Romans 12:10: 'Be devoted to one another in love. Honor one another above yourselves.'",
-            "focus": "Cultivating Christ-centered relationships",
-            "action": "Spend time in prayer, asking God to help you be a better friend. Consider how you can serve someone in your life without expecting anything in return.",
-            "prayer": "Heavenly Father, transform my understanding of friendship. Help me love others as You love, selflessly and unconditionally. Make me an instrument of Your love. Amen."
+            "scripture": "2 Corinthians 6:17 (NIV) - 'Therefore, \"Come out from them and be separate, says the Lord. Touch no unclean thing, and I will receive you.\"'",
+            "focus": "Intentional Separation",
+            "action": "Plan one activity for the coming week that will connect you with 'Godly teammates'\u2014like attending a small group or serving.",
+            "prayer": "Lord, I choose to come out and be separate for Your sake. Draw me into community with those who are running wholeheartedly after You."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/nKV7olqlUSo"

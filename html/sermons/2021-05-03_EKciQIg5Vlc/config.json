@@ -1,103 +1,128 @@
 {
-    "summaryText": "What an incredible sermon about making God first in every area of our lives! Pastor Travis Hearn delivers a powerful message challenging believers to truly prioritize God in their schedule, finances, abilities, and relationships. PT breaks down the concept of 'first fruits' in a way that's both challenging and accessible, reminding us that God doesn't want to be just a slice of our life pie, but the entire filling. Can you imagine how different our lives would be if we genuinely put God first in everything? The sermon tackles tough topics like tithing with humor and grace, offering practical advice like the 90-day tithe challenge. Pastor Travis uses relatable illustrations - like cantaloupes representing income - to make complex spiritual principles easy to understand. The most powerful takeaway? God doesn't just want a part of our life; He wants to be integrated into every single aspect. Whether it's our work, our relationships, or our finances, God wants to be number one. The challenge is clear: will we allow God to truly be first, or will we continue to keep Him in a convenient little compartment? This message isn't just a sermon; it's a roadmap to experiencing God's fullest blessings.",
+    "summaryText": "Pastor Travis Hearn opened the service by asking the congregation a central question: 'Is God first?' He emphasized that every spiritually mature Christian has discovered that unless God is first, we will not receive everything He has for our lives. The message explored the difference between treating God as a good-luck charm or a genie versus having a genuine, priority relationship with Him. Pastor Travis used the analogy of a pie, explaining that Jesus doesn't want to be just one slice of our lives but the filling throughout the entire pie, present in every area. He grounded the teaching in the first commandment from Exodus 20:3, highlighting God's desire to be our sole priority. The sermon provided a practical framework through four key questions to evaluate if God is truly first: in our schedule, finances, abilities, and relationships. Pastor Travis explained the biblical principle of tithing as the 'first 10%' and a test of trust, referencing Malachi 3:10. He also stressed the importance of the Sabbath as a day of rest and worship, and the need to choose close friends who sharpen us spiritually and share our convictions. The call was to move from merely looking like a Christian to being the 'real deal' by making God the undisputed center of our lives, promising that this alignment unlocks greater joy, peace, and divine blessing.",
     "tags": [
         "Obedience",
-        "Faith",
+        "Tithing",
         "Relationships"
     ],
     "mainPoints": [
-        "Is God first in my schedule and time?",
-        "Is God first in my finances through tithing?",
-        "Is God first in my relationships?"
+        "God must be first in our schedule and time, which includes a daily quiet time and honoring the Sabbath as a day of rest and worship.",
+        "God must be first in our finances, demonstrated through the biblical practice of tithing the first 10% as a test of trust and priority.",
+        "God must be first in our relationships, meaning we use our gifts to serve others and choose close friends who draw us closer to Christ."
     ],
     "versesMentioned": [
         {
             "verse": "Exodus 20:3",
-            "text": "You shall have no other gods before me.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "You shall have no other gods before me."
         },
         {
-            "verse": "Matthew 6:33",
-            "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
-            "version": "NIV"
+            "verse": "Exodus 20:5",
+            "version": "NIV",
+            "text": "for I, the LORD your God, am a jealous God..."
         },
         {
             "verse": "Psalm 90:12",
-            "text": "Teach us to number our days, that we may gain a heart of wisdom.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Teach us to number our days, that we may gain a heart of wisdom."
         },
         {
-            "verse": "Colossians 3:23",
-            "text": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
-            "version": "NIV"
+            "verse": "Matthew 6:33",
+            "version": "NIV",
+            "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well."
         },
         {
-            "verse": "First Peter 4:10",
-            "text": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace in its various forms.",
-            "version": "NIV"
-        },
-        {
-            "verse": "Proverbs 17:27",
-            "text": "The one who has knowledge uses words with restraint, and whoever has understanding is even-tempered.",
-            "version": "NIV"
+            "verse": "Exodus 20:8-9",
+            "version": "NIV",
+            "text": "Remember the Sabbath day by keeping it holy. Six days you shall labor and do all your work, but the seventh day is a sabbath to the LORD your God."
         },
         {
             "verse": "Deuteronomy 14:23",
-            "text": "Be sure to set aside a tenth of all that your fields produce each year, so that you may learn to revere the Lord your God always.",
-            "version": "NIV"
-        },
-        {
-            "verse": "Malachi 3:10",
-            "text": "Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this, says the Lord Almighty, and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Eat the tithe of your grain, new wine and olive oil, and the firstborn of your herds and flocks in the presence of the LORD your God at the place he will choose as a dwelling for his Name, so that you may learn to revere the LORD your God always."
         },
         {
             "verse": "Leviticus 27:30",
-            "text": "A tithe of everything from the land, whether grain from the soil or fruit from the trees, belongs to the Lord; it is holy to the Lord.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "A tithe of everything from the land, whether grain from the soil or fruit from the trees, belongs to the LORD; it is holy to the LORD."
+        },
+        {
+            "verse": "Exodus 23:19",
+            "version": "NIV",
+            "text": "Bring the best of the firstfruits of your soil to the house of the LORD your God."
+        },
+        {
+            "verse": "Malachi 3:8-10",
+            "version": "NIV",
+            "text": "Will a mere mortal rob God? Yet you rob me. But you ask, 'How are we robbing you?' In tithes and offerings. You are under a curse\u2014your whole nation\u2014because you are robbing me. Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,' says the LORD Almighty, 'and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it."
+        },
+        {
+            "verse": "Colossians 3:23",
+            "version": "NIV",
+            "text": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."
+        },
+        {
+            "verse": "1 Peter 4:10",
+            "version": "NIV",
+            "text": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God\u2019s grace in its various forms."
+        },
+        {
+            "verse": "Proverbs 27:17",
+            "version": "NIV",
+            "text": "As iron sharpens iron, so one person sharpens another."
+        },
+        {
+            "verse": "Proverbs 27:19",
+            "version": "NIV",
+            "text": "As water reflects the face, so one\u2019s life reflects the heart."
         },
         {
             "verse": "2 Corinthians 6:14",
-            "text": "Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common? Or what fellowship can light have with darkness?",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common? Or what fellowship can light have with darkness?"
+        },
+        {
+            "verse": "Proverbs 18:24",
+            "version": "NIV",
+            "text": "One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a brother."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Proverbs 3:6: 'In all your ways acknowledge him, and he will make straight your paths.'",
-            "focus": "Recognizing God's guidance in daily decisions",
-            "action": "Take time to intentionally pray before making any significant decisions today. Write down how you feel God is directing you.",
-            "prayer": "Lord, guide my steps today. Help me to acknowledge You in every decision and trust Your direction. Open my eyes to Your leading in my life. Amen."
+            "scripture": "Matthew 6:33 - 'But seek first his kingdom and his righteousness, and all these things will be given to you as well.'",
+            "focus": "Schedule",
+            "action": "Before checking your phone or starting work, spend 10 minutes in prayer and reading the Bible.",
+            "prayer": "Lord, help me to seek You first today in my thoughts, time, and decisions."
         },
         "Tuesday": {
-            "scripture": "Matthew 6:21: 'For where your treasure is, there your heart will be also.'",
-            "focus": "Examining financial priorities",
-            "action": "Review your last month's bank statement. Identify areas where you can redirect funds to honor God and support His kingdom.",
-            "prayer": "Heavenly Father, show me how I can be a better steward of the resources You've entrusted to me. Help me prioritize Your work in my financial decisions. Amen."
+            "scripture": "Exodus 20:8 - 'Remember the Sabbath day by keeping it holy.'",
+            "focus": "Rest",
+            "action": "Intentionally block out time this coming Sunday for worship and rest. Plan to disconnect from work.",
+            "prayer": "God, teach me the spiritual discipline of rest. Help me to honor Your Sabbath."
         },
         "Wednesday": {
-            "scripture": "1 Corinthians 10:31: 'So whether you eat or drink or whatever you do, do it all for the glory of God.'",
-            "focus": "Using talents and abilities for God's glory",
-            "action": "Identify one skill or ability you have. Brainstorm how you can use this specifically to serve others or advance God's kingdom this week.",
-            "prayer": "God, reveal to me how I can use my unique gifts to glorify You. Give me creativity and courage to serve others with the talents You've given me. Amen."
+            "scripture": "Malachi 3:10 - 'Test me in this,' says the LORD Almighty, 'and see if I will not throw open the floodgates of heaven...'",
+            "focus": "Finances",
+            "action": "Review your budget or bank statement. Prayerfully commit to giving God the first 10% of your next income.",
+            "prayer": "Father, I trust You as my provider. I choose to put You first with my finances."
         },
         "Thursday": {
-            "scripture": "Proverbs 13:20: 'Walk with the wise and become wise, for a companion of fools suffers harm.'",
-            "focus": "Evaluating relationships and influences",
-            "action": "Have an honest conversation with a trusted friend or mentor about the relationships in your life. Ask for their perspective on whether these relationships draw you closer to or further from God.",
-            "prayer": "Lord, give me wisdom in my relationships. Help me surround myself with people who encourage my spiritual growth and challenge me to become more like You. Amen."
+            "scripture": "Colossians 3:23 - 'Whatever you do, work at it with all your heart, as working for the Lord...'",
+            "focus": "Abilities",
+            "action": "Identify one task today and do it with excellence, as if Jesus Himself were your supervisor.",
+            "prayer": "Jesus, let my work today be an act of worship, using the gifts You've given me for Your glory."
         },
         "Friday": {
-            "scripture": "Romans 12:10: 'Be devoted to one another in love. Honor one another above yourselves.'",
-            "focus": "Practicing intentional relationship building",
-            "action": "Reach out to someone in your life who might need encouragement. Write a letter, send a text, or make a call with the intention of lifting them up.",
-            "prayer": "Father, teach me to love others as You love them. Help me be an instrument of Your grace and encouragement in the lives of those around me. Amen."
+            "scripture": "Proverbs 27:17 - 'As iron sharpens iron, so one person sharpens another.'",
+            "focus": "Relationships",
+            "action": "Reach out to a friend who encourages your faith. Send them an encouraging text or pray for them.",
+            "prayer": "God, thank You for friends who sharpen me. Help me to be that kind of friend to others."
         },
         "Saturday": {
-            "scripture": "Psalm 86:12: 'I will praise you, Lord my God, with all my heart; I will glorify your name forever.'",
-            "focus": "Cultivating a heart of worship",
-            "action": "Spend dedicated time in worship. Create a playlist of worship songs, journal your gratitude, or simply sit in God's presence reflecting on His goodness.",
-            "prayer": "Loving God, draw me closer to You. Help me cultivate a heart of genuine worship that goes beyond words and transforms my entire being. Be first in my life today and always. Amen."
+            "scripture": "2 Corinthians 6:14 - 'Do not be yoked together with unbelievers...'",
+            "focus": "Convictions",
+            "action": "Reflect on your closest relationships. Ask if they draw you toward or away from God. Commit any concerns to prayer.",
+            "prayer": "Holy Spirit, give me wisdom in my friendships. Help me to be equally yoked in my closest relationships."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/EKciQIg5Vlc"

@@ -1,40 +1,45 @@
 {
-    "summaryText": "Pastor Travis Hearn delivered a powerful and deeply personal sermon about understanding the purpose of pain in our lives, diving deep into 2 Corinthians 12:7-10. Using the metaphor of a 'thorn in the flesh', PT shares five profound insights about how God uses pain: to keep us humble, to make us dependent on Him, to strengthen us, to refine us, and to prepare us for our purpose. Drawing from his own experience of a brain aneurysm and stroke, Pastor Travis vulnerably shares how even in our most broken moments, God is working to transform us. The key message? There's no pain in vain. Every challenge, every struggle has a divine purpose. Whether it's a physical ailment, emotional trauma, or personal setback, God is using these 'thorns' to shape us into His image. Pastor Travis challenges us to stop seeing our struggles as punishments and start viewing them as purposeful processes designed to reveal God's glory. The most powerful moment? When he declares that our deepest pain can become our most impactful ministry - a testimony of God's incredible grace and transformative power.",
+    "summaryText": "Pastor Travis Hearn opened the service by reading 2 Corinthians 12:7-10, focusing on Paul's 'thorn in the flesh.' He acknowledged that everyone can relate to a personal 'thorn'\u2014whether it's emotional trauma, guilt, physical sickness, or relational pain\u2014that irritates, hurts, and seems persistent. The central message of the sermon was that 'there is no pain in vain.' Pastor Travis taught that God allows pain for a divine purpose and wants to use our deepest hurts for good. He outlined five key purposes for pain: it keeps us humble, keeps us dependent on God, makes us stronger, refines our character, and prepares us for our God-given purpose. Using personal testimony from his own recovery from a brain aneurysm and stroke, he illustrated how God refines us through fiery trials. He emphasized that our weaknesses are where Christ's power rests most visibly and that our brokenness can become a trophy of God's grace. The call was to not waste our pain but to allow God to use it to comfort others, turning our misery into ministry. The sermon concluded with an invitation to accept Jesus Christ and experience His healing and purpose.",
     "tags": [
         "Suffering",
         "Purpose",
         "Healing"
     ],
     "mainPoints": [
-        "Pain keeps me humble",
-        "Pain makes me dependent on God",
-        "Pain prepares me for my purpose"
+        "Pain keeps us humble and dependent on God, preventing pride and self-reliance.",
+        "Pain refines our character and makes us stronger, as God's power is perfected in our weakness.",
+        "Pain prepares us for our purpose, equipping us to minister comfort to others from our own experiences."
     ],
     "versesMentioned": [
         {
             "verse": "2 Corinthians 12:7-10",
             "version": "NIV",
-            "text": "Therefore, in order to keep me from becoming conceited, I was given a thorn in my flesh, a messenger of Satan, to torment me. Three times I pleaded with the Lord to take it away from me. But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me. That is why, for Christ's sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
+            "text": "Therefore, in order to keep me from becoming conceited, I was given a thorn in my flesh, a messenger of Satan, to torment me. Three times I pleaded with the Lord to take it away from me. But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ\u2019s power may rest on me. That is why, for Christ\u2019s sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
         },
         {
-            "verse": "James 2:2-4",
+            "verse": "Acts 19:11-12",
+            "version": "NIV",
+            "text": "God did extraordinary miracles through Paul, so that even handkerchiefs and aprons that had touched him were taken to the sick, and their illnesses were cured and the evil spirits left them."
+        },
+        {
+            "verse": "Luke 22:42-44",
+            "version": "NIV",
+            "text": "Father, if you are willing, take this cup from me; yet not my will, but yours be done.' An angel from heaven appeared to him and strengthened him. And being in anguish, he prayed more earnestly, and his sweat was like drops of blood falling to the ground."
+        },
+        {
+            "verse": "2 Corinthians 1:9",
+            "version": "NIV",
+            "text": "Indeed, we felt we had received the sentence of death. But this happened that we might not rely on ourselves but on God, who raises the dead."
+        },
+        {
+            "verse": "Jeremiah 18:3-6",
+            "version": "NIV",
+            "text": "So I went down to the potter\u2019s house, and I saw him working at the wheel. But the pot he was shaping from the clay was marred in his hands; so the potter formed it into another pot, shaping it as seemed best to him. Then the word of the Lord came to me. He said, 'Can I not do with you, Israel, as this potter does?' declares the Lord. 'Like clay in the hand of the potter, so are you in my hand, Israel.'"
+        },
+        {
+            "verse": "James 1:2-4",
             "version": "NIV",
             "text": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything."
-        },
-        {
-            "verse": "Luke 22:42",
-            "version": "NIV",
-            "text": "'Father, if you are willing, take this cup from me; yet not my will, but yours be done.'"
-        },
-        {
-            "verse": "Psalm 119:67",
-            "version": "NIV",
-            "text": "Before I was afflicted I went astray, but now I obey your word."
-        },
-        {
-            "verse": "2 Corinthians 1:4",
-            "version": "NIV",
-            "text": "Who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God."
         },
         {
             "verse": "Isaiah 48:10",
@@ -42,47 +47,67 @@
             "text": "See, I have refined you, though not as silver; I have tested you in the furnace of affliction."
         },
         {
-            "verse": "Jeremiah 18:6",
+            "verse": "Proverbs 20:30",
+            "version": "GNT",
+            "text": "Sometimes it takes a painful situation to make us change our ways."
+        },
+        {
+            "verse": "Psalm 119:67",
             "version": "NIV",
-            "text": "'Can I not do with you, Israel, as this potter does?' declares the Lord. 'Like clay in the hand of the potter, so are you in my hand, Israel.'"
+            "text": "Before I was afflicted I went astray, but now I obey your word."
+        },
+        {
+            "verse": "Psalm 119:71",
+            "version": "NIV",
+            "text": "It was good for me to be afflicted so that I might learn your decrees."
+        },
+        {
+            "verse": "2 Corinthians 1:4",
+            "version": "NIV",
+            "text": "who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God."
+        },
+        {
+            "verse": "Romans 10:9",
+            "version": "NIV",
+            "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Psalm 34:18: 'The Lord is close to the brokenhearted and saves those who are crushed in spirit.'",
-            "focus": "Acknowledging Personal Brokenness",
-            "action": "Write down three current 'thorns' in your life. Reflect on how each might be an opportunity for growth, not just a source of pain.",
-            "prayer": "Lord, help me see my struggles through Your perspective. Give me wisdom to understand the purpose behind my pain and the strength to trust You in the process. Amen."
+            "scripture": "2 Corinthians 12:9 (NIV) - 'But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.''",
+            "focus": "God's Sufficiency in Weakness",
+            "action": "Identify one personal weakness or 'thorn' you struggle with. Write it down and pray, asking God to show you His sufficient grace in that area today.",
+            "prayer": "Lord, thank you that your grace is enough for me. In my weakness, help me to rely on your strength and not my own. Amen."
         },
         "Tuesday": {
-            "scripture": "Romans 8:28: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'",
-            "focus": "Finding Purpose in Pain",
-            "action": "Identify one past difficult experience that has shaped who you are today. Journal about how God might have used that experience to refine your character.",
-            "prayer": "Father, thank You for never wasting my pain. Help me trust that You are working all things together for my good, even when I cannot see the full picture. Amen."
+            "scripture": "James 1:2-3 (NIV) - 'Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.'",
+            "focus": "Finding Purpose in Trials",
+            "action": "Reflect on a past difficulty. Write down one way that trial helped build your character or drew you closer to God.",
+            "prayer": "Father, help me to see my trials through your eyes. Give me the faith to consider them joy, knowing you are at work. Amen."
         },
         "Wednesday": {
-            "scripture": "James 1:2-4: 'Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.'",
-            "focus": "Developing Spiritual Resilience",
-            "action": "Reach out to someone who is currently going through a difficult season. Offer genuine encouragement and listen without judgment.",
-            "prayer": "God, make me an instrument of Your comfort. Help me see trials as opportunities for growth and be a source of hope for others. Amen."
+            "scripture": "Psalm 119:71 (NIV) - 'It was good for me to be afflicted so that I might learn your decrees.'",
+            "focus": "Learning Through Affliction",
+            "action": "Read a chapter in Proverbs. Identify one piece of God's wisdom you may have overlooked until a painful experience taught you its truth.",
+            "prayer": "God, thank you for teaching me through life's hard lessons. Open my heart to your instructions, which are more valuable than gold. Amen."
         },
         "Thursday": {
-            "scripture": "2 Corinthians 1:9: 'Indeed, we felt we had received the sentence of death. But this happened that we might not rely on ourselves but on God, who raises the dead.'",
-            "focus": "Embracing Dependency on God",
-            "action": "Spend time in prayer, specifically identifying areas where you've been trying to handle things in your own strength. Surrender these to God.",
-            "prayer": "Lord, teach me true dependence on You. Help me release my need for control and trust in Your perfect plan. Strengthen my faith in Your sufficiency. Amen."
+            "scripture": "2 Corinthians 1:4 (NIV) - '...who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God.'",
+            "focus": "Comforting Others",
+            "action": "Think of someone who is currently going through a trial similar to one you've experienced. Reach out to them with a message of encouragement or prayer.",
+            "prayer": "Holy Spirit, guide me to someone who needs the comfort you've given me. Use my story to bring them hope and point them to you. Amen."
         },
         "Friday": {
-            "scripture": "Isaiah 43:2: 'When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze.'",
-            "focus": "Recognizing God's Presence in Trials",
-            "action": "Create a 'testimony list' of challenges God has helped you overcome. Reflect on God's faithfulness throughout your life's journey.",
-            "prayer": "Heavenly Father, You are my constant in every storm. Thank You for Your unwavering presence. Help me remember Your past faithfulness when facing current challenges. Amen."
+            "scripture": "Jeremiah 18:6 (NIV) - 'Like clay in the hand of the potter, so are you in my hand...'",
+            "focus": "Being Refined by God",
+            "action": "Spend time in quiet prayer, surrendering an area where you feel 'broken' or 'marred' to God, the Potter. Ask Him to reshape you as He sees best.",
+            "prayer": "Potter God, I am the clay. I surrender my broken pieces to you. Remake me, refine me, and let me reflect your image. Amen."
         },
         "Saturday": {
-            "scripture": "Philippians 3:10: 'I want to know Christ\u2014yes, to know the power of his resurrection and participation in his sufferings, becoming like him in his death.'",
-            "focus": "Transformative Suffering",
-            "action": "Spend time in quiet reflection. Ask God to reveal how He might be using your current challenges to make you more like Jesus.",
-            "prayer": "Lord, transform my pain into purpose. Help me see my struggles as opportunities to draw closer to You and reflect Your character. Make me more like Jesus through every trial. Amen."
+            "scripture": "Romans 10:9 (NIV) - 'If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved.'",
+            "focus": "Foundational Faith",
+            "action": "If you have never made a decision to follow Christ, consider doing so today. If you have, write a simple prayer of thanksgiving for your salvation and share it with one person.",
+            "prayer": "Jesus, I believe you are Lord. I believe God raised you from the dead. I confess my sins and invite you into my life. Thank you for saving me. Amen."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/BQ5P1TEnhEg"

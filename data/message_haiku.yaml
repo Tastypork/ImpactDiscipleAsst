@@ -1,0 +1,9 @@
+# Anthropic Messages API settings + paths to Markdown prompt bodies (repo-root relative).
+model: claude-haiku-4-5-20251001
+max_tokens: 4096
+temperature: 0.6
+# Paths are relative to this file's directory (data/).
+system_file: prompts/haiku_system.md
+user_blocks:
+  - prompts/haiku_example.md
+  - prompts/haiku_task.md

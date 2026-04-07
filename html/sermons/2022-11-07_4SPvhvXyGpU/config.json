@@ -1,98 +1,163 @@
 {
-    "summaryText": "Wow, what an incredible message of hope from Pastor Travis Hearn! In a world that often feels dark and discouraging, PT reminds us that hope is not just a wishful feeling, but a powerful spiritual force anchored in God's promises. The sermon centered on Romans 12:12 - 'Be joyful in hope, patient in affliction, and faithful in prayer' - a powerful blueprint for navigating life's challenges. Pastor Travis passionately explained that hope isn't about denying our circumstances, but about trusting God's character and promises. He emphasized that the devil's goal is to steal our joy and destroy our hope, but Jesus came to give us life abundantly. Using powerful examples like Shadrach, Meshach, and Abednego, he illustrated how maintaining hope means refusing to compromise our faith, even when the 'fiery furnace' seems impossible to survive. The most profound moment? When he declared that every fire in our lives is a controlled fire - designed not to destroy us, but to refine us. God isn't just trying to get us OUT of challenges, but wants to work powerfully THROUGH them to mature our faith. Whether you're facing a struggling marriage, financial strain, health issues, or personal battles, this message reminds us: DON'T LOSE HOPE! God is with you, for you, and working all things together for your good.",
+    "summaryText": "Pastor Travis Hearn opened the service with a passionate call to never lose hope, anchoring the message in Psalm 119:114: 'I have put my hope in your word.' He emphasized that no matter the difficulty\u2014be it brokenness, sickness, or spiritual attack\u2014there is always hope because God is a way-maker, healer, and redeemer. The core of the sermon was an exposition of Romans 12:12: 'Be joyful in hope, patient in affliction, faithful in prayer.' Pastor Travis explained that being joyful in hope means looking ahead to God's promises, with Jesus Himself being our 'blessed hope.' He warned that the enemy seeks to steal our joy and hope, but we must remain alert and trust in God's good name. The second point focused on being patient in affliction, drawing on James 1 to teach that trials test and mature our faith. Using the biblical analogies of storms, valleys, and fires, Pastor Travis assured the congregation that God is with us in every difficulty, refining us as in a furnace. He illustrated this with the story of Shadrach, Meshach, and Abednego, highlighting that God walks with us in the fire. The final point was a call to be faithful in prayer, not as a religious duty but as a vital relationship with God. He shared scriptures on the power of prayer from Matthew 18 and James 5, stressing that prayer is powerful and effective. The service concluded with an extended time of prayer and anointing, inviting the congregation to receive breakthrough and miracles in every area of life.",
     "tags": [
         "Hope",
-        "Faith",
-        "Spiritual Warfare"
+        "Prayer",
+        "Suffering"
     ],
     "mainPoints": [
-        "Be joyful in hope, even when circumstances seem impossible",
-        "Stay patient in affliction, knowing God is refining you",
-        "Remain faithful in prayer, maintaining constant communication with God"
+        "Be joyful in hope by fixing your eyes on Jesus, our blessed hope, and refusing to let the enemy steal your joy.",
+        "Be patient in affliction, understanding that God uses trials, storms, and fires to refine you and grow your spiritual maturity.",
+        "Be faithful in prayer, cultivating it as a powerful, relational conversation with God that brings breakthrough and healing."
     ],
     "versesMentioned": [
         {
             "verse": "Psalm 119:114",
-            "text": "You are my refuge and my shield; I have put my hope in your word.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "You are my refuge and my shield; I have put my hope in your word."
         },
         {
             "verse": "Romans 12:12",
-            "text": "Be joyful in hope, patient in affliction, and faithful in prayer.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Be joyful in hope, patient in affliction, faithful in prayer."
         },
         {
             "verse": "Jeremiah 29:11",
-            "text": "For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "For I know the plans I have for you,\u201d declares the Lord, \u201cplans to prosper you and not to harm you, plans to give you hope and a future."
         },
         {
             "verse": "Romans 15:13",
-            "text": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
         },
         {
             "verse": "Proverbs 3:5",
-            "text": "Trust in the Lord with all your heart and lean not on your own understanding.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Trust in the Lord with all your heart and lean not on your own understanding;"
+        },
+        {
+            "verse": "1 Peter 1:1",
+            "version": "NIV",
+            "text": "Peter, an apostle of Jesus Christ, To God\u2019s elect, exiles scattered throughout the provinces of Pontus, Galatia, Cappadocia, Asia and Bithynia,"
+        },
+        {
+            "verse": "Titus 2:13",
+            "version": "NIV",
+            "text": "while we wait for the blessed hope\u2014the appearing of the glory of our great God and Savior, Jesus Christ,"
+        },
+        {
+            "verse": "Psalm 52:9",
+            "version": "NIV",
+            "text": "For what you have done I will always praise you in the presence of your faithful people. And I will hope in your name, for your name is good."
+        },
+        {
+            "verse": "Philippians 2:9-11",
+            "version": "NIV",
+            "text": "Therefore God exalted him to the highest place and gave him the name that is above every name, that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue acknowledge that Jesus Christ is Lord, to the glory of God the Father."
         },
         {
             "verse": "John 10:10",
-            "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full."
         },
         {
             "verse": "1 Peter 5:8",
-            "text": "Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour."
+        },
+        {
+            "verse": "James 1:2-4",
+            "version": "NIV",
+            "text": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything."
+        },
+        {
+            "verse": "Isaiah 7:14",
+            "version": "NIV",
+            "text": "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel."
         },
         {
             "verse": "Isaiah 43:2",
-            "text": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze."
         },
         {
-            "verse": "Daniel 3:16-18",
-            "text": "Shadrach, Meshach and Abednego replied to him, 'King Nebuchadnezzar, we do not need to defend ourselves before you. If we are thrown into the blazing furnace, the God we serve is able to deliver us from it, and he will deliver us from Your Majesty's hand. But even if he does not, we want you to know, Your Majesty, that we will not serve your gods or worship the image of gold you have set up.'",
-            "version": "NIV"
+            "verse": "Isaiah 48:10",
+            "version": "NIV",
+            "text": "See, I have refined you, though not as silver; I have tested you in the furnace of affliction."
+        },
+        {
+            "verse": "Daniel 3:27",
+            "version": "NIV",
+            "text": "The satraps, prefects, governors and royal advisers crowded around them. They saw that the fire had not harmed their bodies, nor was a hair of their heads singed; their robes were not scorched, and there was no smell of fire on them."
+        },
+        {
+            "verse": "1 Corinthians 13:11",
+            "version": "NIV",
+            "text": "When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put the ways of childhood behind me."
+        },
+        {
+            "verse": "Hebrews 5:12",
+            "version": "NIV",
+            "text": "In fact, though by this time you ought to be teachers, you need someone to teach you the elementary truths of God\u2019s word all over again. You need milk, not solid food!"
+        },
+        {
+            "verse": "Hebrews 6:1",
+            "version": "NIV",
+            "text": "Therefore let us move beyond the elementary teachings about Christ and be taken forward to maturity, not laying again the foundation of repentance from acts that lead to death, and of faith in God,"
+        },
+        {
+            "verse": "Matthew 18:18-20",
+            "version": "NIV",
+            "text": "Truly I tell you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven. Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by my Father in heaven. For where two or three gather in my name, there am I with them."
+        },
+        {
+            "verse": "James 5:13-16",
+            "version": "NIV",
+            "text": "Is anyone among you in trouble? Let them pray. Is anyone happy? Let them sing songs of praise. Is anyone among you sick? Let them call the elders of the church to pray over them and anoint them with oil in the name of the Lord. And the prayer offered in faith will make the sick person well; the Lord will raise them up. If they have sinned, they will be forgiven. Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective."
+        },
+        {
+            "verse": "Romans 10:9",
+            "version": "NIV",
+            "text": "If you declare with your mouth, \u201cJesus is Lord,\u201d and believe in your heart that God raised him from the dead, you will be saved."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Psalm 46:1: 'God is our refuge and strength, an ever-present help in trouble.'",
-            "focus": "Identifying areas where you need God's hope and refuge",
-            "action": "Make a list of current challenges. Next to each challenge, write one way God might be present or working in that situation. Reflect on how your perspective changes when you view challenges through a lens of hope.",
-            "prayer": "Lord, help me see beyond my current circumstances. Open my eyes to Your hope and presence, even in difficult moments. Teach me to trust in Your promises and not my perceptions. Amen."
+            "scripture": "Psalm 119:114 (NIV) - 'You are my refuge and my shield; I have put my hope in your word.'",
+            "focus": "Anchoring your hope in God's word.",
+            "action": "Write down one situation where you feel hopeless. Read Psalm 119:114 aloud three times, declaring your hope is in God's word.",
+            "prayer": "Lord, my hope is in You and Your unchanging word. Be my refuge and shield today. Amen."
         },
         "Tuesday": {
-            "scripture": "Hebrews 11:1: 'Now faith is confidence in what we hope for and assurance about what we do not see.'",
-            "focus": "Understanding hope as an active spiritual posture",
-            "action": "Choose one area of your life where you've been discouraged. Spend time journaling about what hope could look like practically in this situation. What would trusting God fully involve?",
-            "prayer": "Heavenly Father, renew my hope today. Where I've grown weary or cynical, restore my ability to believe in Your goodness. Help me hope not just passively, but with confident expectation. Amen."
+            "scripture": "Romans 12:12 (NIV) - 'Be joyful in hope, patient in affliction, faithful in prayer.'",
+            "focus": "Cultivating joy in hope.",
+            "action": "Identify one promise of God you can be joyful about. Share that reason for joy with one other person.",
+            "prayer": "God of hope, fill me with joy as I trust in Your promises. Help me to be joyful in hope today. Amen."
         },
         "Wednesday": {
-            "scripture": "Romans 15:13: 'May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.'",
-            "focus": "Experiencing hope as a supernatural power",
-            "action": "Reach out to someone who might be struggling and offer genuine encouragement. Share a word of hope or pray with them. Notice how speaking hope can transform both your perspective and theirs.",
-            "prayer": "God, use me as a carrier of Your hope today. Help me speak life into difficult situations and be a conduit of Your supernatural peace and joy. Make me an agent of hope in a world that desperately needs it. Amen."
+            "scripture": "James 1:2-4 (NIV) - 'Consider it pure joy... whenever you face trials...'",
+            "focus": "Finding purpose in difficulty.",
+            "action": "Reflect on a current challenge. Write down one way God might be using it to build perseverance or character in you.",
+            "prayer": "Father, help me to see my trials from Your perspective. Give me patience and let this difficulty produce maturity in me. Amen."
         },
         "Thursday": {
-            "scripture": "Lamentations 3:22-23: 'Because of the Lord's great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.'",
-            "focus": "Recognizing hope as a daily renewal",
-            "action": "Start a 'hope journal'. Each morning, write down one specific way you've seen God's faithfulness, either in the past or something you're believing for in the present.",
-            "prayer": "Lord, refresh my hope today. Help me see Your mercies that are new every morning. Even when circumstances feel unchanging, remind me that Your faithfulness is constant and Your love never fails. Amen."
+            "scripture": "Isaiah 43:2 (NIV) - 'When you walk through the fire, you will not be burned...'",
+            "focus": "Trusting God's presence in the fire.",
+            "action": "Memorize Isaiah 43:2. When you face a stressful moment today, silently recall this verse.",
+            "prayer": "Immanuel, thank You for being with me in every storm and fire. I trust that You are with me right now. Amen."
         },
         "Friday": {
-            "scripture": "Isaiah 40:31: 'But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.'",
-            "focus": "Hope as a source of supernatural strength",
-            "action": "Identify an area where you feel spiritually or emotionally depleted. Spend time in prayer, specifically asking God to renew your strength and perspective.",
-            "prayer": "Heavenly Father, in my weakness, be my strength. Where I feel tired and overwhelmed, fill me with Your hope. Renew my spirit and help me walk in the confident expectation of Your promises. Amen."
+            "scripture": "Matthew 18:20 (NIV) - 'For where two or three gather in my name, there am I with them.'",
+            "focus": "The power of agreement in prayer.",
+            "action": "Text or call one other believer and agree with them in prayer for a specific need.",
+            "prayer": "Jesus, thank You for the promise of Your presence when we pray together. Unite our hearts in faith as we seek You. Amen."
         },
         "Saturday": {
-            "scripture": "Jeremiah 29:11: 'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
-            "focus": "Embracing hope as a divine strategy",
-            "action": "Take time to dream and pray about your future. What hopes and dreams has God placed in your heart? Write them down and surrender them to God, asking for His guidance and alignment.",
-            "prayer": "Lord, I trust Your plans for my life. Where my hopes feel uncertain, I choose to hope in You. Align my dreams with Your purpose, and give me courage to believe in the future You've prepared for me. Amen."
+            "scripture": "James 5:16 (NIV) - 'The prayer of a righteous person is powerful and effective.'",
+            "focus": "Engaging in powerful, relational prayer.",
+            "action": "Set aside 10 minutes for uninterrupted prayer. Talk to God about your day, then listen quietly for a few moments.",
+            "prayer": "Heavenly Father, I come to You not with recited words, but with an open heart. Make my prayers powerful and effective as I seek Your face. Amen."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/4SPvhvXyGpU"

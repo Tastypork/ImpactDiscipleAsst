@@ -1,94 +1,113 @@
 {
-    "summaryText": "What an incredible message about hope from Pastor Travis Hearn! In this powerful sermon, PT reminds us that no matter how hopeless our situation might seem, God is always working and there is ALWAYS hope. Isn't that such a comforting truth? Pastor Travis breaks down four key points about maintaining hope: God is on our side, God sees our situation, God is always on time, and when we are weak, He is strong. I love how he uses relatable illustrations - like talking about waiting at the doctor's office or trying to hang a picture with broken tools - to demonstrate how we often try to fix things in our own strength instead of turning to God. The sermon challenges us to shift our perspective from our limited human view to God's eternal, supernatural perspective. Pastor Travis reminds us that sometimes we think we're waiting on God, but in reality, God is waiting on us to grow, mature, and remove the 'weeds' in our lives that are preventing His blessings. The most powerful takeaway? God's power begins exactly where our power ends. So if you're feeling hopeless today, take heart - God is not just near, He is working on your behalf, and there is ALWAYS hope!",
+    "summaryText": "Pastor Travis Hearn concluded the 'Match Made in Heaven' series with a message titled 'There's Always Hope,' anchored in 1 Corinthians 13:7's declaration that 'love always hopes.' He began by reading 1 Corinthians 13 and Romans 15:13, emphasizing that God is the 'God of hope' who fills believers with joy and peace. Pastor Travis defined biblical hope as confident expectation, not just wishful thinking, and contrasted the world's fleeting joy and peace with the unfailing, supernatural hope found in God. He offered four points of encouragement for those feeling hopeless: first, to remember that God is always on our side and near to the brokenhearted; second, that God sees every detail of our situation and cares deeply; third, that God's timing is perfect, and waiting cultivates patience and trust; and fourth, that in our weakness, God's strength is made perfect. Using personal stories and practical illustrations\u2014like trying to fix a broken wall with broken tools\u2014he warned against trying to solve spiritual brokenness with worldly, broken solutions like substance abuse or unhealthy relationships. He urged the congregation to turn to God as their only true resource, to step out in faith to see the supernatural, and to allow God to develop their character through life's trials. The message closed with a call to surrender to Christ and a reminder that God's power is most evident when our own strength ends.",
     "tags": [
         "Hope",
         "Faith",
-        "Trust"
+        "Love"
     ],
     "mainPoints": [
-        "God is always on our side",
-        "God sees and cares about our specific situations",
-        "God's timing is perfect, even when we don't understand",
-        "God's strength is made perfect in our weakness"
+        "Remember that God is on your side; He is near to the brokenhearted and is always with you.",
+        "God sees your situation completely and cares about your anguish with unfailing love.",
+        "In your weakness, God's strength is made perfect; His power works when our human power ends."
     ],
     "versesMentioned": [
         {
             "verse": "1 Corinthians 13:4-8",
-            "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails."
         },
         {
             "verse": "Romans 15:13",
-            "text": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
         },
         {
             "verse": "Hebrews 11:1",
-            "text": "Now faith is confidence in what we hope for and assurance about what we do not see.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Now faith is confidence in what we hope for and assurance about what we do not see."
         },
         {
             "verse": "Psalm 34:18",
-            "text": "The Lord is near to the brokenhearted and saves those who are crushed in spirit.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit."
+        },
+        {
+            "verse": "Psalm 52:9",
+            "version": "NIV",
+            "text": "I will praise you forever for what you have done; in your name I will hope, for your name is good."
         },
         {
             "verse": "Isaiah 41:10",
-            "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+        },
+        {
+            "verse": "Psalm 56:8-11",
+            "version": "NIV",
+            "text": "Record my misery; list my tears on your scroll\u2014 are they not in your record? Then my enemies will turn back when I call for help. By this I will know that God is for me. In God, whose word I praise, in the Lord, whose word I praise\u2014 in God I trust and am not afraid. What can man do to me?"
+        },
+        {
+            "verse": "Psalm 31:7",
+            "version": "NIV",
+            "text": "I will be glad and rejoice in your love, for you saw my affliction and knew the anguish of my soul."
+        },
+        {
+            "verse": "Isaiah 55:8-9",
+            "version": "NIV",
+            "text": "\"For my thoughts are not your thoughts, neither are your ways my ways,\" declares the Lord. \"As the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts.\""
         },
         {
             "verse": "James 1:2-4",
-            "text": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything."
         },
         {
             "verse": "Romans 4:18",
-            "text": "Against all hope, Abraham in hope believed and so became the father of many nations, just as it had been said to him, 'So shall your offspring be.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Against all hope, Abraham in hope believed and so became the father of many nations, just as it had been said to him, \"So shall your offspring be.\""
         },
         {
             "verse": "2 Corinthians 12:9-10",
-            "text": "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me. That is why, for Christ's sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But he said to me, \"My grace is sufficient for you, for my power is made perfect in weakness.\" Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me. That is why, for Christ's sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Jeremiah 29:11: 'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
-            "focus": "Trusting God's perspective over our own",
-            "action": "Spend 15 minutes journaling about a current situation where you feel hopeless. Ask God to help you see it from His perspective.",
-            "prayer": "Lord, help me trust Your timing and Your plan. Give me spiritual eyes to see beyond my current circumstances and believe in Your hope. Amen."
+            "scripture": "Psalm 34:18 (NIV) - 'The Lord is close to the brokenhearted and saves those who are crushed in spirit.'",
+            "focus": "God's Nearness",
+            "action": "Identify one area where you feel broken or discouraged. Write it down and consciously remind yourself that God is with you in it.",
+            "prayer": "Lord, thank you for being near to me. Help me to feel your presence in my situation today and trust that you are working."
         },
         "Tuesday": {
-            "scripture": "Psalm 62:5: 'Yes, my soul, find rest in God; my hope comes from him.'",
-            "focus": "Finding hope in God's unchanging nature",
-            "action": "Make a list of 5 things you're worried about. Beside each, write a promise from Scripture that counters that worry.",
-            "prayer": "Heavenly Father, remind me today that You are my ultimate source of hope. Help me to rest in Your promises. Amen."
+            "scripture": "Psalm 31:7 (NIV) - 'I will be glad and rejoice in your love, for you saw my affliction and knew the anguish of my soul.'",
+            "focus": "God's Sight",
+            "action": "Take a moment of quiet reflection. Verbally or in writing, tell God about a specific worry, trusting that He sees and cares.",
+            "prayer": "Father, I am grateful that you see every detail of my life. I release my anguish to you, believing in your unfailing love."
         },
         "Wednesday": {
-            "scripture": "Lamentations 3:22-23: 'Because of the Lord's great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.'",
-            "focus": "Recognizing God's daily renewal of hope",
-            "action": "Start a 'hope journal' where you record daily moments of God's unexpected blessings or interventions.",
-            "prayer": "God, open my eyes to see Your faithfulness today. Help me recognize the hope You provide in every moment. Amen."
+            "scripture": "Isaiah 55:8-9 (NIV) - 'For my thoughts are not your thoughts, neither are your ways my ways...'",
+            "focus": "God's Perfect Timing",
+            "action": "Choose one thing you are impatiently waiting for. Practice patience by not trying to force a solution today.",
+            "prayer": "God, help me to trust that your timing is perfect. Teach me patience and help me to wait on you with hope."
         },
         "Thursday": {
-            "scripture": "Isaiah 40:31: 'But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.'",
-            "focus": "Renewing strength through hope",
-            "action": "Identify one area where you feel weak or discouraged. Spend time in prayer asking God to renew your strength.",
-            "prayer": "Lord, where I am weak, fill me with Your strength. Renew my hope and help me trust in Your power. Amen."
+            "scripture": "James 1:2-4 (NIV) - 'Consider it pure joy... whenever you face trials...'",
+            "focus": "Growth in Trials",
+            "action": "Identify a current challenge. Instead of asking for it to be removed, ask God what He wants to develop in you through it.",
+            "prayer": "Lord, give me your perspective on my trials. Help me to find joy in the spiritual maturity you are building in me."
         },
         "Friday": {
-            "scripture": "Romans 15:13: 'May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.'",
-            "focus": "Allowing hope to overflow in our lives",
-            "action": "Look for an opportunity to share hope with someone else who might be struggling. This could be through encouragement, prayer, or practical help.",
-            "prayer": "Father, use me as a vessel of Your hope today. Help me to encourage someone and reflect Your love. Amen."
+            "scripture": "2 Corinthians 12:9 (NIV) - 'My grace is sufficient for you, for my power is made perfect in weakness.'",
+            "focus": "Strength in Weakness",
+            "action": "Acknowledge one personal weakness or limitation. Decide to rely on God's strength in that area instead of your own.",
+            "prayer": "Jesus, I admit my weakness. I choose to rely on your strength today. Let your power be perfected in me."
         },
         "Saturday": {
-            "scripture": "Psalm 39:7: 'But now, Lord, what do I look for? My hope is in you.'",
-            "focus": "Centering our hope solely on God",
-            "action": "Do a spiritual inventory. Identify any areas where you've been placing hope in things other than God, and surrender those to Him.",
-            "prayer": "God, realign my heart. Help me place my complete hope and trust in You alone. Remove anything that competes for my trust. Amen."
+            "scripture": "Romans 15:13 (NIV) - 'May the God of hope fill you with all joy and peace as you trust in him...'",
+            "focus": "Overflowing Hope",
+            "action": "Reflect on the past week. Write down one reason you have for hope because of God's faithfulness.",
+            "prayer": "God of hope, fill me with your joy and peace. Let my life overflow with hope so that I can encourage others."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/FgiJx7hYHPg"

@@ -4,10 +4,27 @@ import os
 import subprocess
 import time
 import xml.etree.ElementTree as ET
-from video_utils import log_new_video  # Import log_new_video function
-from update import git_push # Import automatic pushing function
+from video_utils import ingest_video, IngestResult, load_app_config
+from video_sync import fetch_all_channel_playlist_video_ids
 
 app = Flask(__name__)
+PLAYLIST_MEMBERSHIP_CHECK_ATTEMPTS = 3
+PLAYLIST_MEMBERSHIP_RETRY_SECONDS = 5
+
+
+def git_push(commit_message: str = "Auto-commit generated data") -> None:
+    """
+    Stage and publish regenerated sermon artifacts.
+    Uses the current process identity and surfaces command errors in logs.
+    """
+    paths_to_stage = ["html/sermons", "html/latest_sermons.json"]
+    try:
+        subprocess.run(["git", "add"] + paths_to_stage, check=True)
+        subprocess.run(["git", "commit", "-m", commit_message], check=True)
+        subprocess.run(["git", "push"], check=True)
+        print("Changes committed and pushed successfully.")
+    except subprocess.CalledProcessError as e:
+        print("An error occurred while pushing generated artifacts:", e)
 
 # Function to subscribe to YouTube Pub/Sub using the curl command
 def subscribe_to_youtube():
@@ -31,13 +48,14 @@ def subscribe_to_youtube():
         print("Error: NGROK_URL environment variable is not set.")
         return
 
-    # Define the curl command as a list
+    channel_id = load_app_config()["channel_id"]
+    topic = f"https://www.youtube.com/xml/feeds/videos.xml?channel_id={channel_id}"
     command = [
         "curl", "-X", "POST", "https://pubsubhubbub.appspot.com/subscribe",
         "-d", "hub.mode=subscribe",
-        "-d", "hub.topic=https://www.youtube.com/xml/feeds/videos.xml?channel_id=UCuKhKyFSA0esUpF09nM9OSA",
+        "-d", f"hub.topic={topic}",
         "-d", f"hub.callback={ngrok_url}/webhook",
-        "-d", "hub.verify=async"
+        "-d", "hub.verify=async",
     ]
 
     # Run the curl command
@@ -51,6 +69,29 @@ def subscribe_to_youtube():
         print("Failed to send subscription request.")
         print("Error:", result.stderr)
 
+
+def _video_is_in_any_channel_playlist(video_id: str) -> bool:
+    """
+    Pub/Sub notifies for channel uploads feed, which can include live streams.
+    Enforce playlist policy here so webhook behavior matches sync behavior.
+    Retry briefly because playlist assignment can lag upload notification.
+    """
+    cfg = load_app_config()
+    channel_id = cfg["channel_id"]
+    api_key = cfg["yt_token"]
+    for attempt in range(1, PLAYLIST_MEMBERSHIP_CHECK_ATTEMPTS + 1):
+        try:
+            playlist_ids = fetch_all_channel_playlist_video_ids(channel_id, api_key)
+        except Exception as e:
+            print(f"Playlist membership check failed for {video_id}: {e}")
+            return False
+        if video_id in set(playlist_ids):
+            return True
+        if attempt < PLAYLIST_MEMBERSHIP_CHECK_ATTEMPTS:
+            time.sleep(PLAYLIST_MEMBERSHIP_RETRY_SECONDS)
+    return False
+
+
 @app.route('/webhook', methods=['GET', 'POST'])
 def youtube_webhook():
     # YouTube's verification (subscription confirmation)
@@ -61,17 +102,27 @@ def youtube_webhook():
     # YouTube sends data about a new video in POST requests
     elif request.method == 'POST':
         xml_data = request.data  # Get the data YouTube sent as XML
-        root = ET.fromstring(xml_data)  # Parse the XML data
+        try:
+            root = ET.fromstring(xml_data)  # Parse the XML data
+        except ET.ParseError:
+            return "Ignored: malformed XML", 200
         
         # Extract the video ID
-        video_id = root.find('.//{http://www.youtube.com/xml/schemas/2015}videoId').text
+        video_node = root.find('.//{http://www.youtube.com/xml/schemas/2015}videoId')
+        if video_node is None or not video_node.text:
+            return "Ignored: no videoId in notification", 200
+        video_id = video_node.text
 
-        # Save the video to your database
-        if log_new_video(video_id):
-            git_push()
-            return "Success", 200
-        else:
+        if not _video_is_in_any_channel_playlist(video_id):
+            print(f"Ignoring {video_id}: not found in any channel playlist.")
+            return "Ignored: not in channel playlists", 200
+
+        result = ingest_video(video_id)
+        if result == IngestResult.FAILED:
             return "Failed, see log", 400
+        if result == IngestResult.SUCCESS:
+            git_push()
+        return "Success", 200
     else:
         abort(400)
 

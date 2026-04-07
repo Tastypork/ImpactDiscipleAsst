@@ -1,84 +1,123 @@
 {
-    "summaryText": "Wow, what a powerful message from Pastor Travis Hearn about turning our weaknesses into weapons! Pastor Travis delivers an incredible sermon about how God doesn't just want to remove our weaknesses, but wants to use them to demonstrate His extraordinary power. He dives deep into how our limitations aren't obstacles, but opportunities for God to show up in miraculous ways. Using biblical examples like Moses, Paul, and Gideon, PT shows how God deliberately chooses the unlikely, the weak, and the insecure to accomplish His most incredible work. The core message? Your weakness isn't a limitation - it's a launching pad for God's power! Pastor Travis breaks down four key insights: admission is the beginning of power, weaknesses create dependency on God, weaknesses keep us humble, and weaknesses reveal God's power. Can you imagine transforming what you see as your greatest limitation into your greatest strength? That's exactly what God wants to do! The sermon challenges us to stop hiding our struggles and start surrendering them to God, who specializes in turning our 'nothing' into something extraordinary.",
-    "tags": ["Faith", "Weakness", "Transformation"],
+    "summaryText": "Pastor Travis Hearn opened a new series titled 'Weapons,' focusing on the spiritual battle believers face. He emphasized that worldly weapons are powerless in this fight, and true divine power comes from God's weapons. The core message was that our greatest weaknesses, when surrendered to God, can become our greatest strengths and weapons. Pastor Travis taught that this transformation begins with honest admission of our flaws, as seen in James 5:16, where confession leads to healing. He illustrated this through biblical figures like Moses, who had anger and speech impediments, and Paul, who had a 'thorn in the flesh.' These weaknesses forced dependency on God, revealing His strength. The sermon highlighted that God intentionally uses what the world sees as foolish or weak to demonstrate His power, as stated in 1 Corinthians 1:27. The call was for the congregation to stop hiding their insecurities, pains, and failures, and instead, boast in their weaknesses so that Christ's power could rest upon them. The message concluded with an invitation to surrender fully to Jesus, trusting Him to use every imperfection for His glory.",
+    "tags": [
+        "Faith",
+        "Prayer",
+        "Suffering"
+    ],
     "mainPoints": [
-        "Admission is the beginning of power",
-        "Weaknesses create stronger dependency on God",
-        "Weaknesses keep us humble and reveal God's power"
+        "Admission of our weaknesses is the beginning of gaining God's power over them.",
+        "Our weaknesses create a stronger dependency on God, forcing us to rely on His strength.",
+        "God uses our weaknesses to keep us humble and to reveal His miraculous power."
     ],
     "versesMentioned": [
         {
             "verse": "2 Corinthians 10:4",
-            "text": "The weapons we fight with are not the weapons of the world on the contrary, they have divine power to demolish strongholds.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The weapons we fight with are not the weapons of the world. On the contrary, they have divine power to demolish strongholds."
         },
         {
             "verse": "Ephesians 6:12",
-            "text": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms."
         },
         {
             "verse": "James 5:16",
-            "text": "Therefore confess your sins to each other and pray for each other so that you may be healed.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective."
+        },
+        {
+            "verse": "Exodus 3:9-12",
+            "version": "NIV",
+            "text": "And now the cry of the Israelites has reached me, and I have seen the way the Egyptians are oppressing them. So now, go. I am sending you to Pharaoh to bring my people the Israelites out of Egypt. But Moses said to God, 'Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?' And God said, 'I will be with you.'"
+        },
+        {
+            "verse": "Colossians 2:7",
+            "version": "NIV",
+            "text": "rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness."
+        },
+        {
+            "verse": "Jeremiah 17:5-8",
+            "version": "NIV",
+            "text": "This is what the LORD says: 'Cursed is the one who trusts in man, who draws strength from mere flesh and whose heart turns away from the LORD. That person will be like a bush in the wastelands; they will not see prosperity when it comes. They will dwell in the parched places of the desert, in a salt land where no one lives. But blessed is the one who trusts in the LORD, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream. It does not fear when heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit.'"
+        },
+        {
+            "verse": "Ephesians 3:17-18",
+            "version": "NIV",
+            "text": "so that Christ may dwell in your hearts through faith. And I pray that you, being rooted and established in love, may have power, together with all the Lord\u2019s holy people, to grasp how wide and long and high and deep is the love of Christ,"
         },
         {
             "verse": "2 Corinthians 12:7-10",
-            "text": "Therefore, in order to keep me from becoming conceited, I was given a thorn in my flesh, a messenger of Satan, to torment me. Three times I pleaded with the Lord to take it away from me. But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Therefore, in order to keep me from becoming conceited, I was given a thorn in my flesh, a messenger of Satan, to torment me. Three times I pleaded with the Lord to take it away from me. But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ\u2019s power may rest on me. That is why, for Christ\u2019s sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
         },
         {
             "verse": "Genesis 50:20",
-            "text": "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives."
         },
         {
             "verse": "James 1:2-4",
-            "text": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything."
+        },
+        {
+            "verse": "1 Peter 1:6-7",
+            "version": "NIV",
+            "text": "In all this you greatly rejoice, though now for a little while you may have had to suffer grief in all kinds of trials. These have come so that the proven genuineness of your faith\u2014of greater worth than gold, which perishes even though refined by fire\u2014may result in praise, glory and honor when Jesus Christ is revealed."
+        },
+        {
+            "verse": "James 4:10",
+            "version": "NIV",
+            "text": "Humble yourselves before the Lord, and he will lift you up."
         },
         {
             "verse": "1 Corinthians 1:27",
-            "text": "But God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong."
+        },
+        {
+            "verse": "John 3:16",
+            "version": "NIV",
+            "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "2 Corinthians 12:9: 'But he said to me, \"My grace is sufficient for you, for my power is made perfect in weakness.\" Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me.'",
-            "focus": "Identifying personal weaknesses as potential platforms for God's power",
-            "action": "Make a list of 3 personal weaknesses. Pray over each one, asking God how He might want to use them for His glory.",
-            "prayer": "Lord, help me see my weaknesses not as limitations, but as opportunities for Your power to shine through. Give me courage to surrender these areas to You. Amen."
+            "scripture": "James 5:16 - 'Therefore confess your sins to each other and pray for each other so that you may be healed.'",
+            "focus": "Honest Admission",
+            "action": "Identify one personal weakness or struggle you typically hide. Write it down in a private journal.",
+            "prayer": "Lord, give me the courage to be honest with myself and with You about my weaknesses. Help me to admit them so I can begin to find Your healing."
         },
         "Tuesday": {
-            "scripture": "James 4:10: 'Humble yourselves before the Lord, and he will lift you up.'",
-            "focus": "Practicing humility and honest self-reflection",
-            "action": "Journal about an area where you've been trying to appear strong, but actually need God's help. Share this vulnerability with a trusted friend or mentor.",
-            "prayer": "God, strip away my pride. Help me be genuine about my struggles and trust that Your strength is made perfect in my weakness. Amen."
+            "scripture": "2 Corinthians 12:9 - 'But he said to me, \"My grace is sufficient for you, for my power is made perfect in weakness.\"'",
+            "focus": "Dependency on God",
+            "action": "In a moment of today's challenge, pause and consciously say, 'Lord, I can't do this on my own. I depend on Your strength.'",
+            "prayer": "Father, I acknowledge my weakness. I choose to depend not on my own strength, but on Your sufficient grace and power today."
         },
         "Wednesday": {
-            "scripture": "Philippians 4:13: 'I can do all this through him who gives me strength.'",
-            "focus": "Recognizing God as the source of true strength",
-            "action": "Identify a challenging task or personal goal. Approach it not in your own strength, but by consistently seeking God's guidance and power.",
-            "prayer": "Father, I acknowledge that apart from You, I can do nothing. Fill me with Your strength today and help me depend entirely on You. Amen."
+            "scripture": "Jeremiah 17:7-8 - 'But blessed is the one who trusts in the LORD... They will be like a tree planted by the water...'",
+            "focus": "Deep Roots",
+            "action": "Spend 10 minutes reading the Bible or in prayer, focusing on putting your trust in God rather than in people or circumstances.",
+            "prayer": "God, plant my roots deep in You. Help me to trust You completely so I can be strong and fruitful, no matter what comes."
         },
         "Thursday": {
-            "scripture": "2 Corinthians 12:10: 'That is why, for Christ's sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong.'",
-            "focus": "Developing a perspective of joy in challenges",
-            "action": "When faced with a difficulty today, pause and ask God, 'What are You trying to teach me through this?'",
-            "prayer": "Lord, transform my perspective. Help me see challenges as opportunities for growth and Your power to be revealed. Amen."
+            "scripture": "Genesis 50:20 - 'You intended to harm me, but God intended it for good...'",
+            "focus": "God's Redemptive Power",
+            "action": "Reflect on a past difficulty. Write down one way God might be using it or could use it for a good purpose.",
+            "prayer": "Lord, thank You that You are the God who redeems. Help me to see how You can turn my past pains into purpose for Your glory."
         },
         "Friday": {
-            "scripture": "Jeremiah 29:11: 'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
-            "focus": "Trusting God's transformative process",
-            "action": "Reflect on a past challenge that God has already brought you through. Write down how He used that experience to strengthen you.",
-            "prayer": "Father, thank You for Your faithful work in my life. Help me trust Your process, even when I don't understand. Amen."
+            "scripture": "1 Corinthians 1:27 - 'But God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong.'",
+            "focus": "God Uses the Weak",
+            "action": "Share an encouraging word with someone you perceive as 'weak' or overlooked, affirming their value in God's eyes.",
+            "prayer": "Heavenly Father, remind me that You specialize in using the weak and foolish. Use my life, with all its flaws, to demonstrate Your strength."
         },
         "Saturday": {
-            "scripture": "Psalm 34:18: 'The Lord is close to the brokenhearted and saves those who are crushed in spirit.'",
-            "focus": "Embracing vulnerability as a pathway to God's comfort",
-            "action": "Spend time in prayer, specifically bringing your areas of weakness before God. Ask Him to reveal His purpose in them.",
-            "prayer": "God, I surrender my weaknesses to You. Use them for Your glory and help me find strength in Your love and grace. Amen."
+            "scripture": "Philippians 4:13 - 'I can do all this through him who gives me strength.'",
+            "focus": "Strength in Christ",
+            "action": "Prepare for the week ahead by listing three areas where you feel weak. Next to each, write: 'Through Christ, I have strength.'",
+            "prayer": "Jesus, I surrender my weaknesses to You. As I go into a new week, let Your power be made perfect in my life. I can do all things through You."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/Pjf6mNpGbLg"

@@ -731,8 +731,37 @@ button.btn:hover {
     transition: .3s;
 }
 
+.main-news .mn-title span {
+    display: block;
+    width: 100%;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+}
+
 .main-news .mn-title a:hover {
     color: #C0B0A0;
+}
+
+.main-news .library-controls .form-control {
+    border-radius: 0;
+}
+
+.main-news .library-results-count {
+    color: #666666;
+}
+
+.main-news .mn-card-link {
+    display: block;
+}
+
+.main-news .mn-card-link:hover {
+    text-decoration: none;
+}
+
+.main-news .mn-meta {
+    font-size: 13px;
+    color: #666666;
 }
 
 
@@ -1379,6 +1408,25 @@ button.btn:hover {
 .daily-action-plan-slider .slick-slide {
     padding: 0 10px; /* Adds padding on the left and right */
     box-sizing: border-box; /* Ensures padding is included in the width */
+}
+
+.daily-action-plan-slider .slick-slide > div {
+    height: 100%;
+}
+
+.daily-action-plan-slider .slick-slide > div > div {
+    height: 100%;
+    padding: 18px;
+    background: #ffffff;
+    border: 1px solid #e8e8e8;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
+}
+
+.daily-action-plan-slider .slick-slide > div > div:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.14);
 }
 
 .content {

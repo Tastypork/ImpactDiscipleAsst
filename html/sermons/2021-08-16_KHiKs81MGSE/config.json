@@ -1,94 +1,148 @@
 {
-    "summaryText": "Wow, what an incredible message about navigating life's challenges from Pastor Travis Hearn! In this powerful sermon, PT walks us through four key strategies for when things don't go as we hope. He reminds us that our story isn't over, even when it feels hopeless. Just like the resurrection turned the crucifixion from a symbol of despair into a beacon of hope, God is still working in our lives! Pastor Travis uses incredible examples from the Bible - like Daniel, Paul, and Shadrach, Meshach, and Abednego - to illustrate how we can stand strong through trials. He challenges us to remember that God's plan is spiritual, not logical, and encourages us to keep hoping in the Lord. One of the most memorable moments was his comparison between 'eagle Christians' and 'chicken Christians' - challenging us to soar above our circumstances instead of getting stuck in the dirt! PT's message is a powerful reminder that with God, nothing is truly impossible. Even when we feel crushed, we're just clay in the Potter's hands, being reshaped for His glory.",
+    "summaryText": "Pastor Travis Hearn delivered a message of hope and resilience titled 'When Things Don't Go As You Hoped.' He began by encouraging the congregation that their story is not over, using the crucifixion and resurrection as the ultimate example of God turning hopelessness into hope. He emphasized that God, as the author and finisher of our faith, is still at work in our lives, even when we feel crushed. The pastor pointed to the Apostle Paul's life of hardship and unwavering faith, as described in 2 Corinthians, to illustrate that with God, we are 'hard pressed but not crushed.' The second main point focused on standing strong in the Lord's power by putting on the full armor of God, as described in Ephesians 6, to withstand spiritual battles. Pastor Travis warned of a real enemy who seeks to deceive and devour, urging believers to be alert and sober-minded, relying on God's discernment. The third point highlighted that God's plans are spiritual, not logical, and He often works in mysterious and unexpected ways, as seen in the stories of Moses and Balaam. The final and central exhortation was to never stop hoping in the Lord, referencing Isaiah 40:31, which promises renewed strength for those who hope in Him. The pastor concluded with an altar call, inviting those who had never surrendered their lives to Christ to do so, leading the congregation in a prayer of salvation.",
     "tags": [
-        "Faith",
         "Hope",
-        "Suffering"
+        "Faith",
+        "Purpose"
     ],
     "mainPoints": [
-        "Your story is not over",
-        "Stand strong in the power of the Lord",
-        "God's plan is spiritual, not logical",
-        "Don't stop hoping in the Lord"
+        "Your story is not over; God is still at work in your life, and with Him there is always hope.",
+        "Stand strong in the Lord's mighty power by putting on the full armor of God to withstand spiritual attacks.",
+        "Do not stop hoping in the Lord, for He renews the strength of those who hope in Him."
     ],
     "versesMentioned": [
         {
-            "verse": "Hebrews 12:2",
-            "text": "Looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God.",
-            "version": "ESV"
-        },
-        {
             "verse": "Philippians 1:6",
-            "text": "And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus."
         },
         {
             "verse": "2 Corinthians 4:8-9",
-            "text": "We are afflicted in every way, but not crushed; perplexed, but not driven to despair; persecuted, but not forsaken; struck down, but not destroyed.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed."
         },
         {
             "verse": "Romans 8:28",
-            "text": "And we know that for those who love God all things work together for good, for those who are called according to his purpose.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
         },
         {
-            "verse": "Ephesians 6:10-18",
-            "text": "Finally, be strong in the Lord and in the strength of his might. Put on the whole armor of God, that you may be able to stand against the schemes of the devil.",
-            "version": "ESV"
+            "verse": "1 Corinthians 2:9",
+            "version": "NIV",
+            "text": "However, as it is written: \"What no eye has seen, what no ear has heard, and what no human mind has conceived\"\u2014 the things God has prepared for those who love him\u2014"
+        },
+        {
+            "verse": "Ephesians 6:10-12",
+            "version": "NIV",
+            "text": "Finally, be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil\u2019s schemes. For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms."
+        },
+        {
+            "verse": "2 Corinthians 12:10",
+            "version": "NIV",
+            "text": "That is why, for Christ\u2019s sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
+        },
+        {
+            "verse": "Nehemiah 8:10",
+            "version": "NIV",
+            "text": "Nehemiah said, \"Go and enjoy choice food and sweet drinks, and send some to those who have nothing prepared. This day is holy to our Lord. Do not grieve, for the joy of the LORD is your strength.\""
+        },
+        {
+            "verse": "Exodus 15:2",
+            "version": "NIV",
+            "text": "The LORD is my strength and my defense; he has become my salvation. He is my God, and I will praise him, my father\u2019s God, and I will exalt him."
+        },
+        {
+            "verse": "Psalm 46:1",
+            "version": "NIV",
+            "text": "God is our refuge and strength, an ever-present help in trouble."
+        },
+        {
+            "verse": "Isaiah 41:10",
+            "version": "NIV",
+            "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+        },
+        {
+            "verse": "1 Peter 5:8",
+            "version": "NIV",
+            "text": "Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour."
+        },
+        {
+            "verse": "Jeremiah 17:9",
+            "version": "NIV",
+            "text": "The heart is deceitful above all things and beyond cure. Who can understand it?"
+        },
+        {
+            "verse": "John 10:10",
+            "version": "NIV",
+            "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full."
+        },
+        {
+            "verse": "Proverbs 20:24",
+            "version": "NIV",
+            "text": "A person\u2019s steps are directed by the LORD. How then can anyone understand their own way?"
+        },
+        {
+            "verse": "Psalm 119:133",
+            "version": "NIV",
+            "text": "Direct my footsteps according to your word; let no sin rule over me."
+        },
+        {
+            "verse": "Daniel 6:22",
+            "version": "NIV",
+            "text": "My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty."
         },
         {
             "verse": "Isaiah 40:31",
-            "text": "But they who wait for the Lord shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "but those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."
         },
         {
             "verse": "Romans 10:9",
-            "text": "Because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "If you declare with your mouth, \"Jesus is Lord,\" and believe in your heart that God raised him from the dead, you will be saved."
         },
         {
             "verse": "John 3:16",
-            "text": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
-            "version": "ESV"
+            "version": "NIV",
+            "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Jeremiah 29:11: 'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
-            "focus": "Remembering God's ongoing work in our lives",
-            "action": "Write down three current challenges you're facing. Next to each, write a potential way God might be working that you can't yet see.",
-            "prayer": "Lord, help me trust Your plan even when I can't understand it. Give me faith to see beyond my current circumstances and believe in Your ultimate goodness. Amen."
+            "scripture": "Philippians 1:6 (NIV) - 'being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.'",
+            "focus": "God's Faithful Work",
+            "action": "Identify one area where you feel God is still working on you. Write down a simple step of trust you can take in that area today.",
+            "prayer": "Lord, thank you that you are not finished with me. Help me to trust your process and timing today. Amen."
         },
         "Tuesday": {
-            "scripture": "Isaiah 43:2: 'When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you; when you walk through fire you shall not be burned, and the flame shall not consume you.'",
-            "focus": "Standing strong through challenges",
-            "action": "Identify one area where you feel weak or overwhelmed. Spend time in prayer asking God to be your strength in that area.",
-            "prayer": "Heavenly Father, I surrender my weakness to You. Where I am not strong, fill me with Your power and courage. Help me stand firm in Your might. Amen."
+            "scripture": "2 Corinthians 4:8-9 (NIV) - 'We are hard pressed on every side, but not crushed; perplexed, but not in despair...'",
+            "focus": "Resilience in Pressure",
+            "action": "When you face a pressure point today, pause and declare out loud: 'I am hard pressed, but not crushed by this.'",
+            "prayer": "God, in the moments I feel pressed, remind me that you are with me and I will not be crushed. Be my strength. Amen."
         },
         "Wednesday": {
-            "scripture": "Proverbs 3:5-6: 'Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.'",
-            "focus": "Trusting God's spiritual perspective",
-            "action": "Make a list of your current expectations for how a problem might be solved. Then pray and ask God to show you His perspective.",
-            "prayer": "God, help me release my limited understanding. Open my spiritual eyes to see beyond what is logical and trust in Your mysterious ways. Amen."
+            "scripture": "Ephesians 6:10 (NIV) - 'Finally, be strong in the Lord and in his mighty power.'",
+            "focus": "Spiritual Strength",
+            "action": "Put on one piece of the 'armor of God' intentionally today (e.g., choose to speak truth, choose peace, pray).",
+            "prayer": "Holy Spirit, clothe me with your strength today. Help me to stand firm in your power, not my own. Amen."
         },
         "Thursday": {
-            "scripture": "1 Peter 5:7: 'Cast all your anxiety on him because he cares for you.'",
-            "focus": "Releasing worry and maintaining hope",
-            "action": "Write down your biggest current worry. Physically tear up the paper as a symbolic act of giving that worry to God.",
-            "prayer": "Lord, I give You my worries and fears. Replace my anxiety with Your perfect peace. Help me hope in You alone. Amen."
+            "scripture": "1 Peter 5:8 (NIV) - 'Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion...'",
+            "focus": "Spiritual Alertness",
+            "action": "Practice discernment in one decision or conversation today. Ask God for His perspective before reacting.",
+            "prayer": "Father, give me discernment today. Help me to be alert to your guidance and protected from deception. Amen."
         },
         "Friday": {
-            "scripture": "Psalm 34:8: 'Taste and see that the Lord is good; blessed is the man who takes refuge in him.'",
-            "focus": "Finding strength in God's goodness",
-            "action": "Reflect on past times God has been faithful. Journal or share with a friend a story of God's unexpected provision.",
-            "prayer": "Father, remind me of Your faithfulness. Help me remember Your past works and trust You for my future. Fill me with hope and courage. Amen."
+            "scripture": "Proverbs 20:24 (NIV) - 'A person\u2019s steps are directed by the LORD. How then can anyone understand their own way?'",
+            "focus": "God's Direction",
+            "action": "Instead of trying to figure everything out, consciously surrender your plans for the day to God. Say, 'Lord, direct my steps.'",
+            "prayer": "Lord, I trust you to direct my path today. I release my need to understand everything and choose to follow you. Amen."
         },
         "Saturday": {
-            "scripture": "Romans 15:13: 'May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.'",
-            "focus": "Cultivating a spirit of hope",
-            "action": "Spend time in worship and prayer. Ask God to renew your hope and show you areas where you've been thinking like a 'chicken' instead of an 'eagle'.",
-            "prayer": "Holy Spirit, renew my hope and lift my perspective. Help me soar above my circumstances and trust in Your unfailing love. Make me an eagle Christian. Amen."
+            "scripture": "Isaiah 40:31 (NIV) - 'but those who hope in the LORD will renew their strength. They will soar on wings like eagles...'",
+            "focus": "Renewed Hope",
+            "action": "Spend 10 minutes in quiet reflection, focusing your hope on God's character and promises, not your circumstances.",
+            "prayer": "God, I place my hope in you alone. Renew my strength and lift my perspective above my challenges. Let me soar in you. Amen."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/KHiKs81MGSE"

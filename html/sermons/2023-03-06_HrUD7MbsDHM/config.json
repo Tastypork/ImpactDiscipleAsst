@@ -1,83 +1,138 @@
 {
-    "summaryText": "Wow, what a powerful message about navigating life's wilderness seasons! Pastor Travis Hearn delivered an incredible sermon about God's guidance through challenging times, using the Israelites' journey as a powerful metaphor. Can you imagine wandering for 40 years when the journey could have taken just 11 days? PT breaks down how God intentionally leads us through roundabout routes to protect us, not punish us. The wilderness isn't a punishment, it's a place of transformation! Sometimes God takes us the long way to keep us from destruction and prepare us for our promised land. Pastor Travis reminds us that even when we feel lost, God is still guiding us - He's just taking us the surest route, not the shortest one. The most profound takeaway? God will guide you, provide for you, test you, and ultimately bless you in the wilderness. What an encouraging message about trusting God's process, even when we can't see the entire path!",
+    "summaryText": "Pastor Travis Hearn opened the service by reading Exodus 13:17-18, introducing a sermon titled 'The Way Through the Wilderness.' He acknowledged that while wilderness seasons\u2014times of spiritual dryness, confusion, and testing\u2014are difficult, they are also where God teaches us our most valuable lessons. Pastor Travis shared that he has been in his own wilderness season for about a year, emphasizing that such times do not mean one has wandered from God but are often where distractions are removed, allowing for deeper intimacy with Him. The message centered on four key truths about God's character and purpose in our wilderness journeys. First, God will guide us, even if His path is a longer, 'roundabout way' designed for our protection and growth, not the shortest route. Second, God will provide for every need\u2014physical, emotional, and spiritual\u2014reminding us that He is our ultimate source. Third, God will test us in the wilderness, as He did with Jesus, to refine our faith and obedience. Finally, God will bless us on the other side of the wilderness, promising that we will never be the same person who entered it. Pastor Travis concluded with a powerful reading from Isaiah 43, urging the congregation to look forward to the new things God is doing, and gave an invitation for those wanting to surrender their lives to Jesus.",
     "tags": [
         "Faith",
-        "Purpose",
-        "Obedience"
+        "Obedience",
+        "Blessings"
     ],
     "mainPoints": [
-        "God will guide you in the wilderness",
-        "God will provide for you in the wilderness",
-        "God will test and ultimately bless you in the wilderness"
+        "God will guide you through the wilderness, often taking the longer, surest route to protect you and fulfill His purpose, not the shortest, easiest path.",
+        "God will provide for every facet of your life in the wilderness; He is your ultimate source and supplier, not yourself.",
+        "God will test and bless you in the wilderness, using trials to refine your faith, with the promise that you will emerge changed and ready for your 'promised land.'"
     ],
     "versesMentioned": [
         {
             "verse": "Exodus 13:17-18",
-            "text": "When Pharaoh finally let the people go, God did not lead them along the main road that runs through Philistine territory, even though that was the shortest route to the promised land. God said, 'If the people are faced with battle, they might change their minds and return to Egypt.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "When Pharaoh let the people go, God did not lead them on the road through the Philistine country, though that was shorter. For God said, 'If they face war, they might change their minds and return to Egypt.' So God led the people around by the desert road toward the Red Sea. The Israelites went up out of Egypt ready for battle."
         },
         {
-            "verse": "Matthew 4:1-11",
-            "text": "Then Jesus was led by the Spirit into the wilderness to be tempted by the devil. After fasting forty days and forty nights, he was hungry. The tempter came to him and said, 'If you are the Son of God, tell these stones to become bread.'",
-            "version": "NIV"
+            "verse": "Matthew 16:24",
+            "version": "NIV",
+            "text": "Then Jesus said to his disciples, 'Whoever wants to be my disciple must deny themselves and take up their cross and follow me.'"
         },
         {
-            "verse": "Luke 12:22-24",
-            "text": "Then Jesus said to his disciples: 'Therefore I tell you, do not worry about your life, what you will eat; or about your body, what you will wear. For life is more than food, and the body more than clothes. Consider the ravens: They do not sow or reap, they have no storeroom or barn; yet God feeds them.'",
-            "version": "NIV"
+            "verse": "John 8:12",
+            "version": "NIV",
+            "text": "When Jesus spoke again to the people, he said, 'I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.'"
         },
         {
-            "verse": "Isaiah 43:16-19",
-            "text": "This is what the Lord says\u2014 he who made a way through the sea, a path through the mighty waters, who drew out the chariots and horses, the army and reinforcements together, and they lay there, never to rise again, extinguished, snuffed out like a wick: 'Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland.'",
-            "version": "NIV"
+            "verse": "Matthew 7:13-14",
+            "version": "NIV",
+            "text": "Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. But small is the gate and narrow the road that leads to life, and only a few find it."
+        },
+        {
+            "verse": "Philippians 4:19",
+            "version": "NIV",
+            "text": "And my God will meet all your needs according to the riches of his glory in Christ Jesus."
+        },
+        {
+            "verse": "Luke 12:22-26",
+            "version": "NIV",
+            "text": "Then Jesus said to his disciples: 'Therefore I tell you, do not worry about your life, what you will eat; or about your body, what you will wear. For life is more than food, and the body more than clothes. Consider the ravens: They do not sow or reap, they have no storeroom or barn; yet God feeds them. And how much more valuable you are than birds! Who of you by worrying can add a single hour to your life? Since you cannot do this very little thing, why do you worry about the rest?'"
+        },
+        {
+            "verse": "Matthew 4:1",
+            "version": "NIV",
+            "text": "Then Jesus was led by the Spirit into the wilderness to be tempted by the devil."
+        },
+        {
+            "verse": "Matthew 4:4",
+            "version": "NIV",
+            "text": "Jesus answered, 'It is written: \"Man shall not live on bread alone, but on every word that comes from the mouth of God.\"'"
         },
         {
             "verse": "Deuteronomy 8:3",
-            "text": "He humbled you, causing you to hunger and then feeding you with manna, which neither you nor your ancestors had known, to teach you that man does not live on bread alone but on every word that comes from the mouth of the Lord.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "He humbled you, causing you to hunger and then feeding you with manna, which neither you nor your ancestors had known, to teach you that man does not live on bread alone but on every word that comes from the mouth of the LORD."
+        },
+        {
+            "verse": "Psalm 91:11-12",
+            "version": "NIV",
+            "text": "For he will command his angels concerning you to guard you in all your ways; they will lift you up in their hands, so that you will not strike your foot against a stone."
+        },
+        {
+            "verse": "Matthew 4:7",
+            "version": "NIV",
+            "text": "Jesus answered him, 'It is also written: \"Do not put the Lord your God to the test.\"'"
+        },
+        {
+            "verse": "Deuteronomy 6:16",
+            "version": "NIV",
+            "text": "Do not put the LORD your God to the test as you did at Massah."
         },
         {
             "verse": "John 10:10",
-            "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full."
+        },
+        {
+            "verse": "Matthew 16:26",
+            "version": "NIV",
+            "text": "What good will it be for someone to gain the whole world, yet forfeit their soul? Or what can anyone give in exchange for their soul?"
+        },
+        {
+            "verse": "Matthew 4:10",
+            "version": "NIV",
+            "text": "Jesus said to him, 'Away from me, Satan! For it is written: \"Worship the Lord your God, and serve him only.\"'"
+        },
+        {
+            "verse": "Isaiah 43:16-19",
+            "version": "NIV",
+            "text": "This is what the LORD says\u2014 he who made a way through the sea, a path through the mighty waters, who drew out the chariots and horses, the army and reinforcements together, and they lay there, never to rise again, extinguished, snuffed out like a wick: 'Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland.'"
+        },
+        {
+            "verse": "Deuteronomy 28:3",
+            "version": "NIV",
+            "text": "You will be blessed in the city and blessed in the country."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Psalm 23:4: 'Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.'",
-            "focus": "Recognizing God's presence in life's wilderness seasons",
-            "action": "Reflect on a current challenging season. Write down three ways you've seen God's guidance, even if subtly, during this time.",
-            "prayer": "Lord, help me trust Your guidance even when I can't see the entire path. Give me eyes to recognize Your hand in my wilderness season. Amen."
+            "scripture": "Exodus 13:17-18 (NIV) - 'When Pharaoh let the people go, God did not lead them on the road through the Philistine country, though that was shorter...'",
+            "focus": "God's Guidance",
+            "action": "Identify one area where you are impatient for a shortcut. Pray for the faith to trust God's longer, surer route for your life today.",
+            "prayer": "Lord, help me trust Your guidance today, even when it feels like a roundabout way. Remind me that You see the road ahead and are leading me for my good."
         },
         "Tuesday": {
-            "scripture": "Jeremiah 29:11: ''For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
-            "focus": "Understanding God's intentional guidance",
-            "action": "List out areas in your life where you feel stuck. Pray over each one, asking God to reveal His purposeful routing.",
-            "prayer": "God, help me trust that Your way is always the best way, even when it doesn't make sense to me. Guide my steps and my understanding. Amen."
+            "scripture": "Philippians 4:19 (NIV) - 'And my God will meet all your needs according to the riches of his glory in Christ Jesus.'",
+            "focus": "God's Provision",
+            "action": "Write down one specific need (emotional, physical, relational, or financial). Actively choose to release worry about it to God.",
+            "prayer": "Jehovah Jireh, my Provider, I bring my need before You. I choose to trust that You will supply it according to Your perfect wisdom and timing."
         },
         "Wednesday": {
-            "scripture": "Proverbs 3:5-6: 'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'",
-            "focus": "Learning to trust God's navigation",
-            "action": "Identify one area where you've been trying to control the outcome. Surrender it to God through prayer and deliberate letting go.",
-            "prayer": "Father, I release my need to control and understand everything. Help me trust Your wisdom over my limited perspective. Amen."
+            "scripture": "Matthew 4:4 (NIV) - 'Jesus answered, \"It is written: 'Man shall not live on bread alone, but on every word that comes from the mouth of God.'\"'",
+            "focus": "Resisting Temptation",
+            "action": "When you face a moment of temptation or weakness today, pause and speak a scripture truth out loud, just as Jesus did.",
+            "prayer": "Holy Spirit, give me strength in my weak moments. Bring Your Word to my mind and help me use it as my weapon against temptation."
         },
         "Thursday": {
-            "scripture": "James 1:2-4: 'Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.'",
-            "focus": "Seeing challenges as opportunities for growth",
-            "action": "Journal about a past wilderness season. Reflect on how God used that experience to shape and mature you.",
-            "prayer": "Lord, transform my perspective on difficulties. Help me see challenges as chances to grow closer to You. Amen."
+            "scripture": "Luke 12:25-26 (NIV) - 'Who of you by worrying can add a single hour to your life? Since you cannot do this very little thing, why do you worry about the rest?'",
+            "focus": "Replacing Worry",
+            "action": "Catch yourself in a cycle of worry. Intentionally stop and list three things God has provided for you in the past.",
+            "prayer": "Father, I confess my tendency to worry. Help me to remember Your past faithfulness and to rest in Your care for my future."
         },
         "Friday": {
-            "scripture": "Romans 8:28: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'",
-            "focus": "Trusting God's redemptive process",
-            "action": "Make a list of current challenges. Beside each one, write a potential way God might be working for good.",
-            "prayer": "God, even when I can't see the entire picture, I choose to trust Your goodness. Work Your purpose in my life. Amen."
+            "scripture": "Isaiah 43:19 (NIV) - 'See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland.'",
+            "focus": "Hope for New Things",
+            "action": "Look for one small sign of God's 'new thing' in your life or circumstances today\u2014a glimmer of hope, an unexpected encouragement, or a sense of peace.",
+            "prayer": "God, open my eyes to see the new thing You are doing. Help me to forget the old struggles and look forward with hope to the promise ahead."
         },
         "Saturday": {
-            "scripture": "Isaiah 40:31: 'But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.'",
-            "focus": "Finding strength in God during difficult seasons",
-            "action": "Spend time in worship and reflection. Ask God to renew your spiritual strength and perspective.",
-            "prayer": "Lord, refresh my spirit. Give me supernatural strength and unwavering hope, even in my wilderness. Amen."
+            "scripture": "Matthew 16:24 (NIV) - 'Then Jesus said to his disciples, \"Whoever wants to be my disciple must deny themselves and take up their cross and follow me.\"'",
+            "focus": "The Cost of Discipleship",
+            "action": "Evaluate one area of your life where you are following your own desires instead of God's Word. Make one concrete choice to deny yourself and obey Him.",
+            "prayer": "Jesus, I want to be a true disciple. Give me the courage to deny myself, take up my cross, and follow You wholeheartedly, no matter the cost."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/HrUD7MbsDHM"

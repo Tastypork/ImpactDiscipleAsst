@@ -1,118 +1,108 @@
 {
-    "summaryText": "What an incredible Easter Sunday sermon from Pastor Travis Hearn about God's amazing grace! Pastor Travis shared a powerful personal testimony of his own transformation, revealing how God's grace can save us from our sins, ourselves, our situations, and ultimately from eternal separation. Drawing from his own life experiences of being arrested and making mistakes, PT demonstrates that grace isn't about being perfect, but about Jesus paying the price for our imperfections. Can you imagine a love so unconditional that even when we mess up, God still pursues us? That's exactly what grace looks like! Pastor Travis breaks down how God's grace isn't just a 'get out of jail free' card, but a transformative power that changes us from the inside out. The most profound moment was when he explained that sometimes God doesn't remove our 'thorns' (problems), but walks with us through them, using those very challenges to refine our character. Wow! The sermon culminated in an incredible altar call where over 100 people surrendered their lives to Christ - talk about resurrection power at work!",
+    "summaryText": "Pastor Travis Hearn opened this Easter Sunday message by celebrating the resurrection of Jesus and welcoming the congregation. He shared his personal testimony of being arrested for a DUI as a teenager and how that difficult situation led his mother and pastors to lead him in a prayer to receive Jesus Christ as his Lord and Savior. From that moment, his life was forever changed. The core of the sermon was an exploration of what it means to be 'saved by grace.' Pastor Travis explained that this salvation is a free gift from God, paid for by the death of Jesus on the cross, not something we can earn through good deeds. He outlined four key areas from which God's grace saves us. First, it saves us from our sins, which he defined as 'missing the mark' of God's perfection. Second, it saves us from ourselves, our own human tendencies and struggles, using the Apostle Paul's candid confession in Romans 7 as an example. Third, God's grace saves us from our difficult situations, even those we create ourselves, referencing Paul's 'thorn in the flesh' as a testament to God's sufficient grace in hardship. Finally, and most importantly, God's grace saves us from eternal separation from Him, offering the free gift of eternal life. The message concluded with a powerful invitation for anyone unsure of their salvation to pray and surrender their life to Jesus, resulting in many responding. Pastor Travis emphasized that in Christ, we become a new creation, and encouraged everyone to share their decision.",
     "tags": [
         "Salvation",
         "Grace",
-        "Forgiveness"
+        "Sin"
     ],
     "mainPoints": [
-        "God's grace saves me from my sins",
-        "God's grace saves me from myself",
-        "God's grace saves me from eternal separation"
+        "God's grace saves me from my sins, a free gift paid for by Jesus on the cross, not by our own good works.",
+        "God's grace saves me from myself, delivering me from my human struggles and tendencies, as illustrated by the Apostle Paul's honesty.",
+        "God's grace saves me from my situations and from eternal separation, offering sufficient strength for life's trials and the promise of heaven."
     ],
     "versesMentioned": [
         {
             "verse": "Ephesians 1:7",
-            "text": "By the death of Christ we are set free, that is, our sins are forgiven. How great is the grace of God which he gave to us in such large measure.",
-            "version": "NIV"
-        },
-        {
-            "verse": "Romans 3:23",
-            "text": "For all have sinned and fall short of the glory of God.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God\u2019s grace"
         },
         {
             "verse": "Colossians 1:14",
-            "text": "In whom we have redemption, the forgiveness of sins.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "in whom we have redemption, the forgiveness of sins."
         },
         {
-            "verse": "Romans 7:15-24",
-            "text": "I do not understand what I do. For what I want to do I do not do, but what I hate I do... What a wretched man I am! Who will rescue me from this body that is subject to death?",
-            "version": "NIV"
+            "verse": "Romans 7:15-19",
+            "version": "NIV",
+            "text": "I do not understand what I do. For what I want to do I do not do, but what I hate I do. And if I do what I do not want to do, I agree that the law is good. As it is, it is no longer I myself who do it, but it is sin living in me. For I know that good itself does not dwell in me, that is, in my sinful nature. For I have the desire to do what is good, but I cannot carry it out. For I do not do the good I want to do, but the evil I do not want to do\u2014this I keep on doing."
         },
         {
-            "verse": "John 8:36",
-            "text": "So if the Son sets you free, you will be free indeed.",
-            "version": "NIV"
+            "verse": "Romans 7:24-25",
+            "version": "NIV",
+            "text": "What a wretched man I am! Who will rescue me from this body that is subject to death? Thanks be to God, who delivers me through Jesus Christ our Lord!"
         },
         {
             "verse": "James 5:13",
-            "text": "Is anyone in trouble? Let him pray.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Is anyone among you in trouble? Let them pray. Is anyone happy? Let them sing songs of praise."
         },
         {
             "verse": "Psalm 50:15",
-            "text": "Call upon me in the day of trouble; I will deliver you, and you will honor me.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "and call on me in the day of trouble; I will deliver you, and you will honor me."
         },
         {
             "verse": "2 Corinthians 12:7-10",
-            "text": "Therefore, in order to keep me from becoming conceited, I was given a thorn in my flesh... But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "or because of these surpassingly great revelations. Therefore, in order to keep me from becoming conceited, I was given a thorn in my flesh, a messenger of Satan, to torment me. Three times I pleaded with the Lord to take it away from me. But he said to me, \u201cMy grace is sufficient for you, for my power is made perfect in weakness.\u201d Therefore I will boast all the more gladly about my weaknesses, so that Christ\u2019s power may rest on me. That is why, for Christ\u2019s sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
         },
         {
             "verse": "Proverbs 20:30",
-            "text": "Blows and wounds scrub away evil, and beatings purge the inmost being.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Blows and wounds scrub away evil, and beatings purge the inmost being."
         },
         {
             "verse": "Romans 6:23",
-            "text": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
         },
         {
             "verse": "Ephesians 2:4-5",
-            "text": "But because of his great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions\u2014it is by grace you have been saved.",
-            "version": "NIV"
-        },
-        {
-            "verse": "2 Corinthians 5:17",
-            "text": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But because of his great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions\u2014it is by grace you have been saved."
         },
         {
             "verse": "Romans 10:9",
-            "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "If you declare with your mouth, \u201cJesus is Lord,\u201d and believe in your heart that God raised him from the dead, you will be saved."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Jeremiah 29:11: 'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
-            "focus": "Understanding God's transformative grace",
-            "action": "Reflect on an area of your life where you need God's grace. Write down one specific way you've seen God's grace work in your past struggles.",
-            "prayer": "Lord, thank You for Your amazing grace. Help me recognize how You've been working in my life, even when I couldn't see it. Reveal Your transformative power in my heart today. Amen."
+            "scripture": "Ephesians 2:4-5 (NIV) - 'But because of his great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions\u2014it is by grace you have been saved.'",
+            "focus": "The foundation of salvation is God's love and grace, not our works.",
+            "action": "Begin your day by thanking God that your standing with Him is based on His grace, not your performance.",
+            "prayer": "Lord, thank you for your great love and rich mercy. Help me to rest in the truth that I am saved by your grace alone today."
         },
         "Tuesday": {
-            "scripture": "1 John 1:9: 'If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.'",
-            "focus": "Embracing personal accountability and grace",
-            "action": "Identify one area of your life where you need to take responsibility and seek God's grace. Make a genuine confession and ask for help to change.",
-            "prayer": "Father, I acknowledge my weaknesses. Thank You that Your grace is sufficient. Help me walk in true repentance and allow Your power to transform me. Amen."
+            "scripture": "Romans 7:24-25 (NIV) - 'What a wretched man I am! Who will rescue me...? Thanks be to God, who delivers me through Jesus Christ our Lord!'",
+            "focus": "God's grace saves us from our own internal struggles.",
+            "action": "Identify one personal struggle or habit. Instead of just trying harder, pray and ask God for His delivering grace in that area.",
+            "prayer": "God, I confess my struggle with [name it]. I cannot overcome this on my own. Thank you for delivering me through Jesus. I rely on your grace today."
         },
         "Wednesday": {
-            "scripture": "2 Corinthians 12:9: 'But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.''",
-            "focus": "Finding strength in vulnerability",
-            "action": "Share a personal struggle with a trusted friend or mentor. Practice being honest about your challenges and invite prayer and support.",
-            "prayer": "Lord, teach me to find strength in my weakness. Help me understand that Your grace is most powerful when I'm most vulnerable. Guide me to authentic community. Amen."
+            "scripture": "2 Corinthians 12:9 (NIV) - 'But he said to me, \u201cMy grace is sufficient for you, for my power is made perfect in weakness.\u201d'",
+            "focus": "God's grace is sufficient for our weaknesses and difficult situations.",
+            "action": "Think of a current challenge or 'thorn.' Write down the phrase 'His grace is sufficient' and place it where you'll see it as a reminder.",
+            "prayer": "Father, my situation feels heavy. I bring my weakness and my trouble to you. I choose to believe your promise that your grace is all I need to get through this."
         },
         "Thursday": {
-            "scripture": "Titus 2:11-12: 'For the grace of God has appeared that offers salvation to all people. It teaches us to say 'No' to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age.'",
-            "focus": "Actively choosing grace-filled living",
-            "action": "Create a list of three specific behaviors or attitudes you want to change. Pray about each one and take one practical step towards transformation.",
-            "prayer": "God, show me where I need to grow. Give me the courage to say 'no' to things that don't honor You and 'yes' to Your transformative grace. Empower me to live differently. Amen."
+            "scripture": "Romans 6:23 (NIV) - 'For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.'",
+            "focus": "The eternal consequence of sin and the free gift of salvation.",
+            "action": "Reflect on the incredible gift of eternal life. If you've received it, tell one person today why you're thankful for Jesus. If you haven't, consider taking that step.",
+            "prayer": "Jesus, thank you for paying the price for my sin. Thank you for the free gift of eternal life. Help me to live today in light of this amazing truth."
         },
         "Friday": {
-            "scripture": "Ephesians 2:8-9: 'For it is by grace you have been saved, through faith\u2014and this is not from yourselves, it is the gift of God\u2014 not by works, so that no one can boast.'",
-            "focus": "Celebrating unmerited favor",
-            "action": "Do something unexpectedly kind for someone who cannot repay you. Practice giving grace as you have received grace.",
-            "prayer": "Father, thank You that salvation is a gift. Help me live in gratitude and extend the same unmerited kindness to others that You've shown me. Make me an ambassador of Your grace. Amen."
+            "scripture": "Psalm 50:15 (NIV) - 'and call on me in the day of trouble; I will deliver you, and you will honor me.'",
+            "focus": "God invites us to call on Him in trouble, promising deliverance.",
+            "action": "Practice turning to prayer first when a problem or worry arises today, before trying to solve it on your own.",
+            "prayer": "God, I call on you now with the troubles on my heart. I trust you to deliver me and guide me. I want to honor you through this situation."
         },
         "Saturday": {
-            "scripture": "Romans 5:20: 'But where sin increased, grace increased all the more.'",
-            "focus": "Experiencing boundless grace",
-            "action": "Spend time journaling about God's faithfulness. Recall moments when His grace was evident, even in your lowest points.",
-            "prayer": "Lord, Your grace is greater than all my failures. Help me rest in Your unconditional love. Renew my mind and spirit with the truth of Your transformative grace. Amen."
+            "scripture": "Romans 10:9 (NIV) - 'If you declare with your mouth, \u201cJesus is Lord,\u201d and believe in your heart that God raised him from the dead, you will be saved.'",
+            "focus": "The simplicity of salvation: belief and confession.",
+            "action": "If you made a decision to follow Jesus this week, tell a trusted Christian friend or family member about it. If you've been a believer for years, reaffirm your faith by sharing your story with someone.",
+            "prayer": "Lord Jesus, I believe in my heart that you are Lord and that God raised you from the dead. I declare with my mouth that you are my Savior. Thank you for saving me."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/P2Ghbo84S1A"

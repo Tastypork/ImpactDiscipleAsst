@@ -1,25 +1,30 @@
 {
-    "summaryText": "Pastor Travis Hearn delivers an incredibly powerful sermon about facing life's giants, drawing inspiration from the biblical story of David and Goliath! Wow, what an incredible message of hope and courage. Pastor Travis shares his own recent medical journey of suffering a brain aneurysm and stroke, using his personal experience to illustrate how God is bigger than any challenge we face. He breaks down four key strategies for confronting life's 'giants': be strong and courageous, don't listen to negative voices, keep your focus on the right perspective, and let God fight your battles. I love how he emphasizes that courage isn't the absence of fear, but the decision to face it anyway! Pastor Travis reminds us that the giants we're facing might look intimidating, but our God is infinitely more powerful. Whether you're battling a health issue, relationship problem, or personal struggle, this sermon is a powerful reminder that God is with you and He has never lost a battle. The most inspiring moment? When Travis declares that the giants in our past are living proof that God will slay the giants in our future! God didn't bring you this far to drop you now.",
+    "summaryText": "Pastor Travis Hearn opened the sermon by sharing a personal testimony of his recent recovery from a brain aneurysm and stroke, emphasizing the healing power of faith and God's goodness. He then transitioned to the story of David and Goliath from 1 Samuel 17, framing it as a message for anyone feeling overwhelmed by a 'giant' in their life\u2014be it fear, illness, relationship struggles, or other challenges. The central theme is that God is bigger than any problem we face. Pastor Travis provided a four-point battle plan for confronting giants: first, to be strong and courageous, as God commanded Joshua; second, to ignore the voices of critics, naysayers, and doubters, listening only to God; third, to maintain a godly perspective, focusing on God's power and past victories rather than the size of the problem; and fourth, to let God fight the battle, trusting in His protection rather than earthly solutions. The message concluded with a call to surrender personal struggles to God and an invitation to begin a relationship with Jesus.",
     "tags": [
         "Faith",
-        "Suffering",
+        "Courage",
         "Healing"
     ],
     "mainPoints": [
-        "Be strong and courageous even when facing overwhelming challenges",
-        "Don't listen to negative voices that discourage you from your purpose",
-        "Keep your focus on God's power, not the size of your problem"
+        "When facing a giant, be strong and courageous because God is with you and is bigger than any challenge.",
+        "Protect your faith and dreams by listening to God's voice, not the voices of critics, doubters, or fear.",
+        "Victory comes by shifting your focus from the problem to God's power and letting Him fight the battle for you."
     ],
     "versesMentioned": [
         {
-            "verse": "1 Samuel 17:32",
+            "verse": "1 Samuel 17:1-11",
             "version": "NIV",
-            "text": "David said to Saul, 'Let no one lose heart on account of this Philistine; your servant will go and fight him.'"
+            "text": "Now the Philistines gathered their forces for war and assembled at Sokoh in Judah. They pitched camp at Ephes Dammim, between Sokoh and Azekah. Saul and the Israelites assembled and camped in the Valley of Elah and drew up their battle line to meet the Philistines. The Philistines occupied one hill and the Israelites another, with the valley between them. A champion named Goliath, who was from Gath, came out of the Philistine camp. His height was six cubits and a span. He had a bronze helmet on his head and wore a coat of scale armor of bronze weighing five thousand shekels; on his legs he wore bronze greaves, and a bronze javelin was slung on his back. His spear shaft was like a weaver\u2019s rod, and its iron point weighed six hundred shekels. His shield bearer went ahead of him. Goliath stood and shouted to the ranks of Israel, 'Why do you come out and line up for battle? Am I not a Philistine, and are you not the servants of Saul? Choose a man and have him come down to me. If he is able to fight and kill me, we will become your subjects; but if I overcome him and kill him, you will become our subjects and serve us.' Then the Philistine said, 'This day I defy the armies of Israel! Give me a man and let us fight each other.' On hearing the Philistine\u2019s words, Saul and all the Israelites were dismayed and terrified."
         },
         {
-            "verse": "Joshua 1:9",
+            "verse": "Joshua 1:1-9",
             "version": "NIV",
-            "text": "'Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.'"
+            "text": "After the death of Moses the servant of the Lord, the Lord said to Joshua son of Nun, Moses\u2019 aide: 'Moses my servant is dead. Now then, you and all these people, get ready to cross the Jordan River into the land I am about to give to them\u2014to the Israelites. I will give you every place where you set your foot, as I promised Moses. Your territory will extend from the desert to Lebanon, and from the great river, the Euphrates\u2014all the Hittite country\u2014to the Mediterranean Sea in the west. No one will be able to stand against you all the days of your life. As I was with Moses, so I will be with you; I will never leave you nor forsake you. Be strong and courageous, because you will lead these people to inherit the land I swore to their ancestors to give them. Be strong and very courageous. Be careful to obey all the law my servant Moses gave you; do not turn from it to the right or to the left, that you may be successful wherever you go. Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful. Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.'"
+        },
+        {
+            "verse": "Nehemiah 6:3",
+            "version": "NIV",
+            "text": "so I sent messengers to them with this reply: 'I am carrying on a great project and cannot go down. Why should the work stop while I leave it and go down to you?'"
         },
         {
             "verse": "Psalm 32:7",
@@ -29,45 +34,45 @@
         {
             "verse": "1 Samuel 17:45-47",
             "version": "NIV",
-            "text": "David said to the Philistine, 'You come against me with sword and spear and javelin, but I come against you in the name of the Lord Almighty, the God of the armies of Israel, whom you have defied.'"
+            "text": "David said to the Philistine, 'You come against me with sword and spear and javelin, but I come against you in the name of the Lord Almighty, the God of the armies of Israel, whom you have defied. This day the Lord will deliver you into my hands, and I\u2019ll strike you down and cut off your head. This very day I will give the carcasses of the Philistine army to the birds and the wild animals, and the whole world will know that there is a God in Israel. All those gathered here will know that it is not by sword or spear that the Lord saves; for the battle is the Lord\u2019s, and he will give all of you into our hands.'"
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Isaiah 41:10: 'So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.'",
-            "focus": "Identifying the 'giants' currently challenging you",
-            "action": "Make a list of your current challenges. Next to each challenge, write one way God might be working in that situation, even if you can't see it yet.",
-            "prayer": "Lord, help me see my challenges through Your perspective. Give me courage to face my giants, knowing You are with me. Strengthen my faith and help me trust Your plan. Amen."
+            "scripture": "Joshua 1:9 (NIV) - 'Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.'",
+            "focus": "God's command to be courageous.",
+            "action": "Identify one fear or 'giant' you are facing and declare out loud, 'God is bigger than this.'",
+            "prayer": "Lord, thank you for being with me. Fill me with your strength and courage today as I face my challenges."
         },
         "Tuesday": {
-            "scripture": "2 Corinthians 10:4-5: 'The weapons we fight with are not the weapons of the world. On the contrary, they have divine power to demolish strongholds.'",
-            "focus": "Understanding spiritual warfare",
-            "action": "Identify one negative thought pattern or voice that has been discouraging you. Consciously replace it with a Scripture that contradicts that negative narrative.",
-            "prayer": "God, help me take every thought captive. Guard my mind against discouraging voices and help me focus on Your truth. Give me strength to demolish lies with Your powerful word. Amen."
+            "scripture": "Nehemiah 6:3 (NIV) - 'I am carrying on a great project and cannot go down.'",
+            "focus": "Staying focused on God's work despite criticism.",
+            "action": "Write down one negative thought or criticism you've believed about yourself or your situation. Then, cross it out and write God's truth from Scripture over it.",
+            "prayer": "God, help me to tune out the voices of doubt and listen only to your affirming voice. Keep me focused on the great work you have for me."
         },
         "Wednesday": {
-            "scripture": "Philippians 4:13: 'I can do all this through him who gives me strength.'",
-            "focus": "Developing a victorious mindset",
-            "action": "Create a 'victory journal' where you document past challenges you've overcome with God's help. Reflect on how God has been faithful in your past.",
-            "prayer": "Lord, remind me of Your faithfulness. Help me remember the giants You've already helped me defeat. Renew my confidence in Your power and protection. Amen."
+            "scripture": "Psalm 32:7 (NIV) - 'You are my hiding place; you will protect me from trouble and surround me with songs of deliverance.'",
+            "focus": "God as our protector and refuge.",
+            "action": "Instead of turning to a habitual comfort (like worry, food, or distraction) when stressed, pause and say a short prayer, asking God to be your hiding place.",
+            "prayer": "Father, you are my safe place. I run to you today. Protect my heart and mind and surround me with your peace."
         },
         "Thursday": {
-            "scripture": "Romans 8:31: 'What, then, shall we say in response to these things? If God is for us, who can be against us?'",
-            "focus": "Recognizing God as your ultimate protector",
-            "action": "Spend time in prayer specifically surrendering your current challenges to God. Visualize laying each 'giant' at His feet.",
-            "prayer": "Heavenly Father, I surrender my battles to You. You are my shield and my strength. Help me trust in Your protection and timing. Give me peace that surpasses understanding. Amen."
+            "scripture": "1 Samuel 17:45 (NIV) - 'I come against you in the name of the Lord Almighty.'",
+            "focus": "Facing battles in God's power, not our own.",
+            "action": "Recall a past difficulty where God helped you. Thank Him for that victory, and use it as a reminder of His power for a current struggle.",
+            "prayer": "Lord, I remember how you helped me before. I trust you to fight for me again today. The battle belongs to you."
         },
         "Friday": {
-            "scripture": "Psalm 118:6: 'The Lord is with me; I will not be afraid. What can human beings do to me?'",
-            "focus": "Building spiritual courage",
-            "action": "Identify one area where fear has been holding you back. Take a small, brave step towards confronting that fear today.",
-            "prayer": "God, replace my fear with courage. Help me step out in faith, knowing You are always with me. Give me boldness to face my challenges. Amen."
+            "scripture": "Hebrews 10:25 (NIV) - '...not giving up meeting together, as some are in the habit of doing, but encouraging one another...'",
+            "focus": "The power of Christian community.",
+            "action": "Reach out to one person from your church community\u2014send a text of encouragement or pray for them.",
+            "prayer": "God, thank you for my church family. Help me to be an encourager and to draw strength from our unity in you."
         },
         "Saturday": {
-            "scripture": "1 John 4:4: 'You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the world.'",
-            "focus": "Celebrating God's victory in advance",
-            "action": "Write a letter to yourself from God's perspective, reminding you of His promises and His power in your life.",
-            "prayer": "Lord, help me live in the victory You've already won. Strengthen my faith to believe in Your promises. Thank You that You are always fighting for me. Amen."
+            "scripture": "1 Samuel 17:47 (NIV) - '...it is not by sword or spear that the Lord saves; for the battle is the Lord\u2019s...'",
+            "focus": "Surrendering the fight to God.",
+            "action": "Take a walk or find a quiet moment. Verbally release your biggest worry or 'giant' to God, saying, 'This is your battle, Lord. I trust you with it.'",
+            "prayer": "Heavenly Father, I surrender my struggle to you. I stop trying to fight in my own strength. I trust you to win this battle for your glory."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/I4I1o7eqQyg"

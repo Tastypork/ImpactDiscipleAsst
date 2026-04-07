@@ -3,3 +3,28 @@ __pycache__/
 config.yml
 error.txt
 video_data.db
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Python artifacts
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Runtime logs and local scratch
+*.log
+*.tmp
+*.swp
+
+# Local data/secrets (keep published html artifacts tracked)
+data/config.yml
+data/client_secret.json
+data/youtube-oauth-token.json
+data/*.sqlite
+data/*.db
+data/*.db-*

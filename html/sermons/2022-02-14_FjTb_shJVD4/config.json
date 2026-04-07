@@ -1,88 +1,103 @@
 {
-    "summaryText": "Wow, what a powerful sermon from Pastor Travis Hearn about the incredible weapon of prayer! PT dives deep into understanding how prayer isn't just a ritual, but a powerful spiritual weapon that can transform our lives. He breaks down five key aspects of prayer: praying for peace, provision, protection, power, and purpose. The most striking part? Pastor Travis reveals that prayer isn't about getting God to bless our plans, but aligning ourselves with God's plans. Can you imagine the shift that happens when we stop trying to manipulate God and instead seek His will? He shares a profound insight that God is more concerned with our character than our comfort, and more interested in our holiness than our happiness. The sermon powerfully illustrates how the Holy Spirit can completely transform us, just like He transformed Peter from a fearful denier to a bold preacher. Pastor Travis reminds us that when the Holy Spirit fills us, we become 'untouchable' - equipped with divine power to demolish strongholds of addiction, depression, and fear. This isn't just another sermon; it's a call to radical, transformative prayer that can change not just our lives, but the world around us!",
+    "summaryText": "Pastor Travis Hearn concluded the 'Weapons' series by returning to the foundational weapon of prayer. He emphasized that every believer is in a constant spiritual battle against an enemy whose sole purpose is to steal, kill, and destroy. The message focused on two specific areas to pray for daily: God's power and God's purpose. Pastor Travis taught that true, life-changing power comes only from God and is accessed through prayer to demolish the strongholds in our lives, such as addiction, fear, and depression. He illustrated this through the transformation of the Apostle Peter, who moved from fearful denial to bold preaching after being filled with the Holy Spirit, declaring that 'the power of the Holy Spirit is the difference.' The second focus was on praying for and pursuing God's unique purpose, which is His best plan for our lives. Pastor Travis warned against settling for counterfeits offered by the enemy due to impatience, loneliness, or desperation, using the example of Esau trading his birthright. He encouraged aligning our will with God's, as Jesus modeled in the Garden of Gethsemane, and to seek God's purpose\u2014which is about impacting others\u2014above our own comfort or desires. The sermon closed with a call for a fresh infilling of the Holy Spirit to live a powerful, purpose-driven life.",
     "tags": [
         "Prayer",
-        "Holy Spirit",
-        "Purpose"
+        "Purpose",
+        "Power"
     ],
     "mainPoints": [
-        "Prayer is a powerful spiritual weapon that can transform our lives",
-        "God's purpose for our lives is bigger than our personal comfort",
-        "The Holy Spirit provides supernatural power to overcome life's challenges"
+        "Believers are in a constant spiritual battle and must use the weapon of prayer to access God's divine power to demolish strongholds.",
+        "The infilling of the Holy Spirit is the essential difference that transforms fear into boldness and empowers a believer's life and witness.",
+        "God has a unique and best purpose for each person; settling for less rewrites our destiny, so we must align our will with His and pursue His plan."
     ],
     "versesMentioned": [
         {
             "verse": "John 10:10",
-            "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full."
         },
         {
             "verse": "1 Peter 5:8",
-            "text": "Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour."
+        },
+        {
+            "verse": "1 John 4:4",
+            "version": "NIV",
+            "text": "You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the world."
         },
         {
             "verse": "2 Corinthians 10:4",
-            "text": "The weapons we fight with are not the weapons of the world. On the contrary, they have divine power to demolish strongholds.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The weapons we fight with are not the weapons of the world. On the contrary, they have divine power to demolish strongholds."
         },
         {
             "verse": "Ephesians 3:20",
-            "text": "Now all glory to God, who is able, through his mighty power at work within us, to accomplish infinitely more than we might ask or think.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us,"
+        },
+        {
+            "verse": "Acts 1:8",
+            "version": "NIV",
+            "text": "But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth."
+        },
+        {
+            "verse": "Acts 2:1-4",
+            "version": "NIV",
+            "text": "When the day of Pentecost came, they were all together in one place. Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them."
         },
         {
             "verse": "Jeremiah 29:11",
-            "text": "'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "For I know the plans I have for you,\u201d declares the Lord, \u201cplans to prosper you and not to harm you, plans to give you hope and a future."
         },
         {
             "verse": "Matthew 5:6",
-            "text": "Blessed are those who hunger and thirst for righteousness, for they will be filled.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Blessed are those who hunger and thirst for righteousness, for they will be filled."
         },
         {
-            "verse": "Luke 22:42",
-            "text": "'Father, if you are willing, take this cup from me; yet not my will, but yours be done.'",
-            "version": "NIV"
+            "verse": "Luke 22:42-44",
+            "version": "NIV",
+            "text": "Father, if you are willing, take this cup from me; yet not my will, but yours be done.\u201d An angel from heaven appeared to him and strengthened him. And being in anguish, he prayed more earnestly, and his sweat was like drops of blood falling to the ground."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Jeremiah 33:3: 'Call to me and I will answer you and tell you great and unsearchable things you do not know.'",
-            "focus": "Understanding prayer as a powerful communication with God",
-            "action": "Set aside 15 minutes for uninterrupted prayer. Write down your specific prayer requests and expectations, surrendering them to God's will.",
-            "prayer": "Lord, teach me to pray not just with words, but with a heart fully surrendered to Your purpose. Help me to see prayer as a powerful weapon and not just a religious ritual. Amen."
+            "scripture": "1 Peter 5:8 - 'Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.'",
+            "focus": "Spiritual Awareness",
+            "action": "Begin your day by acknowledging the spiritual battle and putting on the full armor of God through a short prayer.",
+            "prayer": "Lord, make me alert today. Help me recognize the enemy's schemes and stand firm in Your truth and protection."
         },
         "Tuesday": {
-            "scripture": "1 Thessalonians 5:17: 'Pray continually.'",
-            "focus": "Developing a consistent prayer lifestyle",
-            "action": "Create prayer reminders on your phone or sticky notes. Practice short, spontaneous prayers throughout your day, turning everyday moments into conversations with God.",
-            "prayer": "Heavenly Father, help me to recognize that prayer isn't confined to a specific time or place. Make me aware of Your presence in every moment. Amen."
+            "scripture": "2 Corinthians 10:4 - 'The weapons we fight with are not the weapons of the world. On the contrary, they have divine power to demolish strongholds.'",
+            "focus": "Divine Power in Prayer",
+            "action": "Identify one 'stronghold' in your life (e.g., a persistent worry, a bad habit) and pray specifically for God's power to break it.",
+            "prayer": "Father, I bring [name the stronghold] before You. I claim Your divine power to demolish this in my life today. I trust in Your strength."
         },
         "Wednesday": {
-            "scripture": "James 5:16: 'The prayer of a righteous person is powerful and effective.'",
-            "focus": "Understanding the power of persistent prayer",
-            "action": "Choose one specific area of your life where you need breakthrough. Commit to praying consistently for this area, believing God is at work even when you can't see results.",
-            "prayer": "God, increase my faith in Your power. Help me to be persistent in prayer, trusting Your timing and Your will. Give me patience and hope. Amen."
+            "scripture": "Ephesians 3:20 - 'Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us,'",
+            "focus": "Asking in Faith",
+            "action": "Pray a bold, faith-filled prayer for a situation in your life or for someone else, believing God can do more than you can imagine.",
+            "prayer": "God, I ask for [your request]. I believe You are able to do infinitely more than I can ask or think. Let Your power be at work."
         },
         "Thursday": {
-            "scripture": "Philippians 4:6-7: 'Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.'",
-            "focus": "Turning anxiety into prayer",
-            "action": "Create a 'prayer journal' where you write down your anxieties and transform them into specific prayer requests. Practice gratitude alongside your prayers.",
-            "prayer": "Lord, teach me to surrender my worries to You. Help me replace anxiety with trust, and fear with faith. Thank You that You are always listening. Amen."
+            "scripture": "Acts 1:8 - 'But you will receive power when the Holy Spirit comes on you; and you will be my witnesses...'",
+            "focus": "The Holy Spirit's Power",
+            "action": "Spend a few minutes in quiet, asking God for a fresh infilling of the Holy Spirit for boldness and power in your daily life.",
+            "prayer": "Holy Spirit, fill me afresh today. Empower me to be a bold witness for Christ in my words and actions. Your power is the difference."
         },
         "Friday": {
-            "scripture": "Romans 8:26: 'In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans.'",
-            "focus": "Recognizing the Holy Spirit's role in prayer",
-            "action": "Spend time in quiet meditation, allowing the Holy Spirit to guide your prayers. Be open to praying beyond your understanding.",
-            "prayer": "Holy Spirit, guide my prayers today. Where I am weak, be my strength. Teach me to pray according to God's will. Amen."
+            "scripture": "Jeremiah 29:11 - 'For I know the plans I have for you,\u201d declares the Lord, \u201cplans to prosper you and not to harm you, plans to give you hope and a future.'",
+            "focus": "God's Best Purpose",
+            "action": "Evaluate one area of your life (a relationship, career path, decision). Ask, 'Is this God's best for me?' Listen for His guidance.",
+            "prayer": "Lord, thank You that You have a best plan for me. Reveal Your purpose. Help me not to settle for anything less than Your perfect will."
         },
         "Saturday": {
-            "scripture": "Matthew 6:6: 'But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you.'",
-            "focus": "Cultivating intimate, private prayer time",
-            "action": "Create a dedicated prayer space in your home. Spend extended time in prayer, focusing on listening to God as much as speaking to Him.",
-            "prayer": "Heavenly Father, draw me closer to You. Help me to see prayer not as a duty, but as a precious opportunity to connect with You. Speak to my heart. Amen."
+            "scripture": "Luke 22:42 - 'Father, if you are willing, take this cup from me; yet not my will, but yours be done.'",
+            "focus": "Aligning with God's Will",
+            "action": "Practice surrendering a personal desire or plan to God. Verbally pray, 'Not my will, but Yours be done,' and choose to trust Him.",
+            "prayer": "Jesus, I surrender [name your desire] to You. Even if it's hard, I choose to say, 'Not my will, but Yours be done.' I trust Your plan."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/FjTb_shJVD4"

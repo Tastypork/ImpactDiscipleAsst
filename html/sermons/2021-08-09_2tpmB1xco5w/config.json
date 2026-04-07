@@ -1,88 +1,93 @@
 {
-    "summaryText": "Wow, what a powerful message about overcoming fear! Pastor Todd delivers an incredible sermon about facing life's challenges by trusting God, using the story of Gideon as a powerful illustration. He breaks down how we often hide in 'caves' of fear, but God is calling us to step out in faith and trust His plan. The sermon highlights four key strategies for dealing with fear: developing a strong prayer life, using God's word as a guide, being courageous because God is with us, and knowing when to take decisive action. Pastor Todd shares personal stories that make the message relatable, reminding us that fear is often the thief of our dreams and possibilities. The most powerful takeaway? God doesn't need what you've lost to work a miracle - He just needs your 'yes'! Whether you're facing financial struggles, relationship challenges, or personal doubts, this message is a powerful reminder that God is always with you, ready to turn your challenges into opportunities.",
+    "summaryText": "Pastor Todd opened the sermon by sharing a personal story about driving in the Swiss Alps, using it as a metaphor for navigating life's fears. He then introduced the story of Gideon from Judges 6-7, who was hiding in fear after Israel had been impoverished and oppressed by the Midianites. The central message was that God meets us in our 'cave' experiences\u2014our places of fear, loss, and hiding\u2014and provides a way out. Pastor Todd outlined four principles for overcoming fear: first, we get stronger and smarter through prayer, which is a simple conversation with a God who loves us. Second, we must use God's Word as our guide, trusting His promises over our circumstances. Third, we can be courageous because God is with us, in us, and for us, even when He removes people or resources we think we need. Finally, when it's time, we must pick up the pace and go all-in, trusting God to fight our battles. The sermon concluded with the powerful image of Gideon's 300 men, who won a victory not by their own strength but by obeying God's unconventional strategy, demonstrating that our greatest weapon against fear is a 'yes' to God.",
     "tags": [
-        "Faith",
+        "Prayer",
         "Courage",
-        "Prayer"
+        "Purpose"
     ],
     "mainPoints": [
-        "Get stronger and smarter through prayer",
-        "Use God's word as a guide for life",
-        "Be courageous because God is with you"
+        "We get stronger and smarter through prayer, which is a conversation with a God who loves us and longs to be close.",
+        "We must be courageous because God is with us, in us, and for us, even when He pares down our resources to ensure we rely on Him.",
+        "When it's time to face our fears, we must pick up the pace, go all-in, and trust God to fight the battles we cannot win on our own."
     ],
     "versesMentioned": [
         {
             "verse": "Psalms 27:1",
-            "text": "The Lord is my light and my salvation\u2014whom shall I fear? The Lord is the stronghold of my life\u2014of whom shall I be afraid?",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The LORD is my light and my salvation\u2014whom shall I fear? The LORD is the stronghold of my life\u2014of whom shall I be afraid?"
+        },
+        {
+            "verse": "Judges 6:2-6",
+            "version": "NIV",
+            "text": "The Midianites so impoverished the Israelites that they cried out to the LORD for help."
         },
         {
             "verse": "Hosea 6:6",
-            "text": "For I desire mercy, not sacrifice, and acknowledgment of God rather than burnt offerings.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "For I desire mercy, not sacrifice, and acknowledgment of God rather than burnt offerings."
         },
         {
             "verse": "Psalms 25:14",
-            "text": "The Lord confides in those who fear him; he makes his covenant known to them.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The LORD confides in those who fear him; he makes his covenant known to them."
         },
         {
             "verse": "James 4:8",
-            "text": "Come near to God and he will come near to you. Wash your hands, you sinners, and purify your hearts, you double-minded.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Come near to God and he will come near to you. Wash your hands, you sinners, and purify your hearts, you double-minded."
         },
         {
-            "verse": "Matthew 5",
-            "text": "Reference to the story of Jairus and Jesus healing his daughter",
-            "version": "NIV"
-        },
-        {
-            "verse": "Psalms 23:4",
-            "text": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
-            "version": "NIV"
+            "verse": "Judges 6:14-16",
+            "version": "NIV",
+            "text": "The LORD turned to him and said, 'Go in the strength you have and save Israel out of Midian\u2019s hand. Am I not sending you?' ... The LORD answered, 'I will be with you, and you will strike down all the Midianites, leaving none alive.'"
         },
         {
             "verse": "Joshua 1:9",
-            "text": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go."
+        },
+        {
+            "verse": "Psalms 23:4",
+            "version": "NIV",
+            "text": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Isaiah 41:10: 'So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.'",
-            "focus": "Recognizing God's presence in our fears",
-            "action": "Write down your current fears. Next to each fear, write a prayer of surrender, asking God to replace your fear with His peace.",
-            "prayer": "Lord, I surrender my fears to You. Where I am weak, fill me with Your strength. Help me to trust in Your plan and Your presence. Amen."
+            "scripture": "Psalms 27:1 (NIV) - The LORD is my light and my salvation\u2014whom shall I fear?",
+            "focus": "Identify one area of fear or a 'cave' you are hiding in.",
+            "action": "Be honest with God about that fear in a simple, sincere prayer.",
+            "prayer": "Lord, you are my light. I bring my fear of __________ to you today. Help me to trust you as my stronghold."
         },
         "Tuesday": {
-            "scripture": "2 Timothy 1:7: 'For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.'",
-            "focus": "Understanding God's empowerment",
-            "action": "Identify one area of your life where fear has been holding you back. Take one small, practical step towards overcoming that fear today.",
-            "prayer": "God, give me the courage to step out of my comfort zone. Fill me with Your power and love. Help me to be bold in faith. Amen."
+            "scripture": "James 4:8 (NIV) - Come near to God and he will come near to you.",
+            "focus": "Developing closeness with God through conversation.",
+            "action": "Throughout your day, 'talk' to God about small decisions and thoughts as you would a friend.",
+            "prayer": "God, I draw near to you today. Help me to remember you are always with me and desire to hear from me."
         },
         "Wednesday": {
-            "scripture": "Philippians 4:13: 'I can do all this through him who gives me strength.'",
-            "focus": "Trusting in God's strength",
-            "action": "Make a list of your current challenges. Beside each one, write a declaration of faith about how God can help you overcome it.",
-            "prayer": "Heavenly Father, I trust in Your strength. Where I am weak, You are strong. Give me faith to believe in Your power working through me. Amen."
+            "scripture": "Joshua 1:9 (NIV) - Be strong and courageous... for the LORD your God will be with you.",
+            "focus": "Courage rooted in God's presence.",
+            "action": "Write down this verse. When a fearful thought arises, speak this truth over yourself.",
+            "prayer": "Father, your Word says you are with me. I choose courage today, not because I am strong, but because you are with me."
         },
         "Thursday": {
-            "scripture": "Psalm 34:4: 'I sought the Lord, and he answered me; he delivered me from all my fears.'",
-            "focus": "Seeking God in times of fear",
-            "action": "Spend extra time in prayer today. Focus on listening to God rather than just speaking. Journal any thoughts or impressions you receive.",
-            "prayer": "Lord, help me to quiet my mind and hear Your voice. Deliver me from the fears that overwhelm me. Fill me with Your peace. Amen."
+            "scripture": "Judges 6:14 (NIV) - Go in the strength you have... Am I not sending you?",
+            "focus": "Using what you have, not waiting for what you've lost.",
+            "action": "Take one practical step forward in an area where you feel inadequate, trusting that God is sending you.",
+            "prayer": "Lord, I feel weak, but you ask me to go with the strength I have. I say 'yes' to the next step you have for me."
         },
         "Friday": {
-            "scripture": "1 Peter 5:7: 'Cast all your anxiety on him because he cares for you.'",
-            "focus": "Releasing our fears to God",
-            "action": "Practice a 'fear release' exercise. Write down your current anxieties on a piece of paper, then symbolically tear up the paper as an act of surrendering those fears to God.",
-            "prayer": "Gracious God, I give You my worries and fears. Thank You for caring for me. Help me to trust in Your loving care. Amen."
+            "scripture": "Psalms 23:4 (NIV) - I will fear no evil, for you are with me.",
+            "focus": "Preaching truth to yourself in the 'valley'.",
+            "action": "Memorize this phrase: 'I will fear no evil.' Declare it out loud when you feel anxiety rising.",
+            "prayer": "Shepherd of my soul, even in dark places, you are with me. Your presence is my comfort and my courage."
         },
         "Saturday": {
-            "scripture": "Romans 8:31: 'What, then, shall we say in response to these things? If God is for us, who can be against us?'",
-            "focus": "Affirming God's presence and protection",
-            "action": "Create a personal 'faith declaration' - a statement of trust in God that you can repeat when fear tries to overwhelm you.",
-            "prayer": "Lord, remind me that You are always with me. Help me to live in the confidence of Your love and protection. I choose faith over fear. Amen."
+            "scripture": "Judges 7:15-22 (NIV) - Summary: Gideon obeyed, and God caused the enemy army to turn on itself.",
+            "focus": "Going all-in and watching God work.",
+            "action": "Reflect on a situation where you need to stop striving and simply obey God's direction. Commit to trusting Him for the outcome.",
+            "prayer": "God, sometimes the battle is yours to fight. I choose to obey, to stand firm, and to watch for your victory. I trust you completely."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/2tpmB1xco5w"

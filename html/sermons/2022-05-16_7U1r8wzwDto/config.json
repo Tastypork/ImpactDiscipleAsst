@@ -1,103 +1,128 @@
 {
-    "summaryText": "What a powerful message from Pastor Travis Hearn about navigating life's most challenging moments! In this incredible sermon, PT breaks down exactly what to do when you feel like you're at the end of your rope. He uses the powerful story of Moses and the Red Sea to illustrate how God makes a way where there seems to be no way. Pastor Travis reminds us that when we're stuck between a rock and a hard place, we have four key strategies: keep your faith, don't fear, focus on God's promises, and let go and let God. Can you imagine being in a situation so impossible that your only hope is God? That's exactly where God does His most miraculous work! The sermon is a powerful reminder that God is not limited by our circumstances - He specializes in creating pathways where none existed before. Pastor Travis shares personal stories and biblical examples that demonstrate how God turns seemingly hopeless situations into incredible testimonies of His power and love. Whether you're facing a marriage on the brink, a health crisis, or feel completely stuck, this message offers hope and practical spiritual strategies for breakthrough.",
+    "summaryText": "Pastor Travis Hearn (PT) addressed the feeling of being 'at the end of your rope,' stuck between a rock and a hard place with no visible way forward. He opened with Psalm 109:22 and Matthew 5:3 from The Message translation, emphasizing that when we have less of ourselves, there is more room for God to work. The sermon centered on the story of Moses and the Israelites at the Red Sea in Exodus 14, illustrating that God makes a pathway where no one knows there is one. Pastor Travis provided four practical steps for navigating these moments of hopelessness: keep your faith, do not fear, focus on God's promises, and let go to let God. He explained that faith is our shield against spiritual attack, fear is a tool of the enemy to paralyze us, and focusing on God's Word and promises preserves our life and hope. The message concluded with an encouragement to trust God completely, take the next step of faith, and believe that God is fighting for us, making a way even in our most impossible situations.",
     "tags": [
         "Faith",
         "Hope",
         "Miracles"
     ],
     "mainPoints": [
-        "Keep your faith even when circumstances look impossible",
-        "Do not let fear paralyze you",
-        "Focus on God's promises instead of your problems"
+        "Keep your faith as your shield, walking by faith and not by sight, even when the situation looks hopeless.",
+        "Do not give in to fear, as courage in Christ enables you to face what you fear most.",
+        "Focus on God's promises in His Word and let go of your burdens, trusting Him to make a pathway where you see none."
     ],
     "versesMentioned": [
         {
             "verse": "Psalm 109:22",
-            "version": "The Message",
-            "text": "'I'm at the end of my rope. My life is in ruins.'"
+            "version": "MSG",
+            "text": "I'm at the end of my rope, my life in ruins."
         },
         {
             "verse": "Matthew 5:3",
-            "version": "The Message",
-            "text": "'You're blessed when you're at the end of your rope. With less of you there is more of God and his rule.'"
+            "version": "MSG",
+            "text": "You're blessed when you're at the end of your rope. With less of you there is more of God and his rule."
         },
         {
             "verse": "Psalm 77:19",
             "version": "NIV",
-            "text": "'Your road led through the sea, your pathway through the mighty waters, though your footprints were not seen.'"
+            "text": "Your path led through the sea, your way through the mighty waters, though your footprints were not seen."
         },
         {
-            "verse": "Isaiah 43:16-19",
+            "verse": "Isaiah 43:16, 18-19",
             "version": "NIV",
-            "text": "'This is what the Lord says - he who made a way through the sea, a path through the mighty waters, who drew out the chariots and horses, the army and reinforcements together, and they lay there, never to rise again, extinguished, snuffed out like a wick. Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland.'"
+            "text": "This is what the LORD says\u2014 he who made a way through the sea, a path through the mighty waters... Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland."
         },
         {
             "verse": "2 Corinthians 5:7",
             "version": "NIV",
-            "text": "'For we live by faith, not by sight.'"
+            "text": "For we live by faith, not by sight."
         },
         {
             "verse": "Hebrews 11:1",
             "version": "NIV",
-            "text": "'Now faith is confidence in what we hope for and assurance about what we do not see.'"
+            "text": "Now faith is confidence in what we hope for and assurance about what we do not see."
         },
         {
             "verse": "Ephesians 6:10-17",
             "version": "NIV",
-            "text": "Armor of God passage about standing firm in faith"
+            "text": "Finally, be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil's schemes... In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. Take the helmet of salvation and the sword of the Spirit, which is the word of God."
+        },
+        {
+            "verse": "Exodus 14:13-14",
+            "version": "NIV",
+            "text": "Moses answered the people, 'Do not be afraid. Stand firm and you will see the deliverance the LORD will bring you today. The Egyptians you see today you will never see again. The LORD will fight for you; you need only to be still.'"
         },
         {
             "verse": "Psalm 119:50",
             "version": "NIV",
-            "text": "'My comfort in my suffering is this: Your promise preserves my life.'"
+            "text": "My comfort in my suffering is this: Your promise preserves my life."
         },
         {
             "verse": "Psalm 16:8",
             "version": "NIV",
-            "text": "'I keep my eyes always on the Lord. With him at my right hand, I will not be shaken.'"
+            "text": "I keep my eyes always on the LORD. With him at my right hand, I will not be shaken."
+        },
+        {
+            "verse": "Joshua 1:8",
+            "version": "NIV",
+            "text": "Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful."
+        },
+        {
+            "verse": "Deuteronomy 6:6-7",
+            "version": "NIV",
+            "text": "These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home, when you walk along the road, when you lie down and when you get up."
+        },
+        {
+            "verse": "Luke 9:62",
+            "version": "NIV",
+            "text": "Jesus replied, 'No one who puts a hand to the plow and looks back is fit for service in the kingdom of God.'"
         },
         {
             "verse": "Proverbs 3:5-6",
             "version": "NIV",
-            "text": "'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'"
+            "text": "Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+        },
+        {
+            "verse": "Exodus 14:21",
+            "version": "NIV",
+            "text": "Then Moses stretched out his hand over the sea, and all that night the LORD drove the sea back with a strong east wind and turned it into dry land. The waters were divided."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Isaiah 43:2: 'When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze.'",
-            "focus": "Recognizing God's presence in challenging circumstances",
-            "action": "Write down a current challenge you're facing. Spend time reflecting on how God might be working in this situation, even if you cannot see immediate results.",
-            "prayer": "Lord, help me trust Your process. Give me eyes to see Your hand at work, even when circumstances look impossible. Strengthen my faith today. Amen."
+            "scripture": "Psalm 109:22 (NIV) - 'For I am poor and needy, and my heart is wounded within me.'",
+            "focus": "Acknowledge your feeling of being at the end of your rope.",
+            "action": "Write down one situation where you feel hopeless and simply say, 'God, I have less of me today. I need more of You.'",
+            "prayer": "Lord, I bring my ruin to You. I feel at the end of my rope. I choose to believe that with less of me, there is more of You. Amen."
         },
         "Tuesday": {
-            "scripture": "Hebrews 11:1: 'Now faith is confidence in what we hope for and assurance about what we do not see.'",
-            "focus": "Understanding faith as confidence in God's promises",
-            "action": "List three promises from Scripture that you can meditate on this week. Choose verses that specifically speak to your current life challenges.",
-            "prayer": "God, increase my faith. Help me to trust Your Word more than my circumstances. Give me a heart that believes in Your promises. Amen."
+            "scripture": "Hebrews 11:1 (NIV) - 'Now faith is confidence in what we hope for and assurance about what we do not see.'",
+            "focus": "Strengthen your shield of faith.",
+            "action": "Memorize Hebrews 11:1. When a doubt arises today, speak this verse out loud.",
+            "prayer": "God, my faith is my shield. Help me to walk by faith, not by the scary sight in front of me. Increase my faith through Your Word. Amen."
         },
         "Wednesday": {
-            "scripture": "Ephesians 6:16: 'In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one.'",
-            "focus": "Using faith as a defensive spiritual weapon",
-            "action": "Identify one area where fear has been controlling your thoughts. Speak Scripture over that situation and replace fearful thoughts with God's promises.",
-            "prayer": "Father, help me recognize and reject fear. Fill me with Your peace and supernatural courage. Let my faith be stronger than my fears. Amen."
+            "scripture": "Exodus 14:14 (NIV) - 'The LORD will fight for you; you need only to be still.'",
+            "focus": "Combat fear with God's command to be still.",
+            "action": "Identify one fear paralyzing you. For 5 minutes, sit in silence, refusing to plan or panic, and consciously 'be still.'",
+            "prayer": "Father, I choose not to fear. I declare that You are fighting for me. I will be still and trust in Your rescue. Amen."
         },
         "Thursday": {
-            "scripture": "Psalm 46:1: 'God is our refuge and strength, an ever-present help in trouble.'",
-            "focus": "Finding strength in God during challenging times",
-            "action": "Create a personal 'promise journal' where you record God's faithfulness in past situations. Reflect on how He has always been faithful.",
-            "prayer": "Lord, remind me of Your faithfulness. Help me remember how You've carried me through past challenges. Renew my hope and trust in You. Amen."
+            "scripture": "Psalm 119:50 (NIV) - 'My comfort in my suffering is this: Your promise preserves my life.'",
+            "focus": "Focus on a specific promise of God.",
+            "action": "Find one promise in the Bible (e.g., Philippians 4:13, Isaiah 41:10). Write it on a card and carry it with you, reading it throughout the day.",
+            "prayer": "Lord, I cling to Your promise today. Let it be my comfort and my preservation. My hope is in Your unfailing word. Amen."
         },
         "Friday": {
-            "scripture": "Proverbs 3:5-6: 'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'",
-            "focus": "Surrendering control and trusting God's guidance",
-            "action": "Identify an area where you've been trying to control the outcome. Intentionally release it to God through prayer and commit to following His leading.",
-            "prayer": "God, I surrender my plans and desires to You. Help me trust Your guidance, even when I cannot see the full picture. Make my path clear. Amen."
+            "scripture": "Luke 9:62 (NIV) - 'Jesus replied, \"No one who puts a hand to the plow and looks back is fit for service in the kingdom of God.\"'",
+            "focus": "Ignore distractions and stay focused on Jesus.",
+            "action": "Identify one distraction that inches you away from God. Make one practical choice today to eliminate it (e.g., turn off notifications during prayer).",
+            "prayer": "Jesus, help me to keep my hand on the plow. When distractions entice me, give me the strength to keep my eyes fixed on You, my true light. Amen."
         },
         "Saturday": {
-            "scripture": "Romans 8:28: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'",
-            "focus": "Believing in God's redemptive power",
-            "action": "Spend time in quiet reflection. Ask God to reveal any areas where you need to let go and trust His process more fully.",
-            "prayer": "Heavenly Father, transform my perspective. Help me see challenges as opportunities for growth and Your glory. Increase my faith and trust in Your perfect plan. Amen."
+            "scripture": "Proverbs 3:5-6 (NIV) - 'Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'",
+            "focus": "Let go and let God direct your path.",
+            "action": "Take the situation you wrote down on Monday. Pray over it, then physically open your hands as a sign of releasing it to God.",
+            "prayer": "God, I trust You with all my heart. I lean not on my own plans. I let go of my burden and submit my way to You. Make my path straight. Amen."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/7U1r8wzwDto"

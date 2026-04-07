@@ -1,103 +1,138 @@
 {
-    "summaryText": "Wow, what a powerful message delivered by Pastor Travis Hearn (PT) about putting God first in every area of our lives! In this sermon titled 'First Things First', PT challenges us to examine whether we're truly following Jesus or just wanting Jesus to follow our plans. Drawing from Luke 9, he passionately unpacks how many Christians say they'll follow Jesus, but always have a 'but' attached - 'I'll follow you, BUT...' Using humor and real-life illustrations, PT breaks down how we can practically prioritize God in three key areas: our schedule, our finances, and our relationships. Can you imagine how transformative our lives would be if we truly put God first in everything? The sermon is a wake-up call, reminding us that being a Christian isn't just an identity, but a radical commitment to following Jesus without excuses. From discussing the importance of keeping the Sabbath to challenging our approach to tithing, PT delivers a message that's both convicting and inspiring. His message isn't about making us feel guilty, but about helping us experience the fullness of life when we make God our true priority.",
+    "summaryText": "Pastor Travis Hearn preached a challenging message titled 'First Things First,' based on Luke 9:57-62. He opened by contrasting modern, comfortable Christianity with the costly, all-in discipleship Jesus demands from His followers. Pastor Travis emphasized that true Christian identity, as seen in Acts 11:26, comes *after* a life of sacrifice and discipleship, not before it. The core of the message was a call to put God first in every area of life, removing any 'but' or excuse that holds us back. He outlined three practical 'receipts' or proofs that God is truly first: in our schedule and time (honoring the Sabbath), in our finances (through the holy practice of tithing the first fruits), and in our relationships (choosing close friends who are equally yoked and push us toward Christ). Throughout, Pastor Travis blended direct biblical teaching with pastoral care, affirming God's purposeful love for every person while calling the church to a deeper, more obedient walk with Jesus. The sermon concluded with an invitation to commit fully to following Christ, no matter the cost.",
     "tags": [
         "Obedience",
-        "Faith",
-        "Purpose"
+        "Identity",
+        "Tithing"
     ],
     "mainPoints": [
-        "God must be first in my schedule",
-        "God must be first in my finances",
-        "God must be first in my relationships"
+        "True Christian identity is the result of costly discipleship and sacrifice, not a casual label we claim.",
+        "God must be first in every area of our lives, which is proven by practical 'receipts' in our schedule, finances, and relationships.",
+        "We are called to seek God's kingdom first, trusting Him to provide everything else we need, rather than seeking blessings and asking God to follow us."
     ],
     "versesMentioned": [
         {
-            "verse": "Luke 9:57-62",
-            "text": "As they were walking along the road, a man said to him, 'I will follow you wherever you go.' Jesus replied, 'Foxes have dens and birds have nests, but the Son of Man has no place to lay his head.' He said to another man, 'Follow me.' But he replied, 'Lord, first let me go and bury my father.' Jesus said to him, 'Let the dead bury their own dead, but you go and proclaim the kingdom of God.'",
-            "version": "NIV"
+            "verse": "Luke 9:57-58",
+            "version": "NIV",
+            "text": "As they were walking along the road, a man said to him, 'I will follow you wherever you go.' Jesus replied, 'Foxes have dens and birds have nests, but the Son of Man has no place to lay his head.'"
         },
         {
-            "verse": "Psalm 139:13-14",
-            "text": "For you created my inmost being; you knit me together in my mother's womb. I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well.",
-            "version": "NIV"
+            "verse": "Luke 9:59-60",
+            "version": "NIV",
+            "text": "He said to another man, 'Follow me.' But he replied, 'Lord, first let me go and bury my father.' Jesus said to him, 'Let the dead bury their own dead, but you go and proclaim the kingdom of God.'"
+        },
+        {
+            "verse": "Luke 9:61-62",
+            "version": "NIV",
+            "text": "Still another said, 'I will follow you, Lord; but first let me go back and say goodbye to my family.' Jesus replied, 'No one who puts a hand to the plow and looks back is fit for service in the kingdom of God.'"
+        },
+        {
+            "verse": "Acts 11:26",
+            "version": "NIV",
+            "text": "and when he found him, he brought him to Antioch. So for a whole year Barnabas and Saul met with the church and taught great numbers of people. The disciples were called Christians first at Antioch."
+        },
+        {
+            "verse": "Psalm 139:13-15",
+            "version": "NLT",
+            "text": "You made all the delicate, inner parts of my body and knit me together in my mother\u2019s womb. Thank you for making me so wonderfully complex! Your workmanship is marvelous\u2014how well I know it. You watched me as I was being formed in utter seclusion, as I was woven together in the dark of the womb."
         },
         {
             "verse": "Exodus 20:3",
-            "text": "You shall have no other gods before me.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "You shall have no other gods before me."
+        },
+        {
+            "verse": "Exodus 20:5",
+            "version": "NIV",
+            "text": "You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, punishing the children for the sin of the parents to the third and fourth generation of those who hate me,"
         },
         {
             "verse": "Matthew 6:33",
-            "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well."
         },
         {
-            "verse": "Exodus 20:8-10",
-            "text": "Remember the Sabbath day by keeping it holy. Six days you shall labor and do all your work, but the seventh day is a sabbath to the Lord your God.",
-            "version": "NIV"
+            "verse": "Exodus 20:8",
+            "version": "NIV",
+            "text": "Remember the Sabbath day by keeping it holy."
+        },
+        {
+            "verse": "Mark 8:36",
+            "version": "NIV",
+            "text": "What good is it for someone to gain the whole world, yet forfeit their soul?"
+        },
+        {
+            "verse": "Matthew 6:21",
+            "version": "NIV",
+            "text": "For where your treasure is, there your heart will be also."
+        },
+        {
+            "verse": "Deuteronomy 14:23",
+            "version": "NLT",
+            "text": "The purpose of tithing is to teach you always to put God first in your lives."
         },
         {
             "verse": "Leviticus 27:30",
-            "text": "A tenth of everything from the land, whether grain from the soil or fruit from the trees, belongs to the Lord; it is holy to the Lord.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "A tithe of everything from the land, whether grain from the soil or fruit from the trees, belongs to the LORD; it is holy to the LORD."
         },
         {
             "verse": "Malachi 3:8-10",
-            "text": "Will a mere mortal rob God? Yet you rob me. But you ask, 'How are we robbing you?' In tithes and offerings. You are under a curse\u2014your whole nation\u2014because you are robbing me. Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,' says the Lord Almighty, 'and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Will a mere mortal rob God? Yet you rob me. But you ask, 'How are we robbing you?' In tithes and offerings. You are under a curse\u2014your whole nation\u2014because you are robbing me. Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,' says the LORD Almighty, 'and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.'"
         },
         {
             "verse": "Proverbs 27:17",
-            "text": "As iron sharpens iron, so one person sharpens another.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "As iron sharpens iron, so one person sharpens another."
         },
         {
             "verse": "1 Corinthians 15:33",
-            "text": "Do not be misled: Bad company corrupts good character.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Do not be misled: 'Bad company corrupts good character.'"
         },
         {
             "verse": "2 Corinthians 6:14",
-            "text": "Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common? Or what fellowship can light have with darkness?",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common? Or what fellowship can light have with darkness?"
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Matthew 6:21: 'For where your treasure is, there your heart will be also.'",
-            "focus": "Identifying true priorities",
-            "action": "Review your calendar and bank statement. Identify areas where God is not first. Write down three specific ways you can intentionally put God first this week.",
-            "prayer": "Lord, reveal the areas of my life where I'm not truly prioritizing You. Give me wisdom and courage to make You my first priority in everything."
+            "scripture": "Luke 9:57-58 - 'As they were walking along the road, a man said to him, 'I will follow you wherever you go.' Jesus replied, 'Foxes have dens and birds have nests, but the Son of Man has no place to lay his head.''",
+            "focus": "Counting the cost of discipleship.",
+            "action": "Identify one area of comfort you are holding onto that might be keeping you from following Jesus completely. Write it down.",
+            "prayer": "Lord, give me the courage to follow you wherever you lead, even if it means leaving my comfort behind."
         },
         "Tuesday": {
-            "scripture": "Deuteronomy 6:5: 'Love the Lord your God with all your heart and with all your soul and with all your strength.'",
-            "focus": "Whole-hearted devotion",
-            "action": "Create a personal worship playlist. Spend 30 minutes listening and reflecting on songs that draw you closer to God.",
-            "prayer": "God, teach me what it means to love You completely. Help me surrender every part of my heart to You."
+            "scripture": "Matthew 6:33 - 'But seek first his kingdom and his righteousness, and all these things will be given to you as well.'",
+            "focus": "Putting God's kingdom first.",
+            "action": "Before you check your phone or start your day's tasks, spend 5 minutes in prayer, consciously seeking God's kingdom first.",
+            "prayer": "God, today I choose to seek you first. Help me trust that you will provide everything else I need."
         },
         "Wednesday": {
-            "scripture": "Proverbs 3:9-10: 'Honor the Lord with your wealth, with the firstfruits of all your crops; then your barns will be filled to overflowing, and your vats will brim over with new wine.'",
-            "focus": "Financial surrender",
-            "action": "Review your giving. If you don't currently tithe, research and take steps to begin giving 10% of your income.",
-            "prayer": "Father, help me trust You with my finances. Give me a generous heart that honors You first."
+            "scripture": "Exodus 20:8 - 'Remember the Sabbath day by keeping it holy.'",
+            "focus": "Honoring God with our time.",
+            "action": "Plan ahead to protect time this coming Sunday for rest and worship. Intentionally schedule around church and family time.",
+            "prayer": "Father, teach me the rhythm of rest. Help me to honor you with my schedule and find true refreshment in you."
         },
         "Thursday": {
-            "scripture": "Proverbs 13:20: 'Walk with the wise and become wise, for a companion of fools suffers harm.'",
-            "focus": "Intentional relationships",
-            "action": "Evaluate your closest relationships. Identify one relationship that doesn't draw you closer to God and seek godly counsel about it.",
-            "prayer": "Lord, guide my relationships. Help me surround myself with people who encourage my spiritual growth."
+            "scripture": "Malachi 3:10 - 'Bring the whole tithe into the storehouse... Test me in this,' says the LORD Almighty, 'and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.'",
+            "focus": "Trusting God with our finances.",
+            "action": "Review your giving. If you are not tithing, prayerfully take a step of faith this week by giving the first 10% of your income to God's work.",
+            "prayer": "Lord, I trust you as my provider. I bring my tithe as an act of worship, testing your promise and putting you first."
         },
         "Friday": {
-            "scripture": "Joshua 24:15: 'But as for me and my household, we will serve the Lord.'",
-            "focus": "Personal commitment",
-            "action": "Make a personal covenant with God. Write down your commitment to put Him first in a specific area of your life.",
-            "prayer": "God, I choose You today. Help me follow through on my commitment to serve You wholeheartedly."
+            "scripture": "1 Corinthians 15:33 - 'Do not be misled: 'Bad company corrupts good character.''",
+            "focus": "Choosing godly influences.",
+            "action": "Reflect on your five closest friends. Do they encourage your faith? Pray for wisdom about any relationships that may need healthier boundaries.",
+            "prayer": "Holy Spirit, give me discernment in my friendships. Surround me with people who sharpen my faith and draw me closer to you."
         },
         "Saturday": {
-            "scripture": "Romans 12:1-2: 'Therefore, I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God\u2014this is your true and proper worship.'",
-            "focus": "Complete surrender",
-            "action": "Spend extended time in prayer, asking God to reveal any areas where you're holding back from fully surrendering to Him.",
-            "prayer": "Lord, I want to be a living sacrifice. Reveal any barriers preventing me from completely surrendering to Your will."
+            "scripture": "2 Corinthians 6:14 - 'Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common?'",
+            "focus": "Being equally yoked in key relationships.",
+            "action": "Commit to praying for your closest relationships (spouse, family, friends), asking God to strengthen and align them with His purposes.",
+            "prayer": "God, align my key relationships with your will. Help me to be a light and to build connections that honor you."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/cKbdZKzy6HY"

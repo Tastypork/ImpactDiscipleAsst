@@ -1,20 +1,25 @@
 {
-    "summaryText": "Wow, what a powerful message about breaking down the walls in our lives! Pastor Travis Hearn (PT) delivered an incredible sermon about overcoming obstacles using the incredible story of Joshua and the walls of Jericho. Drawing from Joshua chapter 6, PT reminds us that the walls that seem insurmountable are actually already defeated in God's perspective. Can you imagine standing before massive, fortified walls and being told to simply march around them and then shout? That's exactly what God instructed the Israelites to do! The sermon powerfully illustrates that our walls of shame, guilt, addiction, and fear are NOT more powerful than God's plan for our lives. PT passionately encourages us to walk by faith, not by sight, and to take bold steps even when things don't make sense. The most profound moment? When he declares that YOU are the giant, and your enemy is actually the grasshopper! This message isn't just about conquering physical walls, it's about stepping out of our comfort zones and trusting God's supernatural intervention in our lives.",
+    "summaryText": "Pastor Travis Hearn opened the service by reading from Joshua 6, recounting the story of the fall of Jericho. He used the image of Jericho's massive, double-walled fortifications as a metaphor for the seemingly insurmountable obstacles\u2014such as shame, guilt, addiction, or fear\u2014that stand between believers and God's promises. The central message was that God has already secured the victory, declaring 'it is already done,' even when we cannot yet see it. Pastor Travis emphasized that we must walk by faith, not by sight, refusing to be deceived by the intimidating appearance of our 'walls.' He challenged the congregation to take a step of faith out of their comfort zones, whether that means forgiving, starting a new venture, or breaking free from past hurts. The sermon concluded with a call to devote our victories to God, just as the Israelites devoted Jericho to the Lord, and an invitation for salvation and prayer for those facing personal walls.",
     "tags": [
         "Faith",
-        "Obedience",
-        "Miracles"
+        "Miracles",
+        "Obedience"
     ],
     "mainPoints": [
-        "Walk by faith, not by sight",
-        "Walk on God's word, not your worries",
-        "Devote your future to God"
+        "Walk by faith and not by sight, refusing to be deceived by the intimidating appearance of obstacles.",
+        "Walk on God's word and take the step of faith He commands, even when it doesn't make sense.",
+        "Devote your future and victories to God, offering Him the first fruits of your life."
     ],
     "versesMentioned": [
         {
             "verse": "Joshua 6:1-5",
             "version": "NIV",
-            "text": "Now Jericho was tightly shut because of the Israelites. No one went out and no one came in. Then the Lord said to Joshua, 'See, I have delivered Jericho into your hands, along with its king and its fighting men. March around the city once with all the armed men. Do this for six days. Have seven priests carry trumpets of rams' horns in front of the ark. On the seventh day, march around the city seven times, with the priests blowing the trumpets. When you hear them sound a long blast on the trumpets, have the whole army give a loud shout; then the wall of the city will collapse and the army will go up, everyone straight in.'"
+            "text": "Now the gates of Jericho were securely barred because of the Israelites. No one went out and no one came in. Then the Lord said to Joshua, 'See, I have delivered Jericho into your hands, along with its king and its fighting men. March around the city once with all the armed men. Do this for six days. Have seven priests carry trumpets of rams' horns in front of the ark. On the seventh day, march around the city seven times, with the priests blowing the trumpets. When you hear them sound a long blast on the trumpets, have the whole army give a loud shout; then the wall of the city will collapse and the army will go up, everyone straight in.'"
+        },
+        {
+            "verse": "Joshua 6:20",
+            "version": "NIV",
+            "text": "When the trumpets sounded, the army shouted, and at the sound of the trumpet, when the men gave a loud shout, the wall collapsed; so everyone charged straight in, and they took the city."
         },
         {
             "verse": "2 Corinthians 5:7",
@@ -29,55 +34,65 @@
         {
             "verse": "Luke 19:26",
             "version": "MSG",
-            "text": "Risk your life and get more than you ever dreamed of. Play it safe and end up holding the bag."
+            "text": "'Risk your life and get more than you ever dreamed of. Play it safe and end up holding the bag.'"
         },
         {
             "verse": "1 Corinthians 2:9",
             "version": "NIV",
-            "text": "However, as it is written: 'What no eye has seen, what no ear has heard, and what no human mind has conceived' - the things God has prepared for those who love him"
+            "text": "However, as it is written: 'What no eye has seen, what no ear has heard, and what no human mind has conceived'\u2014 the things God has prepared for those who love him\u2014"
         },
         {
-            "verse": "Matthew 14:22-33",
+            "verse": "Matthew 14:26-27",
             "version": "NIV",
-            "text": "Immediately Jesus made the disciples get into the boat and go on ahead of him to the other side, while he dismissed the crowd. After he had dismissed them, he went up on a mountainside by himself to pray. Later that night, he was there alone, and the boat was already a considerable distance from land, buffeted by the waves because the wind was against it. Shortly before dawn he went out to them, walking on the lake. When the disciples saw him walking on the lake, they were terrified. 'It's a ghost,' they said, and cried out in fear. But Jesus immediately said to them: 'Take courage! It is I. Don't be afraid.' 'Lord, if it's you,' Peter replied, 'tell me to come to you on the water.' 'Come,' he said. Then Peter got down out of the boat, walked on the water and came toward Jesus. But when he saw the wind, he was afraid and, beginning to sink, cried out, 'Lord, save me!' Immediately Jesus reached out his hand and caught him. 'You of little faith,' he said, 'why did you doubt?'"
+            "text": "When the disciples saw him walking on the lake, they were terrified. 'It's a ghost,' they said, and cried out in fear. But Jesus immediately said to them: 'Take courage! It is I. Don't be afraid.'"
+        },
+        {
+            "verse": "Matthew 14:29-31",
+            "version": "NIV",
+            "text": "'Come,' he said. Then Peter got down out of the boat, walked on the water and came toward Jesus. But when he saw the wind, he was afraid and, beginning to sink, cried out, 'Lord, save me!' Immediately Jesus reached out his hand and caught him. 'You of little faith,' he said, 'why did you doubt?'"
+        },
+        {
+            "verse": "Joshua 6:21",
+            "version": "NIV",
+            "text": "They devoted the city to the Lord and destroyed with the sword every living thing in it\u2014men and women, young and old, cattle, sheep and donkeys."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Isaiah 43:2: 'When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze.'",
-            "focus": "Identifying the walls blocking your progress",
-            "action": "Take time to journal about the 'walls' in your life. What obstacles seem insurmountable? Write them down and pray over each one, declaring God's power over them.",
-            "prayer": "Lord, reveal the walls in my life that are holding me back. Give me the faith to see beyond what seems impossible and trust in Your supernatural power. Amen."
+            "scripture": "2 Corinthians 5:7 (NIV) - For we live by faith, not by sight.",
+            "focus": "Identify one 'wall' you've been viewing only with your physical eyes.",
+            "action": "Write down a statement of faith about that situation, declaring God's victory over it.",
+            "prayer": "Lord, help me to see my circumstances today through the lens of faith, not fear. Open my spiritual eyes to your promises."
         },
         "Tuesday": {
-            "scripture": "Philippians 4:13: 'I can do all this through him who gives me strength.'",
-            "focus": "Walking by faith, not by sight",
-            "action": "Identify one area where you've been living in fear or comfort. Take a small, bold step of faith today, even if it feels uncomfortable.",
-            "prayer": "God, help me step out of my comfort zone and trust You completely. Give me courage to walk by faith and not by what I can see. Amen."
+            "scripture": "Joshua 6:2 (NIV) - Then the Lord said to Joshua, 'See, I have delivered Jericho into your hands...'",
+            "focus": "God's declaration that the victory is already secured.",
+            "action": "Speak aloud the phrase 'It is already done' over the challenge you identified yesterday.",
+            "prayer": "Father, I thank you that the battle is yours and the victory is won. I choose to trust in your finished work today."
         },
         "Wednesday": {
-            "scripture": "Proverbs 3:5-6: 'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'",
-            "focus": "Surrendering control to God",
-            "action": "Make a list of areas where you've been trying to control the outcome. Physically write 'I surrender this to You, God' next to each item.",
-            "prayer": "Heavenly Father, I surrender my plans and fears to You. Help me trust Your path, even when I can't see the entire journey. Amen."
+            "scripture": "Matthew 14:29 (NIV) - 'Come,' he said. Then Peter got down out of the boat...",
+            "focus": "Stepping out of the boat of comfort and familiarity.",
+            "action": "Take one practical, tangible step of obedience that God has been prompting you to take, no matter how small.",
+            "prayer": "Jesus, give me the courage to step out of my comfort zone today. I believe you are calling me, and I say 'yes.'"
         },
         "Thursday": {
-            "scripture": "Romans 8:28: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'",
-            "focus": "Seeing obstacles as opportunities",
-            "action": "Reframe one current challenge as a potential opportunity for growth. How might God be working in this situation?",
-            "prayer": "Lord, help me see my challenges through Your perspective. Reveal the purpose behind my current struggles and give me wisdom. Amen."
+            "scripture": "Luke 19:26 (MSG) - 'Risk your life and get more than you ever dreamed of.'",
+            "focus": "The blessing of faithful risk versus the emptiness of playing it safe.",
+            "action": "Do one thing that feels like a 'risk' for the sake of your faith, family, or future.",
+            "prayer": "God, I don't want to end up 'holding the bag.' I surrender my desire for safety and choose to risk for your kingdom."
         },
         "Friday": {
-            "scripture": "2 Corinthians 5:7: 'For we live by faith, not by sight.'",
-            "focus": "Taking bold steps of faith",
-            "action": "Do something today that requires faith - start that project, have that conversation, make that commitment you've been avoiding.",
-            "prayer": "God, give me the courage to step out in faith today. Help me trust You more than I trust my own understanding. Amen."
+            "scripture": "1 Corinthians 2:9 (NIV) - 'What no eye has seen... the things God has prepared for those who love him'",
+            "focus": "The unimaginable future God has prepared.",
+            "action": "Spend 10 minutes in quiet reflection or journaling, dreaming with God about the future He has for you.",
+            "prayer": "Holy Spirit, expand my imagination. Help me to believe for the incredible things you have prepared that I cannot yet see."
         },
         "Saturday": {
-            "scripture": "Joshua 1:9: 'Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.'",
-            "focus": "Preparing for breakthrough",
-            "action": "Spend time in prayer, declaring God's promises over the walls in your life. Write down a faith declaration for each obstacle.",
-            "prayer": "Lord, I declare Your power over every wall in my life. Give me strength, courage, and unwavering faith. I trust in Your promises. Amen."
+            "scripture": "Joshua 6:21 (NIV) - They devoted the city to the Lord...",
+            "focus": "Dedicating our victories and our lives to God.",
+            "action": "Identify one area of your life (time, talent, treasure) and make a specific plan to offer the 'first fruits' of it to God this week.",
+            "prayer": "Lord, everything I have is from you. I devote my life and every victory to you. Be glorified in all I do."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/fnf-_RBFmR8"

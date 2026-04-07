@@ -1,93 +1,98 @@
 {
-    "summaryText": "What a powerful sermon from Pastor Travis Hearn about moving forward and refusing to be defined by your past! In this incredibly motivational message, Pastor Travis shares a deeply personal approach to overcoming life's challenges through three key strategies: leaving the past behind, continually pressing forward, and transforming your misery into ministry. Drawing from powerful biblical stories like Lot's wife and David's battle with Goliath, PT reminds us that God doesn't just want us to survive our trials - He wants us to TRIUMPH over them! The most profound moment was when Pastor Travis shared his basketball coaching story about 'sucking it up' - a metaphor for spiritual resilience that resonates with anyone who's ever faced seemingly impossible circumstances. He powerfully declares that your deepest pain can become your divine purpose, challenging listeners to stop being victims and start being warriors. The message isn't just about surviving, it's about using every challenge as a launching pad for God's miraculous work in your life. Can you imagine turning your greatest struggle into your most significant testimony? That's exactly what Pastor Travis is calling us to do!",
+    "summaryText": "Pastor Travis Hearn opened with a heartfelt message of love and encouragement for the Impact Church family, acknowledging the deep struggles many face, including addiction, illness, loss, betrayal, and shame. He posed the central question of the sermon: 'What are you going to do about it?' He emphasized that while God is our help, we also have a role to play in our spiritual battles. Pastor Travis shared a personal story from his youth about learning to 'suck it up' and persevere through pain, framing it as a spiritual principle of depending on God's strength in our weakness. The sermon provided three clear responses to life's difficulties. First, we must leave the past in the past, adopting a 'next play' mentality and straining toward what is ahead, as instructed in Philippians 3. Second, we must keep pressing on and never look back, using the sobering example of Lot's wife, who became a pillar of salt for longing for her old life. Third, we are to make our misery our ministry, using our pain and trials as a testimony to comfort others and as a weapon against the enemy, just as David used Goliath's own sword. The message concluded with a powerful call to crucify our old sinful nature, live alive in Christ, and use every attack from the enemy as a trophy of God's triumph.",
     "tags": [
         "Suffering",
-        "Purpose",
-        "Healing"
+        "Obedience",
+        "Purpose"
     ],
     "mainPoints": [
-        "Leave the past in the past",
-        "Keep pressing on despite challenges",
-        "Transform your misery into ministry"
+        "Leave the past in the past by adopting a 'next play' mentality and straining toward what God has ahead.",
+        "Keep pressing on and never look back, obeying God's clear instructions to avoid the consequences of longing for an old life.",
+        "Make your misery your ministry by using your pain as a testimony to comfort others and as a weapon against the enemy."
     ],
     "versesMentioned": [
         {
             "verse": "Philippians 3:13-14",
-            "text": "Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus."
         },
         {
             "verse": "Isaiah 43:18-19",
-            "text": "Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland."
+        },
+        {
+            "verse": "Genesis 19:17",
+            "version": "NIV",
+            "text": "As soon as they had brought them out, one of them said, 'Flee for your lives! Don't look back, and don't stop anywhere in the plain! Flee to the mountains or you will be swept away!'"
         },
         {
             "verse": "Genesis 19:26",
-            "text": "But Lot's wife looked back, and she became a pillar of salt.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "But Lot's wife looked back, and she became a pillar of salt."
         },
         {
             "verse": "Luke 17:32-33",
-            "text": "Remember Lot's wife! Whoever tries to keep their life will lose it, and whoever loses their life will preserve it.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Remember Lot's wife! Whoever tries to keep their life will lose it, and whoever loses their life will preserve it."
         },
         {
             "verse": "Galatians 2:20",
-            "text": "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me."
         },
         {
-            "verse": "2 Corinthians 4:8",
-            "text": "We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed.",
-            "version": "NIV"
+            "verse": "2 Corinthians 4:8-9",
+            "version": "NIV",
+            "text": "We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed."
         },
         {
             "verse": "2 Corinthians 1:4",
-            "text": "Who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God."
         },
         {
             "verse": "1 Samuel 17:51",
-            "text": "David ran and stood over him. He took hold of the Philistine's sword and drew it from the sheath and killed him, cutting off his head with the sword.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "David ran and stood over him. He took hold of the Philistine's sword and drew it from the sheath. After he killed him, he cut off his head with the sword."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Isaiah 43:18-19: 'Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it?'",
-            "focus": "Releasing past limitations",
-            "action": "Make a list of three past experiences or thoughts that have been holding you back. Pray over each one, symbolically releasing them to God.",
-            "prayer": "Lord, help me let go of my past and trust in Your new work in my life. Give me vision to see the fresh path You are creating."
+            "scripture": "Philippians 3:13-14 (NIV) - '...Forgetting what is behind and straining toward what is ahead...'",
+            "focus": "Leaving the Past Behind",
+            "action": "Identify one thing from your past you are dwelling on. Write it down, pray for God's help to release it, and then physically discard the paper as an act of faith.",
+            "prayer": "God, help me to forget what is behind. Give me the strength to strain forward toward the future you have for me, trusting in your grace."
         },
         "Tuesday": {
-            "scripture": "Philippians 3:13-14: 'But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal'",
-            "focus": "Moving forward with intentionality",
-            "action": "Create a goal map for the next three months. Identify specific steps you'll take to press toward your God-given purpose.",
-            "prayer": "God, guide my steps and help me press forward with determination. Align my goals with Your divine purpose for my life."
+            "scripture": "Genesis 19:26 (NIV) - 'But Lot's wife looked back, and she became a pillar of salt.'",
+            "focus": "The Danger of Looking Back",
+            "action": "When a tempting thought about an old habit or sinful pattern arises today, immediately say 'next play' out loud and pray for strength to keep moving forward.",
+            "prayer": "Lord, guard my heart from longing for my old life. Help me to obey your clear instructions and fix my spiritual eyes on the freedom you provide."
         },
         "Wednesday": {
-            "scripture": "Galatians 2:20: 'I have been crucified with Christ and I no longer live, but Christ lives in me'",
-            "focus": "Dying to self, living for Christ",
-            "action": "Spend time reflecting on areas of your life where you're still living for yourself. Journal about how you can surrender these areas to God.",
-            "prayer": "Lord, help me crucify my selfish desires. Fill me with Your Spirit and help me live fully for Your purposes."
+            "scripture": "2 Corinthians 4:8-9 (NIV) - 'We are hard pressed on every side, but not crushed...'",
+            "focus": "Persevering Under Pressure",
+            "action": "Reflect on a current challenge. Write down how you feel 'hard pressed' and then next to it, write 'but not crushed,' acknowledging God's sustaining power.",
+            "prayer": "Father, thank you that in my pressures and perplexities, I am not crushed or in despair. Your power holds me up today."
         },
         "Thursday": {
-            "scripture": "2 Corinthians 1:4: 'Who comforts us in all our troubles, so that we can comfort those in any trouble'",
-            "focus": "Transforming pain into purpose",
-            "action": "Reach out to someone who is going through a similar struggle you've overcome. Share your story of hope and healing.",
-            "prayer": "God, use my past struggles as a platform to bring comfort and hope to others. Help me be a vessel of Your healing."
+            "scripture": "2 Corinthians 1:4 (NIV) - '...so that we can comfort those in any trouble with the comfort we ourselves receive from God.'",
+            "focus": "Turning Misery into Ministry",
+            "action": "Reach out to one person today\u2014via text, call, or in person\u2014and share a brief word of encouragement based on a struggle God has brought you through.",
+            "prayer": "God, use my past pain for your purpose. Show me someone I can comfort today with the same comfort you have given me."
         },
         "Friday": {
-            "scripture": "2 Corinthians 4:8: 'We are hard pressed on every side, but not crushed; perplexed, but not in despair'",
-            "focus": "Maintaining resilience through challenges",
-            "action": "List three current challenges you're facing. Next to each, write a declaration of faith about how God is working through them.",
-            "prayer": "Father, give me strength to remain resilient. Help me see Your hand at work, even in my most challenging moments."
+            "scripture": "Galatians 2:20 (NIV) - 'I have been crucified with Christ and I no longer live, but Christ lives in me.'",
+            "focus": "Crucifying the Old Self",
+            "action": "Identify one 'fleshly desire' you need to crucify. Spend time in prayer, consciously surrendering that area of your life to Christ's control.",
+            "prayer": "Jesus, I choose to crucify my old nature today. I am a dead man walking to myself, but alive in you. Live through me."
         },
         "Saturday": {
-            "scripture": "1 Samuel 17:51: 'David ran and stood over him... and killed him, cutting off his head with the sword'",
-            "focus": "Overcoming personal giants",
-            "action": "Identify a 'giant' in your life (fear, addiction, doubt). Create a specific strategy for confronting and defeating it with God's help.",
-            "prayer": "Lord, give me the courage of David. Help me face my giants with faith, knowing You are fighting on my behalf."
+            "scripture": "1 Samuel 17:51 (NIV) - '...he cut off his head with the sword.'",
+            "focus": "Claiming Victory Over Giants",
+            "action": "Name a 'giant' in your life (fear, addiction, shame). Write a declaration of faith, stating that with God's help, you will stand over this enemy in victory.",
+            "prayer": "Mighty God, you are my champion. I trust you to give me victory over my giants. I will use the enemy's attacks as a trophy of your power."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/QxpN12MWkdU"

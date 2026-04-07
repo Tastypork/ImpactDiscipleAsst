@@ -1,78 +1,98 @@
 {
-    "summaryText": "Wow, what an incredible message about love from Pastor Travis Hearn! Today, PT dives deep into 1 Corinthians 13, exploring what true, godly love really looks like. Isn't it amazing how we often misunderstand love as something sentimental or passive? Pastor Travis breaks down love as an active, intentional choice that transforms not just individuals, but entire communities and even the world! He reminds us that love isn't about what we get, but what we give - just like God demonstrated through Jesus Christ. The sermon challenges us to look beyond our own comfort and self-interest, revealing that love is patient, kind, and humble. Can you imagine how different our world would be if we truly loved like God loves? Pastor Travis powerfully illustrates that love isn't a feeling, but a decision - a daily commitment to put others first, to show compassion, and to see humanity through God's eyes. Whether it's being patient with someone's growth, showing kindness without expecting anything in return, or remaining humble in a world that celebrates pride, this message is a radical call to love like Jesus.",
+    "summaryText": "Pastor Travis Hearn opened the service with prayer and a declaration of God's goodness. He began by observing the brokenness of the world\u2014morally, relationally, and spiritually\u2014and posed the question of how to help fix it. He argued that the answer is not found in money, power, or policy, but in one word: love. He clarified that this is not worldly love or lust, but the self-sacrificial love defined by God. The sermon focused on the biblical definition of love, primarily from 1 Corinthians 13, as the antidote to a broken world. Pastor Travis taught that the greatest commandments are to love God and love your neighbor, and that these two relationships are deeply interconnected. He then began a two-part series exploring the 16 characteristics of love from the 'love chapter,' focusing on the first three: patience, kindness, and humility. He challenged the congregation to honestly assess their own levels of patience and kindness, explaining that true, godly love is proactive, can wait, and is not easily angered. He emphasized that love is humble, not envious, boastful, or proud, and that pride is often a cover for deep insecurity. The message concluded with a call to live a life that is 'not about you,' but about loving God and others, mirroring the humility of Christ as described in Philippians 2.",
     "tags": [
         "Love",
-        "Relationships",
-        "Humility"
+        "Patience",
+        "Relationships"
     ],
     "mainPoints": [
-        "Love is patient and kind, not self-seeking",
-        "True love is selfless, not about personal gain",
-        "Love requires humility and putting others first"
+        "The answer to a broken world is not human solutions but God's self-sacrificial love, as He is love.",
+        "The greatest commandments are to love God wholeheartedly and to love your neighbor as yourself, which are inseparable from each other.",
+        "Biblical love, as defined in 1 Corinthians 13, is characterized by patience, kindness, and humility, requiring honest self-assessment and proactive application."
     ],
     "versesMentioned": [
         {
-            "verse": "1 John 4:7-8",
-            "text": "Dear friends, let us continue to love one another, for love comes from God. Anyone who loves is a child of God and knows God. Anyone who does not love does not know God, for God is love.",
-            "version": "NIV"
+            "verse": "1 John 4:7-10",
+            "version": "NIV",
+            "text": "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God. Whoever does not love does not know God, because God is love. This is how God showed his love among us: He sent his one and only Son into the world that we might live through him. This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins."
         },
         {
-            "verse": "Matthew 22:37-39",
-            "text": "Jesus replied: 'Love the Lord your God with all your heart and with all your soul and with all your mind.' This is the first and greatest commandment. And the second is like it: 'Love your neighbor as yourself.'",
-            "version": "NIV"
+            "verse": "Matthew 22:35-39",
+            "version": "NIV",
+            "text": "One of them, an expert in the law, tested him with this question: 'Teacher, which is the greatest commandment in the Law?' Jesus replied: 'Love the Lord your God with all your heart and with all your soul and with all your mind. This is the first and greatest commandment. And the second is like it: Love your neighbor as yourself.'"
         },
         {
             "verse": "1 Corinthians 13:1-3",
-            "text": "If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing."
+        },
+        {
+            "verse": "1 Corinthians 13:4-7",
+            "version": "NIV",
+            "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres."
+        },
+        {
+            "verse": "Proverbs 29:11",
+            "version": "NIV",
+            "text": "Fools give full vent to their rage, but the wise bring calm in the end."
+        },
+        {
+            "verse": "Proverbs 19:11",
+            "version": "NIV",
+            "text": "A person's wisdom yields patience; it is to one's glory to overlook an offense."
         },
         {
             "verse": "James 1:19",
-            "text": "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry."
         },
         {
-            "verse": "Philippians 2:3-4",
-            "text": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, not looking to your own interests but each of you to the interests of the others.",
-            "version": "NIV"
+            "verse": "Luke 10:33",
+            "version": "NIV",
+            "text": "But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him."
+        },
+        {
+            "verse": "Philippians 2:3-8",
+            "version": "NIV",
+            "text": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, not looking to your own interests but each of you to the interests of the others. In your relationships with one another, have the same mindset as Christ Jesus: Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing by taking the very nature of a servant, being made in human likeness. And being found in appearance as a man, he humbled himself by becoming obedient to death\u2014 even death on a cross!"
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "1 Corinthians 13:4: 'Love is patient, love is kind.'",
-            "focus": "Understanding patience in relationships",
-            "action": "Identify one relationship where you struggle with patience. Write down three specific ways you can show more grace and understanding this week.",
-            "prayer": "Lord, teach me to be patient and kind, just as You are patient with me. Help me see others through Your eyes of love and compassion. Amen."
+            "scripture": "1 John 4:7-8 - 'Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God. Whoever does not love does not know God, because God is love.'",
+            "focus": "The Source of Love",
+            "action": "Begin your week by reminding yourself that true love originates from God. Before interacting with anyone, take a moment to ask God to fill you with His love.",
+            "prayer": "God, thank you that you are love. Help me to see every person I meet today as someone you love deeply. Let my words and actions flow from your love in me."
         },
         "Tuesday": {
-            "scripture": "Ephesians 4:2: 'Be completely humble and gentle; be patient, bearing with one another in love.'",
-            "focus": "Practicing humility in daily interactions",
-            "action": "Look for an opportunity to put someone else's needs before your own. This could be listening without interrupting, offering help without being asked, or giving up something you want.",
-            "prayer": "God, help me decrease so that You may increase. Give me a humble heart that seeks to serve others rather than be served. Amen."
+            "scripture": "Matthew 22:37-39 - 'Jesus replied: \"Love the Lord your God with all your heart and with all your soul and with all your mind.\" This is the first and greatest commandment. And the second is like it: \"Love your neighbor as yourself.\"'",
+            "focus": "The Great Commandments",
+            "action": "Intentionally express love to God today through worship, prayer, or gratitude. Then, perform one simple, kind act for a 'neighbor' (someone in your path) without expecting anything in return.",
+            "prayer": "Lord, I love you with all that I am. Show me one practical way to love someone else today as an overflow of my love for you. Help me to serve them selflessly."
         },
         "Wednesday": {
-            "scripture": "Proverbs 10:12: 'Hatred stirs up conflict, but love covers over all wrongs.'",
-            "focus": "Choosing love over conflict",
-            "action": "Reflect on a current relationship tension. Instead of defending yourself, ask God how you can respond with love and understanding.",
-            "prayer": "Father, help me be an agent of Your love and reconciliation. Give me wisdom to respond with grace, not anger. Amen."
+            "scripture": "1 Corinthians 13:4 - 'Love is patient, love is kind. It does not envy, it does not boast, it is not proud.'",
+            "focus": "Patience and Kindness",
+            "action": "Honestly assess your 'patience level' in a specific relationship or situation. Choose to respond with deliberate patience and kindness in at least one moment where you'd normally feel frustrated.",
+            "prayer": "Father, I confess I am not always patient or kind. In moments of frustration today, slow me down. Fill me with your Spirit so I can demonstrate your patient, kind love."
         },
         "Thursday": {
-            "scripture": "1 Peter 4:8: 'Above all, love each other deeply, because love covers over a multitude of sins.'",
-            "focus": "Extending deep, unconditional love",
-            "action": "Reach out to someone who has hurt you in the past. Offer forgiveness or simply send a message of kindness.",
-            "prayer": "Lord, help me love like You love - unconditionally and without keeping score. Teach me to forgive as I have been forgiven. Amen."
+            "scripture": "James 1:19 - 'My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry.'",
+            "focus": "Quick to Listen, Slow to Anger",
+            "action": "In every conversation today, make a conscious effort to listen more than you speak. When you feel a flash of anger, pause and choose not to give it 'full vent.'",
+            "prayer": "Holy Spirit, make me a wise listener today. Guard my tongue and my temper. Help me to bring calm and understanding instead of adding to conflict or anger."
         },
         "Friday": {
-            "scripture": "Romans 12:10: 'Be devoted to one another in love. Honor one another above yourselves.'",
-            "focus": "Practicing selfless love",
-            "action": "Perform a random act of kindness for someone without expecting anything in return. Do something completely unexpected and thoughtful.",
-            "prayer": "God, make me an instrument of Your love. Help me see opportunities to show Your kindness to others today. Amen."
+            "scripture": "Luke 10:33 - 'But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him.'",
+            "focus": "Proactive Compassion",
+            "action": "Look for someone who seems 'beaten down'\u2014stressed, lonely, or discouraged. Go out of your way to offer a word of encouragement, help, or a simple act of kindness.",
+            "prayer": "God, open my eyes to see the needs of people around me, just as the Good Samaritan did. Give me a heart of compassion that moves me to action, not indifference."
         },
         "Saturday": {
-            "scripture": "Galatians 5:22-23: 'But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control.'",
-            "focus": "Cultivating love as a spiritual discipline",
-            "action": "Spend time reflecting on the different aspects of love mentioned in today's sermon. Journal about how you can grow in each area.",
-            "prayer": "Holy Spirit, continue to shape my heart to reflect Your love. Help me grow in patience, kindness, and humility. Make me more like Jesus. Amen."
+            "scripture": "Philippians 2:3-4 - 'Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, not looking to your own interests but each of you to the interests of the others.'",
+            "focus": "Humility and Putting Others First",
+            "action": "Plan part of your day around the interests or needs of your family or a friend. Make a choice that puts their preference before your own, practicing the mindset of Christ.",
+            "prayer": "Jesus, you humbled yourself for me. Teach me true humility today. Help me to push myself aside and find joy in valuing and serving others above my own desires."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/2dKGTTRsq_s"

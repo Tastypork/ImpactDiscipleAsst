@@ -1,103 +1,133 @@
 {
-    "summaryText": "Wow, what an incredible message about experiencing God as the ultimate Waymaker! Pastor Travis Hearn delivers a powerful sermon exploring how Jesus isn't just showing us the way, but actively making a way where there seems to be no way. PT dives deep into the biblical narrative, using stories like Paul's conversion, Solomon's search for meaning, and the fiery furnace of Shadrach, Meshach, and Abednego to illustrate God's incredible ability to work in the most unexpected ways. Can you imagine being completely lost and then discovering that God specializes in the impossible? That's exactly what this sermon reveals! Pastor Travis reminds us that in every soul, there's a God-shaped hole that only Jesus can fill. Whether you're facing a wilderness season, feeling stuck in life's desert, or dealing with what seems like an insurmountable challenge, God is making a way. His methods might be unorthodox - like using a fish to redirect Jonah or creating mud to heal blindness - but His plans are always perfect. The most powerful takeaway? God isn't just observing your struggles; He's actively working to bring peace, freedom, and healing in your life. Through personal stories and biblical insights, PT encourages us to trust that God is the ultimate Waymaker, capable of transforming our most challenging situations into opportunities for growth and miraculous breakthrough.",
+    "summaryText": "Pastor Travis Hearn opened the service by reading from Acts 9, highlighting the Apostle Paul's conversion from persecuting 'the Way' to becoming its greatest proponent. He connected this to Jesus's declaration in John 14:6, 'I am the way, the truth, and the life,' establishing the central theme: only Jesus can fill the God-shaped hole in every human soul. Pastor Travis used the book of Ecclesiastes to illustrate how pursuits like education, pleasure, achievement, money, and success ultimately leave us empty, comparing it to a wolf licking a frozen knife blade to its own destruction. He emphasized that God's ways are higher and often unorthodox, using biblical examples like Jesus healing with mud and Naaman being told to wash in the Jordan River. The message affirmed that God is a 'Waymaker' who specializes in the impossible, making a way in our personal wildernesses. Pastor Travis concluded by praying for God to make a way for peace, freedom, and healing in the lives of the congregation, leading into a corporate time of prayer and anointing with oil based on James 5:14-16.",
     "tags": [
-        "Faith",
-        "Purpose",
-        "Healing"
+        "Salvation",
+        "Healing",
+        "Purpose"
     ],
     "mainPoints": [
-        "Jesus is the Way, providing a divine solution for every life challenge",
-        "God's ways are not our ways - He works in unexpected and miraculous methods",
-        "God is actively making a way for peace, freedom, and healing in our lives"
+        "Jesus Christ is 'the Way,' the only one who can truly fulfill the God-shaped hole in every human soul.",
+        "God's ways are higher than our ways; He often works in unorthodox manners to refine us and fulfill His purpose.",
+        "God is the ultimate Waymaker, specializing in making a way for peace, freedom, and healing where we see no way."
     ],
     "versesMentioned": [
         {
+            "verse": "Acts 9:1-5",
+            "version": "NIV",
+            "text": "Meanwhile, Saul was still breathing out murderous threats against the Lord\u2019s disciples. He went to the high priest and asked him for letters to the synagogues in Damascus, so that if he found any there who belonged to the Way, whether men or women, he might take them as prisoners to Jerusalem. As he neared Damascus on his journey, suddenly a light from heaven flashed around him. He fell to the ground and heard a voice say to him, 'Saul, Saul, why do you persecute me?' 'Who are you, Lord?' Saul asked. 'I am Jesus, whom you are persecuting,' he replied."
+        },
+        {
             "verse": "John 14:6",
-            "text": "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'"
         },
         {
             "verse": "Philippians 1:21",
-            "text": "For to me, to live is Christ and to die is gain.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "For to me, to live is Christ and to die is gain."
         },
         {
             "verse": "Ecclesiastes 2:1",
-            "text": "I said to myself, 'Come now, I will test you with pleasure to find out what is good.' But that also proved to be meaningless.",
-            "version": "NIV"
-        },
-        {
-            "verse": "Proverbs 14:12",
-            "text": "There is a way that appears to be right, but in the end it leads to death.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "I said to myself, 'Come now, I will test you with pleasure to find out what is good.' But that also proved to be meaningless."
         },
         {
             "verse": "Isaiah 55:8-9",
-            "text": "'For my thoughts are not your thoughts, neither are your ways my ways,' declares the Lord. 'As the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "'For my thoughts are not your thoughts, neither are your ways my ways,' declares the Lord. 'As the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts.'"
+        },
+        {
+            "verse": "Proverbs 14:12",
+            "version": "NIV",
+            "text": "There is a way that appears to be right, but in the end it leads to death."
+        },
+        {
+            "verse": "Daniel 3:18",
+            "version": "NIV",
+            "text": "But even if he does not, we want you to know, Your Majesty, that we will not serve your gods or worship the image of gold you have set up."
+        },
+        {
+            "verse": "Isaiah 48:10",
+            "version": "NIV",
+            "text": "See, I have refined you, though not as silver; I have tested you in the furnace of affliction."
         },
         {
             "verse": "Isaiah 43:18-19",
-            "text": "Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland."
         },
         {
             "verse": "John 16:33",
-            "text": "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world."
+        },
+        {
+            "verse": "1 Thessalonians 3:16",
+            "version": "NIV",
+            "text": "Now may the Lord of peace himself give you peace at all times and in every way. The Lord be with all of you."
         },
         {
             "verse": "Philippians 4:6-7",
-            "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
         },
         {
             "verse": "John 8:36",
-            "text": "So if the Son sets you free, you will be free indeed.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "So if the Son sets you free, you will be free indeed."
         },
         {
-            "verse": "Luke 4:18-19",
-            "text": "'The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set the oppressed free, to proclaim the year of the Lord's favor.'",
-            "version": "NIV"
+            "verse": "2 Corinthians 3:17",
+            "version": "NIV",
+            "text": "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom."
+        },
+        {
+            "verse": "Isaiah 10:27",
+            "version": "NIV",
+            "text": "In that day their burden will be lifted from your shoulders, their yoke from your neck; the yoke will be broken because you have grown so fat."
+        },
+        {
+            "verse": "James 5:14-16",
+            "version": "NIV",
+            "text": "Is anyone among you sick? Let them call the elders of the church to pray over them and anoint them with oil in the name of the Lord. And the prayer offered in faith will make the sick person well; the Lord will raise them up. If they have sinned, they will be forgiven. Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Jeremiah 29:11: 'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
-            "focus": "Trusting God's divine navigation in our lives",
-            "action": "Create a list of current life challenges. Beside each challenge, write a prayer asking God to make a way where you currently see no way.",
-            "prayer": "Lord, I surrender my understanding and trust in Your perfect plan. Show me Your way today and help me see beyond my current circumstances. Guide me with Your wisdom and peace. Amen."
+            "scripture": "John 14:6 (NIV) - 'Jesus answered, \"I am the way and the truth and the life. No one comes to the Father except through me.\"'",
+            "focus": "Recognizing Jesus as the only true source of fulfillment.",
+            "action": "Identify one area where you've been seeking satisfaction outside of Christ. Write it down and pray to surrender it to Him.",
+            "prayer": "Lord, help me to see You as the only Way. Fill the empty places in my soul that I've tried to fill with other things."
         },
         "Tuesday": {
-            "scripture": "Proverbs 3:5-6: 'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'",
-            "focus": "Surrendering control and trusting God's guidance",
-            "action": "Identify one area of your life where you're trying to solve a problem in your own strength. Spend time in prayer, consciously releasing that situation to God.",
-            "prayer": "Heavenly Father, I recognize my tendency to control outcomes. Today, I choose to trust You completely. Make my path clear and help me walk in Your direction. Amen."
+            "scripture": "Isaiah 55:8-9 (NIV) - '\"For my thoughts are not your thoughts, neither are your ways my ways,\" declares the Lord.'",
+            "focus": "Trusting God's higher, often unorthodox, ways.",
+            "action": "Reflect on a current challenge. Instead of asking for your preferred solution, pray, 'God, work in Your way, not mine.'",
+            "prayer": "Father, my ways are limited. I choose to trust that Your ways are higher and Your plans for me are good, even when I don't understand."
         },
         "Wednesday": {
-            "scripture": "Isaiah 40:31: 'But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.'",
-            "focus": "Finding strength in waiting and trusting God",
-            "action": "Practice patience today. When faced with a challenge, pause and ask, 'How might God be making a way right now?' Journal your reflections.",
-            "prayer": "God, teach me to wait on You. Give me the patience to trust Your timing and the wisdom to see Your work in my waiting. Renew my strength today. Amen."
+            "scripture": "Isaiah 43:18-19 (NIV) - 'Forget the former things; do not dwell on the past. See, I am doing a new thing!'",
+            "focus": "Believing God is making a new way forward.",
+            "action": "Declare out loud: 'God is making a way for me.' Write down one area where you need Him to make a way.",
+            "prayer": "Waymaker, I believe You are doing a new thing in my life. Help me to perceive it and let go of the past that holds me back."
         },
         "Thursday": {
-            "scripture": "Romans 8:28: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'",
-            "focus": "Believing in God's redemptive power",
-            "action": "Look for an opportunity to encourage someone else who might be struggling. Share a testimony of God's faithfulness in your own life.",
-            "prayer": "Lord, use me as an instrument of hope today. Help me see opportunities to reflect Your love and demonstrate Your ability to make a way where there seems to be no way. Amen."
+            "scripture": "Philippians 4:6-7 (NIV) - 'Do not be anxious about anything, but in every situation, by prayer and petition... present your requests to God.'",
+            "focus": "Receiving God's peace as a way made for you.",
+            "action": "Practice the verse. Take a specific worry, thank God for His faithfulness, and present your request to Him.",
+            "prayer": "God of peace, I bring my anxiety to You. I thank You for Your care. I receive Your peace that guards my heart and mind today."
         },
         "Friday": {
-            "scripture": "2 Corinthians 5:7: 'For we live by faith, not by sight.'",
-            "focus": "Walking in faith beyond visible circumstances",
-            "action": "Make a list of your current 'desert' or 'wilderness' areas. Pray over each one, declaring God's promise to make a way.",
-            "prayer": "Faithful God, I choose to trust You even when I cannot see the full picture. Give me faith to believe in Your promises and courage to step forward. Amen."
+            "scripture": "John 8:36 (NIV) - 'So if the Son sets you free, you will be free indeed.'",
+            "focus": "Claiming freedom in Christ as a way made for you.",
+            "action": "Identify one 'yoke' or bondage in your life (e.g., fear, a habit, bitterness). Verbally declare Christ's freedom over it.",
+            "prayer": "Jesus, You died to set me free. I claim Your victory over ________________. By Your power, I walk in freedom today."
         },
         "Saturday": {
-            "scripture": "Ephesians 3:20: 'Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us.'",
-            "focus": "Expecting and anticipating God's miraculous intervention",
-            "action": "Spend time in reflective prayer, asking God to reveal areas where you've limited His potential in your life. Be open to His surprising ways.",
-            "prayer": "Lord, expand my understanding of Your power. Help me to expect the unexpected and trust that You are always making a way, even when I cannot see it. Increase my faith. Amen."
+            "scripture": "James 5:14-16 (NIV) - 'Is anyone among you sick? Let them call the elders... pray over them and anoint them with oil...'",
+            "focus": "Believing for God's healing and restoration.",
+            "action": "Pray for your own healing or for someone else's\u2014spiritual, emotional, or physical. If possible, anoint yourself with oil as a symbol of faith.",
+            "prayer": "Great Physician, I believe in Your healing power. I ask for Your restorative touch in my life and the lives of those I love. Your will be done."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/wOefh5NcCYw"

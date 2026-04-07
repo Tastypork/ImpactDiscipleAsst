@@ -1,30 +1,60 @@
 {
-    "summaryText": "Wow, what a powerful message from Pastor Travis Hearn about navigating life's storms! In this incredible sermon from the 'Jesus Over Giants' series, Pastor Travis uses the dramatic shipwreck story of Paul in Acts 27 to teach us how to survive and thrive during life's most challenging moments. Isn't it amazing how God can use even a shipwreck to demonstrate His incredible power and provision? Pastor Travis breaks down five key strategies for surviving life's storms: focus on God's voice, remember you belong to God, sail with the right people, cut harmful anchors, and keep holding on. The most powerful moment? When he reminds us that sometimes God's blessings come through our brokenness - those planks and debris aren't just remnants of destruction, they're actually God's provision! I love how Pastor Travis constantly points us back to Jesus, showing that no matter how fierce the storm, Jesus is always with us. The sermon is a powerful reminder that we're not defined by our circumstances, but by whose we are - we are God's precious children, and He will see us through every single storm.",
+    "summaryText": "Pastor Travis Hearn continued the 'Jesus Over Giants' series with a message titled 'He Saves Me From the Storm,' based on Acts 27. He taught that storms and shipwrecks are an inevitable part of life, but Jesus is present and saves us through them. Pastor Travis emphasized that it's not a matter of 'if' but 'when' we face hardship, drawing from the story of Paul's shipwreck where God promised safety despite the vessel's destruction. He outlined five key responses for navigating life's storms: focusing on God's voice, remembering we are God's property, ensuring we are surrounded by godly people, cutting off anchors that hold us back, and holding on to God's provision in the brokenness. The message concluded with a powerful reminder that God's blessings and favor can emerge from our fractures and failures, and an altar call for salvation, reinforcing that our ultimate hope and identity are found in Jesus Christ.",
     "tags": [
         "Faith",
-        "Suffering",
+        "Salvation",
         "Hope"
     ],
     "mainPoints": [
-        "God speaks to us even in the midst of life's storms",
-        "Your identity is found in belonging to God, not your circumstances",
-        "Sometimes God's greatest blessings come through our brokenness"
+        "Focus on God's voice to guide and comfort you through life's storms.",
+        "Remember your identity as God's property; nothing can separate you from His love.",
+        "Surround yourself with godly people and let go of anchors that hinder your spiritual progress."
     ],
     "versesMentioned": [
         {
-            "verse": "Acts 27:23",
+            "verse": "Acts 27:1",
             "version": "NIV",
-            "text": "Last night an angel of the God to whom I belong and whom I serve stood beside me"
+            "text": "When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment."
+        },
+        {
+            "verse": "Acts 27:8",
+            "version": "NIV",
+            "text": "We moved along the coast with difficulty and came to a place called Fair Havens, near the town of Lasea."
+        },
+        {
+            "verse": "Acts 27:21",
+            "version": "NIV",
+            "text": "After they had gone a long time without food, Paul stood up before them and said: 'Men, you should have taken my advice not to sail from Crete; then you would have spared yourselves this damage and loss.'"
+        },
+        {
+            "verse": "Acts 27:22-24",
+            "version": "NIV",
+            "text": "But now I urge you to keep up your courage, because not one of you will be lost; only the ship will be destroyed. Last night an angel of the God to whom I belong and whom I serve stood beside me and said, 'Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.'"
+        },
+        {
+            "verse": "Acts 27:26",
+            "version": "NIV",
+            "text": "Nevertheless, we must run aground on some island.'"
+        },
+        {
+            "verse": "Acts 27:40",
+            "version": "NIV",
+            "text": "Cutting loose the anchors, they left them in the sea and at the same time untied the ropes that held the rudders. Then they hoisted the foresail to the wind and made for the beach."
+        },
+        {
+            "verse": "Acts 27:44",
+            "version": "NIV",
+            "text": "In this way everyone reached land safely."
         },
         {
             "verse": "1 Corinthians 6:20",
             "version": "NIV",
-            "text": "You were bought at a price. Therefore honor God with your bodies."
+            "text": "you were bought at a price. Therefore honor God with your bodies."
         },
         {
-            "verse": "Romans 8:35-39",
+            "verse": "Romans 8:35, 37-39",
             "version": "NIV",
-            "text": "Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword? No, in all these things we are more than conquerors through him who loved us. For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."
+            "text": "Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword? ... No, in all these things we are more than conquerors through him who loved us. For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."
         },
         {
             "verse": "Hebrews 12:1-2",
@@ -34,7 +64,7 @@
         {
             "verse": "Jeremiah 18:1-4",
             "version": "NIV",
-            "text": "The word that came to Jeremiah from the Lord: 'Go down to the potter's house, and there I will give you my message.' So I went down to the potter's house, and I saw him working at the wheel. But the pot he was shaping from the clay was marred in his hands; so the potter formed it into another pot, shaping it as seemed best to him."
+            "text": "This is the word that came to Jeremiah from the LORD: 'Go down to the potter\u2019s house, and there I will give you my message.' So I went down to the potter\u2019s house, and I saw him working at the wheel. But the pot he was shaping from the clay was marred in his hands; so the potter formed it into another pot, shaping it as seemed best to him."
         },
         {
             "verse": "John 3:16",
@@ -49,40 +79,40 @@
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Psalm 46:1: 'God is our refuge and strength, an ever-present help in trouble.'",
-            "focus": "Recognizing God's presence in our storms",
-            "action": "Write down a current challenge you're facing. Spend time reflecting on how God might be present in this situation, even if you can't see it clearly.",
-            "prayer": "Lord, help me trust Your presence in my current storm. Give me eyes to see Your work, even when circumstances feel overwhelming. Remind me that You are my refuge and strength. Amen."
+            "scripture": "Acts 27:22-24 (NIV) - 'But now I urge you to keep up your courage... God has graciously given you the lives of all who sail with you.'",
+            "focus": "God's Presence in the Storm",
+            "action": "Identify one current worry or 'storm' and write down a prayer declaring God's presence and promise in it.",
+            "prayer": "Lord, thank You that You are with me in this situation. Help me to take courage today, knowing You are in control."
         },
         "Tuesday": {
-            "scripture": "Isaiah 43:2: 'When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you.'",
-            "focus": "Understanding God's protection during trials",
-            "action": "Make a list of past challenges you've overcome. Reflect on how God was with you during those times and how those experiences have strengthened your faith.",
-            "prayer": "Heavenly Father, thank You for Your constant protection. Help me remember Your faithfulness in past storms and trust You in my current challenges. Strengthen my faith today. Amen."
+            "scripture": "1 Corinthians 6:20 (NIV) - 'you were bought at a price.'",
+            "focus": "Identity in Christ",
+            "action": "Write down the statement 'I am God's property' and reflect on what that means for your worth and security.",
+            "prayer": "Jesus, remind me today that I belong to You. Help me to reject any lie that contradicts my value as Your child."
         },
         "Wednesday": {
-            "scripture": "James 1:2-4: 'Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.'",
-            "focus": "Growing through life's challenges",
-            "action": "Identify one area of personal growth that has come through a difficult season. Journal about how that challenge ultimately made you stronger and more dependent on God.",
-            "prayer": "God, help me view my challenges as opportunities for spiritual growth. Transform my perspective from seeing trials as obstacles to seeing them as chances to develop spiritual strength. Amen."
+            "scripture": "Acts 27:40 (NIV) - 'Cutting loose the anchors, they left them in the sea...'",
+            "focus": "Letting Go of Hindrances",
+            "action": "Prayerfully consider one 'anchor' (a habit, relationship, or thought pattern) holding you back and take one practical step to release it.",
+            "prayer": "God, give me the courage to cut loose what is holding me back from moving forward with You. I trust You with the outcome."
         },
         "Thursday": {
-            "scripture": "Proverbs 3:5-6: 'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'",
-            "focus": "Surrendering control during uncertain times",
-            "action": "Practice intentional surrender today. When you feel anxious or want to control a situation, pause and pray, asking God to guide your steps.",
-            "prayer": "Lord, I surrender my need for control. Help me trust You completely, even when I can't see the way forward. Guide my steps and give me Your peace. Amen."
+            "scripture": "Hebrews 12:1 (NIV) - '...let us throw off everything that hinders and the sin that so easily entangles.'",
+            "focus": "Running the Race",
+            "action": "Do one thing today that aligns with your spiritual health, like a short walk with prayer or choosing encouraging media.",
+            "prayer": "Father, help me to run my race with perseverance today. Show me what I need to throw off to follow You more closely."
         },
         "Friday": {
-            "scripture": "Romans 8:28: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'",
-            "focus": "Trusting God's redemptive plan",
-            "action": "Create a 'God's Goodness' list. Write down ways God has unexpectedly worked things out for your good in past challenges.",
-            "prayer": "Faithful God, help me trust Your plan, even when I don't understand. Remind me that You are always working, even in the midst of my storms. Give me faith to believe in Your ultimate goodness. Amen."
+            "scripture": "Acts 27:44 (NIV) - 'In this way everyone reached land safely.'",
+            "focus": "God's Provision in Brokenness",
+            "action": "Look for one 'plank' or piece of 'debris'\u2014a small blessing, person, or resource\u2014God has provided in a difficult area of your life and thank Him for it.",
+            "prayer": "Thank You, God, for providing for me even in broken situations. Help me to see and hold onto Your faithful provision."
         },
         "Saturday": {
-            "scripture": "Philippians 4:13: 'I can do all this through him who gives me strength.'",
-            "focus": "Finding strength in Christ",
-            "action": "Reflect on a current challenge that feels overwhelming. Spend time in prayer, specifically asking God to be your strength in that area.",
-            "prayer": "Jesus, I cannot overcome this challenge in my own strength. Fill me with Your power, Your courage, and Your hope. Be my strength today and always. Amen."
+            "scripture": "Jeremiah 18:4 (NIV) - '...so the potter formed it into another pot, shaping it as seemed best to him.'",
+            "focus": "Trusting the Potter",
+            "action": "Spend 10 minutes in quiet reflection, surrendering an area of your life that feels 'marred' or broken to God, trusting Him to reshape it.",
+            "prayer": "Lord, I am the clay and You are the Potter. I surrender my broken pieces to You. Shape me into who You want me to be."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/mI8KApJvY4k"

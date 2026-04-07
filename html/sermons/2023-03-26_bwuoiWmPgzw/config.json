@@ -1,88 +1,138 @@
 {
-    "summaryText": "Wow, what a powerful message from Pastor Travis Hearn about radical transformation! In this sermon, PT delivers an incredible Battle Cry titled 'Burn It Down', challenging believers to completely surrender and remove anything that doesn't honor God. Drawing from the story of King Josiah, Pastor Travis unpacks three critical spiritual strategies: repent, remove, and renew. Can you imagine burning away everything in your life that keeps you from fully experiencing God's presence? The sermon is a passionate call to radical obedience, demonstrating that true revival starts with personal repentance. Pastor Travis shares his own testimony of burning cassette tapes and posters as a teenager, symbolizing a total commitment to follow Jesus. The most powerful moment? When he declares that God's mercy is so vast that no one is ever too far gone to be restored. The sermon crescendos with an invitation for people to surrender their lives, with over 200 hands raised in commitment. Pastor Travis reminds us that God isn't looking for perfection, but for hearts willing to burn down their past and embrace a new life in Christ.",
+    "summaryText": "Pastor Travis Hearn delivered a passionate message titled 'Burn It Down,' framing it as a battle cry for personal and spiritual renewal. He opened by recounting his own conversion story, where he literally burned items from his past life to symbolize a point of no return with God. Using the examples of military strategies to burn bridges and boats, he challenged the congregation to identify what they need to 'burn down' in their own lives. The core of the sermon was built on the story of King Josiah from 2 Kings, who led a national revival by removing idolatry from the temple. Pastor Travis outlined a three-step process for revival: Repent, Remove, and Renew. He emphasized that true repentance involves both confession and forsaking sin, leading to God's forgiveness and purification. He connected this to the need to remove anything from our lives\u2014our modern 'temples'\u2014that does not honor God, whether it's lust, greed, or other influences. Finally, he called for a renewal of commitment to Christ, reminding everyone that God's grace is sufficient to restore anyone, no matter how far they have wandered. The message concluded with a powerful altar call for salvation and recommitment, linking personal repentance to the collective revival the church and world need.",
     "tags": [
         "Repentance",
-        "Salvation",
-        "Transformation"
+        "Sanctification",
+        "Salvation"
     ],
     "mainPoints": [
-        "Repent completely from past sins",
-        "Remove anything that doesn't honor God",
-        "Renew your commitment to Christ"
+        "True revival begins with total repentance\u2014confessing and forsaking our sins, which opens the door to God's forgiveness and purification.",
+        "We must remove anything from our lives (our 'temples') that does not honor God, taking decisive action to 'burn down' past influences and sinful practices.",
+        "Every believer needs to renew their covenant and commitment to follow Jesus wholeheartedly, trusting in His grace to restore and bless a repentant heart."
     ],
     "versesMentioned": [
         {
             "verse": "Acts 19:18-20",
-            "text": "Many who became believers confessed their sinful practices. A number of them who had been practicing sorcery brought their incantation books and burned them at a public bonfire.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Many of those who believed now came and openly confessed what they had done. A number who had practiced sorcery brought their scrolls together and burned them publicly. When they calculated the value of the scrolls, the total came to fifty thousand drachmas. In this way the word of the Lord spread widely and grew in power."
         },
         {
-            "verse": "First Corinthians 6:19-20",
-            "text": "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies.",
-            "version": "NIV"
+            "verse": "Jeremiah 20:9",
+            "version": "NIV",
+            "text": "But if I say, 'I will not mention his word or speak anymore in his name,' his word is in my heart like a fire, a fire shut up in my bones. I am weary of holding it in; indeed, I cannot."
         },
         {
-            "verse": "James 1:21",
-            "text": "Get rid of all the filth and evil in your lives. Humbly accept the word of God planted in your hearts, for it has the power to save your souls.",
-            "version": "NLT"
+            "verse": "2 Kings 22:1-2",
+            "version": "NIV",
+            "text": "Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years. His mother\u2019s name was Jedidah daughter of Adaiah; she was from Bozkath. He did what was right in the eyes of the LORD and followed completely the ways of his father David, not turning aside to the right or to the left."
         },
         {
-            "verse": "Revelation 2:4-5",
-            "text": "You have forsaken the love you had at first. Consider how far you have fallen! Repent and do the things you did at first. If you do not repent, I will come to you and remove your lampstand from its place.",
-            "version": "NIV"
+            "verse": "Matthew 15:8",
+            "version": "NIV",
+            "text": "'These people honor me with their lips, but their hearts are far from me.'"
         },
         {
-            "verse": "Psalm 51:10",
-            "text": "Create in me a clean heart, O God, and renew a right spirit within me.",
-            "version": "NIV"
+            "verse": "2 Kings 23:4",
+            "version": "NIV",
+            "text": "The king ordered Hilkiah the high priest, the priests next in rank and the doorkeepers to remove from the temple of the LORD all the articles made for Baal and Asherah and all the starry hosts. He burned them outside Jerusalem in the fields of the Kidron Valley and took the ashes to Bethel."
+        },
+        {
+            "verse": "2 Kings 23:25",
+            "version": "NIV",
+            "text": "Neither before nor after Josiah was there a king like him who turned to the LORD as he did\u2014with all his heart and with all his soul and with all his strength, in accordance with all the Law of Moses."
+        },
+        {
+            "verse": "Proverbs 28:13",
+            "version": "NIV",
+            "text": "Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy."
         },
         {
             "verse": "1 John 1:9",
-            "text": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness."
+        },
+        {
+            "verse": "Acts 2:38",
+            "version": "NIV",
+            "text": "Peter replied, 'Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.'"
+        },
+        {
+            "verse": "Acts 2:41",
+            "version": "NIV",
+            "text": "Those who accepted his message were baptized, and about three thousand were added to their number that day."
+        },
+        {
+            "verse": "2 Chronicles 7:14",
+            "version": "NIV",
+            "text": "if my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land."
+        },
+        {
+            "verse": "1 Corinthians 6:19-20",
+            "version": "NIV",
+            "text": "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies."
+        },
+        {
+            "verse": "James 1:21",
+            "version": "NIV",
+            "text": "Therefore, get rid of all moral filth and the evil that is so prevalent and humbly accept the word planted in you, which can save you."
+        },
+        {
+            "verse": "Philippians 3:13-14",
+            "version": "NIV",
+            "text": "Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus."
+        },
+        {
+            "verse": "Revelation 2:4-5",
+            "version": "NIV",
+            "text": "Yet I hold this against you: You have forsaken the love you had at first. Consider how far you have fallen! Repent and do the things you did at first. If you do not repent, I will come to you and remove your lampstand from its place."
+        },
+        {
+            "verse": "Psalm 51:1-2, 10-11",
+            "version": "NIV",
+            "text": "Have mercy on me, O God, according to your unfailing love; according to your great compassion blot out my transgressions. Wash away all my iniquity and cleanse me from my sin... Create in me a pure heart, O God, and renew a steadfast spirit within me. Do not cast me from your presence or take your Holy Spirit from me."
         },
         {
             "verse": "Romans 10:9",
-            "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "2 Corinthians 5:17: 'Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!'",
-            "focus": "Embracing personal transformation",
-            "action": "Make a list of 3-5 specific habits or attitudes you want to 'burn down'. Pray over each one, asking God for strength to remove them from your life.",
-            "prayer": "Lord, show me the areas of my life that do not honor You. Give me courage to let go of anything that keeps me from Your best. Renew my heart and spirit. Amen."
+            "scripture": "1 John 1:9 (NIV) - If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
+            "focus": "The faithfulness of God's forgiveness.",
+            "action": "Take a quiet moment to confess one specific area where you need God's forgiveness. Write it down, then tear up or safely destroy the paper as a symbol of release.",
+            "prayer": "Lord, thank you for your promise to forgive and purify me. I confess my need for you and receive your cleansing grace today."
         },
         "Tuesday": {
-            "scripture": "Ephesians 4:22-24: 'You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires; to be made new in the attitude of your minds; and to put on the new self, created to be like God in true righteousness and holiness.'",
-            "focus": "Identifying and removing destructive patterns",
-            "action": "Spend time journaling about recurring patterns in your life that prevent spiritual growth. Identify one specific area where you need God's transformative power.",
-            "prayer": "God, reveal the hidden areas of my heart that need Your healing touch. Help me surrender completely and trust Your process of renewal. Amen."
+            "scripture": "Proverbs 28:13 (NIV) - Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy.",
+            "focus": "The power of confession and renunciation.",
+            "action": "Identify one habit or influence you need to 'renounce.' Take a practical step to limit its access in your life today (e.g., adjust a social media setting, avoid a certain place).",
+            "prayer": "God, give me the courage to not just confess but to renounce what holds me back. I choose your mercy over my hidden sin."
         },
         "Wednesday": {
-            "scripture": "Philippians 3:13-14: 'Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus.'",
-            "focus": "Moving forward without dwelling on the past",
-            "action": "Write a letter to yourself, symbolically releasing past mistakes and recommitting to God's purpose for your life. Consider burning the letter as a symbolic act of surrender.",
-            "prayer": "Father, thank You that Your mercies are new every morning. Help me focus not on my past failures, but on Your future and calling for my life. Renew my passion and purpose. Amen."
+            "scripture": "1 Corinthians 6:19-20 (NIV) - ...your bodies are temples of the Holy Spirit... Therefore honor God with your bodies.",
+            "focus": "Honoring God with our physical lives.",
+            "action": "Evaluate one aspect of how you treat your body (diet, rest, what you watch/listen to). Make one positive choice today that honors God as your body's caretaker.",
+            "prayer": "Holy Spirit, you dwell in me. Help me to see my body as your temple and make choices today that bring you honor."
         },
         "Thursday": {
-            "scripture": "Isaiah 43:18-19: 'Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland.'",
-            "focus": "Recognizing God's ongoing work of transformation",
-            "action": "Identify one area of your life where you've seen God's transformative power. Share this testimony with a friend or journal about His faithfulness.",
-            "prayer": "Lord, open my eyes to see the new things You are doing in my life. Give me gratitude for Your continuous work of renewal and hope. Amen."
+            "scripture": "Philippians 3:13-14 (NIV) - Forgetting what is behind and straining toward what is ahead, I press on toward the goal...",
+            "focus": "Moving forward from the past.",
+            "action": "Reflect on a past failure or hurt. Consciously decide to 'forget what is behind' by not dwelling on it today. Instead, write down one goal you are straining toward in Christ.",
+            "prayer": "Jesus, I choose to leave my past with you. Empower me to press on toward the future you have for me, fueled by your grace."
         },
         "Friday": {
-            "scripture": "Galatians 2:20: 'I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.'",
-            "focus": "Living as a new creation in Christ",
-            "action": "Create a visual representation of your commitment to Christ - this could be a artwork, a journal entry, or a symbolic object that represents your surrender.",
-            "prayer": "Jesus, I surrender my entire life to You. Live through me today. Help me reflect Your love and grace in everything I do. Amen."
+            "scripture": "2 Kings 23:25 (NIV) - Neither before nor after Josiah was there a king like him who turned to the LORD as he did\u2014with all his heart...",
+            "focus": "Wholehearted commitment.",
+            "action": "Renew your personal covenant with God. Speak or write a simple prayer of recommitment, offering your heart, soul, and strength to Him anew.",
+            "prayer": "Lord, like Josiah, I turn to you with all my heart, soul, and strength. I renew my commitment to follow you completely. Reignite your fire in me."
         },
         "Saturday": {
-            "scripture": "Romans 12:1-2: 'Therefore, I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God\u2014this is your true and proper worship. Do not conform to the pattern of this world, but be transformed by the renewing of your mind.'",
-            "focus": "Total surrender and transformation",
-            "action": "Spend extended time in prayer and reflection. Ask God to reveal any areas where you're still holding back and need to 'burn down' old patterns.",
-            "prayer": "Heavenly Father, I offer myself completely to You. Consume me with Your fire, renew my mind, and transform me into Your image. Have Your way in my life. Amen."
+            "scripture": "Acts 19:19-20 (NIV) - ...they burned them publicly... In this way the word of the Lord spread widely and grew in power.",
+            "focus": "Public testimony and God's power.",
+            "action": "Prepare your heart for corporate worship. Consider sharing a testimony of God's work in your life this week with one trusted person, encouraging them in their faith.",
+            "prayer": "God, as your word spread through the testimony of believers, use my story for your glory. Let my life point others to your powerful, life-changing love."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/bwuoiWmPgzw"

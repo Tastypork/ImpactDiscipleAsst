@@ -1,94 +1,123 @@
 {
-    "summaryText": "Wow, what a powerful message about relationships and pride from Pastor Travis Hearn! In this incredible sermon, PT breaks down how pride can destroy our relationships and offers four key strategies to tear down those walls. Sometimes we don't realize how our own ego can sabotage our connections with others, right? Pastor Travis uses humor and deep biblical wisdom to show us that humility isn't weakness - it's actually our greatest strength. He challenges us to stop being know-it-alls, admit when we're wrong, ask for help, and continuously show grace and forgiveness. The sermon hits home with Jesus' teachings about not judging others while having a massive 'plank' in our own eye. Can you imagine how different our relationships would be if we approached them with true humility? PT reminds us that God opposes the proud but gives grace to the humble, and that true love keeps no record of wrongs. This message isn't just about improving relationships - it's about transforming our hearts to look more like Christ's.",
+    "summaryText": "Pastor Travis Hearn continued the 'A Match Made in Heaven' series with a message titled 'Sit Down, Be Humble,' focusing on the destructive power of pride in relationships and the healing power of humility. Opening with 1 Corinthians 13:4-8, he highlighted that true, godly love 'does not boast' and 'is not proud,' establishing humility as the foundation for healthy connections. He explained that pride creates a 'pride divide' that destroys marriages, families, and even nations, as Jesus taught that a house divided cannot stand. The sermon offered four practical keys to tearing down walls of pride: first, to stop being a 'know-it-all' and be open to learning; second, to admit when we are wrong, acknowledging our own faults before criticizing others; third, to ask for advice and help, recognizing that needing others is a sign of strength; and fourth, to continually show grace and forgiveness, refusing to keep a record of wrongs as God's love does. Pastor Travis wove in wisdom from Proverbs and the teachings of Jesus, using vivid illustrations like the 'plank and speck' from Matthew 7 to challenge self-righteousness. He concluded by connecting personal humility to national healing, urging a collective turning to God, and extended an invitation for salvation, emphasizing that Jesus modeled ultimate humility and forgiveness on the cross.",
     "tags": [
-        "Relationships",
-        "Humility",
-        "Love"
+        "Love",
+        "Forgiveness",
+        "Relationships"
     ],
     "mainPoints": [
-        "Don't be a know-it-all",
-        "Admit when you're wrong",
-        "Ask for advice and help",
-        "Continually show grace and forgiveness"
+        "Pride creates a destructive divide in relationships, while godly love is fundamentally humble.",
+        "Overcoming pride requires practical steps: ceasing to be a know-it-all, admitting fault, asking for help, and offering forgiveness.",
+        "Personal humility is the gateway to healing in our relationships and is connected to the broader spiritual healing God promises to a humble people."
     ],
     "versesMentioned": [
         {
             "verse": "1 Corinthians 13:4-8",
-            "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails."
         },
         {
             "verse": "Matthew 12:25",
-            "text": "Every kingdom divided against itself will be laid waste, and every city or household divided against itself will not stand.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Jesus knew their thoughts and said to them, 'Every kingdom divided against itself will be ruined, and every city or household divided against itself will not stand.'"
         },
         {
             "verse": "Proverbs 16:18",
-            "text": "Pride goes before destruction, a haughty spirit before a fall.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Pride goes before destruction, a haughty spirit before a fall."
+        },
+        {
+            "verse": "Proverbs 13:10",
+            "version": "NIV",
+            "text": "Where there is strife, there is pride, but wisdom is found in those who take advice."
+        },
+        {
+            "verse": "Proverbs 28:26",
+            "version": "NIV",
+            "text": "Those who trust in themselves are fools, but those who walk in wisdom are kept safe."
         },
         {
             "verse": "Matthew 7:1-4",
-            "text": "Do not judge, or you too will be judged. For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you. Why do you look at the speck of sawdust in your brother's eye and pay no attention to the plank in your own eye?",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "'Do not judge, or you too will be judged. For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you. Why do you look at the speck of sawdust in your brother\u2019s eye and pay no attention to the plank in your own eye? How can you say to your brother, \u2018Let me take the speck out of your eye,\u2019 when all the time there is a plank in your own eye?'"
         },
         {
             "verse": "Jeremiah 17:9",
-            "text": "The heart is deceitful above all things and beyond cure. Who can understand it?",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "The heart is deceitful above all things and beyond cure. Who can understand it?"
         },
         {
             "verse": "Proverbs 28:13",
-            "text": "Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy."
         },
         {
-            "verse": "Luke 23:34",
-            "text": "Jesus said, 'Father, forgive them, for they do not know what they are doing.'",
-            "version": "NIV"
+            "verse": "Proverbs 15:12",
+            "version": "NIV",
+            "text": "Mockers resent correction, so they avoid the wise."
         },
         {
-            "verse": "Philippians 2:8",
-            "text": "And being found in appearance as a man, he humbled himself by becoming obedient to death\u2014even death on a cross!",
-            "version": "NIV"
+            "verse": "Proverbs 15:32",
+            "version": "NIV",
+            "text": "Those who disregard discipline despise themselves, but the one who heeds correction gains understanding."
+        },
+        {
+            "verse": "2 Chronicles 7:14",
+            "version": "NIV",
+            "text": "if my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land."
+        },
+        {
+            "verse": "Luke 23:33-34",
+            "version": "NIV",
+            "text": "When they came to the place called the Skull, they crucified him there, along with the criminals\u2014one on his right, the other on his left. Jesus said, 'Father, forgive them, for they do not know what they are doing.'"
+        },
+        {
+            "verse": "Ephesians 4:32",
+            "version": "NIV",
+            "text": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."
+        },
+        {
+            "verse": "Colossians 3:13",
+            "version": "NIV",
+            "text": "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you."
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "Philippians 2:3: 'Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.'",
-            "focus": "Recognizing pride in my relationships",
-            "action": "Make a list of your closest relationships. Reflect on recent interactions and honestly assess where pride might have hindered genuine connection. Write down specific moments where you chose being right over being loving.",
-            "prayer": "Lord, reveal the areas of pride in my heart. Help me see my relationships through Your eyes of humility and love. Give me the courage to choose connection over being right. Amen."
+            "scripture": "1 Corinthians 13:4-5 - 'Love is patient, love is kind. It does not envy, it does not boast, it is not proud.'",
+            "focus": "The Nature of God's Love",
+            "action": "Identify one moment today where you were tempted to boast or act proudly in a conversation. Choose instead to listen more than you speak.",
+            "prayer": "Lord, help me to reflect Your humble love today. Quiet any pride in my heart and let my words and actions be marked by kindness."
         },
         "Tuesday": {
-            "scripture": "James 4:10: 'Humble yourselves before the Lord, and he will lift you up.'",
-            "focus": "Practicing genuine humility",
-            "action": "Intentionally ask someone close to you for advice or feedback. Listen without becoming defensive. Practice receiving their input with grace and openness.",
-            "prayer": "God, teach me true humility. Help me be teachable and open to correction. Remove my defensiveness and help me grow through the wisdom of others. Amen."
+            "scripture": "Matthew 7:3 - 'Why do you look at the speck of sawdust in your brother\u2019s eye and pay no attention to the plank in your own eye?'",
+            "focus": "Self-Examination Over Judgment",
+            "action": "Write down one fault or mistake you've recently made (your 'plank') before you are tempted to criticize someone else's.",
+            "prayer": "God, give me the courage for honest self-reflection. Help me to see my own faults clearly so I can extend grace to others."
         },
         "Wednesday": {
-            "scripture": "Proverbs 11:2: 'When pride comes, then comes disgrace, but with humility comes wisdom.'",
-            "focus": "Identifying areas needing personal growth",
-            "action": "Journal about a recent conflict. Write from the other person's perspective. What might they have experienced? How can you take responsibility for your part?",
-            "prayer": "Father, give me eyes to see beyond my own perspective. Help me understand others and grow in empathy and understanding. Reveal where I need to change. Amen."
+            "scripture": "Proverbs 13:10 - 'Where there is strife, there is pride, but wisdom is found in those who take advice.'",
+            "focus": "The Wisdom of Seeking Counsel",
+            "action": "Humbly ask a trusted friend, spouse, or mentor for their perspective on a specific decision you are facing.",
+            "prayer": "Father, I acknowledge I don't have all the answers. Grant me the humility to seek and receive wise counsel from those You've placed in my life."
         },
         "Thursday": {
-            "scripture": "Ephesians 4:2: 'Be completely humble and gentle; be patient, bearing with one another in love.'",
-            "focus": "Practicing patience and gentleness",
-            "action": "Choose one relationship where you struggle with patience. Intentionally respond with extra grace today. Pause before speaking and ask, 'How can I respond with love?'",
-            "prayer": "Lord, soften my heart. Help me respond to others with the same patience and grace You show me daily. Make me an instrument of Your love. Amen."
+            "scripture": "Proverbs 28:13 - 'Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy.'",
+            "focus": "The Freedom of Confession",
+            "action": "Admit a specific wrong to God and, if appropriate, to the person you wronged. Simply say, 'I was wrong.'",
+            "prayer": "Lord, I confess my sin to You. Thank you for Your mercy. Give me the strength to admit my faults and turn away from them."
         },
         "Friday": {
-            "scripture": "Colossians 3:12: 'Therefore, as God's chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience.'",
-            "focus": "Developing a humble heart",
-            "action": "Perform an act of service for someone without seeking recognition. Do something kind anonymously or for someone who cannot repay you.",
-            "prayer": "God, help me serve without expecting anything in return. Teach me true humility that seeks to bless others, not to be noticed. Use me as an instrument of Your love. Amen."
+            "scripture": "2 Chronicles 7:14 - 'if my people... will humble themselves and pray... and turn from their wicked ways, then I will... heal their land.'",
+            "focus": "Humility as a Path to Healing",
+            "action": "Spend extra time in prayer today, focusing not on requests but on humbling your heart before God and seeking His face.",
+            "prayer": "God, I humble myself before You. I seek Your face. Forgive me and begin a work of healing in my heart, my relationships, and my nation."
         },
         "Saturday": {
-            "scripture": "Proverbs 15:33: 'Wisdom's instruction is to fear the Lord, and humility comes before honor.'",
-            "focus": "Reflecting on personal growth",
-            "action": "Review your week. Where did you see God working in your relationships? Where do you need to ask for forgiveness? Write a letter of gratitude to someone who has shown you grace.",
-            "prayer": "Lord, thank You for Your ongoing work in my heart. Help me continue to grow in humility, grace, and love. Reveal areas where I can become more like You. Amen."
+            "scripture": "Colossians 3:13 - 'Bear with each other and forgive one another... Forgive as the Lord forgave you.'",
+            "focus": "The Practice of Forgiveness",
+            "action": "Choose to forgive one person you've been holding a grudge against. You can write it in a journal or tell God in prayer. Release the record of that wrong.",
+            "prayer": "Jesus, thank You for forgiving me completely. By Your power, I choose to forgive [name]. I release this hurt to You and ask for Your freedom and peace."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/2pVm-Xn8tZk"

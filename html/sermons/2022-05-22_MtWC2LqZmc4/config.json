@@ -1,98 +1,128 @@
 {
-    "summaryText": "Wow, what an incredible message about standing firm in faith, even when culture pressures us to compromise! Pastor Travis Hearn delivered a powerful sermon drawing from the story of Shadrach, Meshach, and Abednego in Daniel, challenging us to remain steadfast when the world demands we bow down. Isn't it amazing how these three young men chose to trust God completely, declaring they would rather die than compromise their faith? PT masterfully breaks down how God uses the 'fires' of life not to destroy us, but to refine us, prepare us, and ultimately reveal His incredible power. The sermon beautifully illustrates that our trials are actually controlled fires designed by God to make us more like Him. I love how Pastor Travis reminds us that before every great blessing, there's often a testing season. The most profound moment was when he emphasized that God doesn't just want to deliver us FROM the fire, but wants to be WITH us IN the fire. This isn't just a sermon about surviving challenges, it's about thriving and becoming spiritually refined through them!",
+    "summaryText": "Pastor Travis Hearn preached from the story of Shadrach, Meshach, and Abednego in Daniel 3, exploring the tension between cultural pressure and faithful obedience. He framed the king's decree to 'bow down or be burned' as a modern challenge for believers, asking whether we would comply with worldly standards or stand firm in God's truth. The central message was that the 'fires' of life\u2014trials, suffering, and opposition\u2014are not against us but for us, serving God's purpose. Pastor Travis outlined four reasons the fire is for the believer: it proves God's presence, demonstrates His power, prepares us for God's purpose, and deepens our prayer and praise. He emphasized that God is in the fire with us, that His power works best in our weakness, and that trials refine our faith like silver in a furnace. The sermon included practical applications on tithing as a test of putting God first and a call to 'ugly praise'\u2014worshiping God even in the midst of hardship. The closing invitation encouraged listeners to seek first God's kingdom and trust Him through every fire.",
     "tags": [
         "Faith",
-        "Suffering",
-        "Purpose"
+        "Obedience",
+        "Suffering"
     ],
     "mainPoints": [
-        "God's presence is powerful in life's fiery trials",
-        "Trials are controlled by God to refine and prepare us",
-        "Our response to challenges reveals our true faith"
+        "The fires of life prove God's presence with us, as He is in the fire with us, just as He was with the three Hebrew men.",
+        "The fires of life demonstrate God's power, which works best in our weakness and leaves no negative evidence of the trial.",
+        "The fires of life prepare us for God's purpose by refining our character and deepening our dependence on Him through prayer and praise."
     ],
     "versesMentioned": [
         {
-            "verse": "Daniel 3:16-18",
-            "text": "Shadrach, Meshach and Abednego replied to him, 'King Nebuchadnezzar, we do not need to defend ourselves before you. If we are thrown into the blazing furnace, the God we serve is able to deliver us from it, and he will deliver us from Your Majesty's hand. But even if he does not, we want you to know, Your Majesty, that we will not serve your gods or worship the image of gold you have set up.'",
-            "version": "NIV"
+            "verse": "Isaiah 5:20",
+            "version": "NIV",
+            "text": "Woe to those who call evil good and good evil, who put darkness for light and light for darkness, who put bitter for sweet and sweet for bitter."
         },
         {
             "verse": "Romans 12:2",
-            "text": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is\u2014his good, pleasing and perfect will.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God\u2019s will is\u2014his good, pleasing and perfect will."
         },
         {
-            "verse": "Isaiah 43:2",
-            "text": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze.",
-            "version": "NIV"
+            "verse": "Daniel 3:18",
+            "version": "NIV",
+            "text": "But even if he does not, we want you to know, Your Majesty, that we will not serve your gods or worship the image of gold you have set up.\""
         },
         {
             "verse": "Deuteronomy 31:6",
-            "text": "Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Be strong and courageous. Do not be afraid or terrified because of them, for the LORD your God goes with you; he will never leave you nor forsake you.\""
+        },
+        {
+            "verse": "Isaiah 43:2",
+            "version": "NIV",
+            "text": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze."
+        },
+        {
+            "verse": "Daniel 3:24-25",
+            "version": "NIV",
+            "text": "Then King Nebuchadnezzar leaped to his feet in amazement and asked his advisers, \"Weren\u2019t there three men that we tied up and threw into the fire?\" They replied, \"Certainly, Your Majesty.\" He said, \"Look! I see four men walking around in the fire, unbound and unharmed, and the fourth looks like a son of the gods.\""
         },
         {
             "verse": "Psalm 23:4",
-            "text": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
         },
         {
             "verse": "John 8:12",
-            "text": "When Jesus spoke again to the people, he said, 'I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "When Jesus spoke again to the people, he said, \"I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.\""
+        },
+        {
+            "verse": "Daniel 3:27",
+            "version": "NIV",
+            "text": "The satraps, prefects, governors and royal advisers crowded around them. They saw that the fire had not harmed their bodies, nor was a hair of their heads singed; their robes were not scorched, and there was no smell of fire on them."
+        },
+        {
+            "verse": "2 Corinthians 12:9",
+            "version": "NIV",
+            "text": "But he said to me, \"My grace is sufficient for you, for my power is made perfect in weakness.\" Therefore I will boast all the more gladly about my weaknesses, so that Christ\u2019s power may rest on me."
+        },
+        {
+            "verse": "Hebrews 12:29",
+            "version": "NIV",
+            "text": "for our \"God is a consuming fire.\""
+        },
+        {
+            "verse": "Luke 3:16",
+            "version": "NIV",
+            "text": "John answered them all, \"I baptize you with water. But one who is more powerful than I will come, the straps of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and fire.\""
         },
         {
             "verse": "Isaiah 48:10",
-            "text": "See, I have refined you, though not as silver; I have tested you in the furnace of affliction.",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "See, I have refined you, though not as silver; I have tested you in the furnace of suffering."
         },
         {
             "verse": "Malachi 3:10",
-            "text": "Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,' says the Lord Almighty, 'and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.'",
-            "version": "NIV"
+            "version": "NIV",
+            "text": "\"Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,\" says the LORD Almighty, \"and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.\""
         },
         {
-            "verse": "Matthew 6:33",
-            "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
-            "version": "NIV"
+            "verse": "Jonah 2:7",
+            "version": "NIV",
+            "text": "\"When my life was ebbing away, I remembered you, LORD, and my prayer rose to you, to your holy temple.\""
         }
     ],
     "dailyActionPlan": {
         "Monday": {
-            "scripture": "1 Peter 1:7: 'These trials will show that your faith is genuine. It is being tested, even though it is worth far more than gold that perishes even though it is tested by fire.'",
-            "focus": "Understanding that trials test and strengthen faith",
-            "action": "Write down a current challenge you're facing. Reflect on how God might be using this situation to refine your character and deepen your trust in Him.",
-            "prayer": "Lord, help me see my current challenges through Your perspective. Show me how You are working in and through my trials to make me more like You. Give me courage and trust in Your process. Amen."
+            "scripture": "Daniel 3:18 \u2013 \"But even if he does not... we will not serve your gods.\"",
+            "focus": "Standing firm in faith regardless of the outcome.",
+            "action": "Identify one area where cultural pressure conflicts with your faith and make a conscious choice to obey God.",
+            "prayer": "God, give me the courage of Shadrach, Meshach, and Abednego to be faithful even if You don't deliver me the way I hope."
         },
         "Tuesday": {
-            "scripture": "James 1:2-4: 'Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.'",
-            "focus": "Developing joy and perseverance through challenges",
-            "action": "Identify one past challenge that ultimately made you stronger. Journal about how God transformed that difficult season and what you learned.",
-            "prayer": "Heavenly Father, thank You for being present in my struggles. Help me view challenges as opportunities for growth rather than obstacles. Give me a joyful perspective and resilient spirit. Amen."
+            "scripture": "Isaiah 43:2 \u2013 \"When you walk through the fire, you will not be burned.\"",
+            "focus": "Trusting in God's presence in the midst of trial.",
+            "action": "Write down a current 'fire' in your life and acknowledge aloud, \"God, You are in this with me.\"",
+            "prayer": "Lord, thank You for Your promise to be with me. Help me to sense Your presence in my difficulty today."
         },
         "Wednesday": {
-            "scripture": "Psalm 66:10-12: 'For you, God, tested us; you refined us like silver. You brought us into prison and laid burdens on our backs. You let people ride over our heads; we went through fire and water, but you brought us to a place of abundance.'",
-            "focus": "Recognizing God's refining process",
-            "action": "Create a visual representation of your spiritual journey. Draw or list key challenges that have shaped your faith, noting how God was present in each season.",
-            "prayer": "Lord, I trust Your refining process. Help me surrender to Your work in my life, knowing that You are making me more like Jesus through every trial. Give me eyes to see Your hand at work. Amen."
+            "scripture": "2 Corinthians 12:9 \u2013 \"My grace is sufficient for you, for my power is made perfect in weakness.\"",
+            "focus": "Leaning on God's strength in our weakness.",
+            "action": "Instead of hiding a weakness, share it with a trusted believer and ask them to pray for God's strength to be shown in it.",
+            "prayer": "Jesus, I boast in my weakness today so that Your power can be displayed. Let Your grace be enough for me."
         },
         "Thursday": {
-            "scripture": "Zechariah 13:9: 'This third I will put into the fire; I will refine them like silver and test them like gold. They will call on my name and I will answer them; I will say, 'They are my people,' and they will say, 'The Lord is our God.''",
-            "focus": "Understanding spiritual refinement",
-            "action": "Spend time in prayer asking God to reveal areas in your life where you need refinement. Be open and honest about your weaknesses.",
-            "prayer": "God, search my heart and reveal any areas that need Your transformative touch. I surrender my impurities to You and trust Your refining process. Make me more like Jesus. Amen."
+            "scripture": "Isaiah 48:10 \u2013 \"I have tested you in the furnace of suffering.\"",
+            "focus": "Understanding the refining purpose of suffering.",
+            "action": "Reflect on a past trial. Ask God to show you one way it made you more like Him or prepared you for His purpose.",
+            "prayer": "Refiner, help me to see my current struggles as part of Your process to purify me and prepare me for Your plans."
         },
         "Friday": {
-            "scripture": "Proverbs 17:3: 'The crucible for silver and the furnace for gold, but the Lord tests the heart.'",
-            "focus": "Trusting God's testing process",
-            "action": "Identify one area of personal growth you want to develop. Create a specific, measurable plan to grow in that area, inviting God's guidance.",
-            "prayer": "Heavenly Father, I want to grow and become more like You. Guide me through Your refining process. Help me embrace challenges as opportunities for spiritual development. Amen."
+            "scripture": "Malachi 3:10 \u2013 \"Test me in this... see if I will not throw open the floodgates of heaven.\"",
+            "focus": "Putting God first through faithful giving.",
+            "action": "Review your finances. If you do not tithe, take a step of faith by giving a percentage to God's work this week.",
+            "prayer": "Father, I choose to put You first with my resources. I trust Your promise to provide and bless as I am faithful."
         },
         "Saturday": {
-            "scripture": "Isaiah 48:10: 'See, I have refined you, though not as silver; I have tested you in the furnace of affliction.'",
-            "focus": "Embracing God's transformative work",
-            "action": "Reflect on the week's challenges. Write a letter to yourself about how God is working in your life, highlighting moments of growth and learning.",
-            "prayer": "Lord, thank You for Your constant work in my life. Help me trust Your process, knowing that You are always refining me for Your purpose. I surrender my will to Yours. Amen."
+            "scripture": "Psalm 23:4 \u2013 \"Even though I walk through the darkest valley, I will fear no evil, for you are with me.\"",
+            "focus": "Offering 'ugly praise' in the midst of hardship.",
+            "action": "Spend time in worship today, praising God specifically for who He is, even if your circumstances are difficult.",
+            "prayer": "God, I praise You not because my life is perfect, but because You are perfect, faithful, and with me. My hope is in You."
         }
     },
     "videoUrl": "https://www.youtube.com/embed/MtWC2LqZmc4"
