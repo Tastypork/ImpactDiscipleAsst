@@ -2,7 +2,9 @@
 /********** General CSS ***********/
 /**********************************/
 .container {
-    max-width: 80%;
+    max-width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
 }
 
 body {
@@ -10,6 +12,30 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     background: #ffffff;
+}
+
+.impact-brand-link {
+    display: block;
+    text-decoration: none;
+}
+
+.impact-brand-title {
+    font-family: Impact, sans-serif;
+    font-style: italic;
+    color: #000000;
+    font-size: 2.25rem;
+    line-height: 1.1;
+    margin: 0;
+    text-align: center;
+    padding: 12px 0 8px;
+}
+
+.page-bottom-spacer {
+    margin-top: 64px;
+}
+
+.library-brand-spacer {
+    margin: 20px auto 30px;
 }
 
 a {
@@ -54,8 +80,8 @@ h6 {
     display: none;
     background: #C0B0A0;
     color: #ffffff;
-    width: 35px;
-    height: 35px;
+    width: 44px;
+    height: 44px;
     text-align: center;
     line-height: 1;
     font-size: 16px;
@@ -71,7 +97,7 @@ h6 {
 }
 
 .back-to-top i {
-    padding-top: 9px;
+    padding-top: 14px;
     color: #ffffff;
 }
 
@@ -82,7 +108,7 @@ h6 {
 .form-control,
 .custom-select {
     width: 100%;
-    height: 35px;
+    height: 44px;
     padding: 5px 15px;
     color: #999999;
     border: 1px solid #cccccc;
@@ -284,14 +310,14 @@ button.btn:hover {
 
 .nav-bar .navbar {
     height: 100%;
-    padding: 0;
+    padding: 0 8px;
 }
 
 .navbar-dark .navbar-nav .nav-link,
 .navbar-dark .navbar-nav .nav-link:focus,
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
-    padding: 10px 10px 8px 10px;
+    padding: 12px 10px;
     color: #ffffff;
 }
 
@@ -309,6 +335,14 @@ button.btn:hover {
 }
 
 @media (min-width: 768px) {
+    .container {
+        max-width: 92%;
+    }
+
+    .impact-brand-title {
+        font-size: 3.2rem;
+    }
+
     .nav-bar,
     .nav-bar .navbar {
         background: #C0B0A0 !important;
@@ -333,7 +367,8 @@ button.btn:hover {
     }
     
     .nav-bar a.nav-link {
-        padding: 5px;
+        padding: 10px 8px;
+        font-size: 1rem;
     }
     
     .nav-bar .dropdown-menu {
@@ -341,7 +376,19 @@ button.btn:hover {
     }
     
     .nav-bar .social {
-        display: none;
+        display: flex;
+        justify-content: flex-start;
+        margin: 12px 0 6px;
+        width: 100%;
+    }
+
+    .navbar-dark .navbar-nav {
+        margin-top: 10px;
+    }
+
+    .navbar-dark .navbar-nav .nav-link:hover,
+    .navbar-dark .navbar-nav .nav-link.active {
+        border-bottom: none;
     }
 }
 
@@ -353,9 +400,9 @@ button.btn:hover {
 .nav-bar .social a {
     display: inline-block;
     margin-left: 5px;
-    width: 30px;
-    height: 30px;
-    padding: 3px 0;
+    width: 44px;
+    height: 44px;
+    padding: 11px 0;
     text-align: center;
     font-size: 14px;
     background: #C0B0A0;
@@ -416,41 +463,19 @@ button.btn:hover {
     display: block;
     width: 100%;
     color: #ffffff;
-    font-size: 14px;
+    font-size: 1rem;
     font-weight: 400;
     transition: .3s;
 }
 
-/* Extra small screens (e.g., small phones) */
-@media (max-width: 1788px) {
+@media (min-width: 992px) {
     .top-news .tn-title a {
-        font-size: 12px;
-    }
-}
-
-/* Medium screens (e.g., tablets) */
-@media (max-width: 1400px) {
-    .top-news .tn-title a {
-        font-size: 10px;
-    }
-}
-
-/* Medium screens (e.g., tablets) */
-@media (max-width: 1100px) {
-    .top-news .tn-title a {
-        font-size: 8px;
-    }
-}
-
-/* Extra small screens (e.g., small phones) */
-@media (max-width: 480px) {
-    .top-news .tn-title a {
-        font-size: 6px;
+        font-size: 1.05rem;
     }
 }
 
 .top-news .tn-left .tn-title a {
-    font-size: 30px;
+    font-size: 1.5rem;
     font-weight: 600;
 }
 
@@ -473,8 +498,8 @@ button.btn:hover {
 
 .top-news .slick-prev,
 .top-news .slick-next {
-    width: 28px;
-    height: 28px;
+    width: 44px;
+    height: 44px;
     z-index: 1;
     transition: .5s;
     color: #ffffff;
@@ -581,8 +606,8 @@ button.btn:hover {
 .cat-news .slick-prev,
 .cat-news .slick-next {
     top: -62px;
-    width: 28px;
-    height: 28px;
+    width: 44px;
+    height: 44px;
     z-index: 1;
     transition: .5s;
     color: #ffffff;
@@ -744,7 +769,7 @@ button.btn:hover {
 }
 
 .main-news .library-controls .form-control {
-    border-radius: 0;
+    border-radius: 4px;
 }
 
 .main-news .library-results-count {
@@ -762,6 +787,86 @@ button.btn:hover {
 .main-news .mn-meta {
     font-size: 13px;
     color: #666666;
+}
+
+.main-news .library-controls [class^="col-"],
+.main-news .library-controls [class*=" col-"] {
+    margin-bottom: 12px;
+}
+
+.main-news .library-results-group {
+    margin-bottom: 24px;
+}
+
+.main-news .library-month-row,
+.main-news .library-flat-row {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.main-news .library-item .badge {
+    font-size: 0.86rem;
+    padding: 8px 12px;
+}
+
+.main-news .library-pagination {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 18px;
+}
+
+.main-news .library-pagination button {
+    min-width: 44px;
+    min-height: 44px;
+    border: 1px solid #cccccc;
+    background: #ffffff;
+    color: #000000;
+    border-radius: 4px;
+    padding: 8px 12px;
+}
+
+.main-news .library-pagination button.is-active {
+    background: #000000;
+    color: #ffffff;
+    border-color: #000000;
+}
+
+.summary-content {
+    max-height: none;
+    overflow-y: visible;
+    line-height: 1.6;
+}
+
+#tagContainer .badge {
+    font-size: 0.86rem;
+    padding: 8px 12px;
+    margin-bottom: 8px;
+}
+
+@media (min-width: 576px) {
+    .main-news .library-month-row,
+    .main-news .library-flat-row {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        max-width: 86%;
+    }
+
+    .main-news .library-month-row,
+    .main-news .library-flat-row {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    .summary-content {
+        max-height: 340px;
+        overflow-y: auto;
+        padding-right: 6px;
+    }
 }
 
 
@@ -873,8 +978,8 @@ button.btn:hover {
 .single-news .sn-slider .slick-prev,
 .single-news .sn-slider .slick-next {
     top: -62px;
-    width: 28px;
-    height: 28px;
+    width: 44px;
+    height: 44px;
     z-index: 1;
     transition: .5s;
     color: #ffffff;

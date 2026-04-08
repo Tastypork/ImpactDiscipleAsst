@@ -24,7 +24,7 @@ function injectData(config) {
     config.tags.forEach(tag => {
         const tagElement = document.createElement("a");
         tagElement.href = "#";
-        tagElement.className = "badge badge-primary mr-2";
+        tagElement.className = "badge badge-primary mr-2 mb-2";
         tagElement.textContent = tag;
         tagContainer.appendChild(tagElement);
     });
@@ -74,11 +74,21 @@ function initializeSlider() {
         $('.daily-action-plan-slider').slick('unslick'); // Destroy the previous slider instance
     }
     $('.daily-action-plan-slider').slick({
-        slidesToShow: 2,
+        slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: false,
         dots: true,
-        arrows: true
+        arrows: true,
+        adaptiveHeight: true,
+        mobileFirst: true,
+        responsive: [
+            {
+                breakpoint: 992,
+                settings: {
+                    slidesToShow: 2
+                }
+            }
+        ]
     });
 }
 

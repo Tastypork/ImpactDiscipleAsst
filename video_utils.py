@@ -771,8 +771,7 @@ def setup_video_directory(video_id: str, date: str) -> str:
     if not os.path.exists(new_dir):
         os.makedirs(new_dir)
     else:
-        print("Folder exists, skipping initial directory setup")
-        return new_dir
+        print("Folder exists, refreshing template assets")
 
     for filename in ["video.html", "video.js"]:
         src_path = os.path.join(TEMPLATE_DIR, filename)

@@ -14,7 +14,7 @@
     // Dropdown on mouse hover
     $(document).ready(function () {
         function toggleNavbarMethod() {
-            if ($(window).width() > 768) {
+            if ($(window).width() >= 992) {
                 $('.navbar .dropdown').on('mouseover', function () {
                     $('.dropdown-toggle', this).trigger('click');
                 }).on('mouseout', function () {
@@ -26,6 +26,9 @@
         }
         toggleNavbarMethod();
         $(window).resize(toggleNavbarMethod);
+        $('.navbar .nav-link').on('click', function () {
+            $('.navbar-collapse').collapse('hide');
+        });
     });
     
     
@@ -181,7 +184,9 @@
                 rightContainer.appendChild(rightCol);
             });
             // Destroy existing Slick instance if it exists
-            $(leftContainer).slick('unslick');
+            if ($(leftContainer).hasClass('slick-initialized')) {
+                $(leftContainer).slick('unslick');
+            }
 
             // Reinitialize the slider after adding content
             $(leftContainer).slick({
@@ -233,6 +238,7 @@
 
                 const img = document.createElement("img");
                 img.src = sermon.thumbnail_url;
+                img.loading = "lazy";
     
                 // Assemble the structure
                 sermonDiv.appendChild(img);
@@ -244,7 +250,9 @@
             });
 
             // Destroy existing Slick instance if it exists
-            $(cnSliderContainer).slick('unslick');
+            if ($(cnSliderContainer).hasClass('slick-initialized')) {
+                $(cnSliderContainer).slick('unslick');
+            }
 
             // Reinitialize the slider after adding content
             $(cnSliderContainer).slick({
@@ -424,6 +432,107 @@
             resultsGrid.className = "library-results";
             mainNewsContainer.appendChild(resultsGrid);
 
+            const pageSize = 24;
+            let currentPage = 1;
+
+            const debounce = (callback, waitMs) => {
+                let timerId;
+                return (...args) => {
+                    window.clearTimeout(timerId);
+                    timerId = window.setTimeout(() => callback(...args), waitMs);
+                };
+            };
+
+            const buildSermonCard = (sermon) => {
+                const wrapper = document.createElement("div");
+                wrapper.className = "library-item";
+
+                const cardLink = document.createElement("a");
+                cardLink.className = "mn-card-link";
+                cardLink.href = sermon.summary_link;
+
+                const mnImgDiv = document.createElement("div");
+                mnImgDiv.className = "mn-img";
+
+                const img = document.createElement("img");
+                img.src = sermon.thumbnail_url;
+                img.loading = "lazy";
+                img.decoding = "async";
+                img.alt = `Thumbnail for ${sermon.title}`;
+
+                const titleDiv = document.createElement("div");
+                titleDiv.className = "mn-title";
+
+                const titleText = document.createElement("span");
+                titleText.textContent = sermon.title;
+
+                titleDiv.appendChild(titleText);
+                mnImgDiv.appendChild(img);
+                mnImgDiv.appendChild(titleDiv);
+                cardLink.appendChild(mnImgDiv);
+
+                const metaDiv = document.createElement("div");
+                metaDiv.className = "mn-meta mt-2";
+                metaDiv.textContent = `${sermon._dateText}  |  ${formatLength(sermon._lengthSeconds)}`;
+
+                const tagsDiv = document.createElement("div");
+                tagsDiv.className = "mn-tags mt-2";
+                sermon.tags.forEach((tag) => {
+                    const tagButton = document.createElement("button");
+                    tagButton.type = "button";
+                    tagButton.className = "badge badge-primary mr-2 mb-1 border-0";
+                    tagButton.textContent = tag;
+                    tagButton.addEventListener("click", (event) => {
+                        event.preventDefault();
+                        tagFilterSelect.value = tag;
+                        currentPage = 1;
+                        renderResults();
+                    });
+                    tagsDiv.appendChild(tagButton);
+                });
+
+                wrapper.appendChild(cardLink);
+                wrapper.appendChild(metaDiv);
+                wrapper.appendChild(tagsDiv);
+                return wrapper;
+            };
+
+            const renderPagination = (totalItems) => {
+                const totalPages = Math.max(1, Math.ceil(totalItems / pageSize));
+                if (currentPage > totalPages) {
+                    currentPage = totalPages;
+                }
+                if (totalPages <= 1) {
+                    return null;
+                }
+
+                const pagination = document.createElement("div");
+                pagination.className = "library-pagination";
+
+                const addButton = (label, targetPage, isActive = false, isDisabled = false) => {
+                    const button = document.createElement("button");
+                    button.type = "button";
+                    button.textContent = label;
+                    button.disabled = isDisabled;
+                    if (isActive) {
+                        button.classList.add("is-active");
+                    }
+                    button.addEventListener("click", () => {
+                        currentPage = targetPage;
+                        renderResults();
+                    });
+                    pagination.appendChild(button);
+                };
+
+                addButton("Prev", Math.max(1, currentPage - 1), false, currentPage === 1);
+                for (let page = 1; page <= totalPages; page += 1) {
+                    addButton(String(page), page, page === currentPage, false);
+                }
+                addButton("Next", Math.min(totalPages, currentPage + 1), false, currentPage === totalPages);
+
+                return pagination;
+            };
+
             const renderResults = () => {
                 const searchTerm = searchInput.value.trim().toLowerCase();
                 const selectedTag = tagFilterSelect.value;
@@ -453,65 +562,22 @@
                 });
 
                 resultsGrid.innerHTML = '';
-                resultsInfo.textContent = `${filtered.length} sermon${filtered.length === 1 ? "" : "s"} shown`;
+                const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
+                if (currentPage > totalPages) {
+                    currentPage = totalPages;
+                }
+                const pageStart = (currentPage - 1) * pageSize;
+                const pageEnd = pageStart + pageSize;
+                const paged = filtered.slice(pageStart, pageEnd);
 
-                const buildSermonCard = (sermon) => {
-                    const col = document.createElement("div");
-                    col.className = "col-md-3";
-
-                    const cardLink = document.createElement("a");
-                    cardLink.className = "mn-card-link";
-                    cardLink.href = sermon.summary_link;
-
-                    const mnImgDiv = document.createElement("div");
-                    mnImgDiv.className = "mn-img";
-
-                    const img = document.createElement("img");
-                    img.src = sermon.thumbnail_url;
-                    img.alt = `Thumbnail for ${sermon.title}`;
-
-                    const titleDiv = document.createElement("div");
-                    titleDiv.className = "mn-title";
-
-                    const titleText = document.createElement("span");
-                    titleText.textContent = sermon.title;
-
-                    titleDiv.appendChild(titleText);
-                    mnImgDiv.appendChild(img);
-                    mnImgDiv.appendChild(titleDiv);
-                    cardLink.appendChild(mnImgDiv);
-
-                    const metaDiv = document.createElement("div");
-                    metaDiv.className = "mn-meta mt-2";
-                    metaDiv.textContent = `${sermon._dateText}  |  ${formatLength(sermon._lengthSeconds)}`;
-
-                    const tagsDiv = document.createElement("div");
-                    tagsDiv.className = "mn-tags mt-2";
-                    sermon.tags.forEach((tag) => {
-                        const tagButton = document.createElement("button");
-                        tagButton.type = "button";
-                        tagButton.className = "badge badge-primary mr-2 mb-1 border-0";
-                        tagButton.textContent = tag;
-                        tagButton.addEventListener("click", (event) => {
-                            event.preventDefault();
-                            tagFilterSelect.value = tag;
-                            renderResults();
-                        });
-                        tagsDiv.appendChild(tagButton);
-                    });
-
-                    col.appendChild(cardLink);
-                    col.appendChild(metaDiv);
-                    col.appendChild(tagsDiv);
-                    return col;
-                };
+                resultsInfo.textContent = `${filtered.length} sermon${filtered.length === 1 ? "" : "s"} shown  |  Page ${currentPage} of ${totalPages}`;
 
                 if (sortField === "date") {
                     let currentYear = null;
                     let currentMonth = null;
                     let monthRow = null;
 
-                    filtered.forEach((sermon) => {
+                    paged.forEach((sermon) => {
                         const sermonDate = sermon._parsedDate;
                         const yearLabel = Number.isNaN(sermonDate.getTime())
                             ? (sermon._dateText.slice(0, 4) || "Unknown Year")
@@ -537,27 +603,43 @@
                             resultsGrid.appendChild(monthHeader);
 
                             monthRow = document.createElement("div");
-                            monthRow.className = "row";
+                            monthRow.className = "library-month-row library-results-group";
                             resultsGrid.appendChild(monthRow);
                         }
 
                         monthRow.appendChild(buildSermonCard(sermon));
                     });
+                    const pagination = renderPagination(filtered.length);
+                    if (pagination) {
+                        resultsGrid.appendChild(pagination);
+                    }
                     return;
                 }
 
                 const flatRow = document.createElement("div");
-                flatRow.className = "row";
-                filtered.forEach((sermon) => {
+                flatRow.className = "library-flat-row library-results-group";
+                paged.forEach((sermon) => {
                     flatRow.appendChild(buildSermonCard(sermon));
                 });
                 resultsGrid.appendChild(flatRow);
+
+                const pagination = renderPagination(filtered.length);
+                if (pagination) {
+                    resultsGrid.appendChild(pagination);
+                }
             };
 
-            [searchInput, tagFilterSelect, sortFieldSelect, sortOrderSelect].forEach((element) => {
-                element.addEventListener("input", renderResults);
-                element.addEventListener("change", renderResults);
+            const debouncedRender = debounce(() => {
+                currentPage = 1;
+                renderResults();
+            }, 200);
+
+            [tagFilterSelect, sortFieldSelect, sortOrderSelect].forEach((element) => {
+                element.addEventListener("input", debouncedRender);
+                element.addEventListener("change", debouncedRender);
             });
+            searchInput.addEventListener("input", debouncedRender);
+            searchInput.addEventListener("change", debouncedRender);
 
             renderResults();
         } catch (error) {
