@@ -524,10 +524,41 @@
                     pagination.appendChild(button);
                 };
 
+                const addEllipsis = () => {
+                    const ellipsis = document.createElement("span");
+                    ellipsis.className = "pagination-ellipsis";
+                    ellipsis.textContent = "...";
+                    pagination.appendChild(ellipsis);
+                };
+
                 addButton("Prev", Math.max(1, currentPage - 1), false, currentPage === 1);
-                for (let page = 1; page <= totalPages; page += 1) {
-                    addButton(String(page), page, page === currentPage, false);
+
+                if (totalPages <= 7) {
+                    for (let page = 1; page <= totalPages; page += 1) {
+                        addButton(String(page), page, page === currentPage, false);
+                    }
+                } else {
+                    const pagesToShow = new Set([1, totalPages, currentPage - 1, currentPage, currentPage + 1]);
+                    for (let page = 2; page <= totalPages - 1; page += 1) {
+                        if (page <= 2 || page >= totalPages - 1) {
+                            pagesToShow.add(page);
+                        }
+                    }
+
+                    const sortedPages = [...pagesToShow]
+                        .filter((page) => page >= 1 && page <= totalPages)
+                        .sort((a, b) => a - b);
+
+                    let lastRenderedPage = 0;
+                    sortedPages.forEach((page) => {
+                        if (lastRenderedPage !== 0 && (page - lastRenderedPage) > 1) {
+                            addEllipsis();
+                        }
+                        addButton(String(page), page, page === currentPage, false);
+                        lastRenderedPage = page;
+                    });
                 }
+
                 addButton("Next", Math.min(totalPages, currentPage + 1), false, currentPage === totalPages);
 
                 return pagination;

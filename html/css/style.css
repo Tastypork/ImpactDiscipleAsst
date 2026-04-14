@@ -813,6 +813,7 @@ button.btn:hover {
 .main-news .library-pagination {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 8px;
     margin-top: 18px;
 }
@@ -831,6 +832,15 @@ button.btn:hover {
     background: #000000;
     color: #ffffff;
     border-color: #000000;
+}
+
+.main-news .library-pagination .pagination-ellipsis {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 24px;
+    color: #666666;
+    font-weight: 600;
 }
 
 .summary-content {
