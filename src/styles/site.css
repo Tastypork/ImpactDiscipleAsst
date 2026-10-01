@@ -18,6 +18,7 @@
 
 /* Carousel: scroll-snap track + absolutely positioned arrows styled by existing .slick-* rules. */
 .carousel {
+    --per-view: 1;
     position: relative;
 }
 
@@ -35,7 +36,8 @@
     display: none;
 }
 
-.carousel-track > * {
+/* Two classes so this beats Bootstrap's .col-md-6 width on the slides. */
+.carousel .carousel-track > * {
     flex: 0 0 calc((100% - (var(--per-view) - 1) * var(--carousel-gap, 0px)) / var(--per-view));
     max-width: calc((100% - (var(--per-view) - 1) * var(--carousel-gap, 0px)) / var(--per-view));
     scroll-snap-align: start;
@@ -43,12 +45,16 @@
     padding-right: 0;
 }
 
-.carousel .slick-prev,
-.carousel .slick-next {
+/* :where() keeps this at zero specificity so the section rules in style.css
+   (.top-news / .cat-news arrow placement) still win. */
+:where(.carousel) .slick-prev,
+:where(.carousel) .slick-next {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
     display: block;
+    width: 44px;
+    height: 44px;
     padding: 0;
     border: none;
     font-size: 0;

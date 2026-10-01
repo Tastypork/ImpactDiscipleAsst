@@ -57,17 +57,35 @@ function initCarousel(root: HTMLElement): void {
     next.disabled = atEnd();
   };
 
-  const go = (dir: 1 | -1) => {
-    if (loop && dir === 1 && atEnd()) {
-      track.scrollTo({ left: 0 });
-      return;
-    }
-    if (loop && dir === -1 && atStart()) {
-      track.scrollTo({ left: maxScroll() });
-      return;
-    }
-    track.scrollBy({ left: dir * slideWidth() });
+  // Track the target index rather than scrolling relative to the current offset, so rapid
+  // clicks or autoplay ticks during a smooth scroll do not land between slides.
+  let index = 0;
+  const lastIndex = () => Math.max(0, Math.round(maxScroll() / slideWidth()));
+  const currentIndex = () => Math.round(track.scrollLeft / slideWidth());
+
+  const scrollToIndex = (i: number, instant = false) => {
+    index = Math.min(Math.max(i, 0), lastIndex());
+    track.scrollTo({ left: Math.min(index * slideWidth(), maxScroll()), behavior: instant ? "instant" : "smooth" });
   };
+
+  const go = (dir: 1 | -1) => {
+    const last = lastIndex();
+    const target = index + dir;
+    if (loop && target > last) return scrollToIndex(0, true);
+    if (loop && target < 0) return scrollToIndex(last, true);
+    scrollToIndex(target);
+  };
+
+  let settleTimer: number | undefined;
+  track.addEventListener(
+    "scroll",
+    () => {
+      window.clearTimeout(settleTimer);
+      settleTimer = window.setTimeout(() => (index = currentIndex()), 120);
+    },
+    { passive: true },
+  );
+  window.addEventListener("resize", () => scrollToIndex(index, true));
 
   prev.addEventListener("click", () => go(-1));
   next.addEventListener("click", () => go(1));
