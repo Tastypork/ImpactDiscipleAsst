@@ -1,0 +1,81 @@
+---
+import Base from "../layouts/Base.astro";
+import Carousel from "../components/Carousel.astro";
+import { getSermons, sermonPath } from "../lib/sermons";
+
+const sermons = await getSermons();
+const featured = sermons.slice(0, 8);
+const recent = sermons.slice(8, 18);
+---
+
+<Base activeNav="home" description="Missed a sermon? Watch, summarize, and plan to action now.">
+  <div class="top-news">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 tn-left">
+          <Carousel class="tn-slider" autoplay={5000} loop ariaLabel="Latest sermons">
+            {featured.map((s) => (
+              <div class="col-md-6">
+                <div class="tn-img">
+                  <a href={sermonPath(s)}>
+                    <img src={s.data.thumbnailUrl} alt={s.data.title} loading="eager" />
+                  </a>
+                  <div class="tn-title">
+                    <a href={sermonPath(s)}>{s.data.title}</a>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </Carousel>
+        </div>
+        <div class="col-md-4 tn-right">
+          <div class="row">
+            {featured.map((s) => (
+              <div class="col-md-6">
+                <div class="tn-img">
+                  <a href={sermonPath(s)}>
+                    <img src={s.data.thumbnailUrl} alt={s.data.title} loading="lazy" />
+                  </a>
+                  <div class="tn-title">
+                    <a href={sermonPath(s)}>{s.data.title}</a>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="cat-news">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2>In Case You Missed It...</h2>
+          <Carousel class="cn-slider" ariaLabel="Recent sermons">
+            {recent.map((s) => (
+              <div class="col-md-6">
+                <a href={sermonPath(s)}>
+                  <div class="cn-img">
+                    <img src={s.data.thumbnailUrl} alt={s.data.title} loading="lazy" />
+                  </div>
+                </a>
+              </div>
+            ))}
+            <div class="col-md-6">
+              <a href="/library/" class="d-block">
+                <div class="cn-img cn-see-all">
+                  <img src="/img/see_all.jpg" alt="See all sermons" loading="lazy" />
+                  <div class="cn-see-all-label">See All</div>
+                </div>
+              </a>
+            </div>
+          </Carousel>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="page-bottom-spacer"></div>
+</Base>

@@ -1,0 +1,32 @@
+---
+import { durationSeconds, formatLength, sermonPath, type Sermon } from "../lib/sermons";
+
+interface Props {
+  sermon: Sermon;
+}
+const { sermon } = Astro.props;
+const { data } = sermon;
+const href = sermonPath(sermon);
+const seconds = durationSeconds(data.duration);
+---
+
+<div
+  class="library-item"
+  data-title={data.title}
+  data-date={data.date}
+  data-seconds={seconds}
+  data-tags={data.tags.join("|")}
+>
+  <a class="mn-card-link" href={href}>
+    <div class="mn-img">
+      <img src={data.thumbnailUrl} loading="lazy" decoding="async" alt={`Thumbnail for ${data.title}`} />
+      <div class="mn-title"><span>{data.title}</span></div>
+    </div>
+  </a>
+  <div class="mn-meta mt-2">{data.date}&nbsp;&nbsp;|&nbsp;&nbsp;{formatLength(seconds)}</div>
+  <div class="mn-tags mt-2">
+    {data.tags.map((tag) => (
+      <a class="badge badge-primary mr-2 mb-1 border-0" href={`/library/?tag=${encodeURIComponent(tag)}`} data-tag={tag}>{tag}</a>
+    ))}
+  </div>
+</div>

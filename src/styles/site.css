@@ -1,0 +1,203 @@
+/* Behaviour formerly provided by jQuery, Bootstrap JS, and Slick. */
+
+/* Navbar collapse without Bootstrap JS: toggle .show on #navbarCollapse. */
+.navbar-collapse.collapse:not(.show) {
+    display: none;
+}
+
+@media (min-width: 768px) {
+    .navbar-expand-md .navbar-collapse.collapse:not(.show) {
+        display: flex !important;
+    }
+}
+
+/* Back-to-top toggles .is-visible instead of jQuery fadeIn/fadeOut. */
+.back-to-top.is-visible {
+    display: block;
+}
+
+/* Carousel: scroll-snap track + absolutely positioned arrows styled by existing .slick-* rules. */
+.carousel {
+    position: relative;
+}
+
+.carousel-track {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    gap: var(--carousel-gap, 0px);
+}
+
+.carousel-track::-webkit-scrollbar {
+    display: none;
+}
+
+.carousel-track > * {
+    flex: 0 0 calc((100% - (var(--per-view) - 1) * var(--carousel-gap, 0px)) / var(--per-view));
+    max-width: calc((100% - (var(--per-view) - 1) * var(--carousel-gap, 0px)) / var(--per-view));
+    scroll-snap-align: start;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.carousel .slick-prev,
+.carousel .slick-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    display: block;
+    padding: 0;
+    border: none;
+    font-size: 0;
+    line-height: 0;
+    cursor: pointer;
+    outline: none;
+}
+
+.carousel .slick-prev::before,
+.carousel .slick-next::before {
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 44px;
+}
+
+.carousel .slick-prev::before {
+    content: "\f104";
+}
+
+.carousel .slick-next::before {
+    content: "\f105";
+}
+
+.carousel .slick-prev:disabled,
+.carousel .slick-next:disabled {
+    opacity: 0.35;
+    cursor: default;
+}
+
+/* Hero slider: single slide, title overlay uses the existing .tn-title styling. */
+.top-news .tn-slider .tn-img img {
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+.top-news .tn-right .tn-img img {
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+/* "In Case You Missed It" cards. */
+.cat-news .carousel {
+    --carousel-gap: 30px;
+    --per-view: 1;
+}
+
+@media (min-width: 576px) {
+    .cat-news .carousel {
+        --per-view: 2;
+    }
+}
+
+@media (min-width: 1200px) {
+    .cat-news .carousel {
+        --per-view: 4;
+    }
+}
+
+.cat-news .cn-img img {
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+.cat-news .cn-see-all {
+    position: relative;
+    text-align: center;
+}
+
+.cat-news .cn-see-all .cn-see-all-label {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    z-index: 1;
+    text-align: center;
+    pointer-events: none;
+}
+
+/* Daily action plan cards (formerly .daily-action-plan-slider .slick-slide > div > div). */
+.daily-action-plan-slider {
+    --carousel-gap: 20px;
+    --per-view: 1;
+    padding: 0 0 10px;
+}
+
+@media (min-width: 992px) {
+    .daily-action-plan-slider {
+        --per-view: 2;
+    }
+}
+
+.daily-action-plan-slider .slick-prev {
+    left: -40px;
+}
+
+.daily-action-plan-slider .slick-next {
+    right: -40px;
+}
+
+@media (max-width: 1279px) {
+    .daily-action-plan-slider .slick-prev {
+        left: 0;
+    }
+
+    .daily-action-plan-slider .slick-next {
+        right: 0;
+    }
+}
+
+.dap-card {
+    height: 100%;
+    padding: 18px;
+    background: #ffffff;
+    border: 1px solid #e8e8e8;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
+}
+
+.dap-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.14);
+}
+
+/* Sermon page tag badges are links to the filtered library. */
+#tagContainer .badge {
+    font-size: 0.85rem;
+    padding: 0.45em 0.7em;
+}
+
+/* Library: server-rendered source list is hidden once the script takes over. */
+.library-source.is-hidden {
+    display: none;
+}
+
+.library-results .library-controls-placeholder {
+    display: none;
+}
+
+.main-news .library-item img {
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+.video-page-header h3 {
+    margin-bottom: 4px;
+}

@@ -1,0 +1,76 @@
+---
+import Base from "../layouts/Base.astro";
+import SermonCard from "../components/SermonCard.astro";
+import { allTags, getSermons, monthName } from "../lib/sermons";
+
+const sermons = await getSermons();
+const tags = allTags(sermons);
+
+// No-JS fallback: all sermons grouped by year and month. library.ts replaces this with
+// the searchable, paginated view using the same card nodes.
+type Group = { year: string; month: string; items: typeof sermons };
+const groups: Group[] = [];
+for (const s of sermons) {
+  const year = s.data.date.slice(0, 4);
+  const month = monthName(s.data.date);
+  const last = groups[groups.length - 1];
+  if (last && last.year === year && last.month === month) last.items.push(s);
+  else groups.push({ year, month, items: [s] });
+}
+---
+
+<Base title="Library" activeNav="library" description={`Browse ${sermons.length} Impact Church sermon recaps by date, title, or tag.`}>
+  <div class="brand">
+    <div class="container library-brand-spacer"></div>
+  </div>
+
+  <div class="main-news">
+    <div class="container" data-library data-page-size="24">
+      <div class="library-controls row align-items-end mb-4" data-library-controls hidden>
+        <div class="col-md-6 mb-3">
+          <label class="sr-only" for="librarySearch">Search</label>
+          <input id="librarySearch" type="text" class="form-control" placeholder="Search by title, date, or tags" />
+        </div>
+        <div class="col-md-2 mb-3">
+          <label class="sr-only" for="libraryTag">Tag</label>
+          <select id="libraryTag" class="form-control">
+            <option value="">All Tags</option>
+            {tags.map((t) => <option value={t}>{t}</option>)}
+          </select>
+        </div>
+        <div class="col-md-2 mb-3">
+          <label class="sr-only" for="librarySort">Sort by</label>
+          <select id="librarySort" class="form-control">
+            <option value="date">Sort: Date</option>
+            <option value="name">Sort: Name</option>
+            <option value="length">Sort: Length</option>
+          </select>
+        </div>
+        <div class="col-md-2 mb-3">
+          <label class="sr-only" for="libraryOrder">Order</label>
+          <select id="libraryOrder" class="form-control">
+            <option value="desc">Desc</option>
+            <option value="asc">Asc</option>
+          </select>
+        </div>
+      </div>
+
+      <p class="library-results-count mb-3" data-library-count hidden></p>
+      <div class="library-results" data-library-results></div>
+
+      <div class="library-source" data-library-source>
+        {groups.map((g, i) => (
+          <>
+            {(i === 0 || groups[i - 1].year !== g.year) && <h2>{g.year}</h2>}
+            <h3>{g.month}</h3>
+            <div class="library-month-row library-results-group">
+              {g.items.map((s) => <SermonCard sermon={s} />)}
+            </div>
+          </>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <script src="../scripts/library.ts"></script>
+</Base>

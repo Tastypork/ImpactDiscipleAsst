@@ -1,0 +1,51 @@
+---
+import Base from "../layouts/Base.astro";
+---
+
+<Base title="Contact" activeNav="contact" description="Questions, feedback, or a bug report for Impact Recap.">
+  <div class="contact content">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-8">
+          <div class="contact-form">
+            <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/contact/?sent=1">
+              <input type="hidden" name="form-name" value="contact" />
+              <p class="d-none"><label>Leave this empty: <input name="bot-field" /></label></p>
+              <div class="form-row">
+                <div class="form-group col-md-6">
+                  <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" required />
+                </div>
+                <div class="form-group col-md-6">
+                  <input type="email" name="email" id="email" class="form-control" placeholder="Your Email" required />
+                </div>
+              </div>
+              <div class="form-group">
+                <input type="text" name="subject" id="subject" class="form-control" placeholder="Subject" />
+              </div>
+              <div class="form-group">
+                <textarea class="form-control" name="message" id="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div><button class="btn" type="submit">Send Message</button></div>
+            </form>
+            <p class="mt-3" data-sent-message hidden>Thanks, your message was sent.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="contact-info">
+            <h3>About</h3>
+            <p>
+              Impact Recap is an independent tool designed to help attendees of Impact Church engage more deeply with the sermons. While we are not affiliated with Impact Church, our goal is to make it easier for you to understand the key messages and apply them to your everyday life. Impact Recap is here to assist you in reflecting on each sermon's themes, ideas, and values so you can grow spiritually and integrate faith-based teachings into practical, daily actions. If you have any questions, feedback, or would like to report a bug please use the form on the left. God Bless!
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    if (new URLSearchParams(location.search).get("sent") === "1") {
+      const msg = document.querySelector<HTMLElement>("[data-sent-message]");
+      if (msg) msg.hidden = false;
+    }
+  </script>
+</Base>

@@ -1,0 +1,94 @@
+---
+import Base from "../../../layouts/Base.astro";
+import Carousel from "../../../components/Carousel.astro";
+import { WEEKDAYS, excerpt, formatLongDate, getSermons, type Sermon } from "../../../lib/sermons";
+
+export async function getStaticPaths() {
+  const sermons = await getSermons();
+  return sermons.map((sermon) => ({ params: { slug: sermon.id }, props: { sermon } }));
+}
+
+interface Props {
+  sermon: Sermon;
+}
+const { sermon } = Astro.props;
+const { data } = sermon;
+---
+
+<Base title={data.title} description={excerpt(data.summaryText)} image={data.thumbnailUrl}>
+  <div class="container mt-5">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe
+            class="embed-responsive-item"
+            id="videoFrame"
+            src={data.videoUrl}
+            title={data.title}
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            loading="lazy"
+          ></iframe>
+        </div>
+        <div class="video-page-header mt-3">
+          <h3>{data.title}</h3>
+          <p class="mn-meta mb-0">
+            {formatLongDate(data.date)}{data.speaker ? ` · ${data.speaker}` : ""}{data.duration ? ` · ${data.duration}` : ""}
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container mt-3" id="tagContainer">
+    {data.tags.map((tag) => (
+      <a href={`/library/?tag=${encodeURIComponent(tag)}`} class="badge badge-primary mr-2 mb-2">{tag}</a>
+    ))}
+  </div>
+
+  <div class="container mt-3">
+    <h3>Recap</h3>
+    <div id="summaryText" class="summary-content">{data.summaryText}</div>
+  </div>
+
+  <div class="container mt-4">
+    <div class="row">
+      <div class="col-12 mb-3">
+        <h4>Main Points</h4>
+        <ul id="mainPoints">
+          {data.mainPoints.map((p) => <li>{p}</li>)}
+        </ul>
+      </div>
+      <div class="col-12">
+        <h4>Verses Mentioned</h4>
+        <div class="p-3 border border-dark">
+          <ul id="versesMentioned">
+            {data.versesMentioned.map((v) => (
+              <li><strong>{v.verse}</strong> - "{v.text}" ({v.version})</li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container mt-4 mb-5">
+    <h4>Daily Action Plan</h4>
+    <Carousel class="daily-action-plan-slider" ariaLabel="Daily action plan">
+      {WEEKDAYS.map((day) => {
+        const d = data.dailyActionPlan[day];
+        return (
+          <div>
+            <div class="dap-card">
+              <h5>{day}</h5>
+              <p><strong>Scripture Reflection:</strong> {d.scripture}</p>
+              <p><strong>Focus Point:</strong> {d.focus}</p>
+              <p><strong>Action Plan:</strong> {d.action}</p>
+              <p><strong>Deep Prayer:</strong> {d.prayer}</p>
+            </div>
+          </div>
+        );
+      })}
+    </Carousel>
+  </div>
+</Base>

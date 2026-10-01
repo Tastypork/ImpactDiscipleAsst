@@ -1,30 +1,31 @@
+# Python
 __pycache__/
-/venv
-config.yml
-error.txt
-video_data.db
-
-# Local environments
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 .venv/
 venv/
 env/
 
-# Python artifacts
-*.py[cod]
-*.pyo
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
+# Node / Astro
+node_modules/
+dist/
+.astro/
+.netlify/
+npm-debug.log*
 
-# Runtime logs and local scratch
-*.log
-*.tmp
-*.swp
-
-# Local data/secrets (keep published html artifacts tracked)
+# Local secrets (never commit)
 data/config.yml
 data/client_secret.json
 data/youtube-oauth-token.json
-data/*.sqlite
+
+# Legacy local database (no longer used)
 data/*.db
 data/*.db-*
+data/*.sqlite
+
+# Scratch
+*.log
+*.tmp
+*.swp

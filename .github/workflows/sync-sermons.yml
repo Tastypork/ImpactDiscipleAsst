@@ -1,0 +1,111 @@
+name: Sync sermons
+
+on:
+  schedule:
+    # Monday 15:00 UTC (08:00 Arizona). Sunday uploads are usually in a playlist by then.
+    - cron: "0 15 * * 1"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "incremental = new videos only; repair = also fill placeholder metadata; full = re-run the model for every video"
+        type: choice
+        default: incremental
+        options:
+          - incremental
+          - repair
+          - full
+      limit:
+        description: "Process at most N videos (blank = no limit)"
+        type: string
+        default: ""
+      dry_run:
+        description: "List what would be ingested without calling the model or writing files"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sermon-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m pytest -q
+
+      - name: Write data/config.yml from secrets
+        env:
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          YT_TOKEN: ${{ secrets.YT_TOKEN }}
+          CLAUDE_TOKEN: ${{ secrets.CLAUDE_TOKEN }}
+          YT_PROXY_HTTP: ${{ secrets.YT_PROXY_HTTP }}
+          YT_PROXY_HTTPS: ${{ secrets.YT_PROXY_HTTPS }}
+        run: |
+          : "${CHANNEL_ID:?secret CHANNEL_ID is not set}"
+          : "${YT_TOKEN:?secret YT_TOKEN is not set}"
+          : "${CLAUDE_TOKEN:?secret CLAUDE_TOKEN is not set}"
+          {
+            echo "channel_id: \"$CHANNEL_ID\""
+            echo "yt_token: \"$YT_TOKEN\""
+            echo "claude_token: \"$CLAUDE_TOKEN\""
+            [ -n "$YT_PROXY_HTTP" ] && echo "youtube_proxy_http: \"$YT_PROXY_HTTP\""
+            [ -n "$YT_PROXY_HTTPS" ] && echo "youtube_proxy_https: \"$YT_PROXY_HTTPS\""
+            true
+          } > data/config.yml
+
+      - name: Sync
+        id: sync
+        continue-on-error: true
+        env:
+          MODE: ${{ inputs.mode || 'incremental' }}
+          LIMIT: ${{ inputs.limit }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          args=(--mode "$MODE")
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            args+=(-n 3)
+          elif [ -n "$LIMIT" ]; then
+            args+=(-n "$LIMIT")
+          fi
+          if [ "$DRY_RUN" = "true" ]; then
+            args+=(--dry-run)
+          fi
+          echo "python video_sync.py ${args[*]}"
+          python video_sync.py "${args[@]}"
+
+      - name: Commit new sermons
+        id: commit
+        run: |
+          git add content/sermons data/failed 2>/dev/null || git add content/sermons
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Sync sermons (${{ inputs.mode || 'incremental' }})"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin HEAD:"${GITHUB_REF_NAME}"
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Fail the run if the sync reported problems
+        if: steps.sync.outcome == 'failure'
+        run: |
+          echo "video_sync.py exited non-zero (failed ingests or rate limit). Finished work was still committed."
+          exit 1

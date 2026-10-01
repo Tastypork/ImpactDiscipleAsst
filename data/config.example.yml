@@ -1,0 +1,17 @@
+# Copy to data/config.yml for local runs. In GitHub Actions this file is written from secrets.
+channel_id: UCxxxxxxxxxxxxxxxxxxxxxx
+yt_token: YOUR_YOUTUBE_DATA_API_KEY
+claude_token: YOUR_ANTHROPIC_API_KEY
+
+# Optional. Overrides the model in data/prompt.yaml.
+# ai_model: claude-sonnet-5-5
+
+# Optional. Only needed for DeepSeek models.
+# deepseek_token: YOUR_DEEPSEEK_KEY
+
+# Optional. Prompt manifest path.
+# message_template: data/prompt.yaml
+
+# Optional. youtube-transcript-api proxies; needed when YouTube blocks the runner's IP.
+# youtube_proxy_http: http://user:pass@host:port
+# youtube_proxy_https: http://user:pass@host:port

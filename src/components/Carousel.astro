@@ -1,0 +1,29 @@
+---
+/**
+ * Scroll-snap carousel. Children are the slides. Items per view are set with the
+ * --per-view CSS variable on the wrapper (see site.css for the responsive values).
+ */
+interface Props {
+  class?: string;
+  autoplay?: number; // ms between advances; 0 disables
+  loop?: boolean;
+  ariaLabel?: string;
+}
+const { class: className = "", autoplay = 0, loop = false, ariaLabel = "Carousel" } = Astro.props;
+---
+
+<div
+  class={`carousel ${className}`.trim()}
+  data-carousel
+  data-autoplay={autoplay > 0 ? String(autoplay) : undefined}
+  data-loop={loop ? "true" : undefined}
+  role="region"
+  aria-roledescription="carousel"
+  aria-label={ariaLabel}
+>
+  <button type="button" class="slick-prev" data-carousel-prev aria-label="Previous">Previous</button>
+  <div class="carousel-track" data-carousel-track>
+    <slot />
+  </div>
+  <button type="button" class="slick-next" data-carousel-next aria-label="Next">Next</button>
+</div>

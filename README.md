@@ -1,181 +1,139 @@
 # ImpactDiscipleAsst
 
-Automates sermon ingestion from YouTube into a published sermon library.
+Turns Impact Church YouTube sermons into a static recap site ([impact.jocal.dev](https://impact.jocal.dev)).
 
-This project pulls channel videos, filters out unsupported content (for example live/upcoming and short videos), fetches transcripts, runs AI summarization/tag extraction, writes sermon page artifacts under `html/sermons`, and keeps an index in `html/latest_sermons.json`.
+A scheduled GitHub Actions job runs a Python sync that finds new videos in the channel's playlists, fetches the transcript, asks Claude for a summary, three tags, main points, verses, and a six-day action plan, and commits one JSON file per sermon. Netlify builds the Astro site from those files on every push.
 
-## What this repo does
+```
+YouTube playlists ──▶ video_sync.py (GitHub Actions) ──▶ content/sermons/<date>_<videoId>.json
+                                                                   │
+                                                 git push ─────────┘
+                                                                   ▼
+                                               Netlify: npm run build (Astro) ──▶ dist/
+```
 
-- Syncs YouTube videos from all playlists on a configured channel.
-- Ingests transcript-backed sermons into SQLite (`data/video_data.db`).
-- Generates per-sermon web assets in `html/sermons/<date>_<video_id>/`.
-- Updates the latest index used by the website (`html/latest_sermons.json`).
-- Supports both CLI sync workflows and webhook-triggered ingestion.
+There is no database and no webhook. A video is "ingested" when its file exists in `content/sermons/`.
 
 ## Repository layout
 
-- `video_sync.py` - main CLI entrypoint for incremental/full/repair sync.
-- `video_utils.py` - ingestion engine, transcript retrieval, AI calls, DB and file writes.
-- `webhook_server.py` - Flask webhook endpoint for YouTube Pub/Sub notifications.
-- `html/` - published site assets and generated sermon pages.
-- `data/` - local database, config, and prompt templates.
+| Path | Purpose |
+| --- | --- |
+| `video_sync.py` | CLI entrypoint: list playlist videos, decide what to ingest, run the pipeline |
+| `video_utils.py` | YouTube Data API, transcripts, prompt loading, model call, validation, file writes |
+| `tests/` | pytest suite for the pure parts of the pipeline (no network) |
+| `data/prompt.yaml`, `data/prompts/*.md` | Model and prompt text sent to Claude |
+| `data/tags.yml` | The allowed tag list. The model must pick exactly three |
+| `data/config.example.yml` | Template for the local `data/config.yml` (gitignored) |
+| `data/failed/` | Raw model output for sermons that failed validation (committed for debugging) |
+| `content/sermons/*.json` | The site's data. Written by Python, read by Astro |
+| `src/` | Astro site: layout, components, pages, client scripts, styles |
+| `public/` | Static assets (favicon, images) |
+| `netlify.toml` | Netlify build settings and redirects from the old `.html` URLs |
+| `.github/workflows/sync-sermons.yml` | Scheduled and manual sermon sync |
+| `.github/workflows/site-build.yml` | Builds the site on pull requests to catch bad JSON early |
 
-## Requirements
+## Sermon JSON
 
-- Python 3.10+ (3.11 recommended)
-- pip
-- Network access to:
-  - YouTube Data API
-  - Anthropic API and/or DeepSeek API (depending on selected model)
+```json
+{
+  "videoId": "9HKkiJCXWic",
+  "title": "How to Stop Drifting Away from God | Planted in God's Word",
+  "speaker": "Pastor Travis Hearn",
+  "date": "2026-04-13",
+  "duration": "0:55:46",
+  "thumbnailUrl": "https://i.ytimg.com/vi/9HKkiJCXWic/maxresdefault.jpg",
+  "videoUrl": "https://www.youtube.com/embed/9HKkiJCXWic",
+  "summaryText": "...",
+  "tags": ["Faith", "Obedience", "Wisdom"],
+  "mainPoints": ["...", "...", "..."],
+  "versesMentioned": [{ "verse": "John 15:5", "text": "...", "version": "NIV" }],
+  "dailyActionPlan": {
+    "Monday": { "scripture": "...", "focus": "...", "action": "...", "prayer": "..." },
+    "...": {}
+  }
+}
+```
 
-Install dependencies:
+The same shape is enforced twice: by Pydantic (`SermonRecord` in `video_utils.py`) before a file is written, and by Zod (`src/content.config.ts`) when the site builds. A model response that does not validate is saved to `data/failed/<videoId>.txt` and the existing sermon file, if any, is left untouched.
+
+`speaker` and `duration` may be `null` for entries migrated from the old site that were never indexed; `--mode repair` fills them from the YouTube API.
+
+## GitHub Actions
+
+### Sync sermons
+
+Runs every Monday at 15:00 UTC with `--mode incremental -n 3`, and on demand from the Actions tab with a mode choice:
+
+| Mode | What it does |
+| --- | --- |
+| `incremental` | Ingest playlist videos that have no file in `content/sermons/` |
+| `repair` | `incremental`, plus fetch metadata for files with placeholder title or no duration |
+| `full` | Re-run the model for every playlist video (rewrites every sermon; about 5 cents each) |
+
+Manual runs also accept a `limit` and a `dry_run` flag. The job commits `content/sermons` and `data/failed` as `github-actions[bot]`, which triggers a Netlify deploy. The run is marked failed if any ingest failed or the model rate-limited, after the commit has already been pushed.
+
+Secrets required (Settings → Secrets and variables → Actions):
+
+| Secret | Value |
+| --- | --- |
+| `CHANNEL_ID` | YouTube channel id |
+| `YT_TOKEN` | YouTube Data API v3 key |
+| `CLAUDE_TOKEN` | Anthropic API key |
+| `YT_PROXY_HTTP`, `YT_PROXY_HTTPS` | Optional. Transcript proxy if YouTube blocks GitHub's IP range |
+
+The repository must allow workflows to write: Settings → Actions → General → Workflow permissions → **Read and write**.
+
+### Site build check
+
+On pull requests and pushes touching `src/`, `content/`, or the build config, runs `astro check` and `npm run build`.
+
+## Local development
+
+Python 3.10+ and Node 22+.
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
+python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
+cp data/config.example.yml data/config.yml   # fill in keys
+python -m pytest -q
+
+npm install
+npm run dev        # http://localhost:4321
+npm run build      # writes dist/
 ```
 
-## Configuration
-
-Create `data/config.yml` with your runtime credentials and settings.
-
-Common keys used by the code:
-
-- `channel_id` - YouTube channel id to ingest from.
-- `yt_token` - YouTube Data API key.
-- `claude_token` - required when using Claude models.
-- `deepseek_token` - required when using DeepSeek models.
-- `ai_model` - default model id used for summarization.
-- `message_template` - optional path to prompt manifest (defaults to `data/message_haiku.yaml`).
-- `youtube_proxy_http` / `youtube_proxy_https` - optional proxies for transcript retrieval.
-
-Important:
-
-- `data/config.yml` and OAuth/token files are local secrets and should never be committed.
-- Generated published artifacts in `html/sermons` and `html/latest_sermons.json` are intentionally tracked in this repository.
-
-## Prompt templates
-
-Prompt manifests and content blocks live in `data/` and `data/prompts/`.
-
-- YAML manifest style is supported (recommended).
-- Legacy single JSON template shape is also supported.
-- Placeholders currently supported in prompt text:
-  - `{{SERMON_TRANSCRIPT}}`
-  - `{{SPEAKER}}`
-  - `{{TAGS_LIST}}`
-
-## CLI workflows
-
-### Incremental sync (default)
-
-Ingests only videos not already present in DB.
+Sync examples:
 
 ```bash
-python video_sync.py
-```
-
-### Full regenerate
-
-Reprocesses all discovered playlist videos and rebuilds latest JSON at the end.
-
-```bash
-python video_sync.py --mode full
-```
-
-### Repair mode
-
-Targets discovered videos missing from DB or missing transcript content.
-
-```bash
+python video_sync.py --dry-run             # what would be ingested
+python video_sync.py -n 1                  # ingest one new video
 python video_sync.py --mode repair
+python video_sync.py -i https://www.youtube.com/watch?v=abc123DEF45   # regenerate one sermon
+python video_sync.py --model claude-sonnet-5 -i abc123DEF45           # with a different model
 ```
 
-### Dry run
+Only videos in a channel playlist are considered. Live and upcoming broadcasts and videos under 25 minutes are skipped.
 
-Preview selected IDs without ingestion:
+## Model and cost
 
-```bash
-python video_sync.py --mode repair --dry-run
-```
+`data/prompt.yaml` sets the model (`claude-sonnet-5-5`). A sermon is roughly 15k input and 2k output tokens, about 5 cents. A `full` regenerate of the library is about $14. Override per run with `--model` or in `data/config.yml` with `ai_model`.
 
-### Limit run size
+## Site
 
-Process at most N eligible videos:
+Astro 7, static output. Pages:
 
-```bash
-python video_sync.py -n 10
-```
+- `/` latest sermons and an "In Case You Missed It" row
+- `/library/` every sermon, with search, tag filter (`?tag=Faith`), sort, and pagination
+- `/sermons/<date>_<videoId>/` the recap page with real title, description, and thumbnail in the HTML head
+- `/contact/` Netlify form
 
-### Single video regenerate
+Old URLs (`/sermons/<slug>/video.html`, `/library.html`, `/contact.html`) redirect via `netlify.toml`.
 
-Accepts bare id, YouTube URL, or sermon URL:
-
-```bash
-python video_sync.py -i "https://www.youtube.com/watch?v=abc123DEF45"
-```
-
-### File-based ingest
-
-One URL/id per line, comments allowed with `#`:
-
-```bash
-python video_sync.py --ingest-file ip_blocked_links.txt
-```
-
-## Webhook mode
-
-`webhook_server.py` provides `/webhook`:
-
-- `GET /webhook` - challenge response for YouTube verification.
-- `POST /webhook` - parses incoming video notification, verifies playlist membership, ingests video, and pushes generated artifacts.
-
-Run locally:
-
-```bash
-python webhook_server.py
-```
-
-Notes:
-
-- The startup flow attempts Pub/Sub subscription and expects an ngrok tunnel API at `http://localhost:4040`.
-- Webhook path performs a short retry window before deciding a video is not yet in any channel playlist.
-
-## Data flow overview
-
-1. Discover candidate video IDs from channel playlists.
-2. Filter out ineligible content (live/upcoming and videos shorter than minimum duration).
-3. Fetch metadata and transcript.
-4. Build AI request from prompt template and transcript.
-5. Write/update DB row and tags.
-6. Write sermon `config.json` and page assets.
-7. Update `html/latest_sermons.json`.
-
-## Operational guidance
-
-- Prefer CLI sync for bulk operations; use webhook for near-real-time updates.
-- Use `--dry-run` before large repair/full runs.
-- Keep DB backups before major cleanup/migration operations.
-- If transcript retrieval is blocked, set proxy values in `data/config.yml` or retry from another network.
+The design is the original Bootstrap 4 stylesheet (`src/styles/style.css`). jQuery and Slick were replaced by small scripts in `src/scripts/`.
 
 ## Troubleshooting
 
-- **No transcript / skipped videos**
-  - Verify captions exist on YouTube.
-  - Retry with `--mode repair`.
-  - Check proxy settings if IP blocking occurs.
-- **AI request failures**
-  - Confirm correct token (`claude_token` or `deepseek_token`) for selected model.
-  - Validate prompt manifest paths and YAML/JSON syntax.
-- **Webhook not receiving notifications**
-  - Ensure tunnel is active and reachable.
-  - Verify callback URL and Pub/Sub subscription succeeded.
-- **Missing/incorrect latest index**
-  - Run a full sync (`--mode full`) to regenerate consistently.
-
-## Development notes
-
-- Python files compile cleanly after the latest cleanup/refactor pass.
-- One-time maintenance scripts were removed; sync and webhook entrypoints are now the supported operational paths.
-- Keep changes scoped and test with dry-run modes before full ingestion.
+- **A run skips a new sermon with "no retrievable transcript"**: captions may not be ready yet; the next run retries. If it persists for all videos, YouTube is blocking the runner's IP; set the proxy secrets.
+- **A sermon failed validation**: read `data/failed/<videoId>.txt`, then re-run with `-i <videoId>`.
+- **Netlify build fails**: `npm run build` locally shows the Zod error and which file in `content/sermons/` is malformed.
+- **A sermon has a placeholder title**: run `--mode repair`.

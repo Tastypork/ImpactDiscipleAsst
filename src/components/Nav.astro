@@ -1,0 +1,36 @@
+---
+interface Props {
+  active?: "home" | "library" | "contact";
+}
+const { active } = Astro.props;
+const cls = (key: Props["active"]) => `nav-item nav-link${active === key ? " active" : ""}`;
+---
+
+<div class="nav-bar">
+  <div class="container">
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+      <button
+        type="button"
+        class="navbar-toggler ml-auto"
+        data-nav-toggle
+        aria-controls="navbarCollapse"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+        <div class="navbar-nav mr-auto">
+          <a href="/" class={cls("home")}>Home</a>
+          <a href="/library/" class={cls("library")}>Library</a>
+          <a href="/contact/" class={cls("contact")}>Contact</a>
+        </div>
+        <div class="social ml-auto">
+          <a href="https://www.instagram.com/impactchurch/" target="_blank" rel="noopener" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+          <a href="https://www.youtube.com/user/Impactchurchaz" target="_blank" rel="noopener" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+          <a href="https://www.facebook.com/ImpactChurchScottsdale/" target="_blank" rel="noopener" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+        </div>
+      </div>
+    </nav>
+  </div>
+</div>

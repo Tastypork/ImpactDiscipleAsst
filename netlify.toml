@@ -1,0 +1,32 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Old static-site URLs
+[[redirects]]
+  from = "/sermons/:slug/video.html"
+  to = "/sermons/:slug/"
+  status = 301
+
+[[redirects]]
+  from = "/sermons/:slug/video"
+  to = "/sermons/:slug/"
+  status = 301
+
+[[redirects]]
+  from = "/library.html"
+  to = "/library/"
+  status = 301
+
+[[redirects]]
+  from = "/contact.html"
+  to = "/contact/"
+  status = 301
+
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
