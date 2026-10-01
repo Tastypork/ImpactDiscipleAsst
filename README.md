@@ -20,6 +20,7 @@ There is no database and no webhook. A video is "ingested" when its file exists 
 | --- | --- |
 | `video_sync.py` | CLI entrypoint: list playlist videos, decide what to ingest, run the pipeline |
 | `video_utils.py` | YouTube Data API, transcripts, prompt loading, model call, validation, file writes |
+| `requirements-sync.txt` | Python deps for the sync (named so Netlify does not try to pip-install them) |
 | `tests/` | pytest suite for the pure parts of the pipeline (no network) |
 | `data/prompt.yaml`, `data/prompts/*.md` | Model and prompt text sent to Claude |
 | `data/tags.yml` | The allowed tag list. The model must pick exactly three |
@@ -93,7 +94,7 @@ Python 3.10+ and Node 22+.
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements-sync.txt
 cp data/config.example.yml data/config.yml   # fill in keys
 python -m pytest -q
 
