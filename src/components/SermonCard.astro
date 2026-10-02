@@ -20,8 +20,8 @@ const seconds = durationSeconds(data.duration);
   <a class="mn-card-link" href={href}>
     <div class="mn-img">
       <img src={data.thumbnailUrl} loading="lazy" decoding="async" alt={`Thumbnail for ${data.title}`} />
-      <div class="mn-title"><span>{data.title}</span></div>
     </div>
+    <div class="mn-caption">{data.title}</div>
   </a>
   <div class="mn-meta mt-2">{data.date}&nbsp;&nbsp;|&nbsp;&nbsp;{formatLength(seconds)}</div>
   <div class="mn-tags mt-2">

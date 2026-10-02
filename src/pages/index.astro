@@ -4,41 +4,37 @@ import Carousel from "../components/Carousel.astro";
 import { getSermons, sermonPath } from "../lib/sermons";
 
 const sermons = await getSermons();
-const featured = sermons.slice(0, 8);
-const recent = sermons.slice(8, 18);
+const [hero, ...rest] = sermons;
+const sidebar = rest.slice(0, 3);
+const recent = sermons.slice(4, 14);
 ---
 
 <Base activeNav="home" description="Missed a sermon? Watch, summarize, and plan to action now.">
   <div class="top-news">
     <div class="container">
       <div class="row">
-        <div class="col-md-8 tn-left">
-          <Carousel class="tn-slider" autoplay={5000} loop ariaLabel="Latest sermons">
-            {featured.map((s) => (
-              <div class="col-md-6">
-                <div class="tn-img">
-                  <a href={sermonPath(s)}>
-                    <img src={s.data.thumbnailUrl} alt={s.data.title} loading="eager" />
-                  </a>
-                  <div class="tn-title">
-                    <a href={sermonPath(s)}>{s.data.title}</a>
-                  </div>
+        <div class="col-md-9 tn-left">
+          {hero && (
+            <div class="tn-slider">
+              <div class="tn-img">
+                <a href={sermonPath(hero)}>
+                  <img src={hero.data.thumbnailUrl} alt={hero.data.title} loading="eager" />
+                </a>
+                <div class="tn-title">
+                  <a href={sermonPath(hero)}>{hero.data.title}</a>
                 </div>
               </div>
-            ))}
-          </Carousel>
+            </div>
+          )}
         </div>
-        <div class="col-md-4 tn-right">
-          <div class="row">
-            {featured.map((s) => (
-              <div class="col-md-6">
+        <div class="col-md-3 tn-right">
+          <div class="tn-stack">
+            {sidebar.map((s) => (
+              <div class="tn-stack-item">
                 <div class="tn-img">
                   <a href={sermonPath(s)}>
                     <img src={s.data.thumbnailUrl} alt={s.data.title} loading="lazy" />
                   </a>
-                  <div class="tn-title">
-                    <a href={sermonPath(s)}>{s.data.title}</a>
-                  </div>
                 </div>
               </div>
             ))}

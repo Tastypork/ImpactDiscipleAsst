@@ -243,6 +243,21 @@ def _broadcast_skip_reason(snippet: dict[str, Any]) -> Optional[str]:
     return None
 
 
+def _was_live_skip_reason(item: dict[str, Any]) -> Optional[str]:
+    """Finished streams report liveBroadcastContent=none; actualStartTime marks them as live/premiere."""
+    if (item.get("liveStreamingDetails") or {}).get("actualStartTime"):
+        return "was a live stream or premiere"
+    return None
+
+
+def _skip_reason(item: dict[str, Any]) -> Optional[str]:
+    return (
+        _broadcast_skip_reason(item["snippet"])
+        or _was_live_skip_reason(item)
+        or _short_video_skip_reason(item.get("contentDetails", {}))
+    )
+
+
 def _duration_seconds(content_details: dict[str, Any]) -> int:
     raw = content_details.get("duration")
     if not raw:
@@ -273,7 +288,7 @@ def select_first_n_non_broadcast_ids(
         batch = ordered_candidate_ids[i : i + 50]
         i += 50
         params = {
-            "part": "snippet,contentDetails",
+            "part": "snippet,contentDetails,liveStreamingDetails",
             "id": ",".join(batch),
             "key": api_key,
         }
@@ -284,9 +299,7 @@ def select_first_n_non_broadcast_ids(
             item = by_id.get(vid)
             if not item:
                 continue
-            if _broadcast_skip_reason(item["snippet"]):
-                continue
-            if _short_video_skip_reason(item.get("contentDetails", {})):
+            if _skip_reason(item):
                 continue
             selected.append(vid)
             if len(selected) >= n:
@@ -353,7 +366,7 @@ def fetch_video_metadata(video_id: str, *, api_key: str) -> tuple[Optional[dict[
     skip_reason set => policy says do not ingest. Both None => API failure.
     """
     url = "https://www.googleapis.com/youtube/v3/videos"
-    params = {"part": "snippet,contentDetails", "id": video_id, "key": api_key}
+    params = {"part": "snippet,contentDetails,liveStreamingDetails", "id": video_id, "key": api_key}
     response = youtube_data_api_session().get(url, params=params, timeout=30)
     if response.status_code != 200:
         err = response.text[:500]
@@ -371,7 +384,7 @@ def fetch_video_metadata(video_id: str, *, api_key: str) -> tuple[Optional[dict[
     item = items[0]
     snippet = item["snippet"]
     content_details = item.get("contentDetails", {})
-    skip = _broadcast_skip_reason(snippet) or _short_video_skip_reason(content_details)
+    skip = _skip_reason(item)
     if skip:
         return None, skip
 

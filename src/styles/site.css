@@ -96,6 +96,12 @@
     object-fit: cover;
 }
 
+@media (min-width: 768px) {
+    .top-news .tn-right .tn-img img {
+        aspect-ratio: auto;
+    }
+}
+
 /* "In Case You Missed It" cards. */
 .cat-news .carousel {
     --carousel-gap: 30px;
@@ -108,9 +114,9 @@
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
     .cat-news .carousel {
-        --per-view: 4;
+        --per-view: 3;
     }
 }
 

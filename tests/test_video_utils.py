@@ -33,6 +33,19 @@ def test_broadcast_skip_reason():
     assert vu._broadcast_skip_reason({}) is None
 
 
+def test_was_live_skip_reason():
+    assert vu._was_live_skip_reason({"liveStreamingDetails": {"actualStartTime": "2026-04-05T18:00:00Z"}})
+    assert vu._was_live_skip_reason({"liveStreamingDetails": {"scheduledStartTime": "2026-04-05T18:00:00Z"}}) is None
+    assert vu._was_live_skip_reason({"liveStreamingDetails": {}}) is None
+    assert vu._was_live_skip_reason({}) is None
+
+
+def test_skip_reason_combines_checks():
+    base = {"snippet": {"liveBroadcastContent": "none"}, "contentDetails": {"duration": "PT50M"}}
+    assert vu._skip_reason(base) is None
+    assert vu._skip_reason({**base, "liveStreamingDetails": {"actualStartTime": "2026-04-05T18:00:00Z"}})
+
+
 def test_short_video_skip_reason():
     assert vu._short_video_skip_reason({"duration": "PT10M"})
     assert vu._short_video_skip_reason({"duration": "PT24M59S"})

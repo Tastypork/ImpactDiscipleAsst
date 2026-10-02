@@ -2,8 +2,9 @@ name: Sync sermons
 
 on:
   schedule:
-    # Monday 15:00 UTC (08:00 Arizona). Sunday uploads are usually in a playlist by then.
-    - cron: "0 15 * * 1"
+    # Monday and Tuesday 07:00 UTC (00:00 Arizona, which has no DST). Tuesday catches late uploads.
+    - cron: "0 7 * * 1"
+    - cron: "0 7 * * 2"
   workflow_dispatch:
     inputs:
       mode:
